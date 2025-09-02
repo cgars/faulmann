@@ -5,3 +5,7 @@
 @import
   "minima/skins/{{ site.minima.skin | default: 'classic' }}",
   "minima/initialize";
+
+.wrapper         {width: 80%; max-width: 800px; height: 100%; margin: 0 auto;}
+.h_iframe        {position: relative; padding-top: 56%;}
+.h_iframe iframe {position: absolute; top: 0; left: 0; width: 100%; height: 100%;}
