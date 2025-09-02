@@ -90,7 +90,7 @@
 #     list. Set below key to `true` to not have the link to feed rendered as
 #     part of social-links list.
 #   hide_site_feed_link: false
-title: Captain Faulmann Blog
+title: Visions and Vectors
 description: Exported posts
 timezone: Europe/Berlin
 url: ""   # set to https://<your-user>.github.io or https://<your-domain>
