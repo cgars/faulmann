@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Captain Faulmanns Pilgerfahrt – Vom Dom zum Papsthügel und zurück"
-date: 2025-08-18 10:16:29 +0200
+date: 2025-08-18 16:16:29 +0200
 slug: pilgerfahrt
 published: true
 categories:
@@ -29,7 +29,9 @@ Es beginnt, wie so oft, in Rath. Der erste Weg führt ihn hinein in die große S
 
 Immerhin, so hat er gehört, soll das GC-Festival politischer werden, als man meinen könnte. Und wer weiß – vielleicht wird der Bär da später am Tag auch noch zu finden sein.  
 
-Einsweilen führt Faulmann Kurs jedoch hinaus Richtung Stadion. Schon hier legt sich Nostalgie über den Weg, denn er folgt dem Band der Lindenthaler Kanäle: **Clarenbach- und Rautenstrauchkanal**, in den 1920er-Jahren als Teil des städtebaulichen Grüngürtels angelegt. Alte Kastanien, barocke Achsen, Skulpturen von Kentaur und Najade. Heute plätschert leise das Wasser, Sonnenlicht flackert zwischen den Bäumen.  
+Einsweilen führt Faulmann Kurs jedoch hinaus Richtung Stadion. Schon hier legt sich Nostalgie über den Weg, denn er folgt dem Band der Lindenthaler Kanäle: **Clarenbach- und Rautenstrauchkanal**, in den 1920er-Jahren als Teil des städtebaulichen Grüngürtels angelegt. Alte Kastanien, barocke Achsen, Skulpturen von Kentaur und Najade. Heute plätschert leise das Wasser, Sonnenlicht flackert zwischen den Bäumen.
+  
+<!--more-->
 
 Diese Kanäle sind Oasen mitten in der Stadt, Orte der Erinnerung. Auch für Faulmann ganz persönlich. Das stimmt hier jedoch an vielen Orten. Fast jeder Ort trägt inzwischen ein Echo vergangener Wege, Begegnungen, Zeiten. Und vielleicht, denkt er, ist ebendies ein Zeichen – wenn sich diese Momente häufen, 
 
