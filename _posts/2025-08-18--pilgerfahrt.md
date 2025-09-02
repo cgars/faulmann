@@ -30,7 +30,7 @@ Es beginnt, wie so oft, in Rath. Der erste Weg führt ihn hinein in die große S
 Immerhin, so hat er gehört, soll das GC-Festival politischer werden, als man meinen könnte. Und wer weiß – vielleicht wird der Bär da später am Tag auch noch zu finden sein.  
 
 Einsweilen führt Faulmann Kurs jedoch hinaus Richtung Stadion. Schon hier legt sich Nostalgie über den Weg, denn er folgt dem Band der Lindenthaler Kanäle: **Clarenbach- und Rautenstrauchkanal**, in den 1920er-Jahren als Teil des städtebaulichen Grüngürtels angelegt. Alte Kastanien, barocke Achsen, Skulpturen von Kentaur und Najade. Heute plätschert leise das Wasser, Sonnenlicht flackert zwischen den Bäumen.
-  
+
 <!--more-->
 
 Diese Kanäle sind Oasen mitten in der Stadt, Orte der Erinnerung. Auch für Faulmann ganz persönlich. Das stimmt hier jedoch an vielen Orten. Fast jeder Ort trägt inzwischen ein Echo vergangener Wege, Begegnungen, Zeiten. Und vielleicht, denkt er, ist ebendies ein Zeichen – wenn sich diese Momente häufen, 
@@ -76,6 +76,13 @@ Und er erinnert sich, wie er damals – im zweiten Semester – zum ersten Mal i
 
 Heute steht er selbst auf diesem Hügel. Was damals Ablenkung war, ist nun Einkehr. Der Kreis schließt sich – kurz denkt Faulmann an seinen **Heimaturlaub**: auch dort war ein Papstfeld. Ganz Freiburg jedoch schlichter, kleiner, beschaulicher – doch beide Orte verweben Geschichte und Erinnerung mit der Gegenwart.  
 
+
+<div class="wrapper">
+    <div class="h_iframe">
+        <iframe height="2" width="2" src="https://www.youtube.com/embed/XRcxAbZW3ro?si=BvP2Mex5Y_xpsJib" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </div>
+</div>
+
 Allmählich füllt sich der Hügel mit Ausflüglern. Familien breiten Picknickdecken aus, Kinder spielen, manche nutzen den Altar als Mittagstisch. Profaner, leiser – und doch bleibt der Ort aufgeladen.  
 
 Mehr denn je, denkt Faulmann, wäre es Zeit, auf Frieden zu hoffen.  
@@ -97,7 +104,13 @@ Bei **Fietzecks Weitsicht** hält er diesmal an – zum ersten Mal. Jahrelang vo
 
 Über Bornheim und Keldenich führt der Weg nach Wesseling. Die Fähre „**RheinSchwan**“ setzt ihn über, wie seit über hundert Jahren Schiffe an dieser Stelle Ufer verbinden. Auf dem Deck spürt er den Rhein: ruhig, verbindend, zeitlos.  
 
-![](https://pixelfed.social/storage/m/_v2/607467830790472239/33cc9b949-339791/OYz7iYKgZGSh/WBkZLiQK1uFTbGWAOCuoqHp76EOcxeKm6QPiQ5ji.jpg)
+
+<div class="wrapper">
+    <div class="h_iframe">
+        <iframe height="2" width="2" src="https://www.youtube.com/embed/7QrVBuCraxQ?si=5ZQ0CGyzF5YEwVxI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </div>
+</div>
+
 
 Dann weiter über Lülsdorf und Langel nach **Zons**. Mauern, Tore, Gassen – seit 1372 unverrückbar. Eine Stadt, die Geschichte atmet, ein Ort, der bleibt, während alles andere vergeht.  
 
