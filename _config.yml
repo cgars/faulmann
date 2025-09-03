@@ -91,11 +91,11 @@
 #     part of social-links list.
 #   hide_site_feed_link: false
 title: Visions and Vectors
-description: Exported posts
 timezone: Europe/Berlin
 url: "https://faulmann.org"   # set to https://<your-user>.github.io or https://<your-domain>
 baseurl: "" # set if deploying to a subpath (e.g., /blog)
 theme: minima
+description: These are the dwellings of Captain Faulmann — a bear on two wheels. proudly written with the editorial and creative help of diverse AI tools.
 
 plugins:
   - jekyll-feed
