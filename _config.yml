@@ -93,7 +93,7 @@
 title: Visions and Vectors
 description: Exported posts
 timezone: Europe/Berlin
-url: ""   # set to https://<your-user>.github.io or https://<your-domain>
+url: "https://faulmann.org"   # set to https://<your-user>.github.io or https://<your-domain>
 baseurl: "" # set if deploying to a subpath (e.g., /blog)
 theme: minima
 
