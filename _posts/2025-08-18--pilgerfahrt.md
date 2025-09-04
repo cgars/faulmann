@@ -49,7 +49,7 @@ Dann erreicht er die **Grube Carl**: ein ganzer Industriekomplex, in dem ab 1869
 
 ![](https://pixelfed.social/storage/m/_v2/607467830790472239/33cc9b949-339791/CcPADV3myfEG/DWR2FXN1UGdvRh8AaQmbSe3fQvRg2zI2ckh1lxho.jpg)
 
-Auf dem nächsten Stück des Pilgerwegs begegnet Faulmann einem Fuchs – mitten am Tag, still und ungezwungen. Ein seltenes, fast symbolisches Zusammentreffen. Der Fuchs wirkt wie ein Wächter des Weges, als wollte er sagen: Auch die Natur hat ihre Pilger, und sie kennt den Weg seit längerem als wir Menschen. Für Faulmann ist es ein stiller Hinweis, dass Erinnerung und Zukunft nicht nur aus Steinen und Menschen gemacht sind, sondern auch aus den leisen Wesen, die diesen Ort bewohnen.  
+Auf dem nächsten Stück des Wegs huscht ein Fuchs vorbei. Erst flüchtet er, doch nach ein paar Metern bleibt er stehen und blickt aus der Deckung zurück – aufmerksam, ruhig, lauernd. Kein Pilger, kein Wächter, eher ein Wesen des Ortes, das Faulmann für einen Augenblick mustert. Im Blick des Fuchses liegt kein Fragen, nur ein Spiegeln. Für den Bären ist es ein stilles Bild: Erinnerung und Zukunft bestehen nicht nur aus Mauern und Menschen, sondern auch aus diesen flüchtigen Begegnungen. 
 
 <div class="wrapper">
   <div class="h_iframe">
