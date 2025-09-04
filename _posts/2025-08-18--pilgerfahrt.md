@@ -23,9 +23,9 @@ html,body        {height: 100%;}
 
 ![](https://pixelfed.social/storage/m/_v2/607467830790472239/33cc9b949-339791/WyZzfHBaPfaB/ziucMkacq0eDAxbhJShJs52Kpq4qBHhDNk0lObF0.png)
 
-Es beginnt, wie so oft, in Rath. Der erste Weg führt ihn hinein in die große Stadt, hin zum Kölner Dom. Auf der Hohenzollernbrücke lässt es sich nicht mehr leugnen: Es ist **Gamescom-Wochenende**. Die Innenstadt rüstet sich. Sie rüstet sich zu brummen, Musik wird dröhnen, Schlangen vor den Messehallen stehen; schon jetzt,  Sperrungen, Umleitungen und Umwege. Köln im Festivalmodus – Faulmann denkt mit einem Schmunzeln und nicht ohne Ironie: 
+Es beginnt, wie so oft, in Rath. Der erste Weg führt ihn hinein in die große Stadt, hin zum Kölner Dom. Auf der Hohenzollernbrücke lässt es sich nicht mehr leugnen: Es ist **Gamescom-Wochenende**. Die Innenstadt rüstet sich: bald wird sie brummen, Musik dröhnen, Schlangen werden sich vor den Messehallen bilden. Schon jetzt zwingen Sperrungen zu Umleitungen. Köln im Festivalmodus – Faulmann denkt mit einem Schmunzeln, nicht ohne Ironie: 
 
-> Auch an diesem Wochenende ist die "Jugend" der Welt in Köln. Nur dass sie diesmal nicht zu einem Hügel pilgert, sondern zu Consolen, Cosplay und Controllern. Unterschiedliche Ziele – und doch eine Bewegung in Bewegung: die Sehnsucht, Teil von etwas Größerem zu sein.  
+> Auch an diesem Wochenende ist die "Jugend" der Welt in Köln. Nur dass sie diesmal nicht zu einem Hügel pilgert, sondern zu Konsolen, Cosplay und Controllern. Unterschiedliche Ziele – und doch eine Bewegung in Bewegung: die Sehnsucht, Teil von etwas Größerem zu sein.  
 
 Immerhin, so hat er gehört, soll das GC-Festival politischer werden, als man meinen könnte. Und wer weiß – vielleicht wird der Bär da später am Tag auch noch zu finden sein.  
 
@@ -33,7 +33,7 @@ Einsweilen führt Faulmann Kurs jedoch hinaus Richtung Stadion. Schon hier legt 
 
 <!--more-->
 
-Diese Kanäle sind Oasen mitten in der Stadt, Orte der Erinnerung. Auch für Faulmann ganz persönlich. Das stimmt hier jedoch an vielen Orten. Fast jeder Ort trägt inzwischen ein Echo vergangener Wege, Begegnungen, Zeiten. Und vielleicht, denkt er, ist ebendies ein Zeichen – wenn sich diese Momente häufen, 
+Diese Kanäle sind Oasen mitten in der Stadt, Orte der Erinnerung. Auch für Faulmann ganz persönlich – wie so viele Orte hier. Fast jeder trägt inzwischen ein Echo vergangener Wege, Begegnungen, Zeiten. Und vielleicht, denkt er, ist ebendies ein Zeichen – wenn sich diese Momente häufen, 
 
 > wenn Orte immer mehr zu Erinnerungsorten werden, dann ist es Zeit, weiterzuziehen. Nicht, um das Alte zu vergessen, sondern um Raum für Neues zu schaffen.  
 
@@ -41,23 +41,21 @@ Am Stadion zwingt ihn ein Halbmarathon erneut zum Umweg – wieder Menschenströ
 
 Bei Porta lockt ein Trödelmarkt, und hunderte strömen dorthin. Auch das ist eine Form von Pilgerfahrt – ins Reich der Dinge. 
 
-Langsam wird es dann beschaulicher und ein Abstecher in den **Rosmarpark** bringt Stille. Auf dem „Dach von Frechen“ entdeckt Faulmann einen knorrigen Baum, dessen Silhouette – ganz überwuchert – fast an Godzilla erinnert.  
+Allmählich wird es beschaulicher und ein Abstecher in den **Rosmarpark** bringt Stille. Auf dem „Dach von Frechen“ entdeckt Faulmann einen knorrigen, überwucherten Baum, dessen Silhouette fast an Godzilla erinnert.  
 
 ![](https://pixelfed.social/storage/m/_v2/607467830790472239/33cc9b949-339791/C6fSDut1gmIe/MCetuVHu8Uu66MoZX1XZAWmT5Cm4sfOKlkAESYJZ.jpg)
 
-Dann erreicht er die **Grube Carl**: einst Brikettfabrik, ab 1869 gefördert, bis 1995 Millionen Tonnen produziert. Heute ist das alte Trocken- und Pressenhaus saniert, zu Wohnungen umgebaut. Backstein, Geschichte, neu belebt. Was früher Maschinen erfüllten, ist heute Heimat für die Menschmaschine.  
+Dann erreicht er die **Grube Carl**: ein ganzer Industriekomplex, in dem ab 1869 Braunkohle gefördert, aufbereitet und schließlich zu Briketts verarbeitet wurde. Neben der Brikettfabrik standen hier Maschinenhäuser, Schächte und Gleisanschlüsse – ein eigener Kosmos der Arbeit, der das Rheinland prägte. Bis 1995 liefen die Pressen, Millionen Tonnen wurden produziert. Heute ist das alte Trocken- und Pressenhaus saniert und zu Wohnungen umgebaut. Backstein, Geschichte, neu belebt. Was früher von Maschinen erfüllt war, ist nun Lebensraum für Menschen – Geschichte in Mauern, die weiterlebt.  
 
 ![](https://pixelfed.social/storage/m/_v2/607467830790472239/33cc9b949-339791/CcPADV3myfEG/DWR2FXN1UGdvRh8AaQmbSe3fQvRg2zI2ckh1lxho.jpg)
 
 Auf dem nächsten Stück des Pilgerwegs begegnet Faulmann einem Fuchs – mitten am Tag, still und ungezwungen. Ein seltenes, fast symbolisches Zusammentreffen. Der Fuchs wirkt wie ein Wächter des Weges, als wollte er sagen: Auch die Natur hat ihre Pilger, und sie kennt den Weg seit längerem als wir Menschen. Für Faulmann ist es ein stiller Hinweis, dass Erinnerung und Zukunft nicht nur aus Steinen und Menschen gemacht sind, sondern auch aus den leisen Wesen, die diesen Ort bewohnen.  
 
 <div class="wrapper">
-    <div class="h_iframe">
-        <iframe height="2" width="2" src="https://www.youtube.com/embed/S5EZCps0D5s?si=UUeRUthrCL4UuMj_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-    </div>
+  <div class="h_iframe">
+    <iframe height="2" width="2" src="https://www.youtube.com/embed/S5EZCps0D5s?si=UUeRUthrCL4UuMj_" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
+  </div>
 </div>
-
-
 
 Und dann: **Marienfeld**. Der künstliche **Papsthügel**, „Berg der 70 Nationen“. Erde aus aller Welt wurde hier aufgeschüttet, zehn Meter hoch, 15 000 m² Fläche, ein Altar, der für 1,1 Millionen Menschen zum Zentrum wurde. Im August 2005 – **Weltjugendtag**.  
 
@@ -76,11 +74,10 @@ Und er erinnert sich, wie er damals – im zweiten Semester – zum ersten Mal i
 
 Heute steht er selbst auf diesem Hügel. Was damals Ablenkung war, ist nun Einkehr. Der Kreis schließt sich – kurz denkt Faulmann an seinen **Heimaturlaub**: auch dort war ein Papstfeld. Ganz Freiburg jedoch schlichter, kleiner, beschaulicher – doch beide Orte verweben Geschichte und Erinnerung mit der Gegenwart.  
 
-
 <div class="wrapper">
-    <div class="h_iframe">
-        <iframe height="2" width="2" src="https://www.youtube.com/embed/XRcxAbZW3ro?si=BvP2Mex5Y_xpsJib" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-    </div>
+  <div class="h_iframe">
+    <iframe height="2" width="2" src="https://www.youtube.com/embed/XRcxAbZW3ro?si=BvP2Mex5Y_xpsJib" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
+  </div>
 </div>
 
 Allmählich füllt sich der Hügel mit Ausflüglern. Familien breiten Picknickdecken aus, Kinder spielen, manche nutzen den Altar als Mittagstisch. Profaner, leiser – und doch bleibt der Ort aufgeladen.  
@@ -104,23 +101,20 @@ Bei **Fietzecks Weitsicht** hält er diesmal an – zum ersten Mal. Jahrelang vo
 
 Über Bornheim und Keldenich führt der Weg nach Wesseling. Die Fähre „**RheinSchwan**“ setzt ihn über, wie seit über hundert Jahren Schiffe an dieser Stelle Ufer verbinden. Auf dem Deck spürt er den Rhein: ruhig, verbindend, zeitlos.  
 
-
 <div class="wrapper">
-    <div class="h_iframe">
-        <iframe height="2" width="2" src="https://www.youtube.com/embed/7QrVBuCraxQ?si=5ZQ0CGyzF5YEwVxI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-    </div>
+  <div class="h_iframe">
+    <iframe height="2" width="2" src="https://www.youtube.com/embed/7QrVBuCraxQ?si=5ZQ0CGyzF5YEwVxI" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
+  </div>
 </div>
 
+Dann weiter über Lülsdorf und Langel nach **Zons**. Mauern, Tore, Gassen – seit 1372 unverrückbar. Eine Stadt, die Geschichte atmet, ein Ort, der bleibt.  
 
-Dann weiter über Lülsdorf und Langel nach **Zons**. Mauern, Tore, Gassen – seit 1372 unverrückbar. Eine Stadt, die Geschichte atmet, ein Ort, der bleibt, während alles andere vergeht.  
-
-Und schließlich die **Leidenhausener Rennbahn**. Heute ist hier der **Langer Tag der Kölner Stadtnatur**: Infostände, Begegnungen – und ein Stand mit Honig. Faulmann – mittlerweile ganz im Bären Zen – plündert den Stand und greift zu – Lindenhonig und ein Met wandern ins Gepäck.  
+Und schließlich die **Leidenhausener Rennbahn**. Heute ist hier der **Lange Tag der Kölner Stadtnatur**: Infostände, Begegnungen – und ein Stand mit Honig. Faulmann – mittlerweile ganz im Bären-Zen – plündert den Stand und greift zu: Lindenhonig und ein Met wandern ins Gepäck.  
 
 <div class="h_wrapper">
-    <div class="h_iframe">
-        <iframe height="2" width="2"
-src="https://www.komoot.com/de-de/tour/2524098263/embed?share_token=a9KaChTJ84ID9742cidOy34JA98B4ph2pyEPPhrLXcbMwlZTmh&profile=1" width="100%" height="700" frameborder="0" scrolling="no"></iframe>
-    </div>
+  <div class="h_iframe">
+    <iframe height="2" width="2" src="https://www.komoot.com/de-de/tour/2524098263/embed?share_token=a9KaChTJ84ID9742cidOy34JA98B4ph2pyEPPhrLXcbMwlZTmh&profile=1" width="100%" height="700" frameborder="0" scrolling="no"></iframe>
+  </div>
 </div>
 
 So endet der Tag, wo er begann: in Rath. Am späten Abend wird es Honigbrot geben, später vielleicht einen Schluck Met – aber vorher war da doch noch etwas …  
