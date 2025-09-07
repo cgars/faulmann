@@ -2,6 +2,8 @@
 title: "🐻 Captain Faulmann zwischen Elefanten, Ursula und alten Meistern"
 date: 2025-09-07
 tags: [Faulmann, Köln, Museum, Ursula, Zoo, Fahrradtour]
+layout: post
+
 ---
 
 ![](https://pixelfed.social/storage/m/_v2/607467830790472239/9c67e908a-279c2f/9eDmeOYbIJfZ/vJiURxhN2naIkfF4oFMetbMcEBhHcssO0BmTMx1t.png)
