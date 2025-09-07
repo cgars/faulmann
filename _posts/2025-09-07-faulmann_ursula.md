@@ -4,8 +4,6 @@ date: 2025-09-07
 tags: [Faulmann, Köln, Museum, Ursula, Zoo, Fahrradtour]
 ---
 
-# 🐻 Captain Faulmann zwischen Elefanten, Ursula und alten Meistern
-
 ![](https://pixelfed.social/storage/m/_v2/607467830790472239/9c67e908a-279c2f/9eDmeOYbIJfZ/vJiURxhN2naIkfF4oFMetbMcEBhHcssO0BmTMx1t.png)
 
 Mit dem Rad rollte Captain Faulmann am Morgen durch Köln, vorbei an Straßenverkehr und Morgengeräuschen. Das Ziel war der Zoo, seit kurzem wieder ein beliebter Frühstücksort für ihn. Kurz nach neun stapfte er durch den Nebeneingang – den kennt er, und dort ist es ruhiger. Im Rucksack knisterte ein Croissant, das er bei den Elefanten zusammen mit dampfendem Kaffee auspackte. Nach einer Weile in der Sonne, die ihm die morgendliche Kühle aus dem Fell bannte, und einem Spaziergang vorbei an Pinguin, Nashorn und Nilpferd ging es weiter: wieder aufs Rad, hinüber zum Wallraf-Richartz-Museum.
