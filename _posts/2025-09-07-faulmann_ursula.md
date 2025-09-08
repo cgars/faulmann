@@ -1,5 +1,5 @@
 ---
-title: "🐻 Captain Faulmann zwischen Elefanten, Ursula und alten Meistern"
+title: "Captain Faulmann zwischen Elefanten, Ursula und alten Meistern"
 date: 2025-09-07
 tags: [Faulmann, Köln, Museum, Ursula, Zoo, Fahrradtour]
 layout: post
@@ -32,4 +32,4 @@ Neben den Ursula-Tafeln gab es dort noch vieles mehr zu sehen: Sebastian, der ni
 
 So verschmolzen an diesem Tag Croissant und Kaffee bei den Elefanten, Radrouten durch die Stadt und ein Museum voller Heiligenbilder zu einer kleinen Offenbarung: dass manchmal selbst die eigene Herkunft wie eine Ausstellung ist – man muss nur den richtigen Saal betreten.
 
-Einen kleinen Espresso gab’s danach noch im Museumscafé, doch für eine Portion frittierte Kartoffeln war Faulmann die Stadt dann zu voll.
+Einen kleinen Espresso gab’s danach noch im Museumscafé, doch für eine Portion frittierte Kartoffeln war Faulmann die Stadt dann zu voll – vielleicht auch, weil er sich dachte: Wenn Ursula schon Attila abwies, kann er wohl auch mal die Frittenbude meiden.
