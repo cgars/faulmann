@@ -91,6 +91,9 @@
 #     part of social-links list.
 #   hide_site_feed_link: false
 title: Visions and Vectors
+author:
+  name: Cpt. Faulmann
+  email: cpt@faulmann.org
 timezone: Europe/Berlin
 url: "https://faulmann.org"   # set to https://<your-user>.github.io or https://<your-domain>
 baseurl: "" # set if deploying to a subpath (e.g., /blog)
