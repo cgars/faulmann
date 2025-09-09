@@ -11,8 +11,6 @@ appearance: "norm"
 created_raw: "2025-08-18T10:16:29Z"
 updated_raw: "2025-08-18T14:01:29Z"
 ---
-
-# Wo Glas Geschichten erzählt  
 ### Captain Faulmann im Museum Schnütgen zwischen Wunderlegenden und Gegenwart  
 
 ![](https://pixelfed.social/storage/m/_v2/607467830790472239/9c67e908a-279c2f/DcyQuVYYEmwY/Kx6RjXWxDkMbglKigQ3omBHl7aEMdYqqiLlcIhvq.png)
@@ -57,3 +55,4 @@ Ein merkwürdiger Kontrast: Gleich nebenan, im **Rautenstrauch-Joest-Museum**, b
   - **2** in der *Sakristei des Altenberger Doms*  
 - Die Scheiben zeigen Szenen aus dem Leben des **Heiligen Bernhard von Clairvaux**.  
 - Heute gelten sie als eines der bedeutendsten Beispiele spätmittelalterlicher Glasmalerei.  
+
