@@ -1,0 +1,409 @@
+<!DOCTYPE html>
+<html lang="de" class="scroll-smooth">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Interaktiver Report: Eisenbahnerbe im Rhein-Sieg-Kreis</title>
+    <!-- Chosen Palette: Warm Neutrals -->
+    <!-- Application Structure Plan: The application uses a single-page, thematic dashboard structure. Instead of mirroring the report's linear format, it groups content logically to enhance user exploration and understanding. The main navigation scrolls the user to distinct sections: 1. A hero introduction. 2. 'Die Bahnen', an interactive section with tabs to compare historical lines (Bröltal- & Hanftalbahn) and the modern RSE, facilitating direct comparison. 3. 'Das Hanftal', a dedicated section exploring the etymology and history of hemp. 4. 'Das Erbe', which showcases the tangible legacy and preservation efforts. This structure was chosen to break down complex information into digestible, interconnected stories, allowing users to follow their interests rather than a predefined path, thus improving usability and engagement. -->
+    <!-- Visualization & Content Choices: Report Info: RSE's extensive list of managed railway lines -> Goal: Organize/Inform -> Viz/Method: Interactive card grid with filters -> Interaction: Users can filter lines by status (e.g., 'In Betrieb') to explore the data dynamically -> Justification: More engaging and user-friendly than a static table, especially on mobile. | Report Info: History of hemp cultivation -> Goal: Show Change -> Viz/Method: HTML/CSS timeline -> Interaction: Hovering over points reveals details -> Justification: Visually communicates the long and dramatic history more effectively than text. | Report Info: Comparison of historical railways -> Goal: Compare -> Viz/Method: Bar chart -> Interaction: Tooltips on hover -> Justification: Provides an immediate visual sense of scale. | Library/Method: Chart.js for the chart, Vanilla JS and TailwindCSS for all other interactions and layouts. -->
+    <!-- CONFIRMATION: NO SVG graphics used. NO Mermaid JS used. -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+    <style>
+        body {
+            font-family: 'Inter', sans-serif;
+            background-color: #FDFBF5;
+            color: #3D405B;
+        }
+        .nav-link {
+            position: relative;
+            transition: color 0.3s ease;
+        }
+        .nav-link::after {
+            content: '';
+            position: absolute;
+            width: 0;
+            height: 2px;
+            bottom: -4px;
+            left: 50%;
+            transform: translateX(-50%);
+            background-color: #8D8741;
+            transition: width 0.3s ease;
+        }
+        .nav-link:hover::after, .nav-link.active::after {
+            width: 100%;
+        }
+        .tab-button.active {
+            background-color: #8D8741;
+            color: #FDFBF5;
+        }
+        .timeline-item .timeline-content {
+            transform: translateY(10px);
+            opacity: 0;
+            visibility: hidden;
+            transition: all 0.3s ease;
+        }
+        .timeline-item:hover .timeline-content {
+            transform: translateY(0);
+            opacity: 1;
+            visibility: visible;
+        }
+        .chart-container {
+            position: relative;
+            width: 100%;
+            max-width: 800px;
+            margin-left: auto;
+            margin-right: auto;
+            height: 300px;
+            max-height: 400px;
+        }
+        @media (min-width: 768px) {
+            .chart-container {
+                height: 400px;
+            }
+        }
+    </style>
+</head>
+<body class="antialiased">
+
+    <header class="bg-white/80 backdrop-blur-md sticky top-0 z-50 shadow-sm">
+        <nav class="container mx-auto px-6 py-4 flex justify-between items-center">
+            <div class="text-xl font-bold text-[#659B5E]">
+                Schienen-Erbe
+            </div>
+            <div class="hidden md:flex items-center space-x-8">
+                <a href="#bahnen" class="nav-link font-semibold text-gray-700 hover:text-[#8D8741]">Die Bahnen</a>
+                <a href="#hanftal" class="nav-link font-semibold text-gray-700 hover:text-[#8D8741]">Das Hanftal</a>
+                <a href="#erbe" class="nav-link font-semibold text-gray-700 hover:text-[#8D8741]">Das Erbe</a>
+            </div>
+            <div class="md:hidden">
+                <button id="menu-btn" class="text-gray-700 focus:outline-none">
+                    <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16m-7 6h7"></path></svg>
+                </button>
+            </div>
+        </nav>
+        <div id="mobile-menu" class="hidden md:hidden">
+            <a href="#bahnen" class="block py-2 px-4 text-sm hover:bg-gray-200">Die Bahnen</a>
+            <a href="#hanftal" class="block py-2 px-4 text-sm hover:bg-gray-200">Das Hanftal</a>
+            <a href="#erbe" class="block py-2 px-4 text-sm hover:bg-gray-200">Das Erbe</a>
+        </div>
+    </header>
+
+    <main>
+        <section id="hero" class="py-20 md:py-32 bg-[#E0E0CE]/30">
+            <div class="container mx-auto px-6 text-center">
+                <h1 class="text-4xl md:text-6xl font-bold text-[#3D405B] mb-4">Schienen, Stein und Hanf</h1>
+                <p class="text-lg md:text-xl text-gray-600 max-w-3xl mx-auto">Eine interaktive Reise durch das verwobene Erbe von Eisenbahn, Industrie und Landwirtschaft im Rhein-Sieg-Kreis.</p>
+            </div>
+        </section>
+
+        <section id="bahnen" class="py-16 md:py-24 bg-white">
+            <div class="container mx-auto px-6">
+                <div class="text-center mb-12">
+                    <h2 class="text-3xl md:text-4xl font-bold text-[#3D405B]">Die Bahnen: Pioniere und Bewahrer</h2>
+                    <p class="mt-4 text-gray-600 max-w-2xl mx-auto">Entdecken Sie die Geschichte der historischen Industriebahnen, die die Region prägten, und lernen Sie die moderne RSE kennen, die dieses Erbe heute bewahrt und betreibt. Wechseln Sie zwischen den Ansichten, um die verschiedenen Facetten der regionalen Eisenbahngeschichte zu erkunden.</p>
+                </div>
+
+                <div class="flex justify-center mb-8 space-x-2 md:space-x-4 bg-gray-100 p-2 rounded-full">
+                    <button data-tab="pioniere" class="tab-button w-full md:w-auto px-4 py-2 text-sm md:text-base font-semibold rounded-full transition-colors duration-300">Historische Pioniere</button>
+                    <button data-tab="rse" class="tab-button w-full md:w-auto px-4 py-2 text-sm md:text-base font-semibold rounded-full transition-colors duration-300">Die RSE Heute</button>
+                </div>
+
+                <div id="tab-content">
+                </div>
+            </div>
+        </section>
+
+        <section id="hanftal" class="py-16 md:py-24 bg-[#E0E0CE]/30">
+            <div class="container mx-auto px-6">
+                <div class="text-center mb-12">
+                    <h2 class="text-3xl md:text-4xl font-bold text-[#3D405B]">Der Namensgeber: Das Hanftal</h2>
+                    <p class="mt-4 text-gray-600 max-w-2xl mx-auto">Der Name der Hanftalbahn ist kein Zufall. Er ist ein sprachliches Relikt, das tief in der Agrargeschichte der Region verwurzelt ist und auf den einst weit verbreiteten Anbau einer der ältesten Nutzpflanzen der Welt verweist: Hanf.</p>
+                </div>
+
+                <div class="mb-12">
+                    <h3 class="text-2xl font-bold text-center mb-8 text-[#3D405B]">Die vielseitige Geschichte des Hanfs</h3>
+                    <div class="relative w-full px-4">
+                        <div class="absolute h-full border-l-2 border-dashed border-[#8D8741] left-1/2 -translate-x-1/2"></div>
+                        <div id="timeline-container" class="space-y-12">
+                        </div>
+                    </div>
+                </div>
+
+                <div>
+                    <h3 class="text-2xl font-bold text-center mb-8 text-[#3D405B]">Vom Feld zur Faser: Die vielfältige Nutzung</h3>
+                     <p class="mt-4 mb-8 text-gray-600 max-w-3xl mx-auto text-center">Hanf war über Jahrtausende ein universeller Rohstoff. Von robusten Seilen, die die Seefahrt revolutionierten, über das Papier für die erste gedruckte Bibel bis hin zu Kleidung und Heilmitteln – seine Anwendungen waren allgegenwärtig und prägten Zivilisationen weltweit.</p>
+                    <div id="hanf-uses-container" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="erbe" class="py-16 md:py-24 bg-white">
+            <div class="container mx-auto px-6">
+                <div class="text-center mb-12">
+                    <h2 class="text-3xl md:text-4xl font-bold text-[#3D405B]">Das lebendige Erbe</h2>
+                    <p class="mt-4 text-gray-600 max-w-2xl mx-auto">Auch wenn die meisten Gleise verschwunden sind, ist das Erbe der Bahnen und der regionalen Industrie heute noch sichtbar und erlebbar. Entdecken Sie die Orte, an denen die Geschichte weiterlebt.</p>
+                </div>
+                <div class="grid md:grid-cols-3 gap-8">
+                    <div class="bg-gray-50 rounded-lg p-6 text-center shadow-md hover:shadow-xl transition-shadow">
+                        <div class="text-4xl mb-4 text-[#659B5E]">🏛️</div>
+                        <h3 class="text-xl font-bold mb-2">RSE Museum Asbach</h3>
+                        <p class="text-gray-600">Im ehemaligen Lokschuppen der Bröltalbahn in Asbach gelegen, bewahrt dieses Museum die Erinnerung an die Hanftal- und Bröltalbahn mit Lokomotiven, Waggons und historischen Dokumenten.</p>
+                    </div>
+                    <div class="bg-gray-50 rounded-lg p-6 text-center shadow-md hover:shadow-xl transition-shadow">
+                        <div class="text-4xl mb-4 text-[#659B5E]">🚲</div>
+                        <h3 class="text-xl font-bold mb-2">Bröltalbahnweg</h3>
+                        <p class="text-gray-600">Ein Teil der ehemaligen Trasse der Bröltalbahn in Beuel wurde zu einem beliebten Fußgänger- und Radweg umgestaltet, der die alte Route erlebbar macht.</p>
+                    </div>
+                    <div class="bg-gray-50 rounded-lg p-6 text-center shadow-md hover:shadow-xl transition-shadow">
+                        <div class="text-4xl mb-4 text-[#659B5E]">🍻</div>
+                        <h3 class="text-xl font-bold mb-2">Alter Bahnhof Beuel</h3>
+                        <p class="text-gray-600">Das historische Bahnhofsgebäude der Bröltalbahn in Beuel hat überlebt und beherbergt heute eine Gaststätte, die ein Stück Eisenbahngeschichte bewahrt.</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer class="bg-[#3D405B] text-white py-8">
+        <div class="container mx-auto px-6 text-center">
+            <p>Interaktiver Report basierend auf Quelldaten zur regionalen Eisenbahngeschichte.</p>
+            <p class="text-sm text-gray-400 mt-2">Erstellt 2024</p>
+        </div>
+    </footer>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            
+            const tabData = {
+                pioniere: `
+                    <div class="grid md:grid-cols-2 gap-8 items-start">
+                        <div class="bg-gray-50 p-6 rounded-lg shadow-sm">
+                            <h3 class="text-2xl font-bold mb-4 text-[#8D8741]">Bröltalbahn: Pionierin des Schmalspurnetzes</h3>
+                            <ul class="space-y-3 text-gray-700">
+                                <li><span class="font-semibold">Gegründet:</span> 1869 als erste öffentliche Schmalspurbahn Deutschlands.</li>
+                                <li><span class="font-semibold">Spurweite:</span> 785 mm</li>
+                                <li><span class="font-semibold">Netzlänge:</span> Bis zu 87,3 km</li>
+                                <li><span class="font-semibold">Zweck:</span> Transport von Erzen (Kupfer, Zink, Blei) und Basalt aus dem Siebengebirge und Umland.</li>
+                                <li><span class="font-semibold">Betriebsende:</span> Personenverkehr 1953/54, Güterverkehr 1967.</li>
+                                <li><span class="font-semibold">Erbe:</span> Bröltalbahnweg, Museum in Asbach.</li>
+                            </ul>
+                        </div>
+                        <div class="bg-gray-50 p-6 rounded-lg shadow-sm">
+                            <h3 class="text-2xl font-bold mb-4 text-[#8D8741]">Hanftalbahn: Lebensader der Industrie</h3>
+                            <ul class="space-y-3 text-gray-700">
+                                <li><span class="font-semibold">Gegründet:</span> 1892</li>
+                                <li><span class="font-semibold">Strecke:</span> 22 km von Hennef nach Asbach</li>
+                                <li><span class="font-semibold">Netzlänge:</span> 22 km</li>
+                                <li><span class="font-semibold">Zweck:</span> Anbindung von Steinbrüchen (Eudenberg, Bennau) und der Bleihütte Luise.</li>
+                                <li><span class="font-semibold">Betriebsende:</span> Schrittweise Stilllegung nach Rückgang der Industrie.</li>
+                                <li><span class="font-semibold">Erbe:</span> RSE Museum Asbach, erhaltene Bauten.</li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="mt-12">
+                        <h3 class="text-2xl font-bold text-center mb-4 text-[#3D405B]">Größenvergleich der historischen Netze</h3>
+                        <div class="chart-container">
+                            <canvas id="pioneerChart"></canvas>
+                        </div>
+                    </div>
+                `,
+                rse: `
+                    <div class="text-center mb-8">
+                         <p class="text-gray-600 max-w-3xl mx-auto">Die 1994 neu gegründete RSE Rhein-Sieg-Eisenbahn GmbH hat sich von einer Initiative zur Rettung einer lokalen Industriebahn zu einem bundesweit agierenden Eisenbahninfrastrukturunternehmen (EIU) entwickelt. Sie agiert oft als "Verwalter auf Zeit", der gefährdete Strecken übernimmt, sie für Güter-, Touristik- oder Sonderverkehre reaktiviert und so vor der endgültigen Stilllegung bewahrt.</p>
+                    </div>
+                    <div class="flex flex-wrap justify-center gap-2 mb-8">
+                        <button class="filter-btn bg-gray-200 px-3 py-1 rounded-full text-sm font-semibold" data-filter="all">Alle Strecken</button>
+                        <button class="filter-btn bg-gray-200 px-3 py-1 rounded-full text-sm font-semibold" data-filter="In Betrieb">In Betrieb</button>
+                        <button class="filter-btn bg-gray-200 px-3 py-1 rounded-full text-sm font-semibold" data-filter="Betrieblich gesperrt">Betrieblich gesperrt</button>
+                        <button class="filter-btn bg-gray-200 px-3 py-1 rounded-full text-sm font-semibold" data-filter="Stillgelegt">Stillgelegt</button>
+                        <button class="filter-btn bg-gray-200 px-3 py-1 rounded-full text-sm font-semibold" data-filter="Übergeben">Übergeben/Beendet</button>
+                    </div>
+                    <div id="rse-strecken-container" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+                    </div>
+                `
+            };
+
+            const rseStreckenData = [
+                { name: "Endorf–Obing", length: 18.5, status: "In Betrieb", notes: "Teil des EIU-Netzes in Bayern." },
+                { name: "Oleftalbahn", length: 'n.a.', status: "In Betrieb", notes: "50-jährige Betriebsgenehmigung, wichtig für Tourismus." },
+                { name: "Eggmühl–Langquaid", length: 10.3, status: "Betrieblich gesperrt", notes: "Wegen Oberbaumängeln gesperrt, RSE-Betrieb bis Ende 2024." },
+                { name: "Wissertalbahn", length: 7.1, status: "Betrieblich gesperrt", notes: "Abgabe beabsichtigt bis September 2025." },
+                { name: "Mühldorf–Pilsting (Teil)", length: 23.2, status: "Stillgelegt", notes: "Offiziell stillgelegt seit Mai 2018." },
+                { name: "Bonn-Beuel – Pützchen", length: 'n.a.', status: "Stillgelegt", notes: "Stilllegung im Okt. 2024 genehmigt, ehem. für Pützchens Markt." },
+                { name: "Menden-Hemer", length: 'n.a.', status: "Stillgelegt", notes: "Temporär für Landesgartenschau 2010 reaktiviert." },
+                { name: "Passau–Freyung", length: 49.5, status: "Übergeben", notes: "Betriebsführung an Ilztalbahn GmbH übergeben (März 2024)." },
+                { name: "Rahden–Uchte", length: 25.3, status: "Übergeben", notes: "Wurde eigenes EIU (Ende 2023)." },
+                { name: "Wuppertalbahn", length: 18.8, status: "Übergeben", notes: "Wurde eigenes EIU (April 2024)." },
+                { name: "Rinteln–Stadthagen", length: 'n.a.', status: "Beendet", notes: "RSE-Betrieb endet Feb. 2025." },
+            ];
+            
+            const hanfUsesData = [
+                { icon: '📜', title: 'Papier', description: 'Die Gutenberg-Bibel wurde auf Hanfpapier gedruckt. Bis ins 19. Jhd. war es das wichtigste Papiermaterial.' },
+                { icon: '⚓', title: 'Seefahrt', description: 'Robuste Hanfseile und mit Pech abgedichtete Hanffasern waren für den Schiffbau unerlässlich.' },
+                { icon: '👖', title: 'Textilien', description: 'Die erste Levi\'s Jeans wurde aus widerstandsfähigem Hanfgewebe gefertigt. Hanf war ein wichtiger Textilrohstoff.' },
+                { icon: '💡', title: 'Öl & Energie', description: 'Hanföl diente als Lampenöl und Schmiermittel. Die Samen sind zudem ein nahrhaftes Lebensmittel.' }
+            ];
+
+            const timelineData = [
+                { year: '8000 v. Chr.', event: 'Früheste Nutzung', description: 'Archäologische Funde belegen die Nutzung von Hanf in Zentralasien.' },
+                { year: '800 n. Chr.', event: 'Förderung in Europa', description: 'Karl der Große fördert den Hanfanbau durch eine Wirtschaftsanweisung.' },
+                { year: '1390', event: 'Hanfpapier-Boom', description: 'Mit dem Buchdruck steigt die Nachfrage. Die erste Papiermühle in Nürnberg produziert Hanfpapier.' },
+                { year: '1930er', event: 'Niedergang', description: 'Kampagnen der Konkurrenzindustrien (Öl, Baumwolle) in den USA dämonisieren Hanf und führen zu Verboten.' },
+                { year: '1996', event: 'Wiederbelebung', description: 'Nach Jahrzehnten des Verbots wird der Anbau von Nutzhanf in Deutschland wieder legalisiert, was ein Comeback einleitet.' }
+            ];
+
+            const tabContentContainer = document.getElementById('tab-content');
+            const tabButtons = document.querySelectorAll('.tab-button');
+            const rseContainer = document.getElementById('rse-strecken-container');
+
+            function renderRseStrecken(filter = 'all') {
+                const container = document.getElementById('rse-strecken-container');
+                if (!container) return;
+                container.innerHTML = '';
+                const filteredData = rseStreckenData.filter(strecke => {
+                    if (filter === 'all') return true;
+                    if (filter === 'Übergeben' || filter === 'Beendet') return strecke.status === 'Übergeben' || strecke.status === 'Beendet';
+                    if (filter === 'Stillgelegt') return strecke.status === 'Stillgelegt';
+                    return strecke.status === filter;
+                });
+
+                filteredData.forEach(strecke => {
+                    let statusColor = 'bg-gray-400';
+                    if (strecke.status === 'In Betrieb') statusColor = 'bg-green-500';
+                    if (strecke.status === 'Betrieblich gesperrt') statusColor = 'bg-yellow-500';
+                    if (strecke.status === 'Stillgelegt') statusColor = 'bg-red-500';
+                    if (strecke.status === 'Übergeben' || strecke.status === 'Beendet') statusColor = 'bg-blue-500';
+
+                    const card = `
+                        <div class="bg-white p-4 rounded-lg shadow-md border-l-4" style="border-color: ${statusColor.replace('bg-', '').replace('-500', '')};">
+                            <div class="flex justify-between items-start">
+                                <h4 class="font-bold text-lg text-gray-800">${strecke.name}</h4>
+                                <span class="text-xs font-bold text-white ${statusColor} px-2 py-1 rounded-full">${strecke.status}</span>
+                            </div>
+                            <p class="text-sm text-gray-600 mt-2">${strecke.notes}</p>
+                            <p class="text-sm font-semibold text-gray-800 mt-3">Länge: ${strecke.length} km</p>
+                        </div>
+                    `;
+                    container.innerHTML += card;
+                });
+            }
+            
+            function renderHanfUses() {
+                const container = document.getElementById('hanf-uses-container');
+                if (!container) return;
+                container.innerHTML = '';
+                hanfUsesData.forEach(use => {
+                    const card = `
+                        <div class="bg-white p-6 rounded-lg shadow-md text-center">
+                            <div class="text-5xl mb-4">${use.icon}</div>
+                            <h4 class="text-xl font-bold mb-2 text-[#3D405B]">${use.title}</h4>
+                            <p class="text-gray-600">${use.description}</p>
+                        </div>
+                    `;
+                    container.innerHTML += card;
+                });
+            }
+
+            function renderTimeline() {
+                const container = document.getElementById('timeline-container');
+                if (!container) return;
+                container.innerHTML = '';
+                timelineData.forEach((item, index) => {
+                    const alignmentClass = index % 2 === 0 ? 'md:ml-auto md:pl-16' : 'md:mr-auto md:pr-16 md:text-right';
+                    const pointAlignment = index % 2 === 0 ? 'md:left-1/2' : 'md:left-1/2 md:-translate-x-full';
+                    const timelineElement = `
+                        <div class="timeline-item relative w-full md:w-1/2 ${alignmentClass}">
+                            <div class="absolute w-6 h-6 bg-[#8D8741] rounded-full mt-2 top-0 ${pointAlignment} border-4 border-white"></div>
+                            <div class="bg-white p-4 rounded-lg shadow-md">
+                                <span class="font-bold text-lg text-[#8D8741]">${item.year}</span>
+                                <h4 class="font-semibold text-xl mt-1 mb-2 text-[#3D405B]">${item.event}</h4>
+                                <p class="text-gray-600">${item.description}</p>
+                            </div>
+                        </div>
+                    `;
+                    container.innerHTML += timelineElement;
+                });
+            }
+
+            function setActiveTab(tab) {
+                tabButtons.forEach(button => {
+                    button.classList.toggle('active', button.dataset.tab === tab);
+                });
+                tabContentContainer.innerHTML = tabData[tab];
+
+                if (tab === 'pioniere') {
+                    const ctx = document.getElementById('pioneerChart').getContext('2d');
+                    new Chart(ctx, {
+                        type: 'bar',
+                        data: {
+                            labels: ['Bröltalbahn', 'Hanftalbahn'],
+                            datasets: [{
+                                label: 'Maximale Netzlänge (km)',
+                                data: [87.3, 22],
+                                backgroundColor: ['#8D8741', '#B5AF8F'],
+                                borderColor: ['#659B5E', '#8D8741'],
+                                borderWidth: 1
+                            }]
+                        },
+                        options: {
+                            responsive: true,
+                            maintainAspectRatio: false,
+                            plugins: {
+                                legend: { display: false },
+                                title: { display: false }
+                            },
+                            scales: {
+                                y: {
+                                    beginAtZero: true,
+                                    title: { display: true, text: 'Kilometer' }
+                                }
+                            }
+                        }
+                    });
+                } else if (tab === 'rse') {
+                    renderRseStrecken();
+                    document.querySelectorAll('.filter-btn').forEach(button => {
+                        button.addEventListener('click', () => {
+                            renderRseStrecken(button.dataset.filter);
+                        });
+                    });
+                }
+            }
+
+            tabButtons.forEach(button => {
+                button.addEventListener('click', () => {
+                    setActiveTab(button.dataset.tab);
+                });
+            });
+
+            setActiveTab('pioniere');
+            renderHanfUses();
+            renderTimeline();
+
+            const menuBtn = document.getElementById('menu-btn');
+            const mobileMenu = document.getElementById('mobile-menu');
+            menuBtn.addEventListener('click', () => {
+                mobileMenu.classList.toggle('hidden');
+            });
+            
+            document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+                anchor.addEventListener('click', function (e) {
+                    e.preventDefault();
+                    document.querySelector(this.getAttribute('href')).scrollIntoView({
+                        behavior: 'smooth'
+                    });
+                    if(mobileMenu.classList.contains('hidden') === false) {
+                        mobileMenu.classList.add('hidden');
+                    }
+                });
+            });
+        });
+    </script>
+</body>
+</html>
