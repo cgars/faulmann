@@ -103,13 +103,17 @@ Ein Raum weiter: pralle Rubens-Figuren, Blumenstücke, die fast aus dem Rahmen s
 
 Faulmann musste lachen: „Gestern am Schroliksee – Vanitas pur. Und die singenden Kinder in Neukirchen – Carpe Diem live.“  
 
-### Kritische Reflexion  
-Faulmann rückte die Mütze zurecht:  
-Im 17. Jahrhundert waren diese Bilder nicht nur Kunst, sondern Pädagogik. Man wollte erziehen – mit Schreck und Trost zugleich. Aber wer entschied eigentlich, was Tugend war?  
+## Kritische Reflexion – Neobarock jetzt
+Faulmann blieb vor einem Fenster stehen, die Stadt als matte Spiegelung in der Scheibe. Ihm kam ein Vergleich in den Sinn, der zuerst wie ein Witz klang und dann gar keiner mehr war.
 
-Und heute? Wir lächeln über barocke Inszenierungen, doch sind wir so weit weg? Auch unsere Gegenwart kennt ihre Bildwelten, die mahnen und verführen – nur heißen sie Werbung, Social Media oder Nachrichten. Instagram lockt mit ewigem Carpe Diem: „genieß dein Leben, kauf dies, poste das.“ Gleichzeitig prasselt das moderne Memento Mori in Schlagzeilen über Krisen, Kriege, Klima.  
+**Instagram als neue Rubens-Werkstatt.**  
+Beide Welten lieben Bühne und Pose. Der barocke Höfling, der mit Gesten und Kostümen Status malt, ist der Vorfahr des Influencers, der mit Filtern und Feeds eine Marke baut. Das Bild bildet nicht bloß ab; es **schafft** Realität – damals für Gnade und Macht, heute für Reichweite und Kommerz. Früher bestimmte der Mäzen (Hof, Kirche) die Ästhetik; heute tut es ein anderer Mäzen: der **Algorithmus**. Er belohnt das Grell-Emotionale, das Hochglanz-Inszenierte – eine unsichtbare Kunstpolizei mit Vorliebe für Carpe Diem.
 
-Faulmann dachte: „Vielleicht sind wir barocker, als wir zugeben wollen. Vielleicht ist Instagram nur die neue Rubens-Werkstatt – mit Filtern statt Firnis.“  
+Und die Gegenseite? Das digitale **Memento Mori**: ein 24/7-Nachrichtenstrom aus Krisen, Kriegen, Klima. Kein einzelner Totenschädel mehr, der schockt, sondern ein permanenter Alarmton, der abstumpfen kann. Zwischen performativem Glück (Feed) und globaler Bedrohung (News) lebt eine neobarocke Spannung: mehr Schein, je lauter der Ernst.
+
+„Vielleicht sind wir barocker, als wir zugeben wollen,“ dachte Faulmann. „Filter statt Firnis – aber die Mechanik ist die gleiche.“
+
+Er lachte kurz und fasste sich an den Bauch. „Im Grunde bin ich auch ein barocker Bär: ein bisschen Memento Mori, ein bisschen Carpe Diem. Und immer zu viel Essen.“
 
 ---
 
