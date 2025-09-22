@@ -6,11 +6,11 @@ categories: faulmann niederrhein wallraf
 teaser: "Ein Wochenende zwischen Duisburger Hafenkränen und barocken Gemälden: Faulmann liest Landschaft wie ein Palimpsest und entdeckt im Wallraf die Gegenwart im Spiegel von Rubens und Rembrandt."
 teaser_en: "A weekend between Duisburg’s cranes and Cologne’s Baroque masters: Faulmann reads the landscape like a palimpsest and finds today’s crises mirrored in Rubens and Rembrandt."
 ---
+
 ## Samstag: Captain Faulmanns Tour de Niederrhein – Ein vertieftes Logbuch von Stahl, Seelenheil und Schmugglertinte  
 
 ### Einleitung – Die Schiebermütze geraderücken und die Karten neu lesen  
 Der Alltag klebte Faulmann im Fell wie alter Honig, die Schiebermütze saß schief, und die Laune war eher so mittel. Beste Voraussetzungen also für eine Radtour, die mehr versprach als nur ein paar Kilometer unter die Reifen zu nehmen. Diesmal sollte es eine Fahrt werden, bei der das Land selbst wie ein Buch aufgeschlagen würde. Keine glatte Postkarte, sondern ein Palimpsest, in dem alte Sätze durchscheinen, wenn man nur genau genug hinsieht.  
-
 
 <div class="h_wrapper">
   <div class="h_iframe">
@@ -63,10 +63,9 @@ Die Seen – Schrolik, Hinsbecker Bruch – waren wie die Nieper Kuhlen einst To
 Faulmann sog den Regen ein, schüttelte das Fell, lachte leise: *„Vanitas mit Libellen. Aus Wunden werden Rastplätze. Aus Krieg Freizeitgelände. Der Fluss der Geschichte verschlammt, aber verschwindet nie.“*  
 
 ### Ziel: Mönchengladbach & Fazit 🏁  
+Mit trockengefahrenem Fell und deutlich besserer Laune rollte Faulmann in Mönchengladbach ein. Die Sonne hatte inzwischen die Tropfen aus dem Pelz geleckt, die Schiebermütze saß wieder gerade. Nur die Knochen spürten das Gerüttel der deutschen Radwege – eine Art kostenloses Ganzkörpertraining.  
 
-Mit trockengefahrenem Fell und deutlich besserer Laune rollte Faulmann in Mönchengladbach ein. Die Sonne hatte inzwischen die Tropfen aus dem Pelz geleckt, die Schiebermütze saß wieder gerade. Nur die Knochen spürten das Gerüttel der deutschen Radwege – eine Art kostenloses Ganzkörpertraining.
-
-> „Der Niederrhein,“ schrieb er innerlich ins Logbuch, „ist kein Nebeneinander von Industrie und Idylle. Er ist wie eine Zwiebel: Schicht auf Schicht, jede bringt etwas anderes hervor – mal Tränen, mal Würze. Und am Ende riechen die Pfoten danach, ob man will oder nicht.“
+> „Der Niederrhein,“ schrieb er innerlich ins Logbuch, „ist kein Nebeneinander von Industrie und Idylle. Er ist wie eine Zwiebel: Schicht auf Schicht, jede bringt etwas anderes hervor – mal Tränen, mal Würze. Und am Ende riechen die Pfoten danach, ob man will oder nicht.“  
 
 ---
 
@@ -88,9 +87,25 @@ Schon das Wort gefiel ihm: Frühe Neuzeit klang ein bisschen, als hätte jemand 
 - Und trotzdem wuchsen Paläste, glänzten Kirchen im Gold, pinselten Künstler Triumph und Feste. „Carpe Diem im Kugelhagel,“ brummte der Bär.  
 
 ### Rubens und Rembrandt  
-Vor einem der großen Bilder blieb er stehen: „Juno und Argus“ von Rubens (um 1610). Gewalt und Schönheit im selben Takt: Juno prächtig gewandet, der tote Argus, dessen Augen sie wie Schmuck an sich nimmt. Farben wie Trompeten, Stoffe wie Donnerwolken. „Das ist Memento Mori deluxe,“ dachte Faulmann, „und zugleich Carpe Diem in Purpur und Gold.“  
+Vor einem der großen Bilder blieb er stehen: **„Juno und Argus“ von Rubens (um 1610).** Gewalt und Schönheit im selben Takt.  
 
-Ein paar Räume weiter sah er Rembrandts Selbstbildnis (um 1668). Kein Mythos, kein Pathos, sondern ein Gesicht mit Falten, Licht und Schatten. Der Maler blickte ihn direkt an, alt, aber nicht gebrochen. „Das ist Memento Mori auf Augenhöhe – und Carpe Diem im Altwerden,“ dachte Faulmann. „Wenn Altern Kunst sein kann, will ich’s auch so tragen.“  
+Die Geschichte dazu kannte der Bär nur halb – und füllte sie jetzt auf: Argus, der hundertäugige Wächter, hatte Io, die Geliebte Jupiters, überwacht. Doch Merkur schlich sich an, schlug ihn tot. Nun tritt Juno, die betrogene Gattin, auf den Plan. Sie sammelt die Augen des Toten und setzt sie in die Federn ihres heiligen Pfaus – ein makaberer Akt der Verwandlung: aus Gewalt wird Schönheit, aus Tod wird Triumph.  
+
+Die Leinwand knallte wie ein Fanfarenstoß. Primärfarben in voller Lautstärke, Stoffe wie Donnerwolken, Putten, die fast aus dem Rahmen purzelten. Rubens ließ nichts still – jede Seide glänzte, jeder Muskel spannte.  
+
+„Das ist Memento Mori deluxe,“ dachte Faulmann, „und zugleich Carpe Diem in Purpur und Gold.“  
+
+Und weil der Bär nicht nur ein Schiebermützenträger, sondern auch ein stiller Beobachter war, bemerkte er den Regenbogen im Bild. Rubens, Zeitgenosse von Wissenschaftlern wie Aguilonius, wusste genau, was er tat. Optik, Farbenlehre, Sinnlichkeit – alles floss zusammen. „Ein Regenbogen im Fell,“ brummte Faulmann, „so malt nur einer, der das Licht wirklich versteht.“  
+
+Ein paar Räume weiter blieb er wieder stehen. Diesmal kein Donner, kein Gold – nur ein Gesicht. **Rembrandts spätes Selbstbildnis, um 1668.**  
+
+Die Haut dick aufgetragen, fast wie Fellsträhnen aus Farbe. Licht und Schatten modellierten das Gesicht, während der Rest im Dunkel versank. Rembrandt blickte ihn direkt an: alt, gezeichnet, ungebrochen.  
+
+Faulmann wusste, dass dieser Maler viel verloren hatte: Geld, Ansehen, Frau, Kinder. Und trotzdem stand da einer, der sich nicht klein machte, sondern mit jedem Pinselstrich sagte: *So bin ich. Nimm’s oder lass es.*  
+
+„Das ist Memento Mori auf Augenhöhe,“ dachte Faulmann. „Und Carpe Diem im Altwerden. Wenn Altern Kunst sein kann, will ich’s auch so tragen.“  
+
+Er grinste, fast so, als hätte er mit dem alten Maler eine stille Verabredung getroffen: Jeder trägt seine Jahre – der eine in Öl, der andere im Fell.  
 
 ### Heilige und Sünden  
 Dann tauchten die Vertrauten wieder auf: Franz von Assisi, diesmal pathetisch und barfuß; Anna und Maria, stehend und einander zugewandt. Sogar die Heiligen hatten Bewegung gelernt.  
@@ -104,16 +119,16 @@ Ein Raum weiter: pralle Rubens-Figuren, Blumenstücke, die fast aus dem Rahmen s
 Faulmann musste lachen: „Gestern am Schroliksee – Vanitas pur. Und die singenden Kinder in Neukirchen – Carpe Diem live.“  
 
 ## Kritische Reflexion – Neobarock jetzt
-Faulmann blieb vor einem Fenster stehen, die Stadt als matte Spiegelung in der Scheibe. Ihm kam ein Vergleich in den Sinn, der zuerst wie ein Witz klang und dann gar keiner mehr war.
+Faulmann blieb vor einem Fenster stehen, die Stadt als matte Spiegelung in der Scheibe. Ihm kam ein Vergleich in den Sinn, der zuerst wie ein Witz klang und dann gar keiner mehr war.  
 
 **Instagram als neue Rubens-Werkstatt.**  
-Beide Welten lieben Bühne und Pose. Der barocke Höfling, der mit Gesten und Kostümen Status malt, ist der Vorfahr des Influencers, der mit Filtern und Feeds eine Marke baut. Das Bild bildet nicht bloß ab; es **schafft** Realität – damals für Gnade und Macht, heute für Reichweite und Kommerz. Früher bestimmte der Mäzen (Hof, Kirche) die Ästhetik; heute tut es ein anderer Mäzen: der **Algorithmus**. Er belohnt das Grell-Emotionale, das Hochglanz-Inszenierte – eine unsichtbare Kunstpolizei mit Vorliebe für Carpe Diem.
+Beide Welten lieben Bühne und Pose. Der barocke Höfling, der mit Gesten und Kostümen Status malt, ist der Vorfahr des Influencers, der mit Filtern und Feeds eine Marke baut. Das Bild bildet nicht bloß ab; es **schafft** Realität – damals für Gnade und Macht, heute für Reichweite und Kommerz. Früher bestimmte der Mäzen (Hof, Kirche) die Ästhetik; heute tut es ein anderer Mäzen: der **Algorithmus**. Er belohnt das Grell-Emotionale, das Hochglanz-Inszenierte – eine unsichtbare Kunstpolizei mit Vorliebe für Carpe Diem.  
 
-Und die Gegenseite? Das digitale **Memento Mori**: ein 24/7-Nachrichtenstrom aus Krisen, Kriegen, Klima. Kein einzelner Totenschädel mehr, der schockt, sondern ein permanenter Alarmton, der abstumpfen kann. Zwischen performativem Glück (Feed) und globaler Bedrohung (News) lebt eine neobarocke Spannung: mehr Schein, je lauter der Ernst.
+Und die Gegenseite? Das digitale **Memento Mori**: ein 24/7-Nachrichtenstrom aus Krisen, Kriegen, Klima. Kein einzelner Totenschädel mehr, der schockt, sondern ein permanenter Alarmton, der abstumpfen kann. Zwischen performativem Glück (Feed) und globaler Bedrohung (News) lebt eine neobarocke Spannung: mehr Schein, je lauter der Ernst.  
 
-„Vielleicht sind wir barocker, als wir zugeben wollen,“ dachte Faulmann. „Filter statt Firnis – aber die Mechanik ist die gleiche.“
+„Vielleicht sind wir barocker, als wir zugeben wollen,“ dachte Faulmann. „Filter statt Firnis – aber die Mechanik ist die gleiche.“  
 
-Er lachte kurz und fasste sich an den Bauch. „Im Grunde bin ich auch ein barocker Bär: ein bisschen Memento Mori, ein bisschen Carpe Diem. Und immer zu viel Essen.“
+Er lachte kurz und fasste sich an den Bauch. „Im Grunde bin ich auch ein barocker Bär: ein bisschen Memento Mori, ein bisschen Carpe Diem. Und immer zu viel Essen.“  
 
 ---
 
@@ -133,4 +148,4 @@ Im Museum hatte die AI ihm geholfen: Sie las Tafeln vor, recherchierte die Früh
 
 Dann aber knurrte sein Bauch. Also zog er weiter zum Heumarkt, bestellte sich eine Currywurst mit Pommes – rot-weiß, wie ein stilles Wappen der Arbeiterstädte, die er am Vortag durchradelt hatte. Duisburg, Hafen, Kräne – jetzt Köln, Museum, Barock – und am Ende: Wurst und Kartoffel.  
 
-Faulmann grinste. „So schließt sich der Kreis. Zwischen Rubens und Rembrandt, zwischen Memento Mori und Carpe Diem – am Ende doch eine Currywurst am Rhein und danach der Weg zurück ins Moos.“  
+Faulmann grinste. „So schließt sich der Kreis. Zwischen Rubens und Rembrandt, zwischen Memento Mori und Carpe Diem – am Ende doch eine Currywurst am Rhein und danach der Weg zurück ins Moos.“
