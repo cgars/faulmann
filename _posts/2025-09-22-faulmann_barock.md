@@ -6,9 +6,6 @@ categories: faulmann niederrhein wallraf
 teaser: "Ein Wochenende zwischen Duisburger Hafenkränen und barocken Gemälden: Faulmann liest Landschaft wie ein Palimpsest und entdeckt im Wallraf die Gegenwart im Spiegel von Rubens und Rembrandt."
 teaser_en: "A weekend between Duisburg’s cranes and Cologne’s Baroque masters: Faulmann reads the landscape like a palimpsest and finds today’s crises mirrored in Rubens and Rembrandt."
 ---
-
-# Captain Faulmann zwischen Stahl und Sternen: Tour de Niederrhein & Barocke Spiegelungen  
-
 ## Samstag: Captain Faulmanns Tour de Niederrhein – Ein vertieftes Logbuch von Stahl, Seelenheil und Schmugglertinte  
 
 ### Einleitung – Die Schiebermütze geraderücken und die Karten neu lesen  
