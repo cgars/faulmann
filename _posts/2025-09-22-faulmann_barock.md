@@ -11,6 +11,13 @@ teaser_en: "A weekend between Duisburg’s cranes and Cologne’s Baroque master
 ### Einleitung – Die Schiebermütze geraderücken und die Karten neu lesen  
 Der Alltag klebte Faulmann im Fell wie alter Honig, die Schiebermütze saß schief, und die Laune war eher so mittel. Beste Voraussetzungen also für eine Radtour, die mehr versprach als nur ein paar Kilometer unter die Reifen zu nehmen. Diesmal sollte es eine Fahrt werden, bei der das Land selbst wie ein Buch aufgeschlagen würde. Keine glatte Postkarte, sondern ein Palimpsest, in dem alte Sätze durchscheinen, wenn man nur genau genug hinsieht.  
 
+
+<div class="h_wrapper">
+  <div class="h_iframe">
+    <iframe height="2" width="2" src="https://www.komoot.com/de-de/tour/2588854996/embed?share_token=aU1tiHooQca1o4wTPvVSWH6UFpNw9UD8PsEtROiT6XOR40ol3j&profile=1" width="100%" height="700" frameborder="0" scrolling="no"></iframe>
+  </div>
+</div>
+
 ### Etappe 1: Duisburg – Echos im stählernen Herzen 🏭  
 Los ging es am Duisburger Außenhafen. Dort, wo die Kräne wie eiserne Giraffen den Himmel abtasteten und Container wie überdimensionale Bauklötze klappernd aufeinandergestapelt wurden. Der Geruch von Diesel hing schwer in der Luft, und das ferne Knirschen von Kohle in den Förderanlagen gab den Takt.  
 
