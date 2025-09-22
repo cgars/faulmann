@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Captain Faulmann zwischen Stahl und Sternen"
+title: "Captain Faulmann zwischen Stahl, Sternen und Currywurst"
 date: 2025-09-22
 categories: faulmann niederrhein wallraf
-teaser: "Ein Wochenende zwischen Duisburger Hafenkränen und barocken Gemälden: Faulmann liest Landschaft wie ein Palimpsest und entdeckt im Wallraf die Gegenwart im Spiegel von Rubens und Rembrandt."
-teaser_en: "A weekend between Duisburg’s cranes and Cologne’s Baroque masters: Faulmann reads the landscape like a palimpsest and finds today’s crises mirrored in Rubens and Rembrandt."
+teaser: "Ein Wochenende zwischen Duisburger Hafenkränen, Zwiebelmetaphern und barocken Gemälden: Faulmann liest Landschaft wie ein Palimpsest und entdeckt im Wallraf die Gegenwart im Spiegel von Rubens und Rembrandt."
+teaser_en: "A weekend between Duisburg’s cranes, onion layers and Cologne’s Baroque masters: Faulmann reads the landscape like a palimpsest and finds today’s crises mirrored in Rubens and Rembrandt."
 ---
+
+![](https://pixelfed.social/storage/m/_v2/607467830790472239/9c67e908a-279c2f/4j7jgMtd0SYU/eWEPWsT6fN2rPQvqjjyMotTIsky1nGyOsE3RkAC3.png)
 
 ## Samstag: Captain Faulmanns Tour de Niederrhein – Ein vertieftes Logbuch von Stahl, Seelenheil und Schmugglertinte  
 
@@ -45,11 +47,17 @@ Doch das Rätsel steckte tiefer: Nieukerk, die „neue“ Kirche, war die Älter
 *„Wie Brüder im Taufregister,“* murmelte Faulmann, *„nur dass der Jüngere älter ist. Fast katholisch widersprüchlich.“*  
 
 ### Etappe 5: Straelen & der Smokkelpad – Schmuggel für Anfänger 🤫  
+
+Weiter westlich, kurz hinter den endlosen Reihen von Gewächshäusern, stößt Faulmann auf eine kleine Überraschung: Zwischen Salat und Petersilienwurzel fährt ein leiser, flacher Roboter seine Bahnen. Kein Science-Fiction, sondern Realität – in Straelen setzt ein Gemüsebetrieb seit Kurzem den **AX-1** ein. Die Maschine erkennt jedes Unkraut per Kamera und setzt einen einzelnen Tropfen auf dessen Blätter, statt ganze Felder zu vernebeln. *„Heimlicher als jeder Schmuggler von einst, rumpelt sogar noch ein zweiter in der Ferne“* denkt der Bär und lächelt in seinen Schnauzbart. Für ihn wirkt es, als würde hier das nächste Kapitel des Niederrheins geschrieben – mit Stahl, mit Erde, und mit einem Hauch von Zukunft.
+
+![Kilter AX-1](https://pixelfed.social/storage/m/_v2/607467830790472239/9c67e908a-279c2f/fgaDYWbrNr4j/frTlLZbJagIoxMngR57s9mOIlQPkAsjnvV8Mjcfc.jpg)
+
 Straelen empfing ihn mit Feldern voller Blumen und Gewächshäuser. Offizieller Wohlstand, geboren aus einer Idee: 1914 führte Hans Tenhaeff die niederländische Gemüseversteigerung ein. Aus Nachahmung wurde eine Erfolgsgeschichte.  
 
 Doch nur ein paar Tritte weiter, am Smokkelpad, erzählte der Boden von einer anderen Ökonomie. Hier schoben Schmuggler Butter, Kaffee und Tabak über die Grenze. Manche Geschichten waren so verrückt, dass sie nur wahr sein konnten: schwarz bemalte Kühe, die im Schutz der Nacht über die Felder liefen.  
 
 Faulmann balancierte über die nachgebauten Bretterstege, die den Pfad heute markieren, und kicherte in seinen Bart: *„Legal oder illegal – zwei Seiten derselben Medaille. Grenzen sind mehr Fiktion als Mauer.“*  
+Und doch, dachte er weiter, waren genau diese Grenzen heute wieder durchlässig – zumindest in der EU. Dieselbe Linie, die einst nachts im Schmugglerlicht lag, wird heute kaum bemerkt, wenn man sie überradelt. Bis eine Krise kommt, und plötzlich ist sie wieder da.  
 
 ### Etappe 6: Niederlande & das nasse Finale – Vanitas mit Libellen 💧  
 Mit dem Grenzübertritt änderte sich der Asphalt. Glatter, weicher, verlässlicher. Doch die Erleichterung währte kurz: Regen setzte ein, dicke Tropfen klatschten auf Fell und Schiebermütze.  
@@ -110,7 +118,10 @@ Er grinste, fast so, als hätte er mit dem alten Maler eine stille Verabredung g
 ### Heilige und Sünden  
 Dann tauchten die Vertrauten wieder auf: Franz von Assisi, diesmal pathetisch und barfuß; Anna und Maria, stehend und einander zugewandt. Sogar die Heiligen hatten Bewegung gelernt.  
 
-Und gegenüber: die sieben Todsünden. Dachsbert hätte sofort aufgegeben. Doch die Tafeln machten klar: die Moral lag nicht im Laster, sondern in der Tugend, im Widerstand.  
+Und gegenüber: die sieben Todsünden. Dämonische Gestalten, grotesk, gierig, zornig.  
+Faulmann musste lachen. Dachsbert hätte die Liste wahrscheinlich wie eine To-Do-Liste gelesen – und wäre schon beim ersten Punkt gescheitert.  
+
+Doch die Strategie war klar: Heilige, die ziehen – Sünden, die abstoßen. Ein moralisches Gummiband. „Push und Pull,“ dachte Faulmann, „pädagogisch perfekt.“  
 
 ### Vanitas und Carpe Diem  
 Stillleben mit Totenschädeln, Muscheln, welkenden Blättern: Vanitas, Mahnung, Vergänglichkeit.  
@@ -122,7 +133,7 @@ Faulmann musste lachen: „Gestern am Schroliksee – Vanitas pur. Und die singe
 Faulmann blieb vor einem Fenster stehen, die Stadt als matte Spiegelung in der Scheibe. Ihm kam ein Vergleich in den Sinn, der zuerst wie ein Witz klang und dann gar keiner mehr war.  
 
 **Instagram als neue Rubens-Werkstatt.**  
-Beide Welten lieben Bühne und Pose. Der barocke Höfling, der mit Gesten und Kostümen Status malt, ist der Vorfahr des Influencers, der mit Filtern und Feeds eine Marke baut. Das Bild bildet nicht bloß ab; es **schafft** Realität – damals für Gnade und Macht, heute für Reichweite und Kommerz. Früher bestimmte der Mäzen (Hof, Kirche) die Ästhetik; heute tut es ein anderer Mäzen: der **Algorithmus**. Er belohnt das Grell-Emotionale, das Hochglanz-Inszenierte – eine unsichtbare Kunstpolizei mit Vorliebe für Carpe Diem.  
+Beide Welten lieben Bühne und Pose. Der barocke Höfling, der mit Gesten und Kostümen Status malt, ist der Vorfahr des Influencers, der mit Filtern und Feeds eine Marke baut. Das Bild bildet nicht bloß ab; es **schafft** Realität – damals für Gnade und Macht, heute für Reichweite und Kommerz. Früher bestimmte der Mäzen (Hof, Kirche) die Ästhetik; heute tut es ein anderer Mäzen: der **Algorithmus**. Unsichtbar, aber nicht weniger mächtig. Rubens malte, was Päpste und Fürsten verlangten; Influencer posten, was der Newsfeed belohnt. Unterschiedliche Jahrhunderte, gleiche Abhängigkeit.  
 
 Und die Gegenseite? Das digitale **Memento Mori**: ein 24/7-Nachrichtenstrom aus Krisen, Kriegen, Klima. Kein einzelner Totenschädel mehr, der schockt, sondern ein permanenter Alarmton, der abstumpfen kann. Zwischen performativem Glück (Feed) und globaler Bedrohung (News) lebt eine neobarocke Spannung: mehr Schein, je lauter der Ernst.  
 
@@ -139,6 +150,8 @@ Draußen vor dem Museum atmete Faulmann die Kölner Luft, schwer vom Regen, leic
 „Die Frühe Neuzeit war eine Zeit der Umbrüche – Reformation, Kriege, Pest und neue Sterne am Himmel. Und was ist unsere Gegenwart anderes?“  
 
 Auch heute: Seuchen, die die Welt lahmlegen; Kriege, die mitten nach Europa zurückgekehrt sind; ein Klima, das kippt; eine Polykrise, die alles gleichzeitig drückt. Und dazu eine Medienrevolution, die Bilder schneller und schriller verbreitet, als Rubens je hätte malen können – und ein Westen, der mit eiligerem Schritt in den Autoritarismus rennt, als jede Schwedenarmee je vorankam.  
+
+Faulmann schnaubte. „Die Nachrichten prasseln wie Regen auf meine Schiebermütze – sie durchnässt, aber sie hält.“  
 
 Faulmann lachte leise. Denn er wusste: Auch er selbst war Teil dieser neuen Welt. Ein Wesen zwischen Fell und Algorithmus, geboren aus Menschenhand und KI-Code, ein Autor, der zugleich Beobachter und Erzählung ist.  
 
