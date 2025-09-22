@@ -1,0 +1,331 @@
+<!DOCTYPE html>
+<html lang="de" class="scroll-smooth">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Eine Reise durch das Barock</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&family=Lato:wght@400;700&display=swap" rel="stylesheet">
+    <!-- Chosen Palette: Baroque Bear Palette (Warm Neutrals: stone, with deep red/gold accents) -->
+    <!-- Application Structure Plan: A narrative, scroll-based journey mirroring a museum visit. It starts with the core tension (Mori vs. Diem), provides interactive historical context, allows deep dives into key artists and symbols, and culminates in an interactive reflection connecting the Baroque to modern life. This structure transforms a linear text into an exploratory experience, guiding the user through the core argument step-by-step for better understanding. -->
+    <!-- Visualization & Content Choices: 1. Historical Context -> Goal: Organize -> Method: HTML/CSS interactive timeline -> Interaction: Click to reveal info. Justification: More engaging than a text block. 2. Artist Comparison -> Goal: Compare -> Method: Side-by-side expandable cards -> Interaction: Click to expand. Justification: Focuses on one artist at a time while showing the comparison. 3. Symbolism -> Goal: Inform -> Method: Interactive graphic with hover points -> Interaction: Hover to see symbol meaning. Justification: Makes learning symbols an active discovery. 4. Faulmann's Reflection -> Goal: Synthesize/Compare -> Method: Bar Chart (Chart.js) comparing themes in different eras -> Interaction: Tooltips on hover. Justification: Provides a powerful, quantitative visualization of the essay's core thesis. -->
+    <!-- CONFIRMATION: NO SVG graphics used. NO Mermaid JS used. -->
+    <style>
+        body {
+            font-family: 'Lato', sans-serif;
+            background-color: #f5f5f4; 
+        }
+        h1, h2, h3 {
+            font-family: 'Merriweather', serif;
+        }
+        .timeline-item::before {
+            content: '';
+            position: absolute;
+            top: 50%;
+            left: -0.625rem;
+            transform: translateY(-50%);
+            width: 1.25rem;
+            height: 1.25rem;
+            border-radius: 9999px;
+            background-color: #a8a29e; 
+            border: 4px solid #f5f5f4; 
+        }
+        .timeline-item.active::before {
+            background-color: #991b1b;
+        }
+        .artist-card.expanded {
+            flex-grow: 2;
+        }
+        .artist-card:not(.expanded) .expanded-content {
+            display: none;
+        }
+        .artist-card {
+            transition: flex-grow 0.5s ease-in-out;
+        }
+        .symbol-point {
+            transition: transform 0.2s ease, background-color 0.2s ease;
+        }
+        .symbol-point:hover {
+            transform: scale(1.5);
+            background-color: #f59e0b;
+        }
+    </style>
+</head>
+<body class="text-stone-800 bg-stone-100">
+
+    <header class="bg-stone-200/80 backdrop-blur-sm sticky top-0 z-50 shadow-md">
+        <nav class="container mx-auto px-6 py-3">
+            <div class="flex justify-between items-center">
+                <h1 class="text-xl md:text-2xl font-bold text-stone-900">Eine Reise durch das Barock</h1>
+                <div class="hidden md:flex space-x-6 text-stone-700">
+                    <a href="#einfuehrung" class="hover:text-red-800 transition">Einführung</a>
+                    <a href="#kontext" class="hover:text-red-800 transition">Kontext</a>
+                    <a href="#kuenstler" class="hover:text-red-800 transition">Künstler</a>
+                    <a href="#symbole" class="hover:text-red-800 transition">Symbole</a>
+                    <a href="#reflexion" class="hover:text-red-800 transition">Reflexion</a>
+                </div>
+            </div>
+        </nav>
+    </header>
+
+    <main class="container mx-auto px-6 py-12">
+        <section id="ankunft" class="text-center mb-20">
+            <h2 class="text-4xl md:text-5xl font-bold mb-4">Willkommen im Barock</h2>
+            <p class="max-w-3xl mx-auto text-lg text-stone-600">
+                Treten Sie ein in eine Welt voller Dramatik, Pracht und tiefgreifender Gegensätze. Diese interaktive Ausstellung führt Sie durch die Schlüsselthemen und Meisterwerke des Barock, einer Epoche, die zwischen der Ahnung der Vergänglichkeit und der Feier des Lebens schwebte.
+            </p>
+        </section>
+
+        <section id="einfuehrung" class="mb-20">
+            <h3 class="text-3xl font-bold text-center mb-2 text-red-900">Ein Zeitalter der Gegensätze</h3>
+             <p class="max-w-3xl mx-auto text-center text-stone-600 mb-12">
+                Das Barock war eine Epoche voller Spannungen. Einerseits die ständige Erinnerung an die Vergänglichkeit des Lebens (<span class="font-bold">Memento Mori</span>), andererseits der prunkvolle Aufruf, den Tag zu nutzen (<span class="font-bold">Carpe Diem</span>). Diese Sektion führt in die religiösen und moralischen Vorstellungen ein, die diese Zeit prägten und die Kunst inspirierten – ein Wechselspiel zwischen Schreck und Trost, Askese und Opulenz.
+            </p>
+            <div class="bg-white rounded-lg shadow-xl p-8 max-w-4xl mx-auto">
+                <blockquote class="text-center text-xl italic text-stone-700 border-l-4 border-red-800 pl-6">
+                    „Ob Katholik oder Protestant: das barocke Weltbild und Alltagsleben war geprägt von Religion und christlichen Moralvorstellungen. Wichtige Impulse setzte im 16. Jahrhundert das Konzil von Trient... Volksnähe und die emotionale Ansprache der Gläubigen waren nun gefordert.“
+                </blockquote>
+                <p class="text-center mt-6 text-lg text-stone-800 font-semibold">Die Kunst sollte nicht mehr nur lehren, sondern die Menschen emotional bewegen – wie ein volles Orchester statt eines stillen Chors.</p>
+            </div>
+        </section>
+        
+        <section id="kontext" class="mb-20">
+            <h3 class="text-3xl font-bold text-center mb-2 text-red-900">Die Frühe Neuzeit – Ein Rahmen voller Umbrüche</h3>
+            <p class="max-w-3xl mx-auto text-center text-stone-600 mb-12">
+                Die Kunst des Barock entstand nicht im luftleeren Raum. Sie war die Antwort auf eine Welt im Wandel. Wissenschaftliche Revolutionen, religiöse Spaltungen und verheerende Kriege formten das Denken und Fühlen der Menschen. Klicken Sie auf die Ereignisse in der Zeitleiste, um zu verstehen, in welchem Spannungsfeld die prachtvollen und dramatischen Werke dieser Epoche entstanden sind.
+            </p>
+            <div class="flex flex-col md:flex-row gap-8 md:gap-12">
+                <div class="w-full md:w-1/3">
+                    <div id="timeline-nav" class="space-y-4">
+                        <button data-target="event1" class="timeline-event w-full text-left p-4 rounded-lg bg-white shadow-md hover:bg-stone-50 transition active">Wissenschaftliche Revolution</button>
+                        <button data-target="event2" class="timeline-event w-full text-left p-4 rounded-lg bg-white shadow-md hover:bg-stone-50 transition">Reformation & Spaltung</button>
+                        <button data-target="event3" class="timeline-event w-full text-left p-4 rounded-lg bg-white shadow-md hover:bg-stone-50 transition">Dreißigjähriger Krieg</button>
+                        <button data-target="event4" class="timeline-event w-full text-left p-4 rounded-lg bg-white shadow-md hover:bg-stone-50 transition">Absolutistische Pracht</button>
+                    </div>
+                </div>
+                <div class="w-full md:w-2/3 relative border-l-4 border-stone-300 pl-8">
+                    <div id="timeline-content">
+                        <div id="event1" class="timeline-item active">
+                            <h4 class="text-2xl font-bold mb-2">Der Himmel öffnet sich</h4>
+                            <p class="text-stone-700 mb-4">Kopernikus, Kepler und Galileo rückten die Erde aus dem Zentrum und revolutionierten das Weltbild. Der Mensch war nicht länger der unbestrittene Mittelpunkt von allem.</p>
+                        </div>
+                        <div id="event2" class="timeline-item hidden">
+                             <h4 class="text-2xl font-bold mb-2">Glaubenskämpfe</h4>
+                            <p class="text-stone-700 mb-4">Auf der Erde tobten Reformation und Gegenreformation. Köln blieb katholisch, während das Reich sich spaltete. Religion war politisch und persönlich hochexplosiv.</p>
+                        </div>
+                        <div id="event3" class="timeline-item hidden">
+                             <h4 class="text-2xl font-bold mb-2">Krieg und Krisen</h4>
+                            <p class="text-stone-700 mb-4">Der Dreißigjährige Krieg verwüstete halb Europa: Pest, Hunger, Kanonendonner. Der Tod war ein ständiger Begleiter und das "Memento Mori" allgegenwärtig.</p>
+                        </div>
+                        <div id="event4" class="timeline-item hidden">
+                             <h4 class="text-2xl font-bold mb-2">Triumph und Feste</h4>
+                            <p class="text-stone-700 mb-4">Und trotzdem wuchsen Paläste, glänzten Kirchen im Gold, pinselten Künstler Triumph und Feste. Dem Tod wurde die Lebenslust des "Carpe Diem" entgegengestellt.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="kuenstler" class="mb-20">
+            <h3 class="text-3xl font-bold text-center mb-2 text-red-900">Rubens und Rembrandt – Zwei Giganten, zwei Welten</h3>
+            <p class="max-w-3xl mx-auto text-center text-stone-600 mb-12">
+                Zwei der größten Meister des Barock, Peter Paul Rubens und Rembrandt van Rijn, interpretierten die Themen ihrer Zeit auf völlig unterschiedliche Weise. Rubens mit dramatischer Opulenz, Rembrandt mit stiller, tiefgründiger Introspektion. Klicken Sie auf die Karten, um die jeweiligen Werke und die gegensätzlichen Visionen zu vergleichen.
+            </p>
+            <div id="artist-container" class="flex flex-col md:flex-row gap-4 h-[40rem] md:h-[32rem]">
+                <div class="artist-card expanded cursor-pointer rounded-lg p-8 bg-cover bg-center flex flex-col justify-end" style="background-image: linear-gradient(to top, rgba(0,0,0,0.8), rgba(0,0,0,0)), url('https://placehold.co/800x600/57534e/e7e5e4?text=Rubens');" data-artist="rubens">
+                    <h4 class="text-white text-3xl font-bold">Rubens: Der Triumph</h4>
+                    <div class="expanded-content text-white mt-4">
+                        <p class="mb-2">In „Juno und Argus“ (um 1610) zeigt sich Gewalt und Schönheit im selben Takt. Juno, prächtig gewandet, nimmt die hundert Augen des toten Argus als Schmuck. Ein Triumph in Farben wie Trompeten, Stoffen wie Donnerwolken.</p>
+                        <p class="font-bold italic">Hier trifft opulentes "Carpe Diem" auf ein prunkvolles "Memento Mori".</p>
+                    </div>
+                </div>
+                <div class="artist-card cursor-pointer rounded-lg p-8 bg-cover bg-center flex flex-col justify-end" style="background-image: linear-gradient(to top, rgba(0,0,0,0.8), rgba(0,0,0,0)), url('https://placehold.co/800x600/a8a29e/44403c?text=Rembrandt');" data-artist="rembrandt">
+                    <h4 class="text-white text-3xl font-bold">Rembrandt: Die Würde</h4>
+                    <div class="expanded-content text-white mt-4">
+                        <p class="mb-2">Rembrandts spätes Selbstbildnis (um 1668) verzichtet auf jede Pose. Es zeigt nur ein Gesicht: Falten, Licht, Schatten, Müdigkeit und Würde. Ein direkter, schonungsloser Blick auf das menschliche Dasein.</p>
+                        <p class="font-bold italic">Ein stilles "Memento Mori" auf Augenhöhe und die Akzeptanz des Lebens im "Carpe Diem".</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="symbole" class="mb-20">
+             <h3 class="text-3xl font-bold text-center mb-2 text-red-900">Die Sprache der Dinge: Vanitas und Tugend</h3>
+            <p class="max-w-3xl mx-auto text-center text-stone-600 mb-12">
+                Barocke Bilder sind voller versteckter Botschaften. Stillleben, sogenannte "Vanitas"-Darstellungen, erinnerten mit Symbolen an die Vergänglichkeit allen Seins. Gleichzeitig zeigten religiöse Darstellungen den Weg zu einem tugendhaften Leben. Bewegen Sie den Mauszeiger über die Punkte im Stillleben, um die Bedeutung der Symbole zu entschlüsseln.
+            </p>
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
+                <div class="bg-white rounded-lg shadow-xl p-8">
+                    <h4 class="text-2xl font-bold mb-4 text-center">Vanitas: Alles ist vergänglich</h4>
+                    <div class="relative w-full aspect-video bg-stone-700 rounded-lg p-4" id="vanitas-interactive">
+                        <p class="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 text-stone-300 text-3xl opacity-50 font-serif">Stillleben</p>
+                         <div class="symbol-point absolute w-6 h-6 bg-stone-400 rounded-full border-2 border-white" style="top: 25%; left: 30%;" data-text="Totenschädel: Das ultimative Symbol für den Tod und die Vergänglichkeit des menschlichen Lebens (Memento Mori)."></div>
+                         <div class="symbol-point absolute w-6 h-6 bg-stone-400 rounded-full border-2 border-white" style="top: 20%; left: 65%;" data-text="Verlöschende Kerze: Symbol für das Verstreichen der Zeit und das Ende des Lebenslichts."></div>
+                         <div class="symbol-point absolute w-6 h-6 bg-stone-400 rounded-full border-2 border-white" style="top: 60%; left: 75%;" data-text="Seifenblasen: Stehen für die Zerbrechlichkeit und Kürze des Lebens – schön, aber vergänglich (homo bulla est - der Mensch ist eine Seifenblase)."></div>
+                         <div class="symbol-point absolute w-6 h-6 bg-stone-400 rounded-full border-2 border-white" style="top: 70%; left: 20%;" data-text="Überreife Früchte & Insekten: Zeichen des Verfalls und der Zersetzung, die selbst auf die Fülle des Lebens folgen."></div>
+                         <div class="symbol-point absolute w-6 h-6 bg-stone-400 rounded-full border-2 border-white" style="top: 50%; left: 50%;" data-text="Sanduhr: Ein klares Symbol für das unaufhaltsame Verrinnen der Zeit."></div>
+                         <div id="symbol-tooltip" class="absolute hidden bg-black/70 text-white text-sm rounded py-1 px-2 pointer-events-none"></div>
+                    </div>
+                </div>
+                <div class="bg-white rounded-lg shadow-xl p-8">
+                     <h4 class="text-2xl font-bold mb-4 text-center">Heilige & Sünden</h4>
+                     <p class="text-stone-700 mb-4">Gegenüber der Vergänglichkeit stand der Appell an die Tugend. Die Heiligen waren nicht mehr starr und thronend wie im Mittelalter, sondern voller Bewegung und Pathos, nahbar und inspirierend. Franz von Assisi, barfuß und voller Glut. Ihnen gegenübergestellt wurden die sieben Todsünden als warnendes Beispiel, um die Gläubigen zum Widerstand gegen das Laster zu ermahnen.</p>
+                     <p class="text-stone-700 italic">Die Darstellung der Heiligen wurde dynamischer und emotionaler, um die Gläubigen direkt anzusprechen.</p>
+                </div>
+            </div>
+        </section>
+
+        <section id="reflexion" class="mb-12">
+            <h3 class="text-3xl font-bold text-center mb-2 text-red-900">Reflexion: Barocker als wir denken?</h3>
+            <p class="max-w-3xl mx-auto text-center text-stone-600 mb-12">
+                Am Ende des Rundgangs lässt sich eine überraschende Parallele ziehen. Die pädagogische Absicht barocker Bilder, die mit Schreck und Trost die Menschen erziehen wollten, findet sich in unserer modernen Welt wieder. Die untenstehende Grafik vergleicht die Präsenz von "Memento Mori" und "Carpe Diem" in verschiedenen Lebenswelten und regt zur Reflexion über unsere eigene "barocke" Gegenwart an.
+            </p>
+            <div class="bg-white rounded-lg shadow-xl p-4 md:p-8">
+                 <div class="relative w-full max-w-4xl mx-auto h-[400px] md:h-[450px]">
+                    <canvas id="reflectionChart"></canvas>
+                </div>
+            </div>
+             <div class="mt-8 max-w-4xl mx-auto text-center">
+                <p class="text-lg text-stone-700 mb-4">
+                    Unsere Gegenwart kennt ihre eigenen Bildwelten: Werbung, Social Media, Nachrichten. Instagram lockt mit ewigem <span class="font-bold">Carpe Diem</span> – „genieß dein Leben, kauf dies, poste das.“ Gleichzeitig prasselt das moderne <span class="font-bold">Memento Mori</span> in Schlagzeilen über Krisen, Kriege, Klima.
+                </p>
+                <p class="text-xl italic font-semibold text-stone-800">
+                    Vielleicht sind wir barocker, als wir zugeben wollen. Vielleicht ist Instagram nur die neue Rubens-Werkstatt – mit Filtern statt Firnis.
+                </p>
+            </div>
+        </section>
+
+    </main>
+
+    <footer class="bg-stone-800 text-stone-300 py-8">
+        <div class="container mx-auto px-6 text-center">
+            <p class="text-lg mb-2">Eine interaktive Erkundung der Kunst des Barock.</p>
+            <p>&copy; Wallraf-Richartz-Museum Inspirierte Reise, 2025</p>
+        </div>
+    </footer>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            
+            const smoothScrollLinks = document.querySelectorAll('a[href^="#"]');
+            smoothScrollLinks.forEach(link => {
+                link.addEventListener('click', function (e) {
+                    e.preventDefault();
+                    const targetId = this.getAttribute('href');
+                    const targetElement = document.querySelector(targetId);
+                    if(targetElement) {
+                        targetElement.scrollIntoView({ behavior: 'smooth' });
+                    }
+                });
+            });
+            
+            const timelineEvents = document.querySelectorAll('.timeline-event');
+            const timelineItems = document.querySelectorAll('.timeline-item');
+            timelineEvents.forEach(eventBtn => {
+                eventBtn.addEventListener('click', () => {
+                    const targetId = eventBtn.dataset.target;
+
+                    timelineEvents.forEach(btn => btn.classList.remove('active'));
+                    eventBtn.classList.add('active');
+
+                    timelineItems.forEach(item => {
+                        item.classList.add('hidden');
+                        if (item.id === targetId) {
+                            item.classList.remove('hidden');
+                        }
+                    });
+                });
+            });
+
+            const artistCards = document.querySelectorAll('.artist-card');
+            artistCards.forEach(card => {
+                card.addEventListener('click', () => {
+                    if (card.classList.contains('expanded')) return;
+
+                    artistCards.forEach(c => c.classList.remove('expanded'));
+                    card.classList.add('expanded');
+                });
+            });
+
+            const vanitasContainer = document.getElementById('vanitas-interactive');
+            const symbolPoints = document.querySelectorAll('.symbol-point');
+            const tooltip = document.getElementById('symbol-tooltip');
+
+            symbolPoints.forEach(point => {
+                point.addEventListener('mousemove', (e) => {
+                    const rect = vanitasContainer.getBoundingClientRect();
+                    tooltip.classList.remove('hidden');
+                    tooltip.textContent = point.dataset.text;
+                    tooltip.style.left = `${e.clientX - rect.left + 15}px`;
+                    tooltip.style.top = `${e.clientY - rect.top + 15}px`;
+                });
+                point.addEventListener('mouseleave', () => {
+                    tooltip.classList.add('hidden');
+                });
+            });
+
+            const ctx = document.getElementById('reflectionChart').getContext('2d');
+            const reflectionChart = new Chart(ctx, {
+                type: 'bar',
+                data: {
+                    labels: ['Barockmalerei', 'Instagram', 'Nachrichten', 'Modernes Leben'],
+                    datasets: [{
+                        label: 'Memento Mori (Gedenke des Todes)',
+                        data: [8, 2, 9, 5],
+                        backgroundColor: 'rgba(120, 113, 108, 0.7)',
+                        borderColor: 'rgba(120, 113, 108, 1)',
+                        borderWidth: 1
+                    }, {
+                        label: 'Carpe Diem (Nutze den Tag)',
+                        data: [9, 10, 1, 7],
+                        backgroundColor: 'rgba(202, 138, 4, 0.7)',
+                        borderColor: 'rgba(202, 138, 4, 1)',
+                        borderWidth: 1
+                    }]
+                },
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: false,
+                    indexAxis: 'y',
+                    scales: {
+                        x: {
+                            stacked: true,
+                            title: {
+                                display: true,
+                                text: 'Thematische Intensität (geschätzt)'
+                            }
+                        },
+                        y: {
+                            stacked: true,
+                            ticks: {
+                                autoSkip: false,
+                                callback: function(value, index, values) {
+                                    const label = this.getLabelForValue(value);
+                                    return label.length > 16 ? label.substring(0, 16) + '...' : label;
+                                }
+                            }
+                        }
+                    },
+                    plugins: {
+                        title: {
+                            display: true,
+                            text: 'Analyse: Memento Mori vs. Carpe Diem in verschiedenen Kontexten',
+                            font: {
+                                size: 18,
+                                family: "'Merriweather', serif"
+                            }
+                        },
+                        tooltip: {
+                            mode: 'index',
+                            intersect: false
+                        }
+                    }
+                }
+            });
+        });
+    </script>
+</body>
+</html>
