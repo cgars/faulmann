@@ -7,12 +7,19 @@ teaser: "Ein Wochenende zwischen Duisburger Hafenkränen, Zwiebelmetaphern und b
 teaser_en: "A weekend between Duisburg’s cranes, onion layers and Cologne’s Baroque masters: Faulmann reads the landscape like a palimpsest and finds today’s crises mirrored in Rubens and Rembrandt."
 ---
 
-![](https://pixelfed.social/storage/m/_v2/607467830790472239/9c67e908a-279c2f/4j7jgMtd0SYU/eWEPWsT6fN2rPQvqjjyMotTIsky1nGyOsE3RkAC3.png)
+---
+layout: post
+title: "Captain Faulmann zwischen Stahl und Sternen – Samstag am Niederrhein"
+date: 2025-09-22
+categories: faulmann niederrhein
+teaser: "Vom Duisburger Hafen über Moers, Neukirchen, Aldekerk und Straelen bis nach Venlo: Faulmann radelt durch ein Palimpsest aus Industrie, Schmuggelpfaden und Naturwunden."
+---
+
+![Cover](https://pixelfed.social/storage/m/_v2/607467830790472239/9c67e908a-279c2f/4j7jgMtd0SYU/eWEPWsT6fN2rPQvqjjyMotTIsky1nGyOsE3RkAC3.png)
 
 ## Samstag: Captain Faulmanns Tour de Niederrhein – Ein vertieftes Logbuch von Stahl, Seelenheil und Schmugglertinte  
 
-### Einleitung – Die Schiebermütze geraderücken und die Karten neu lesen  
-Der Alltag klebte Faulmann im Fell wie alter Honig, die Schiebermütze saß schief, und die Laune war eher so mittel. Beste Voraussetzungen also für eine Radtour, die mehr versprach als nur ein paar Kilometer unter die Reifen zu nehmen. Diesmal sollte es eine Fahrt werden, bei der das Land selbst wie ein Buch aufgeschlagen würde. Keine glatte Postkarte, sondern ein Palimpsest, in dem alte Sätze durchscheinen, wenn man nur genau genug hinsieht.  
+Faulmann startete am Samstag am Duisburger Außenhafen. Dort reckten sich die Kräne wie eiserne Giraffen in den Himmel, Container klapperten wie Bauklötze, und der Geruch von Diesel lag schwer in der Luft. Noch voller Unruhe fühlte sich der Bär, als würde man sein Fell gegen den Strich bürsten. Doch je länger er fuhr, desto mehr verwandelte sich der Lärm. Er dachte an die Dimensionen dieses Hafens – den größten Binnenhafen der Welt, ein Orchester aus 36.000 Menschen, 250 Firmen, endlosen Warenströmen. Da war es nicht mehr nur Krach, sondern eine Partitur, die der Fluss und die Welt selbst schrieben. Römer hatten hier schon den Rhein kontrolliert, Wikinger überwintert, und mittelalterliche Münzen fanden von Duisburg aus den Weg nach Skandinavien. Dann der große Einschnitt: Im 11. Jahrhundert änderte der Rhein seinen Lauf, schnitt die Stadt vom Wasser ab. *„Der Fluss, nicht der Mensch, schreibt hier die Partitur,“* murmelte Faulmann, als er über das graue Wasser blickte. Vanitas im Flussbett.  
 
 <div class="h_wrapper">
   <div class="h_iframe">
@@ -20,60 +27,29 @@ Der Alltag klebte Faulmann im Fell wie alter Honig, die Schiebermütze saß schi
   </div>
 </div>
 
-### Etappe 1: Duisburg – Echos im stählernen Herzen 🏭  
-Los ging es am Duisburger Außenhafen. Dort, wo die Kräne wie eiserne Giraffen den Himmel abtasteten und Container wie überdimensionale Bauklötze klappernd aufeinandergestapelt wurden. Der Geruch von Diesel hing schwer in der Luft, und das ferne Knirschen von Kohle in den Förderanlagen gab den Takt.  
+Hinter den Werkstoren begann das Land wieder zu atmen. Felder lösten Beton ab, bis das Schloss Moers vor ihm stand. Er setzte sich auf eine Mauer und biss in einen Keks, während er die Geschichte im Stein musterte: Wohnturm, Ringburg, Festung. Walburgis von Neuenahr-Moers, die Gräfin, deren Leben von Explosion und Enthauptung gezeichnet war, schob sich als Gedanke zwischen Keks und Kehle. Dann der Bruch: 1763 wurde die Festung geschleift, Mauern verschwanden, Kanonen verstummten. Heute Museum, heute Theater. *„Von Kanonenfutter zu Kulturfutter,“* brummte der Bär.  
 
-Faulmann, noch voller Unruhe, fühlte sich zwischen den Geräuschen wie ein Fell, das gegen den Strich gebürstet wird. Doch während er weiterrollte, begann die Gereiztheit sich zu verwandeln. Er dachte an die Größe des Hafens – den größten Binnenhafen der Welt! – und an die Abertausenden, die hier arbeiten. 36.000 Menschen, 250 Firmen, Umschlagzahlen, die einem den Kopf schwirren lassen. Und plötzlich war das alles mehr als nur Krach: es war ein globales Orchester, das nicht er, sondern die Welt selbst dirigierte.  
+Weiter nördlich lagen die Nieper Kuhlen, stille Wasser voller Eisvögel und Bitterlinge. Doch Faulmann sah darin die Spuren alter Rheinläufe und Torfstiche, die den Armen einst ein Zubrot gaben. *„Carpe Diem auf den Resten von Vanitas,“* dachte er, während sich das Spiegelbild der Wolken im Wasser verfing.  
 
-Aber die Geschichte des Hafens reichte tiefer als die Containerbrücken. Römer hatten hier den Rhein kontrolliert, Wikinger hatten hier überwintert, und mittelalterliche Münzen aus Duisburg fanden den Weg bis nach Skandinavien. Ein Kontinuum von Schiffen, Waren und Hoffnungen – und alles unterbrochen, als der Rhein im 11. Jahrhundert plötzlich seinen Lauf änderte und die Stadt vom Wasser abschnitt. *„Der Fluss, nicht der Mensch, schreibt hier die Partitur,“* murmelte Faulmann, als er die Brücke überquerte. Er beugte sich über das Geländer, sah auf das träge, graue Wasser, und spürte einen Kloß in der Kehle. Vanitas im Flussbett.  
+Dann kam Neukirchen, wo er mitten in ein Stadtfest rollte. Bunte Fahnen flatterten, Kinder sangen auf der Bühne, und der Bär hielt für einen Moment an. Er lächelte, sog die Musik ein und dachte: *„Carpe Diem live.“* Ein paar Straßen weiter tauchte auch Vluyn auf, und gemeinsam erzählten die Orte von Abbau und Neubeginn, von Industrie, die kam und ging.  
 
-### Etappe 2: Moers – Die gräfliche Verschnaufpause 🌳  
-Hinter den Werkstoren begann das Land zu atmen. Felder lösten Beton ab, Bäume rahmten die Straße, die Luft schmeckte frischer. Bald erhob sich das Schloss Moers, sein Wassergraben still, die Mauern von Jahrhunderten durchzogen.  
+Noch ein Stück weiter traf er auf die Orte Aldekerk und Nieukerk – fast wie ein Scherz der Kartografie. Copy-Paste mit Glockenturm. Doch die Pointe steckte tiefer: Nieukerk, die „neue“ Kirche, war älter als Aldekerk, die „alte“. Der Jüngere war hier der Ältere. *„Fast katholisch widersprüchlich,“* grinste Faulmann.  
 
-Faulmann stellte das Rad ab, setzte sich auf eine niedrige Mauer und kaute an einem Keks. Vor ihm eine Geschichte in Stein: der erste Wohnturm um 1200, später Ringburg, dann bastionierte Festung unter Moritz von Oranien. Walburgis von Neuenahr-Moers, die Gräfin, deren Leben von Enthauptung und Explosion gezeichnet war, huschte als Gedanke durch seinen Kopf.  
+In Straelen weiteten sich die Felder zu einem Meer aus Blumen und Gewächshäusern. Offizieller Wohlstand, geboren aus einer Idee: die Gemüseversteigerung von 1914. Und doch entdeckte Faulmann zwischen den Reihen eine kleine Überraschung:  
 
-Und dann der abrupte Bruch: 1763 wurde die Festung geschleift, Mauern abgetragen, Kanonen verschwanden. Heute beherbergte der Ort ein Museum und ein Theater. *„Von Kanonenfutter zu Kulturfutter,“* brummte Faulmann und rieb sich die Nase.  
+![Kilter AX-1](https://pixelfed.social/storage/m/_v2/607467830790472239/9c67e908a-279c2f/fgaDYWbrNr4j/frTlLZbJagIoxMngR57s9mOIlQPkAsjnvV8Mjcfc.jpg)  
 
-### Etappe 3: Neukirchen-Vluyn – Flüstern der alten Rheinläufe 🌾  
-Die Route führte weiter durch Niep und Rayen, vorbei an den Nieper Kuhlen. Heute ein Biotop voller Eisvögel und Bitterlinge, doch ursprünglich alte Rheinläufe und Torfstiche der armen Bevölkerung.  
+Ein flacher Roboter, der leise seine Bahnen zog, jedes Unkraut erkannte und mit einem Tropfen bekämpfte. Kein Science-Fiction, sondern Realität – der AX-1 im Einsatz. *„Präziser als jeder Schmuggler von einst,“* dachte Faulmann. Für ihn war es, als würde hier das nächste Kapitel des Niederrheins beginnen: mit Stahl, Erde und einem Hauch von Zukunft.  
 
-Faulmann blieb stehen, sah ins Wasser und dachte: *„Carpe Diem auf den Resten von Vanitas. Natur? Industrie? Ach was – hier ist alles Palimpsest.“*  
+Am Smokkelpad bekam die Geschichte plötzlich eine andere Farbe. Hier hatten einst Schmuggler Butter, Kaffee und Tabak über die Grenze getragen. Manche Geschichten klangen so verrückt, dass sie wahr sein mussten: schwarz bemalte Kühe, die nachts durch die Felder liefen. Faulmann balancierte über die nachgebauten Stege, die heute den Pfad markieren, und kicherte in seinen Bart: *„Grenzen sind mehr Fiktion als Mauer.“*  
 
-### Etappe 4: Aldekerk & Nieukerk – Das Echo im Kirchturm 👯‍♂️  
-Dann tauchten die beiden Orte auf, fast wie ein Scherz der Kartografie: Aldekerk und Nieukerk, alte und neue Kirche, nah beieinander. Faulmann stieg ab, schob die Schiebermütze aus der Stirn und grinste: *„Copy-Paste mit Glockenturm.“*  
+Mit dem Grenzübertritt in die Niederlande änderte sich der Rhythmus der Fahrt. Die Radwege wurden glatter, weicher, fast luxuriös nach den Schlaglöchern auf deutscher Seite. Faulmann atmete auf, genoss den neuen Takt – und genau in diesem Moment begann der Regen. Erst ein paar Tropfen, dann ein ganzer Vorhang, der ihm Schiebermütze und Fell durchnässte.  
 
-Doch das Rätsel steckte tiefer: Nieukerk, die „neue“ Kirche, war die Ältere. Bereits im 9. Jahrhundert soll es hier einen Vorläufer gegeben haben. Aldekerk dagegen, die „alte“, war die jüngere Ausgründung. Ein Namensspiel, das wie ein vertauschter Geburtseintrag wirkte.  
+Hinter Venlo öffnete sich die Landschaft, und am Schroliksee klatschten die Tropfen auf das Wasser, während Libellen über den Wellen tanzten, als wollten sie den Regen verspotten. Und unter dieser Idylle lag die schwere Geschichte: der Fliegerhorst Venlo, einst einer der größten Nachtjägerstützpunkte. Zwangsarbeit, Bombennächte, Churchill persönlich auf dem Rollfeld. Heute Segelflieger, Naturtheater und Bunkerreste im Wald.  
 
-*„Wie Brüder im Taufregister,“* murmelte Faulmann, *„nur dass der Jüngere älter ist. Fast katholisch widersprüchlich.“*  
+Die Seen – Schrolik, Hinsbecker Bruch – waren wie die Nieper Kuhlen alte Wunden, Torfstiche, die zu Biotopen wurden. Rastplatz für Kraniche, Heimat für Kammmolche. Faulmann sog den Regen ein und lachte: *„Vanitas mit Libellen. Aus Wunden werden Rastplätze, aus Krieg Freizeitgelände. Der Fluss der Geschichte verschlammt, aber verschwindet nie.“*  
 
-### Etappe 5: Straelen & der Smokkelpad – Schmuggel für Anfänger 🤫  
-
-Weiter westlich, kurz hinter den endlosen Reihen von Gewächshäusern, stößt Faulmann auf eine kleine Überraschung: Zwischen Salat und Petersilienwurzel fährt ein leiser, flacher Roboter seine Bahnen. Kein Science-Fiction, sondern Realität – in Straelen setzt ein Gemüsebetrieb seit Kurzem den **AX-1** ein. Die Maschine erkennt jedes Unkraut per Kamera und setzt einen einzelnen Tropfen auf dessen Blätter, statt ganze Felder zu vernebeln. *„Heimlicher als jeder Schmuggler von einst, rumpelt sogar noch ein zweiter in der Ferne“* denkt der Bär und lächelt in seinen Schnauzbart. Für ihn wirkt es, als würde hier das nächste Kapitel des Niederrheins geschrieben – mit Stahl, mit Erde, und mit einem Hauch von Zukunft.
-
-![Kilter AX-1](https://pixelfed.social/storage/m/_v2/607467830790472239/9c67e908a-279c2f/fgaDYWbrNr4j/frTlLZbJagIoxMngR57s9mOIlQPkAsjnvV8Mjcfc.jpg)
-
-Straelen empfing ihn mit Feldern voller Blumen und Gewächshäuser. Offizieller Wohlstand, geboren aus einer Idee: 1914 führte Hans Tenhaeff die niederländische Gemüseversteigerung ein. Aus Nachahmung wurde eine Erfolgsgeschichte.  
-
-Doch nur ein paar Tritte weiter, am Smokkelpad, erzählte der Boden von einer anderen Ökonomie. Hier schoben Schmuggler Butter, Kaffee und Tabak über die Grenze. Manche Geschichten waren so verrückt, dass sie nur wahr sein konnten: schwarz bemalte Kühe, die im Schutz der Nacht über die Felder liefen.  
-
-Faulmann balancierte über die nachgebauten Bretterstege, die den Pfad heute markieren, und kicherte in seinen Bart: *„Legal oder illegal – zwei Seiten derselben Medaille. Grenzen sind mehr Fiktion als Mauer.“*  
-Und doch, dachte er weiter, waren genau diese Grenzen heute wieder durchlässig – zumindest in der EU. Dieselbe Linie, die einst nachts im Schmugglerlicht lag, wird heute kaum bemerkt, wenn man sie überradelt. Bis eine Krise kommt, und plötzlich ist sie wieder da.  
-
-### Etappe 6: Niederlande & das nasse Finale – Vanitas mit Libellen 💧  
-Mit dem Grenzübertritt änderte sich der Asphalt. Glatter, weicher, verlässlicher. Doch die Erleichterung währte kurz: Regen setzte ein, dicke Tropfen klatschten auf Fell und Schiebermütze.  
-
-Er radelte am Schroliksee entlang, über dem still ein Segelflugzeug kreiste. Libellen tanzten über dem Wasser, als wollten sie den Regen verspotten. Naturtheater, still und doch laut in seiner Schönheit.  
-
-Doch unter dieser Oberfläche lag Geschichte schwer wie Blei. Der Fliegerhorst Venlo, im Krieg einer der größten Nachtjägerstützpunkte, hatte Zwangsarbeit und Bombennächte gesehen. Churchill selbst war hier gelandet. Jetzt glitten Segelflieger über die Startbahnen, die Wälder aber hielten die Bunkerreste wie vergrabene Erinnerungen.  
-
-Die Seen – Schrolik, Hinsbecker Bruch – waren wie die Nieper Kuhlen einst Torfstiche. Heute Vogelschutzgebiet, Rastplatz für Kraniche, Heimat für Kammmolche.  
-
-Faulmann sog den Regen ein, schüttelte das Fell, lachte leise: *„Vanitas mit Libellen. Aus Wunden werden Rastplätze. Aus Krieg Freizeitgelände. Der Fluss der Geschichte verschlammt, aber verschwindet nie.“*  
-
-### Ziel: Mönchengladbach & Fazit 🏁  
-Mit trockengefahrenem Fell und deutlich besserer Laune rollte Faulmann in Mönchengladbach ein. Die Sonne hatte inzwischen die Tropfen aus dem Pelz geleckt, die Schiebermütze saß wieder gerade. Nur die Knochen spürten das Gerüttel der deutschen Radwege – eine Art kostenloses Ganzkörpertraining.  
-
-> „Der Niederrhein,“ schrieb er innerlich ins Logbuch, „ist kein Nebeneinander von Industrie und Idylle. Er ist wie eine Zwiebel: Schicht auf Schicht, jede bringt etwas anderes hervor – mal Tränen, mal Würze. Und am Ende riechen die Pfoten danach, ob man will oder nicht.“  
+Als er in Mönchengladbach ankam, war das Fell halb trocken, die Laune leicht, die Schiebermütze wieder gerade. Nur die Knochen spürten das Gerüttel der Radwege. *„Der Niederrhein,“* schrieb er ins Logbuch, *„ist wie eine Zwiebel: Schicht auf Schicht, jede bringt etwas anderes hervor – mal Tränen, mal Würze. Und am Ende riechen die Pfoten danach, ob man will oder nicht.“*  
 
 ---
 
