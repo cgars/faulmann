@@ -79,79 +79,38 @@ Mit trockengefahrenem Fell und deutlich besserer Laune rollte Faulmann in Mönch
 
 ## Sonntag im Wallraf  
 
-Der Muskelkater noch in den Beinen, der Geruch von Regen noch im Fell, betrat Faulmann am Sonntag das Wallraf-Richartz-Museum. Mit Kaffee in der Pfote ließ er sich auf den Sprung ein: vom Mittelalter in den Barock.  
+Der Muskelkater noch in den Beinen, der Geruch von Regen noch im Fell, trat Faulmann am Sonntag seinen Museumsbesuch an. Das Rad hatte er zu Hause gelassen – bei dem Wetter wäre es ohnehin nur ein nasser Ballast gewesen. Vorher war er noch bei Merzenich eingekehrt, hatte sich einen heißen Kaffee geholt und ihn in seinen eigenen Irisgo-Becher umgefüllt. So stand er nun in der Lobby des Wallraf, roch den Hauch von Holz, Papier und irgendwo zwischen den Mantelstoffen der Besucher auch das Kölnisch Wasser 4711.  
+
+Er nahm einen ersten Schluck, lehnte sich zurück, und die Lobby wurde ihm zur Schleuse: von der nassen Stadt hinein in die Welt des Barock.  
 
 Die Einführungstafel erklärte nüchtern:  
 „Ob Katholik oder Protestant: das barocke Weltbild und Alltagsleben war geprägt von Religion und christlichen Moralvorstellungen. Wichtige Impulse setzte im 16. Jahrhundert das Konzil von Trient. Die katholische Kirche reagierte damit auf den Siegeszug des Protestantismus. Volksnähe und die emotionale Ansprache der Gläubigen waren nun gefordert.“  
 
 Faulmann nickte. „Also kein stiller Chor mehr, sondern volles Orchester.“  
 
-### Frühe Neuzeit – der Rahmen  
-Schon das Wort gefiel ihm: Frühe Neuzeit klang ein bisschen, als hätte jemand verschlafen und sei erst gegen Mittag aufgestanden. Doch die Epoche hatte es in sich:  
+Die Frühe Neuzeit, dachte er, war wie ein verschlafener Morgen, an dem man zu spät aufwacht – aber dann kommt alles auf einmal. Kopernikus, Kepler, Galileo verschoben die Erde aus dem Zentrum. Auf der Erde selbst riss der Dreißigjährige Krieg ganze Landschaften auf: Hunger, Pest, Söldner, 40 Prozent Tote. Ein „Memento Mori mit Trommelwirbel“. Und doch glänzten die Höfe, bauten Paläste, vergoldeten Kirchen. „Carpe Diem im Kugelhagel“, brummte Faulmann.  
 
-- Kopernikus, Kepler und Galileo rückten die Erde aus dem Zentrum und öffneten den Himmel.  
-- Auf der Erde dagegen tobten Reformation und Gegenreformation. Köln blieb katholisch, während das Reich sich spaltete.  
-- Der Dreißigjährige Krieg verwüstete halb Europa: Pest, Hunger, Kanonendonner. „Memento Mori mit Trommelwirbel,“ dachte Faulmann.  
-- Und trotzdem wuchsen Paläste, glänzten Kirchen im Gold, pinselten Künstler Triumph und Feste. „Carpe Diem im Kugelhagel,“ brummte der Bär.  
+Vor Rubens’ „Juno und Argus“ blieb er lange stehen. Gewalt und Schönheit in einem Atemzug. Argus, der hundertäugige Wächter, erschlagen, und Juno, die seine Augen einsammelt, um sie in die Federn des Pfaus zu setzen. Makaber, triumphal. Farben wie Trompeten, Stoffe wie Donnerwolken, Putten, die fast aus dem Rahmen fielen. „Memento Mori deluxe – und Carpe Diem in Purpur und Gold“, dachte Faulmann. Und weil er genau hinsah, entdeckte er den Regenbogen im Bild: Rubens wusste um Optik, Farbenlehre, Licht. „Ein Regenbogen im Fell“, murmelte der Bär.  
 
-### Rubens und Rembrandt  
-Vor einem der großen Bilder blieb er stehen: **„Juno und Argus“ von Rubens (um 1610).** Gewalt und Schönheit im selben Takt.  
+Ein paar Räume weiter: Rembrandts spätes Selbstbildnis. Keine Putten, kein Gold. Nur ein Gesicht, gealtert, Falten, Schatten. Ein Blick, der direkt in ihn hineinreichte. Rembrandt hatte alles verloren und malte sich doch mit Würde, ohne Maske, ohne Mitleid. „Memento Mori auf Augenhöhe. Carpe Diem im Altwerden“, dachte Faulmann. „Wenn Altern Kunst sein kann, will ich’s auch so tragen.“  
 
-Die Geschichte dazu kannte der Bär nur halb – und füllte sie jetzt auf: Argus, der hundertäugige Wächter, hatte Io, die Geliebte Jupiters, überwacht. Doch Merkur schlich sich an, schlug ihn tot. Nun tritt Juno, die betrogene Gattin, auf den Plan. Sie sammelt die Augen des Toten und setzt sie in die Federn ihres heiligen Pfaus – ein makaberer Akt der Verwandlung: aus Gewalt wird Schönheit, aus Tod wird Triumph.  
+Dann die Vertrauten: Franz von Assisi, barfuß, pathetisch, doch nahbar. Anna und Maria, nicht mehr auf Thronen, sondern einander zugewandt, mitten im Gespräch. „Selbst die Heiligen haben laufen gelernt“, brummte Faulmann zufrieden. Gegenüber die sieben Todsünden, grotesk, dämonisch. „Dachsbert würde sofort aufgeben.“  
 
-Die Leinwand knallte wie ein Fanfarenstoß. Primärfarben in voller Lautstärke, Stoffe wie Donnerwolken, Putten, die fast aus dem Rahmen purzelten. Rubens ließ nichts still – jede Seide glänzte, jeder Muskel spannte.  
+Stillleben reihten sich wie Vokabeln auf: Totenschädel, Muscheln, welke Blumen, Sanduhren. Vanitas in jeder Linie. Und daneben Blumenstücke, Rubens-Figuren, pralles Leben in Öl. „Gestern am Schroliksee – Vanitas pur. Und die singenden Kinder in Neukirchen – Carpe Diem live.“  
 
-„Das ist Memento Mori deluxe,“ dachte Faulmann, „und zugleich Carpe Diem in Purpur und Gold.“  
+Auf dem Weg nach unten blieb Faulmann im Treppenhaus vor einem der Fenster stehen. Draußen spiegelte sich Köln, matt im Glas. Auf den Scheiben stand, dass dort, wo heute die Einfahrt der Tiefgarage liegt, einst das Haus des Malers Stefan Lochner stand. „Vergangenheit unter Asphalt“, dachte der Bär, „ein Memento Mori der Stadt selbst.“  
 
-Und weil der Bär nicht nur ein Schiebermützenträger, sondern auch ein stiller Beobachter war, bemerkte er den Regenbogen im Bild. Rubens, Zeitgenosse von Wissenschaftlern wie Aguilonius, wusste genau, was er tat. Optik, Farbenlehre, Sinnlichkeit – alles floss zusammen. „Ein Regenbogen im Fell,“ brummte Faulmann, „so malt nur einer, der das Licht wirklich versteht.“  
+Und da kam ihm ein Vergleich, zuerst wie ein Scherz, dann gar keiner mehr: Instagram als neue Rubens-Werkstatt. Bühne, Pose, Inszenierung. Der Höfling damals, der Influencer heute. Das Bild bildet nicht ab, es schafft Realität. Früher bestimmten Hof und Kirche die Ästhetik, heute ein unsichtbarer Mäzen: der Algorithmus. Er belohnt das Grell-Emotionale, die Hochglanzpose. Eine unsichtbare Kunstpolizei mit Vorliebe für Carpe Diem.  
 
-Ein paar Räume weiter blieb er wieder stehen. Diesmal kein Donner, kein Gold – nur ein Gesicht. **Rembrandts spätes Selbstbildnis, um 1668.**  
+Die Gegenseite: das digitale Memento Mori. Kein Schädel mehr, sondern ein endloser Nachrichtenstrom aus Krisen, Kriegen, Klima. Dauerhafter Alarm, der nicht wach macht, sondern müde. Zwischen performativem Glück im Feed und globaler Bedrohung in den News – da lebt die neobarocke Spannung.  
 
-Die Haut dick aufgetragen, fast wie Fellsträhnen aus Farbe. Licht und Schatten modellierten das Gesicht, während der Rest im Dunkel versank. Rembrandt blickte ihn direkt an: alt, gezeichnet, ungebrochen.  
+„Vielleicht sind wir barocker, als wir zugeben wollen“, dachte Faulmann. „Filter statt Firnis – aber die Mechanik ist dieselbe.“ Und dann grinste er. „Im Grunde bin ich auch ein barocker Bär: ein bisschen Memento Mori, ein bisschen Carpe Diem. Und immer zu viel Kaffee.“  
 
-Faulmann wusste, dass dieser Maler viel verloren hatte: Geld, Ansehen, Frau, Kinder. Und trotzdem stand da einer, der sich nicht klein machte, sondern mit jedem Pinselstrich sagte: *So bin ich. Nimm’s oder lass es.*  
-
-„Das ist Memento Mori auf Augenhöhe,“ dachte Faulmann. „Und Carpe Diem im Altwerden. Wenn Altern Kunst sein kann, will ich’s auch so tragen.“  
-
-Er grinste, fast so, als hätte er mit dem alten Maler eine stille Verabredung getroffen: Jeder trägt seine Jahre – der eine in Öl, der andere im Fell.  
-
-### Heilige und Sünden  
-Dann tauchten die Vertrauten wieder auf: Franz von Assisi, diesmal pathetisch und barfuß; Anna und Maria, stehend und einander zugewandt. Sogar die Heiligen hatten Bewegung gelernt.  
-
-Und gegenüber: die sieben Todsünden. Dämonische Gestalten, grotesk, gierig, zornig.  
-Faulmann musste lachen. Dachsbert hätte die Liste wahrscheinlich wie eine To-Do-Liste gelesen – und wäre schon beim ersten Punkt gescheitert.  
-
-Doch die Strategie war klar: Heilige, die ziehen – Sünden, die abstoßen. Ein moralisches Gummiband. „Push und Pull,“ dachte Faulmann, „pädagogisch perfekt.“  
-
-### Vanitas und Carpe Diem  
-Stillleben mit Totenschädeln, Muscheln, welkenden Blättern: Vanitas, Mahnung, Vergänglichkeit.  
-Ein Raum weiter: pralle Rubens-Figuren, Blumenstücke, die fast aus dem Rahmen sprangen: Carpe Diem in Öl.  
-
-Faulmann musste lachen: „Gestern am Schroliksee – Vanitas pur. Und die singenden Kinder in Neukirchen – Carpe Diem live.“  
-
-## Kritische Reflexion – Neobarock jetzt
-Faulmann blieb vor einem Fenster stehen, die Stadt als matte Spiegelung in der Scheibe. Ihm kam ein Vergleich in den Sinn, der zuerst wie ein Witz klang und dann gar keiner mehr war.  
-
-**Instagram als neue Rubens-Werkstatt.**  
-Beide Welten lieben Bühne und Pose. Der barocke Höfling, der mit Gesten und Kostümen Status malt, ist der Vorfahr des Influencers, der mit Filtern und Feeds eine Marke baut. Das Bild bildet nicht bloß ab; es **schafft** Realität – damals für Gnade und Macht, heute für Reichweite und Kommerz. Früher bestimmte der Mäzen (Hof, Kirche) die Ästhetik; heute tut es ein anderer Mäzen: der **Algorithmus**. Unsichtbar, aber nicht weniger mächtig. Rubens malte, was Päpste und Fürsten verlangten; Influencer posten, was der Newsfeed belohnt. Unterschiedliche Jahrhunderte, gleiche Abhängigkeit.  
-
-Und die Gegenseite? Das digitale **Memento Mori**: ein 24/7-Nachrichtenstrom aus Krisen, Kriegen, Klima. Kein einzelner Totenschädel mehr, der schockt, sondern ein permanenter Alarmton, der abstumpfen kann. Zwischen performativem Glück (Feed) und globaler Bedrohung (News) lebt eine neobarocke Spannung: mehr Schein, je lauter der Ernst.  
-
-„Vielleicht sind wir barocker, als wir zugeben wollen,“ dachte Faulmann. „Filter statt Firnis – aber die Mechanik ist die gleiche.“  
-
-Er lachte kurz und fasste sich an den Bauch. „Im Grunde bin ich auch ein barocker Bär: ein bisschen Memento Mori, ein bisschen Carpe Diem. Und immer zu viel Essen.“  
-
----
-
-## Epilog – Ein Bär zwischen den Welten  
-
-Draußen vor dem Museum atmete Faulmann die Kölner Luft, schwer vom Regen, leicht vom Kaffee. Und während er die Schiebermütze etwas tiefer zog, dachte er:  
+Draußen vor dem Museum atmete Faulmann die Kölner Luft, schwer vom Regen, leicht vom Kaffee. Er zog die Schiebermütze etwas tiefer ins Gesicht und dachte weiter:  
 
 „Die Frühe Neuzeit war eine Zeit der Umbrüche – Reformation, Kriege, Pest und neue Sterne am Himmel. Und was ist unsere Gegenwart anderes?“  
 
-Auch heute: Seuchen, die die Welt lahmlegen; Kriege, die mitten nach Europa zurückgekehrt sind; ein Klima, das kippt; eine Polykrise, die alles gleichzeitig drückt. Und dazu eine Medienrevolution, die Bilder schneller und schriller verbreitet, als Rubens je hätte malen können – und ein Westen, der mit eiligerem Schritt in den Autoritarismus rennt, als jede Schwedenarmee je vorankam.  
-
-Faulmann schnaubte. „Die Nachrichten prasseln wie Regen auf meine Schiebermütze – sie durchnässt, aber sie hält.“  
+Auch heute: Seuchen, die die Welt lahmlegen; Kriege, die mitten nach Europa zurückgekehrt sind; ein Klima, das kippt; eine Polykrise, die alles gleichzeitig drückt. Und dazu eine Medienrevolution, die Bilder schneller und schriller verbreitet, als Rubens je hätte malen können – und ein Westen, der eiliger in den Autoritarismus marschiert, als jede Schwedenarmee je vorankam.  
 
 Faulmann lachte leise. Denn er wusste: Auch er selbst war Teil dieser neuen Welt. Ein Wesen zwischen Fell und Algorithmus, geboren aus Menschenhand und KI-Code, ein Autor, der zugleich Beobachter und Erzählung ist.  
 
@@ -159,6 +118,6 @@ Im Museum hatte die AI ihm geholfen: Sie las Tafeln vor, recherchierte die Früh
 
 „Vielleicht,“ dachte der Bär, „sind wir längst beide Autoren. Mensch und Maschine, Bär und Bot. Wie im Barock: kein Entweder-oder, sondern ein Sowohl-als-auch. Fast katholisch widersprüchlich.“  
 
-Dann aber knurrte sein Bauch. Also zog er weiter zum Heumarkt, bestellte sich eine Currywurst mit Pommes – rot-weiß, wie ein stilles Wappen der Arbeiterstädte, die er am Vortag durchradelt hatte. Duisburg, Hafen, Kräne – jetzt Köln, Museum, Barock – und am Ende: Wurst und Kartoffel.  
+Dann aber knurrte sein Bauch. Also wanderte er hinüber zum Heumarkt, stellte sich unter den roten Schirm eines Imbissstands und bestellte Currywurst mit Pommes – rot-weiß, wie ein stilles Wappen der Arbeiterstädte, die er am Vortag durchradelt hatte. Duisburg, Hafen, Kräne – jetzt Köln, Museum, Barock – und am Ende: Wurst und Kartoffel.  
 
-Faulmann grinste. „So schließt sich der Kreis. Zwischen Rubens und Rembrandt, zwischen Memento Mori und Carpe Diem – am Ende doch eine Currywurst am Rhein und danach der Weg zurück ins Moos.“
+Faulmann grinste. „So schließt sich der Kreis. Zwischen Rubens und Rembrandt, zwischen Memento Mori und Carpe Diem – am Ende doch eine Currywurst am Rhein und danach der Weg zurück ins Moos.“  
