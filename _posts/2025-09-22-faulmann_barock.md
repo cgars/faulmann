@@ -7,14 +7,6 @@ teaser: "Ein Wochenende zwischen Duisburger Hafenkränen, Zwiebelmetaphern und b
 teaser_en: "A weekend between Duisburg’s cranes, onion layers and Cologne’s Baroque masters: Faulmann reads the landscape like a palimpsest and finds today’s crises mirrored in Rubens and Rembrandt."
 ---
 
----
-layout: post
-title: "Captain Faulmann zwischen Stahl und Sternen – Samstag am Niederrhein"
-date: 2025-09-22
-categories: faulmann niederrhein
-teaser: "Vom Duisburger Hafen über Moers, Neukirchen, Aldekerk und Straelen bis nach Venlo: Faulmann radelt durch ein Palimpsest aus Industrie, Schmuggelpfaden und Naturwunden."
----
-
 ![Cover](https://pixelfed.social/storage/m/_v2/607467830790472239/9c67e908a-279c2f/4j7jgMtd0SYU/eWEPWsT6fN2rPQvqjjyMotTIsky1nGyOsE3RkAC3.png)
 
 ## Samstag: Captain Faulmanns Tour de Niederrhein – Ein vertieftes Logbuch von Stahl, Seelenheil und Schmugglertinte  
