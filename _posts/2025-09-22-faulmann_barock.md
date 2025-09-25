@@ -60,9 +60,9 @@ Die Frühe Neuzeit, dachte er, war wie ein verschlafener Morgen, an dem man zu s
 
 Vor Rubens’ „Juno und Argus“ blieb er lange stehen. Gewalt und Schönheit in einem Atemzug. Argus, der hundertäugige Wächter, erschlagen, und Juno, die seine Augen einsammelt, um sie in die Federn des Pfaus zu setzen. Makaber, triumphal. Farben wie Trompeten, Stoffe wie Donnerwolken, Putten, die fast aus dem Rahmen fielen. „Memento Mori deluxe – und Carpe Diem in Purpur und Gold“, dachte Faulmann. Und weil er genau hinsah, entdeckte er den Regenbogen im Bild: Rubens wusste um Optik, Farbenlehre, Licht. „Ein Regenbogen im Fell“, murmelte der Bär.  
 
-Ein paar Räume weiter: Rembrandts spätes Selbstbildnis. Keine Putten, kein Gold. Nur ein Gesicht, gealtert, Falten, Schatten. Ein Blick, der direkt in ihn hineinreichte. Rembrandt hatte alles verloren und malte sich doch mit Würde, ohne Maske, ohne Mitleid. „Memento Mori auf Augenhöhe. Carpe Diem im Altwerden“, dachte Faulmann. „Wenn Altern Kunst sein kann, will ich’s auch so tragen.“  
+Ein paar Räume weiter: Rembrandts spätes Selbstbildnis. Keine Putten, kein Gold. Nur ein Gesicht, gealtert, Falten, Schatten. Ein Blick, der direkt in ihn hineinreichte. Rembrandt hatte alles verloren und malte sich doch mit Würde, ohne Maske, ohne Mitleid. „Memento Mori auf Augenhöhe. Carpe Diem im Altwerden“, dachte Faulmann. „Wenn Altern Kunst sein kann, will ich’s auch so tragen.“ Kein Filter, kein Glow – Rembrandt war quasi sein eigener „No-Makeup-Selfie“-Trendsetter.  
 
-Dann die Vertrauten: Franz von Assisi, barfuß, pathetisch, doch nahbar. Anna und Maria, nicht mehr auf Thronen, sondern einander zugewandt, mitten im Gespräch. „Selbst die Heiligen haben laufen gelernt“, brummte Faulmann zufrieden. Gegenüber die sieben Todsünden, grotesk, dämonisch. „Dachsbert würde sofort aufgeben.“  
+Dann die Vertrauten: Franz von Assisi, barfuß, pathetisch, doch nahbar. Anna und Maria, nicht mehr auf Thronen, sondern einander zugewandt, mitten im Gespräch. „Selbst die Heiligen haben laufen gelernt“, brummte Faulmann zufrieden. Gegenüber die sieben Todsünden, grotesk, dämonisch. „Dachsbert würde sofort aufgeben. Und vermutlich beim Buffet der Völlerei unterschreiben.“  
 
 Stillleben reihten sich wie Vokabeln auf: Totenschädel, Muscheln, welke Blumen, Sanduhren. Vanitas in jeder Linie. Und daneben Blumenstücke, Rubens-Figuren, pralles Leben in Öl. „Gestern am Schroliksee – Vanitas pur. Und die singenden Kinder in Neukirchen – Carpe Diem live.“  
 
@@ -86,6 +86,7 @@ Im Museum hatte die AI ihm geholfen: Sie las Tafeln vor, recherchierte die Früh
 
 „Vielleicht,“ dachte der Bär, „sind wir längst beide Autoren. Mensch und Maschine, Bär und Bot. Wie im Barock: kein Entweder-oder, sondern ein Sowohl-als-auch. Fast katholisch widersprüchlich.“  
 
-Dann aber knurrte sein Bauch. Also wanderte er hinüber zum Heumarkt, stellte sich unter den roten Schirm eines Imbissstands und bestellte Currywurst mit Pommes – rot-weiß, wie ein stilles Wappen der Arbeiterstädte, die er am Vortag durchradelt hatte. Duisburg, Hafen, Kräne – jetzt Köln, Museum, Barock – und am Ende: Wurst und Kartoffel.  
+Dann aber knurrte sein Bauch. Also wanderte er hinüber zum Heumarkt, stellte sich unter den roten Schirm eines Imbissstands und bestellte Currywurst mit Pommes – rot-weiß, wie ein stilles Wappen der Arbeiterstädte, die er am Vortag durchradelt hatte. Oder wie die ultimative Vanitas des Fastfoods: köstlich, fettig, vergänglich. Duisburg, Hafen, Kräne – jetzt Köln, Museum, Barock – und am Ende: Wurst und Kartoffel.  
 
 Faulmann grinste. „So schließt sich der Kreis. Zwischen Rubens und Rembrandt, zwischen Memento Mori und Carpe Diem – am Ende doch eine Currywurst am Rhein und danach der Weg zurück ins Moos.“  
+
