@@ -19,28 +19,6 @@ Faulmann startete am Samstag am Duisburger Außenhafen. Dort reckten sich die Kr
   </div>
 </div>
 
-Hinter den Werkstoren begann das Land wieder zu atmen. Felder lösten Beton ab, bis das Schloss Moers vor ihm stand. Er setzte sich auf eine Mauer und biss in einen Keks, während er die Geschichte im Stein musterte: Wohnturm, Ringburg, Festung. Walburgis von Neuenahr-Moers, die Gräfin, deren Leben von Explosion und Enthauptung gezeichnet war, schob sich als Gedanke zwischen Keks und Kehle. Dann der Bruch: 1763 wurde die Festung geschleift, Mauern verschwanden, Kanonen verstummten. Heute Museum, heute Theater. *„Von Kanonenfutter zu Kulturfutter,“* brummte der Bär.  
-
-Weiter nördlich lagen die Nieper Kuhlen, stille Wasser voller Eisvögel und Bitterlinge. Doch Faulmann sah darin die Spuren alter Rheinläufe und Torfstiche, die den Armen einst ein Zubrot gaben. *„Carpe Diem auf den Resten von Vanitas,“* dachte er, während sich das Spiegelbild der Wolken im Wasser verfing.  
-
-Dann kam Neukirchen, wo er mitten in ein Stadtfest rollte. Bunte Fahnen flatterten, Kinder sangen auf der Bühne, und der Bär hielt für einen Moment an. Er lächelte, sog die Musik ein und dachte: *„Carpe Diem live.“* Ein paar Straßen weiter tauchte auch Vluyn auf, und gemeinsam erzählten die Orte von Abbau und Neubeginn, von Industrie, die kam und ging.  
-
-Noch ein Stück weiter traf er auf die Orte Aldekerk und Nieukerk – fast wie ein Scherz der Kartografie. Copy-Paste mit Glockenturm. Doch die Pointe steckte tiefer: Nieukerk, die „neue“ Kirche, war älter als Aldekerk, die „alte“. Der Jüngere war hier der Ältere. *„Fast katholisch widersprüchlich,“* grinste Faulmann.  
-
-In Straelen weiteten sich die Felder zu einem Meer aus Blumen und Gewächshäusern. Offizieller Wohlstand, geboren aus einer Idee: die Gemüseversteigerung von 1914. Und doch entdeckte Faulmann zwischen den Reihen eine kleine Überraschung:  
-
-![Kilter AX-1](https://pixelfed.social/storage/m/_v2/607467830790472239/9c67e908a-279c2f/fgaDYWbrNr4j/frTlLZbJagIoxMngR57s9mOIlQPkAsjnvV8Mjcfc.jpg)  
-
-Ein flacher Roboter, der leise seine Bahnen zog, jedes Unkraut erkannte und mit einem Tropfen bekämpfte. Kein Science-Fiction, sondern Rea## Samstag: Captain Faulmanns Tour de Niederrhein – Ein vertieftes Logbuch von Stahl, Seelenheil und Schmugglertinte  
-
-Faulmann startete am Samstag am Duisburger Außenhafen. Dort reckten sich die Kräne wie eiserne Giraffen in den Himmel, Container klapperten wie Bauklötze, und der Geruch von Diesel lag schwer in der Luft. Noch voller Unruhe fühlte sich der Bär, als würde man sein Fell gegen den Strich bürsten. Doch je länger er fuhr, desto mehr verwandelte sich der Lärm. Er dachte an die Dimensionen dieses Hafens – den größten Binnenhafen der Welt, ein Orchester aus 36.000 Menschen, 250 Firmen, endlosen Warenströmen. Da war es nicht mehr nur Krach, sondern eine Partitur, die der Fluss und die Welt selbst schrieben. Römer hatten hier schon den Rhein kontrolliert, Wikinger überwintert, und mittelalterliche Münzen fanden von Duisburg aus den Weg nach Skandinavien. Dann der große Einschnitt: Im 11. Jahrhundert änderte der Rhein seinen Lauf, schnitt die Stadt vom Wasser ab. *„Der Fluss, nicht der Mensch, schreibt hier die Partitur,“* murmelte Faulmann, als er über das graue Wasser blickte. Vanitas im Flussbett.  
-
-<div class="h_wrapper">
-  <div class="h_iframe">
-    <iframe height="2" width="2" src="https://www.komoot.com/de-de/tour/2588854996/embed?share_token=aU1tiHooQca1o4wTPvVSWH6UFpNw9UD8PsEtROiT6XOR40ol3j&profile=1" width="100%" height="700" frameborder="0" scrolling="no"></iframe>
-  </div>
-</div>
-
 Hinter den Werkstoren begann das Land wieder zu atmen. Felder lösten Beton ab, bis das Schloss Moers vor ihm stand. Er setzte sich auf eine Mauer und biss in einen Keks, während er die Geschichte im Stein musterte: Wohnturm, Ringburg, Festung. Walburgis von Neuenahr-Moers, die Gräfin, deren Leben von Explosion und Enthauptung gezeichnet war, schob sich als Gedanke zwischen Keks und Kehle. Dann der Bruch: 1763 wurde die Festung geschleift, Mauern verschwanden, Kanonen verstummten. Heute Museum, heute Theater. *„Von Kanonenfutter zu Kulturfutter,“* brummte der Bär – und brach dabei fast selbst in Gelächter aus.  
 
 Weiter nördlich lagen die Nieper Kuhlen, stille Wasser voller Eisvögel und Bitterlinge. Doch Faulmann sah darin die Spuren alter Rheinläufe und Torfstiche, die den Armen einst ein Zubrot gaben. *„Carpe Diem auf den Resten von Vanitas,“* dachte er, während sich das Spiegelbild der Wolken im Wasser verfing. Und fügte leise hinzu: *„Gratis-Kneippkur für Radler inklusive.“*  
