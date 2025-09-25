@@ -63,7 +63,7 @@ Hinter Venlo öffnete sich die Landschaft, und am Schroliksee klatschten die Tro
 
 Die Seen – Schrolik, Hinsbecker Bruch – waren wie die Nieper Kuhlen alte Wunden, Torfstiche, die zu Biotopen wurden. Rastplatz für Kraniche, Heimat für Kammmolche. Faulmann sog den Regen ein und lachte: *„Vanitas mit Libellen. Aus Wunden werden Rastplätze, aus Krieg Freizeitgelände. Der Fluss der Geschichte verschlammt, aber verschwindet nie.“*  
 
-Als er in Mönchengladbach ankam, war das Fell halb trocken, die Laune leicht, die Schiebermütze wieder gerade. Nur die Knochen spürten das Gerüttel der Radwege. *„Der Niederrhein,“* schrieb er ins Logbuch, *„ist wie eine Zwiebel: Schicht auf Schicht, jede bringt etwas anderes hervor – mal Tränen, mal Würze. Und am Ende riechen die Pfoten danach, ob man will oder nicht.“* Und fügte grinsend hinzu: *„Und Radlertränen gibt’s gratis.“*  
+Als er in Mönchengladbach ankam, war das Fell halb trocken, die Laune leicht, die Schiebermütze wieder gerade. Nur die Knochen spürten das Gerüttel der Radwege. *„Der [Niederrhein](/reports/niederrhein.html),“* schrieb er ins Logbuch, *„ist wie eine Zwiebel: Schicht auf Schicht, jede bringt etwas anderes hervor – mal Tränen, mal Würze. Und am Ende riechen die Pfoten danach, ob man will oder nicht.“* Und fügte grinsend hinzu: *„Und Radlertränen gibt’s gratis.“*  
 
 
 ---
@@ -72,7 +72,7 @@ Als er in Mönchengladbach ankam, war das Fell halb trocken, die Laune leicht, d
 
 Der Muskelkater noch in den Beinen, der Geruch von Regen noch im Fell, trat Faulmann am Sonntag seinen Museumsbesuch an. Das Rad hatte er zu Hause gelassen – bei dem Wetter wäre es ohnehin nur ein nasser Ballast gewesen. Vorher war er noch bei Merzenich eingekehrt, hatte sich einen heißen Kaffee geholt und ihn in seinen eigenen Irisgo-Becher umgefüllt. So stand er nun in der Lobby des Wallraf, roch den Hauch von Holz, Papier und irgendwo zwischen den Mantelstoffen der Besucher auch das Kölnisch Wasser 4711.  
 
-Er nahm einen ersten Schluck, lehnte sich zurück, und die Lobby wurde ihm zur Schleuse: von der nassen Stadt hinein in die Welt des Barock.  
+Er nahm einen ersten Schluck, lehnte sich zurück, und die Lobby wurde ihm zur Schleuse: von der nassen Stadt hinein in die Welt des [Barock](/reports/barrock.html).  
 
 Die Einführungstafel erklärte nüchtern:  
 „Ob Katholik oder Protestant: das barocke Weltbild und Alltagsleben war geprägt von Religion und christlichen Moralvorstellungen. Wichtige Impulse setzte im 16. Jahrhundert das Konzil von Trient. Die katholische Kirche reagierte damit auf den Siegeszug des Protestantismus. Volksnähe und die emotionale Ansprache der Gläubigen waren nun gefordert.“  
