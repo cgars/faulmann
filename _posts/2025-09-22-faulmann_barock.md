@@ -9,7 +9,7 @@ teaser_en: "A weekend between Duisburg’s cranes, onion layers and Cologne’s 
 
 ![Cover](https://pixelfed.social/storage/m/_v2/607467830790472239/9c67e908a-279c2f/4j7jgMtd0SYU/eWEPWsT6fN2rPQvqjjyMotTIsky1nGyOsE3RkAC3.png)
 
-## Samstag: Captain Faulmanns Tour de Niederrhein – Ein vertieftes Logbuch von Stahl, Seelenheil und Schmugglertinte  
+## Samstag: Captain Faulmanns Tour de Niederrhein
 
 Faulmann startete am Samstag und rollte in Duisburg zum Außenhafen. Dort reckten sich die Kräne wie eiserne Giraffen in den Himmel, Container klapperten wie Bauklötze, und der Geruch von Diesel lag schwer in der Luft. Noch voller Unruhe vom alltag fühlte sich der Bär, als würde man sein Fell gegen den Strich bürsten. Doch je länger er fuhr, desto mehr verwandelte sich der Lärm. Er dachte an die Dimensionen dieses Hafens – den größten Binnenhafen der Welt, ein Orchester aus 36.000 Menschen, 250 Firmen, endlosen Warenströmen. Da war es nicht mehr nur Krach, sondern eine Partitur, die der Fluss und die Welt selbst schrieben. Römer hatten hier schon den Rhein kontrolliert, Wikinger überwintert, und mittelalterliche Münzen fanden von Duisburg aus den Weg nach Skandinavien. Dann der große Einschnitt: Im 11. Jahrhundert änderte der Rhein seinen Lauf, schnitt die Stadt vom Wasser ab. *„Der Fluss, nicht der Mensch, gib hier den Takt vor,“* murmelte Faulmann, als er über das graue Wasser blickte. Vanitas im Flussbett.  
 
