@@ -90,4 +90,6 @@ Dann aber knurrte sein Bauch. Also wanderte er hinüber zum Heumarkt, stellte si
 
 Faulmann grinste. „So schließt sich der Kreis. Zwischen Rubens und Rembrandt, zwischen Memento Mori und Carpe Diem – am Ende doch eine Currywurst am Rhein und danach der Weg zurück ins Moos.“  
 
+<iframe height="2" width="2" src="https://open.spotify.com/embed/episode/7FHz9XnnqLNaWx3j4Te3LH?utm_source=generator&theme=0" frameborder="0" allowfullscreen></iframe>
+
 
