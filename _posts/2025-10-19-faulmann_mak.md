@@ -11,9 +11,9 @@ teaser_en: "A bear in a white hall, a car like a prayer in chrome and speed – 
 
 Der Morgen am Flughafen war kurz und stürmisch. Der Geruch von warmem Öl und Kerosin lag in der Luft, irgendwo klickte die Raumbeleuchtung – ein metallisches Echo auf das, was gleich folgen sollte. Ein schneller Kaffee auf der Aussichtsplattform. Hier kann man sonst auch mal Stunden verbringen, den Fliegern beim Starten zusehen und den Geruch von Kerosin genießen – aber dafür stürmt es heute zu sehr. Daher schnell in die S-Bahn Richtung Innenstadt. Der Kapitän – das Klapprad neben sich, die Gedanken noch irgendwo zwischen Startbahn und Schlaf – fährt zum MAKK, dem Museum für Angewandte Kunst. Dort will er sich die Ausstellung zu Kunst und Design ansehen – und findet sich, ganz unerwartet, in einem anderen Zukunftsversprechen wieder.
 
-![Mercedes-Benz 300 SL By Oleg Yunakov](https://pxscdn.com/public/m/_v2/607467830790472239/0c2c69eb8-6377a8/oOK2YjVnfXnW/IYa5vOrhBA3PC6bKOMCwkTDIvfVT4USIQJZ5exfp.jpg)
-
 Es ist still. Nur der Boden hallt leise unter den Sohlen. Im weiten weißen Vorraum steht er allein – der **Mercedes-Benz 300 SL**, Gullwing, Flügeltürer, Ikone. Seine Linien sind glatt wie gespannte Muskeln, sein Chrom spiegelt das Licht der Halle. Faulmann bleibt stehen, fast andächtig. „Ein Tier aus Metall“, denkt er. „Geboren aus Geschwindigkeit und Sehnsucht.“ Auf dem Schild daneben liest er: *„Sensation der Straße“*, *„Designlegende des 20. Jahrhunderts“*. Und tatsächlich – das Ding hat etwas Lebendiges. Nicht nur, weil es glänzt, sondern weil es etwas erzählt: von Träumen, Technik und dem menschlichen Willen, Schönheit in Bewegung zu übersetzen. Der Bär tritt einen Schritt zurück. Hinter diesem Auto, ahnt er, beginnt etwas Neues – eine Geschichte, in der das Nützliche plötzlich schön sein darf und das Schöne sich mit Schrauben befestigen lässt.
+
+![Mercedes-Benz 300 SL By Oleg Yunakov](https://pxscdn.com/public/m/_v2/607467830790472239/0c2c69eb8-6377a8/oOK2YjVnfXnW/IYa5vOrhBA3PC6bKOMCwkTDIvfVT4USIQJZ5exfp.jpg)
 
 ---
 
@@ -75,3 +75,4 @@ Vielleicht, denkt er, ist das der eigentliche Witz unserer Zeit – dass ausgere
 Draußen tropfen noch Blätter von den Bäumen, als Faulmann durch die Glasfront blickt. „Zero“, denkt er, „ist kein Nichts. Es ist der Moment, bevor etwas wird.“ So wie der Countdown kein Schweigen ist, sondern gespannte Möglichkeit. Wie Intelligenz nicht im Ergebnis liegt, sondern im Wagnis des Fragens. Und wie jedes wirklich neue Denken beginnt – nicht mit Wissen, sondern mit dem Mut, noch keine Antwort zu haben.
 
 Und irgendwo draußen, hinter Glas und Regen, wartet schon der nächste Raum – vielleicht voller Stühle, die zuhören.
+
