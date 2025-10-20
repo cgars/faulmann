@@ -43,6 +43,9 @@ Der Begleittext spricht von *Mid-Century Modern* – Schwarz, Weiß, Rot und Gel
 
 > *„Vielleicht ist Design ja nichts anderes,“* murmelt Faulmann, *„als die Kunst, den Dingen das Schweigen beizubringen – damit sie uns zuhören.“*
 
+
+Jedenfalls ist diese Ausstellung – und damit der erste Teil des MAK, den der Bär besucht hat – mehr als einen Besuch wert. Eine wunderbar inspirierende Tour de Force durch ein Jahrhundert Design – so klug, verspielt und anregend, dass Faulmann wohl wiederkommen muss.
+
 ## Sputnik und der Traum vom Morgen
 
 Faulmann hatte sich danach zum Atmen im Vorraum des MAKK niedergelassen – auf einem erstaunlich bequemen Sitzmöbel mit Stromanschluss für Handy, Computer und Gedanken. Draußen sieht man den Herbst hinterlistig herumlungern, und ihm kommt einer der Texte aus der Ausstellung in den Sinn:
@@ -96,4 +99,5 @@ Und doch, tief in ihm, glimmt etwas von jener alten Farbe der Zukunft: ein matte
 ---
 
 *Faulmann, im Herbst 2025 – zwischen Neon und Blau.*
+
 
