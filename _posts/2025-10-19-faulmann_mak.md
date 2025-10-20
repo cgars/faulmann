@@ -10,7 +10,7 @@ teaser_en: "A bear in a white hall, a car like a prayer in chrome and speed – 
 
 ![](https://pixelfed.social/storage/m/_v2/607467830790472239/0c2c69eb8-6377a8/z1KfsQGYIzxJ/pt630bxd9q1EgwI5wV4n9BgbZEt87TH3GlYPzhMx.png)
 
-Der Morgen am Flughafen war kurz und stürmisch. Der Geruch von warmem Öl und Kerosin lag in der Luft, irgendwo klickte die Raumbeleuchtung – ein metallisches Echo auf das, was gleich folgen sollte. Ein schneller Kaffee auf der Aussichtsplattform. Hier kann man sonst auch mal Stunden verbringen, den Fliegern beim Starten zusehen und den Geruch von Kerosin genießen – aber dafür stürmt es heute zu sehr. Daher schnell in die S-Bahn Richtung Innenstadt. Der Kapitän – das Klapprad neben sich, die Gedanken noch irgendwo zwischen Startbahn und Schlaf – fährt zum MAKK, dem Museum für Angewandte Kunst. Dort will er sich die Ausstellung zu Kunst und Design ansehen – und findet sich, ganz unerwartet, in einem anderen Zukunftsversprechen wieder.
+Der Morgen am Flughafen war kurz und stürmisch. Der Geruch von warmem Öl und Kerosin lag in der Luft. Ein schneller Kaffee auf der Aussichtsplattform. Hier kann man sonst auch mal Stunden verbringen, den Fliegern beim Starten und landen zusehen – den Planespottern beim klickenund prahlen - aber dafür stürmt es heute zu sehr. Daher schnell in die S-Bahn Richtung Innenstadt. Der Kapitän – das Klapprad neben sich, die Gedanken noch irgendwo zwischen Startbahn und Schlaf – fährt zum MAKK, dem Museum für Angewandte Kunst. Dort will er sich die Ausstellung zu Kunst und Design ansehen – und findet sich, ganz unerwartet, in einem anderen Zukunftsversprechen wieder.
 
 Es ist still. Nur der Boden hallt leise unter den Sohlen. Im weiten weißen Vorraum steht er allein – der **Mercedes-Benz 300 SL**, Gullwing, Flügeltürer, Ikone. Seine Linien sind glatt wie gespannte Muskeln, sein Chrom spiegelt das Licht der Halle. Faulmann bleibt stehen, fast andächtig. „Ein Tier aus Metall“, denkt er. „Geboren aus Geschwindigkeit und Sehnsucht.“ Auf dem Schild daneben liest er: *„Sensation der Straße“*, *„Designlegende des 20. Jahrhunderts“*. Und tatsächlich – das Ding hat etwas Lebendiges. Nicht nur, weil es glänzt, sondern weil es etwas erzählt: von Träumen, Technik und dem menschlichen Willen, Schönheit in Bewegung zu übersetzen. Der Bär tritt einen Schritt zurück. Hinter diesem Auto, ahnt er, beginnt etwas Neues – eine Geschichte, in der das Nützliche plötzlich schön sein darf und das Schöne sich mit Schrauben befestigen lässt.
 
@@ -18,7 +18,7 @@ Es ist still. Nur der Boden hallt leise unter den Sohlen. Im weiten weißen Vorr
 
 ---
 
-## Vom Werkbund zum Weltraum
+## Vom Werkbund fast bis zum Weltraum
 Es begann, wie so oft, mit der Maschine. Mit Zahnrädern, Dampf und dem großen Traum, dass alles schneller, billiger, besser werden würde. Doch irgendwo zwischen Werkbank und Warenhaus wurde ein neuer Gedanke geboren: Wenn schon alles industriell, dann wenigstens schön. So kam die Kunst ins Spiel. Sie nannte sich „Design“ und fragte, ob Schönheit nur Handwerkssache sei – oder vielleicht eine Haltung. Von da an spannte sich ein weiter Bogen: vom gebogenen Stahlrohr der Werkbund-Pioniere bis zur stromlinienförmigen Kaffeemaschine, vom Bakelit-Radio bis zur schwebenden Kunststoffkugel. Die Welt begann, sich zu runden.
 
 ## Zwischen Werkbank und Vision
@@ -45,6 +45,9 @@ Der Begleittext spricht von *Mid-Century Modern* – Schwarz, Weiß, Rot und Gel
 
 
 Jedenfalls ist diese Ausstellung – und damit der erste Teil des MAK, den der Bär besucht hat – mehr als einen Besuch wert. Eine wunderbar inspirierende Tour de Force durch ein Jahrhundert Design – so klug, verspielt und anregend, dass Faulmann wohl wiederkommen muss.
+
+---
+
 
 ## Sputnik und der Traum vom Morgen
 
@@ -99,5 +102,6 @@ Und doch, tief in ihm, glimmt etwas von jener alten Farbe der Zukunft: ein matte
 ---
 
 *Faulmann, im Herbst 2025 – zwischen Neon und Blau.*
+
 
 
