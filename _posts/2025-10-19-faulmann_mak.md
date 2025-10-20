@@ -19,11 +19,15 @@ Es ist still. Nur der Boden hallt leise unter den Sohlen. Im weiten weißen Vorr
 ---
 
 ## Vom Werkbund zum Weltraum
-
 Es begann, wie so oft, mit der Maschine. Mit Zahnrädern, Dampf und dem großen Traum, dass alles schneller, billiger, besser werden würde. Doch irgendwo zwischen Werkbank und Warenhaus wurde ein neuer Gedanke geboren: Wenn schon alles industriell, dann wenigstens schön. So kam die Kunst ins Spiel. Sie nannte sich „Design“ und fragte, ob Schönheit nur Handwerkssache sei – oder vielleicht eine Haltung. Von da an spannte sich ein weiter Bogen: vom gebogenen Stahlrohr der Werkbund-Pioniere bis zur stromlinienförmigen Kaffeemaschine, vom Bakelit-Radio bis zur schwebenden Kunststoffkugel. Die Welt begann, sich zu runden.
 
-## Materialwunder und Mondlandung
+## Zwischen Werkbank und Vision
+Zwischen Werkbund und Weltraum liegt eine Schule – das Bauhaus.
+Keine Kathedrale, sondern eine Werkstatt des Denkens. Hier lernte die Form, Verantwortung zu tragen, und die Linie, Haltung zu zeigen. Das Ornament wich der Ordnung, das Dekor dem Prinzip.
 
+Faulmann bleibt vor einem Stahlrohrstuhl stehen, kühl und ehrlich in seiner Geometrie. „Schönheit,“ murmelt er, „entsteht, wenn ein Gedanke praktisch wird.“ Im Bauhaus war das kein Stil, sondern eine Ethik: Dinge sollten nicht mehr herrschen, sondern dienen – und gerade darin frei werden. Vielleicht, denkt er, begann dort die leise Ahnung, dass Gestaltung mehr ist als Oberfläche – ein Versuch, das Leben selbst zu entwerfen.
+
+## Materialwunder und Mondlandung
 Und doch bleibt etwas vom Werkbankstaub an den Sternen haften.
 
 Bakelit, Catalin, Aluminium – es klingt fast wie ein Zauberspruch. Früher war es Holz, heute Plastik, und morgen vielleicht Luft. Aber schön sind sie, diese alten Radios, diese glattpolierten Stühle, diese Träume vom Fortschritt. Dann kam der Sputnik. „Space Age is here!“, rief der *Daily Express*, und Faulmann stellte sich vor, wie der erste *Ball Chair* durchs All schwebt. Die Erde als Designobjekt – und der Mensch mittendrin, mit Glashelm und Fernsehblick.
@@ -92,3 +96,4 @@ Und doch, tief in ihm, glimmt etwas von jener alten Farbe der Zukunft: ein matte
 ---
 
 *Faulmann, im Herbst 2025 – zwischen Neon und Blau.*
+
