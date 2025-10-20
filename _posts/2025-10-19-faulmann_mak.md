@@ -1,4 +1,5 @@
 ---
+
 layout: post
 title: "Faulmann und die Gestalt der Dinge"
 date: 2025-10-19
@@ -29,8 +30,6 @@ Bakelit, Catalin, Aluminium – es klingt fast wie ein Zauberspruch. Früher war
 
 > **Zwischen Orion und Enterprise**
 > Orion brachte den Weltraum in die Wohnzimmer, Star Trek in die Köpfe. Beide Serien träumten von Technik, die auch Ethik kennt – und von einer Zukunft, die sich nicht fürchtet, weil sie Verantwortung trägt.
-
-Und irgendwo viel später, lange nach Sputnik und der Mondlandung, saß der junge Faulmann in den achtziger und neunziger Jahren vor dem flimmernden Bildschirm: *Raumpatrouille Orion* und *Star Trek*. Zwei Visionen des gleichen Wunders – Technik als Bühne der Hoffnung.  *Raumpatrouille Orion* lief da längst in Wiederholungen, *Star Trek* schien aus einer anderen Galaxis, und doch berührten beide denselben Nerv: die Sehnsucht, dass Zukunft mehr sei als Fortschritt. *Star Trek* legte noch etwas dazu: die Ahnung, dass Technik und Ethik einmal in dieselbe Richtung weisen könnten.
 
 ## Zwischen Ordnung und Übermut
 
@@ -70,13 +69,17 @@ Vielleicht, denkt er, ist das der eigentliche Witz unserer Zeit – dass ausgere
 
 > „Nur wer dumm genug ist, will wissen, was Intelligenz sei. Wer’s wüsste, hätt sie schon verloren.“
 
+---
 
 ## Vom leuchtenden Morgen zur Neon-Nacht
-Und irgendwo viel später, lange nach Sputnik und der Mondlandung, erinnert sich der Capitain, dass der junge Faulmann in den achtziger und neunziger Jahren vor dem flimmernden Bildschirm saß: Raumpatrouille Orion und Star Trek. Zwei Visionen des gleichen Wunders – Technik als Bühne der Hoffnung. Raumpatrouille Orion lief da längst in Wiederholungen, Star Trek schien aus einer anderen Galaxis, und doch berührten beide denselben Nerv: die Sehnsucht, dass Zukunft mehr sei als Fortschritt. Star Trek legte noch etwas dazu: die Ahnung, dass Technik und Ethik einmal in dieselbe Richtung weisen könnten.
 
-Faulmann denkt an jene Zukunftsbilder zurück – an die glatten Oberflächen, die hellen Kommandobrücken, die Gewissheit, dass Fortschritt auch Verantwortung bedeuten könne. Orion, Enterprise – sie waren sauber, optimistisch, fast pastoral. Der Mensch reiste ins All, um zu verstehen, nicht um zu entkommen.
+Und irgendwo viel später, lange nach Sputnik und der Mondlandung, erinnert sich der Kapitän, dass der junge Faulmann in den achtziger und neunziger Jahren vor dem flimmernden Bildschirm saß: *Raumpatrouille Orion* und *Star Trek*. Zwei Visionen des gleichen Wunders – Technik als Bühne der Hoffnung. *Raumpatrouille Orion* lief da längst in Wiederholungen, *Star Trek* schien aus einer anderen Galaxis, und doch berührten beide denselben Nerv: die Sehnsucht, dass Zukunft mehr sei als Fortschritt. *Star Trek* legte noch etwas dazu – die Ahnung, dass Technik und Ethik eines Tages in dieselbe Richtung weisen könnten.
+
+Faulmann denkt an jene Zukunftsbilder zurück – an die glatten Oberflächen, die hellen Kommandobrücken, die Gewissheit, dass Fortschritt auch Verantwortung bedeuten könne. *Orion*, *Enterprise* – sie waren sauber, optimistisch, fast pastoral. Der Mensch reiste ins All, um zu verstehen, nicht um zu entkommen.
 
 Doch irgendwann drehte sich das Licht. Aus Chrom wurde Neon, aus Vision Dystopie. Die glänzenden Raumschiffe wichen den Schattenstädten des Cyberpunk, die Zukunft roch plötzlich nach Ozon, Öl und Angst. Das Design der Sechzigerjahre sprach von Hoffnung, das der achtziger von Erschöpfung – als hätte man den Traum von der Moderne gegen den Verdacht eingetauscht, dass Technik uns längst überholt. Irgendjemand scheint das als Anleitung verstanden zu haben, und jetzt stecken wir in einer fünfzig Jahre alten Dystopie fest – und halten sie für den neuesten Stand der Dinge.
+
+---
 
 ## Null ist kein Nichts
 
@@ -86,4 +89,6 @@ Faulmann bleibt noch einen Moment sitzen. Vielleicht, denkt er, hat sich das Des
 
 Und doch, tief in ihm, glimmt etwas von jener alten Farbe der Zukunft: ein mattes, aber treues Blau. Nicht das rückwärtsgewandte Blau brauner, stillstehender Herzen, sondern das optimistische Blau des Kollegen, der um die Ecke grüßenden orangefarbenen Maus – und das der dynamisch pulsierenden Warpkerne, die uns superreal schnell dorthin bringen, wo nie zuvor ein Mensch gewesen ist – vielleicht sogar zu sich selbst.
 
+---
 
+*Faulmann, im Herbst 2025 – zwischen Neon und Blau.*
