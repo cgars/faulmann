@@ -6,11 +6,11 @@ date: 2025-10-19
 categories: faulmann makk design
 teaser: "Ein Bär im weißen Vorraum, ein Auto wie ein Gebet aus Chrom und Geschwindigkeit – und eine Ausstellung, die zeigt, wie aus der Maschine die Moderne wurde."
 teaser_en: "A bear in a white hall, a car like a prayer in chrome and speed – and an exhibition revealing how the machine became modernity."
----
+--------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](https://pixelfed.social/storage/m/_v2/607467830790472239/0c2c69eb8-6377a8/z1KfsQGYIzxJ/pt630bxd9q1EgwI5wV4n9BgbZEt87TH3GlYPzhMx.png)
 
-Der Morgen am Flughafen war kurz und stürmisch. Der Geruch von warmem Öl und Kerosin lag in der Luft. Ein schneller Kaffee auf der Aussichtsplattform. Hier kann man sonst auch mal Stunden verbringen, den Fliegern beim Starten und landen zusehen – den Planespottern beim klickenund prahlen - aber dafür stürmt es heute zu sehr. Daher schnell in die S-Bahn Richtung Innenstadt. Der Kapitän – das Klapprad neben sich, die Gedanken noch irgendwo zwischen Startbahn und Schlaf – fährt zum MAK, dem Museum für Angewandte Kunst. Dort will er sich die Ausstellung zu Kunst und Design ansehen – und findet sich, ganz unerwartet, in einem anderen Zukunftsversprechen wieder.
+Der Morgen am Flughafen war kurz und stürmisch. Der Geruch von warmem Öl und Kerosin lag in der Luft. Ein schneller Kaffee auf der Aussichtsplattform. Hier kann man sonst auch mal Stunden verbringen, den Fliegern beim Starten und Landen zusehen – den Planespottern beim Klicken und Prahlen – aber dafür stürmt es heute zu sehr. Daher schnell in die S-Bahn Richtung Innenstadt. Der Kapitän – das Klapprad neben sich, die Gedanken noch irgendwo zwischen Startbahn und Schlaf – fährt zum MAK, dem Museum für Angewandte Kunst. Dort will er sich die Ausstellung zu Kunst und Design ansehen – und findet sich, ganz unerwartet, in einem anderen Zukunftsversprechen wieder.
 
 Es ist still. Nur der Boden hallt leise unter den Sohlen. Im weiten weißen Vorraum steht er allein – der **Mercedes-Benz 300 SL**, Gullwing, Flügeltürer, Ikone. Seine Linien sind glatt wie gespannte Muskeln, sein Chrom spiegelt das Licht der Halle. Faulmann bleibt stehen, fast andächtig. „Ein Tier aus Metall“, denkt er. „Geboren aus Geschwindigkeit und Sehnsucht.“ Auf dem Schild daneben liest er: *„Sensation der Straße“*, *„Designlegende des 20. Jahrhunderts“*. Und tatsächlich – das Ding hat etwas Lebendiges. Nicht nur, weil es glänzt, sondern weil es etwas erzählt: von Träumen, Technik und dem menschlichen Willen, Schönheit in Bewegung zu übersetzen. Der Bär tritt einen Schritt zurück. Hinter diesem Auto, ahnt er, beginnt etwas Neues – eine Geschichte, in der das Nützliche plötzlich schön sein darf und das Schöne sich mit Schrauben befestigen lässt.
 
@@ -19,35 +19,31 @@ Es ist still. Nur der Boden hallt leise unter den Sohlen. Im weiten weißen Vorr
 ---
 
 ## Vom Werkbund fast bis zum Weltraum
-Es begann, wie so oft, mit der Maschine. Mit Zahnrädern, Dampf und dem großen Traum, dass alles schneller, billiger, besser werden würde. Doch irgendwo zwischen Werkbank und Warenhaus wurde ein neuer Gedanke geboren: Wenn schon alles industriell, dann wenigstens schön. So kam die Kunst ins Spiel. Sie nannte sich „Design“ und fragte, ob Schönheit nur Handwerkssache sei – oder vielleicht eine Haltung. Von da an spannte sich ein weiter Bogen: vom gebogenen Stahlrohr der Werkbund-Pioniere bis zur stromlinienförmigen Kaffeemaschine, vom Bakelit-Radio bis zur schwebenden Kunststoffkugel. Die Welt begann, sich zu runden.
+
+Es begann, wie so oft, mit der Maschine. Mit Zahnrädern, Dampf und dem großen Traum, dass alles schneller, billiger, besser werden würde. Doch irgendwo zwischen Werkbank und Warenhaus wurde ein neuer Gedanke geboren: Wenn schon alles industriell, dann wenigstens schön. Der Deutsche Werkbund war eine solche Geburtsstätte: Architekten, Unternehmer, Künstler suchten gemeinsam nach einer neuen Ästhetik für das industrielle Zeitalter. Dinge sollten nicht nur funktionieren, sondern auch würdig sein – ein Werkzeug des Alltags und zugleich ein Ausdruck einer neuen Welt. Faulmann sieht einen kleinen, perfekt geformten Löffel aus Chromnickelstahl. Schlicht, ehrlich, effizient – und dennoch voller Würde. „Ein Werkzeug für die Zunge“, denkt er. „Und für den Geist.“
 
 ## Zwischen Werkbank und Vision
-Zwischen Werkbund und Weltraum liegt eine Schule – das Bauhaus.
-Keine Kathedrale, sondern eine Werkstatt des Denkens. Hier lernte die Form, Verantwortung zu tragen, und die Linie, Haltung zu zeigen. Das Ornament wich der Ordnung, das Dekor dem Prinzip.
 
-Faulmann bleibt vor einem Stahlrohrstuhl stehen, kühl und ehrlich in seiner Geometrie. „Schönheit,“ murmelt er, „entsteht, wenn ein Gedanke praktisch wird.“ Im Bauhaus war das kein Stil, sondern eine Ethik: Dinge sollten nicht mehr herrschen, sondern dienen – und gerade darin frei werden. Vielleicht, denkt er, begann dort die leise Ahnung, dass Gestaltung mehr ist als Oberfläche – ein Versuch, das Leben selbst zu entwerfen.
+Zwischen Werkbund und Weltraum liegt eine Schule – das Bauhaus. Keine Kathedrale, sondern eine Werkstatt des Denkens. Hier lernte die Form, Verantwortung zu tragen, und die Linie, Haltung zu zeigen. Das Ornament wich der Ordnung, das Dekor dem Prinzip. Und so fand die Kunst zum Alltag zurück. Faulmann bleibt vor einem Stahlrohrstuhl stehen, kühl und ehrlich in seiner Geometrie. „Schönheit“, murmelt er, „entsteht, wenn ein Gedanke praktisch wird.“ Im Bauhaus war das kein Stil, sondern eine Ethik: Dinge sollten nicht mehr herrschen, sondern dienen – und gerade darin frei werden. Vielleicht, denkt er, begann dort die leise Ahnung, dass Gestaltung mehr ist als Oberfläche – ein Versuch, das Leben selbst zu entwerfen. In dieser Haltung liegt eine stille Rebellion gegen das Überflüssige.
+
+## Die Welt wird Fläche
+
+Eine Etage weiter dann – rote Quadrate, gelbe Rechtecke, schwarze Linien auf weißem Grund. Mondrian, De Stijl. Faulmann ist irritiert und fasziniert zugleich. Das Chaos der Welt gebändigt in Geometrie? Die Zukunft als Raster aus Primärfarben? Doch während er den Blick entlang einer asymmetrischen Vitrine gleiten lässt, wird ihm klar: auch das ist Design. Nicht Dekor, sondern Weltanschauung. Eine Sehschule. Wer so malt, so lebt – strukturiert, klar, mit Haltung. Vielleicht war das die moderne Form der Meditation.
 
 ## Materialwunder und Mondlandung
-Und doch bleibt etwas vom Werkbankstaub an den Sternen haften.
 
-Bakelit, Catalin, Aluminium – es klingt fast wie ein Zauberspruch. Früher war es Holz, heute Plastik, und morgen vielleicht Luft. Aber schön sind sie, diese alten Radios, diese glattpolierten Stühle, diese Träume vom Fortschritt. Dann kam der Sputnik. „Space Age is here!“, rief der *Daily Express*, und Faulmann stellte sich vor, wie der erste *Ball Chair* durchs All schwebt. Die Erde als Designobjekt – und der Mensch mittendrin, mit Glashelm und Fernsehblick.
+Und doch bleibt etwas vom Werkbankstaub an den Sternen haften. Bakelit, Catalin, Aluminium – es klingt fast wie ein Zauberspruch. Früher war es Holz, heute Plastik, und morgen vielleicht Luft. Aber schön sind sie, diese alten Radios, diese glattpolierten Stühle, diese Träume vom Fortschritt. Dann kam der Sputnik. „Space Age is here!“, rief der *Daily Express*, und Faulmann stellte sich vor, wie der erste *Ball Chair* durchs All schwebt. Die Erde als Designobjekt – und der Mensch mittendrin, mit Glashelm und Fernsehblick.
 
 > **Zwischen Orion und Enterprise**
 > Orion brachte den Weltraum in die Wohnzimmer, Star Trek in die Köpfe. Beide Serien träumten von Technik, die auch Ethik kennt – und von einer Zukunft, die sich nicht fürchtet, weil sie Verantwortung trägt.
 
 ## Zwischen Ordnung und Übermut
 
-Jede Epoche scheint ihr eigenes Gleichgewicht zu suchen zwischen Kontrolle und Chaos.
+Jede Epoche scheint ihr eigenes Gleichgewicht zu suchen zwischen Kontrolle und Chaos. Der Begleittext spricht von *Mid-Century Modern* – Schwarz, Weiß, Rot und Gelb, klare Linien, klare Ansichten. Dann vom großen Knall der Pop-Art: Suppendosen werden zu Ikonen, Sofas zu Skulpturen. „Die Spezialisierung tötet die Phantasie“, liest Faulmann und nickt. In den Siebzigern wird das Denken bunt, in den Achtzigern elektronisch, in den Neunzigern nachhaltig. Aus *Maschinenmöbeln* werden *Smart Devices*, aus Design wird Haltung. Und irgendwo zwischen Bakelit und *Bubble Chair* erkennt Faulmann die alte Wahrheit des Waldes: Alles, was lebt, gestaltet – und alles Gestaltete lebt ein Stück weiter in uns. Das stimmt, insbesondere weil er auf die ersten Stücke trifft, die er selbst besessen hat.
 
-Der Begleittext spricht von *Mid-Century Modern* – Schwarz, Weiß, Rot und Gelb, klare Linien, klare Ansichten. Dann vom großen Knall der Pop-Art: Suppendosen werden zu Ikonen, Sofas zu Skulpturen. „Die Spezialisierung tötet die Phantasie“, liest Faulmann und nickt. In den Siebzigern wird das Denken bunt, in den Achtzigern elektronisch, in den Neunzigern nachhaltig. Aus *Maschinenmöbeln* werden *Smart Devices*, aus Design wird Haltung. Und irgendwo zwischen Bakelit und *Bubble Chair* erkennt Faulmann die alte Wahrheit des Waldes: Alles, was lebt, gestaltet – und alles Gestaltete lebt ein Stück weiter in uns. Das stimmt, insbesondere weil er auf die ersten Stücke trifft, die er selbst besessen hat.
+> *„Vielleicht ist Design ja nichts anderes“,* murmelt Faulmann, *„als die Kunst, den Dingen das Schweigen beizubringen – damit sie uns zuhören.“*
 
-> *„Vielleicht ist Design ja nichts anderes,“* murmelt Faulmann, *„als die Kunst, den Dingen das Schweigen beizubringen – damit sie uns zuhören.“*
-
-
-Jedenfalls ist diese Ausstellung – und damit der erste Teil des MAK, den der Bär besucht hat – mehr als einen Besuch wert. Eine wunderbar inspirierende Tour de Force durch ein Jahrhundert Design – so klug, verspielt und anregend, dass Faulmann wohl wiederkommen muss.
-
----
-
+Jedenfalls ist diese Ausstellung – und damit der erste Teil des MAKK, den der Bär besucht hat – mehr als einen Besuch wert. Eine wunderbar inspirierende Tour de Force durch ein Jahrhundert Design – so klug, verspielt und anregend, dass Faulmann wohl wiederkommen muss.
 
 ## Sputnik und der Traum vom Morgen
 
@@ -79,21 +75,17 @@ Vielleicht, denkt er, ist das der eigentliche Witz unserer Zeit – dass ausgere
 
 > „Nur wer dumm genug ist, will wissen, was Intelligenz sei. Wer’s wüsste, hätt sie schon verloren.“
 
----
-
 ## Vom leuchtenden Morgen zur Neon-Nacht
 
-Und irgendwo viel später, lange nach Sputnik und der Mondlandung, erinnert sich der Kapitän, an einen jungen Faulmann in den achtziger und neunziger Jahren der vor dem flimmernden Bildschirm saß: *Raumpatrouille Orion* und *Star Trek*. Zwei Visionen des gleichen Wunders – Technik als Bühne der Hoffnung. *Raumpatrouille Orion* lief da längst in Wiederholungen, *Star Trek* schien aus einer anderen Galaxis, und doch berührten beide denselben Nerv: die Sehnsucht, dass Zukunft mehr sei als Fortschritt. *Star Trek* legte noch etwas dazu – die Ahnung, dass Technik und Ethik eines Tages in dieselbe Richtung weisen könnten insbesondere die damals neu aufbrechende naechste Generation.
+Und irgendwo viel später, lange nach Sputnik und der Mondlandung, erinnert sich der Kapitän an einen jungen Faulmann in den achtziger und neunziger Jahren, der vor dem flimmernden Bildschirm saß: *Raumpatrouille Orion* und *Star Trek*. Zwei Visionen des gleichen Wunders – Technik als Bühne der Hoffnung. *Raumpatrouille Orion* lief da längst in Wiederholungen, *Star Trek* schien aus einer anderen Galaxis, und doch berührten beide denselben Nerv: die Sehnsucht, dass Zukunft mehr sei als Fortschritt. *Star Trek* legte noch etwas dazu – die Ahnung, dass Technik und Ethik eines Tages in dieselbe Richtung weisen könnten, insbesondere in der damals neu aufbrechenden nächsten Generation.
 
-Faulmann denkt an jene Zukunftsbilder zurück (intresannt das man das kann denkt er gleichzeitig) – an die glatten Oberflächen, die hellen Kommandobrücken, die Gewissheit, dass Fortschritt auch Verantwortung bedeuten könne. *Orion*, *Enterprise* – sie waren sauber, optimistisch, fast pastoral. Der Mensch reiste ins All, um zu verstehen, nicht um zu entkommen.
+Faulmann denkt an jene Zukunftsbilder zurück (interessant, dass man das kann, denkt er gleichzeitig) – an die glatten Oberflächen, die hellen Kommandobrücken, die Gewissheit, dass Fortschritt auch Verantwortung bedeuten könne. *Orion*, *Enterprise* – sie waren sauber, optimistisch, fast pastoral. Der Mensch reiste ins All, um zu verstehen, nicht um zu entkommen.
 
-Doch irgendwann drehte sich das um - nicht nur in der Welt auch bei Faulmanns medienkonsum. Aus Chrom wurde Neon, aus Vision Dystopie. Die glänzenden Raumschiffe wichen den Schattenstädten des Cyberpunk, die Zukunft roch plötzlich nach Ozon, Öl und Angst. Das Design der Sechzigerjahre sprach von Hoffnung, das der achtziger von Erschöpfung – als hätte man den Traum von der Moderne gegen den Verdacht eingetauscht, dass Technik uns längst überholt. Irgendjemand scheint das als Anleitung verstanden zu haben, und jetzt stecken wir in einer fünfzig Jahre alten Dystopie fest – und halten sie für den neuesten Stand der Dinge auf unserem Grayschen weg rueckwaerts durch die Zeit.
-
----
+Doch irgendwann drehte sich das um – nicht nur in der Welt, auch bei Faulmanns Medienkonsum. Aus Chrom wurde Neon, aus Vision Dystopie. Die glänzenden Raumschiffe wichen den Schattenstädten des Cyberpunk, die Zukunft roch plötzlich nach Ozon, Öl und Angst. Das Design der Sechzigerjahre sprach von Hoffnung, das der Achtziger von Erschöpfung – als hätte man den Traum von der Moderne gegen den Verdacht eingetauscht, dass Technik uns längst überholt. Irgendjemand scheint das als Anleitung verstanden zu haben, und jetzt stecken wir in einer fünfzig Jahre alten Dystopie fest – und halten sie für den neuesten Stand der Dinge auf unserem grayschen Weg rückwärts durch die Zeit.
 
 ## Null ist kein Nichts
 
-Draußen tropften noch Blätter von den Bäumen, als Faulmann durch die Glasfront blickt. „Zero“, denkt er, „ist kein Nichts. Es ist der Moment, bevor etwas wird.“ So wie der Countdown kein Schweigen ist, sondern gespannte Möglichkeit. Wie Intelligenz nicht im Ergebnis liegt, sondern im Wagnis des Fragens. Und wie jedes wirklich neue Denken beginnt – nicht mit Wissen, sondern mit dem Mut, noch keine Antwort zu haben und manchmal mit regression.
+Draußen tropften noch Blätter von den Bäumen, als Faulmann durch die Glasfront blickt. „Zero“, denkt er, „ist kein Nichts. Es ist der Moment, bevor etwas wird.“ So wie der Countdown kein Schweigen ist, sondern gespannte Möglichkeit. Wie Intelligenz nicht im Ergebnis liegt, sondern im Wagnis des Fragens. Und wie jedes wirklich neue Denken beginnt – nicht mit Wissen, sondern mit dem Mut, noch keine Antwort zu haben, und manchmal mit Regression.
 
 Faulmann bleibt noch einen Moment sitzen. Vielleicht, denkt er, hat sich das Design der Dinge nur unserem Denken angepasst – es spiegelt, wie wir sehen: einst nach vorn, heute zur Seite, auf Reflexion bedacht und auf Rückversicherung programmiert.
 
@@ -102,6 +94,7 @@ Und doch, tief in ihm, glimmt etwas von jener alten Farbe der Zukunft: ein matte
 ---
 
 *Faulmann, im Herbst 2025 – zwischen Neon und Blau.*
+
 
 
 
