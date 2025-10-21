@@ -1,12 +1,11 @@
 ---
-
 layout: post
 title: "Faulmann und die Gestalt der Dinge"
 date: 2025-10-19
 categories: faulmann makk design
 teaser: "Ein Bär im weißen Vorraum, ein Auto wie ein Gebet aus Chrom und Geschwindigkeit – und eine Ausstellung, die zeigt, wie aus der Maschine die Moderne wurde."
 teaser_en: "A bear in a white hall, a car like a prayer in chrome and speed – and an exhibition revealing how the machine became modernity."
---------------------------------------------------------------------------------------------------------------------------------------------
+---
 
 ![](https://pixelfed.social/storage/m/_v2/607467830790472239/0c2c69eb8-6377a8/z1KfsQGYIzxJ/pt630bxd9q1EgwI5wV4n9BgbZEt87TH3GlYPzhMx.png)
 
