@@ -27,7 +27,7 @@ Zwischen Werkbund und Weltraum liegt eine Schule – das Bauhaus. Keine Kathedra
 
 ## Die Welt wird Fläche
 
-Eine Etage weiter dann – rote Quadrate, gelbe Rechtecke, schwarze Linien auf weißem Grund. Mondrian, De Stijl. Faulmann ist irritiert und fasziniert zugleich. Das Chaos der Welt gebändigt in Geometrie? Die Zukunft als Raster aus Primärfarben? Doch während er den Blick entlang einer asymmetrischen Vitrine gleiten lässt, wird ihm klar: auch das ist Design. Nicht Dekor, sondern Weltanschauung. Eine Sehschule. Wer so malt, so lebt – strukturiert, klar, mit Haltung. Vielleicht war das die moderne Form der Meditation.
+Eine Etage weiter dann – rote Quadrate, gelbe Rechtecke, schwarze Linien auf weißem Grund. Mondrian, De Stijl. Faulmann ist irritiert und fasziniert zugleich. Das Chaos der Welt gebändigt in Geometrie? Die Zukunft als Raster aus Primärfarben? Doch während er den Blick entlang einer asymmetrischen Vitrine gleiten lässt, wird ihm klar: auch das ist Design. Nicht Dekor, sondern Weltanschauung. Eine Sehschule. Vielleicht war das die moderne Form der Meditation.
 
 ## Materialwunder und Mondlandung
 
@@ -38,15 +38,15 @@ Und doch bleibt etwas vom Werkbankstaub an den Sternen haften. Bakelit, Catalin,
 
 ## Zwischen Ordnung und Übermut
 
-Jede Epoche scheint ihr eigenes Gleichgewicht zu suchen zwischen Kontrolle und Chaos. Der Begleittext spricht von *Mid-Century Modern* – Schwarz, Weiß, Rot und Gelb, klare Linien, klare Ansichten. Dann vom großen Knall der Pop-Art: Suppendosen werden zu Ikonen, Sofas zu Skulpturen. „Die Spezialisierung tötet die Phantasie“, liest Faulmann und nickt. In den Siebzigern wird das Denken bunt, in den Achtzigern elektronisch, in den Neunzigern nachhaltig. Aus *Maschinenmöbeln* werden *Smart Devices*, aus Design wird Haltung. Und irgendwo zwischen Bakelit und *Bubble Chair* erkennt Faulmann die alte Wahrheit des Waldes: Alles, was lebt, gestaltet – und alles Gestaltete lebt ein Stück weiter in uns. Das stimmt, insbesondere weil er auf die ersten Stücke trifft, die er selbst besessen hat.
+Jede Epoche scheint ihr eigenes Gleichgewicht zu suchen zwischen Kontrolle und Chaos. Der Begleittext spricht von *Mid-Century Modern* – Schwarz, Weiß, Rot und Gelb, klare Linien, klare Ansichten. Dann vom großen Knall der Pop-Art: Suppendosen werden zu Ikonen, Sofas zu Skulpturen. „Die Spezialisierung tötet die Phantasie“, liest Faulmann und nickt. In den Siebzigern wird das Denken bunt, in den Achtzigern elektronisch neon grell, in den Neunzigern nachhaltig-naiv optimistisch. Aus *Maschinenmöbeln* werden *Smart Devices*, das Design wird zum Produkt. Und irgendwo zwischen Bakelit und *Bubble Chair* erkennt Faulmann die alte Wahrheit des Waldes: Alles, was lebt, gestaltet – und alles Gestaltete lebt ein Stück weiter in uns. Das ueberzeugt, insbesondere weil er auf die ersten Stücke trifft, die er selbst besessen hat.
 
-> *„Vielleicht ist Design ja nichts anderes“,* murmelt Faulmann, *„als die Kunst, den Dingen das Schweigen beizubringen – damit sie uns zuhören.“*
+> *„Vielleicht ist Design ja nichts anderes“,* murmelt Faulmann, *„als die Kunst, den Dingen das Schweigen beizubringen – damit sie uns zuhören.Heute mehr denn je“*
 
 Jedenfalls ist diese Ausstellung – und damit der erste Teil des MAKK, den der Bär besucht hat – mehr als einen Besuch wert. Eine wunderbar inspirierende Tour de Force durch ein Jahrhundert Design – so klug, verspielt und anregend, dass Faulmann wohl wiederkommen muss.
 
 ## Sputnik und der Traum vom Morgen
 
-Faulmann hatte sich danach zum Atmen im Vorraum des MAKK niedergelassen – auf einem erstaunlich bequemen Sitzmöbel mit Stromanschluss für Handy, Computer und Gedanken. Draußen sieht man den Herbst hinterlistig herumlungern, und ihm kommt einer der Texte aus der Ausstellung in den Sinn:
+Faulmann hatte sich danach zum Atmen im Vorraum des MAKK niedergelassen – auf einem erstaunlich bequemen Sitzmöbel mit Stromanschluss für Handy, Computer und Gedanken. Draußen sieht man den Herbst hinterlistig herumlungern, und ihm kommt wieder einer der Texte aus der Ausstellung in den Sinn:
 
 > „Nachdem 1957 der russische Satellit Sputnik I in den Weltraum entsendet worden war, titelte die britische Boulevardzeitung *Daily Express*: ‚Space Age is here!‘ … Der finnische Designer Eero Aarnio entwarf mit dem *Ball Chair* und dem von der Decke herabhängenden *Bubble Chair* die spacigsten Sitzmöbel dieser Zeit … Die Düsseldorfer Künstlergruppe ZERO machte das Licht selbst zum Material.“
 
@@ -58,19 +58,19 @@ Faulmann lächelt. Ein Countdown – genau jener Moment, in dem noch nichts gesc
 
 ## Die Stille vor dem Denken
 
-Diese Zone des Schweigens bewegt etwas. Sie erinnert ihn an das Gegenwärtige, wo alles zu sprechen scheint: Gesetze, Modelle, Systeme. Mal wieder will man das Unbestimmte ordnen, zertifizieren, einhegen. Und doch, bemerkt er, liegt der Clou gerade darin, dass es nicht das Berechenbare betrifft, sondern das, was sich dem einfach Auflistbaren entzieht: jene Systeme, die inferieren, lernen, anpassen – also dort operieren, wo einfache Determinismen enden.
+Diese Zone des Schweigens bewegt etwas. Sie erinnert ihn an das Gegenwärtige, wo alles zu sprechen scheint: Gesetze, Modelle, Systeme. Mal wieder will man das Unbestimmte ordnen, zertifizieren, einhegen. Und doch, bemerkt er, liegt der Clou gerade darin, dass es nicht das "begreifbare" betrifft, sondern das, was sich dem einfach Auflistbaren entzieht: jene Systeme, die inferieren, lernen, anpassen – also dort operieren, wo einfache Determinismen enden.
 
-Das Gesetz versucht, das Nicht-Regelhafte zu regeln. Es markiert das Entgleiten als Risiko – und macht aus der Offenheit des Denkens ein administratives Problem. Was in der Kunst eine Zone der Möglichkeiten war, wird in der Politik und Jurisprudenz zur Zone der irrationalen Aufsicht.
+Das Gesetz versucht, das Nicht-selbstevident-Regelhafte zu regeln. Es markiert das scheinbare Entgleiten als Risiko – und macht aus der Offenheit des Denkens ein administratives Problem. Was in der Kunst eine Zone der Möglichkeiten war, wird in der Politik und Jurisprudenz zur Zone der irrationalen Aufsicht.
 
-Hier, zwischen Lichtobjekten und weißen Wänden, spürt Faulmann den Unterschied zwischen zwei Arten des Wissens: dem ontologischen, das fragt, was etwas ist – und dem epistemischen, das nur fragt, was sich über etwas sagen lässt. Verordnungen versuchen, Intelligenz nicht als Sein, sondern als Regelbarkeit zu denken. Sie stellen Ordnung über Einsicht, Kategorisierung über Verständnis. Und so wird das Denken selbst zu einem technischen Protokoll: intelligent, solange es klassifizierbar bleibt – verdächtig, sobald es sich dem entzieht.
+Hier, zwischen Lichtobjekten und weißen Wänden, spürt Faulmann den Unterschied zwischen zwei Arten des Wissens: dem ontologischen, das fragt, was etwas ist – und dem epistemischen, das nur fragt, was sich über etwas sagen lässt. Verordnungen versuchen, Intelligenz nicht als Sein, sondern als Regelbarkeit zu denken. Sie stellen Ordnung über Einsicht, Kategorisierung über Verständnis. Und so wird das Denken selbst zu einer ausnahme vom technischen Protokoll degradiert: un-intelligent, solange es klassifizierbar bleibt – un-un-intelligent und verdächtig, sobald es sich dem entzieht.
 
 ## Ein Bär und die Gehirne
 
-Faulmann war nie bloß Spaziergänger oder Poet. Einige Jahre seines Lebens hatte er – fast gegen sein Naturell – Gehirne als dynamische Systeme studiert: ihre Strukturen, ihre Muster, ihre Versuche, sich selbst zu begreifen. Was er dabei lernte, war weniger Wissen als Demut. Denn je tiefer man in die Windungen des Denkens vordringt, desto deutlicher wird: Intelligenz ist kein Mechanismus, sondern ein Zustand zwischen Offenheit und Irrtum. Sie lässt sich nicht definieren, ohne zu verschwinden. Das wird einem eigentlich schon klar, wenn man bedenkt, was das kleine Wort definieren eigentlich meint. Und da ist es recht egal, ob man vor das Wort mit I noch *artificial* schreibt.
+Faulmann war nie "bloß" Spaziergänger, Radfahrer, Museat oder Poet. Einige Jahre seines Lebens hatte er – fast gegen sein Naturell – Gehirne als dynamische Systeme studiert: ihre Strukturen, ihre (nicht)linearen Muster, ihre Versuche, sich selbst zu begreifen. Was er dabei lernte, war weniger Wissen als Demut. Denn je tiefer man in die Windungen des Denkens vordringt, desto deutlicher wird: Intelligenz ist nihct nur Mechanismus, sondern auch ein Raum ein Topos zwischen Offenheit und Irrtum. Sie lässt sich nicht definieren, ohne zu verschwinden. Das wird einem eigentlich schon klar, wenn man bedenkt, was das kleine Wort de-fin-ieren eigentlich meint. Und da ist es recht egal, ob man vor das Wort mit I noch *artificial* schreibt.
 
 ## Das Paradox der Ordnung
 
-Vielleicht, denkt er, ist das der eigentliche Witz unserer Zeit – dass ausgerechnet jene, die Intelligenz verwalten wollen, sie dabei verlieren. Denn wer das Denken ganz bestimmen möchte, verbannt es aus dem Bereich des Lebendigen. Das Ordnende, das sich für vernünftig hält, wird ontologisch dumm: verlässlich, berechenbar, unbelehrbar. Er muss lächeln. Zwischen den glänzenden Oberflächen der ZERO-Objekte spiegelt sich dieses Paradox – wie Licht, das man zu fassen versucht, und das doch erst sichtbar wird, wenn man es nicht hält.
+Vielleicht, denkt er, ist das der eigentliche Witz unserer Zeit – dass ausgerechnet!  jene, die Intelligenz verwalten wollen, sie dabei verlieren. Denn wer das intelligente ganz bestimmen möchte, verbannt es vermutlich aus dem Bereich des Lebendigen. Das epistemisch Ordnende, das sich für vernünftig hält, wird ontologisch dumm: verlässlich, berechenbar, unbelehrbar. Er muss lächeln. Zwischen den glänzenden Oberflächen der ZERO-Objekte spiegelt sich dieses Paradox – wie Licht, das man zu fassen versucht, und das doch erst sichtbar wird, wenn man es nicht hält.
 
 > „Nur wer dumm genug ist, will wissen, was Intelligenz sei. Wer’s wüsste, hätt sie schon verloren.“
 
@@ -78,17 +78,17 @@ Vielleicht, denkt er, ist das der eigentliche Witz unserer Zeit – dass ausgere
 
 Und irgendwo viel später, lange nach Sputnik und der Mondlandung, erinnert sich der Kapitän an einen jungen Faulmann in den achtziger und neunziger Jahren, der vor dem flimmernden Bildschirm saß: *Raumpatrouille Orion* und *Star Trek*. Zwei Visionen des gleichen Wunders – Technik als Bühne der Hoffnung. *Raumpatrouille Orion* lief da längst in Wiederholungen, *Star Trek* schien aus einer anderen Galaxis, und doch berührten beide denselben Nerv: die Sehnsucht, dass Zukunft mehr sei als Fortschritt. *Star Trek* legte noch etwas dazu – die Ahnung, dass Technik und Ethik eines Tages in dieselbe Richtung weisen könnten, insbesondere in der damals neu aufbrechenden nächsten Generation.
 
-Faulmann denkt an jene Zukunftsbilder zurück (interessant, dass man das kann, denkt er gleichzeitig) – an die glatten Oberflächen, die hellen Kommandobrücken, die Gewissheit, dass Fortschritt auch Verantwortung bedeuten könne. *Orion*, *Enterprise* – sie waren sauber, optimistisch, fast pastoral. Der Mensch reiste ins All, um zu verstehen, nicht um zu entkommen.
+Faulmann denkt an jene Zukunftsbilder zurück (<- interessant, dass man das kann, denkt er gleichzeitig) – an die glatten Oberflächen, die hellen Kommandobrücken, die Gewissheit, dass Fortschritt auch Verantwortung bedeuten könne. *Orion*, *Enterprise* – sie waren sauber, optimistisch, fast pastoral. Der Mensch reiste ins All, um zu verstehen, nicht um zu entkommen.
 
-Doch irgendwann drehte sich das um – nicht nur in der Welt, auch bei Faulmanns Medienkonsum. Aus Chrom wurde Neon, aus Vision Dystopie. Die glänzenden Raumschiffe wichen den Schattenstädten des Cyberpunk, die Zukunft roch plötzlich nach Ozon, Öl und Angst. Das Design der Sechzigerjahre sprach von Hoffnung, das der Achtziger von Erschöpfung – als hätte man den Traum von der Moderne gegen den Verdacht eingetauscht, dass Technik uns längst überholt. Irgendjemand scheint das als Anleitung verstanden zu haben, und jetzt stecken wir in einer fünfzig Jahre alten Dystopie fest – und merken nicht, dass wir längst einem Grayschen Prinzip folgen – Zukunft als Remake der Enttäuschung, während wir uns, ganz wie Johns Namensvetter Dorian, rückwärts durch die Zeit bewegen.
-
+Doch irgendwann drehte sich das um – nicht nur in der Welt, auch in Faulmanns Medienkonsum. Aus Chrom wurde Neon, aus Vision Dystopie. Die glänzenden Raumschiffe wichen den Schattenstädten des Cyberpunk, die Zukunft roch plötzlich nach Ozon, Öl und Angst. Das Design der Sechzigerjahre sprach von Hoffnung, das der Achtziger von Erschöpfung – als hätte man den Traum von der Zukunft gegen den Verdacht eingetauscht, dass Technik uns längst überholt. Irgendjemand scheint das als Anleitung verstanden zu haben. Derweil stecken wir in einer fünfzig Jahre alten Dystopie fest – und merken nicht, dass wir längst einem Grayschen Prinzip folgen: Zukunft als Remake der Enttäuschung, während wir uns, ganz wie Johns Namensvetter Dorian, rückwärts durch die Zeit bewegen.
+  
 ## Null ist kein Nichts
 
-Draußen tropften noch Blätter von den Bäumen, als Faulmann durch die Glasfront blickt. „Zero“, denkt er, „ist kein Nichts. Es ist der Moment, bevor etwas wird.“ So wie der Countdown kein Schweigen ist, sondern gespannte Möglichkeit. Wie Intelligenz nicht im Ergebnis liegt, sondern im Wagnis des Fragens. Und wie jedes wirklich neue Denken beginnt – nicht mit Wissen, sondern mit dem Mut, noch keine Antwort zu haben, und manchmal mit Regression.
+Draußen tropften Blätter von den Bäumen, als Faulmann durch die Glasfront blickt. „Zero“, denkt er, „ist kein Nichts. Es ist der Moment, bevor etwas wird.“ So wie der Countdown kein Schweigen ist, sondern gespannte Möglichkeit. Wie Intelligenz nicht im Ergebnis liegt, sondern im finden des richtigen Fragens. Und wie jedes wirklich neue Denken beginnt hoffentlich auch das diesmalige – nicht mit Wissen, sondern mit dem Mut, noch keine Antwort zu haben, und manchmal wohl leider mit Regression.
 
 Faulmann bleibt noch einen Moment sitzen. Vielleicht, denkt er, hat sich das Design der Dinge nur unserem Denken angepasst – es spiegelt, wie wir sehen: einst nach vorn, heute zur Seite, auf Reflexion bedacht und auf Rückversicherung programmiert.
 
-Und doch, tief in ihm, glimmt etwas von jener alten Farbe der Zukunft: ein mattes, aber treues Blau. Nicht das rückwärtsgewandte Blau brauner, stillstehender Herzen, sondern das optimistische Blau des Kollegen, der um die Ecke grüßenden orangefarbenen Maus – und das der dynamisch pulsierenden Warpkerne, die uns superreal schnell dorthin bringen, wo nie zuvor ein Mensch gewesen ist – vielleicht sogar zu sich selbst.
+Und doch, tief in ihm, glimmt etwas von jener alten Farbe der Zukunft: ein mattes, aber treues Blau. Nicht das rückwärtsgewandte Blau – das in Wahrheit brauner, stillstehender Herzen –, sondern das optimistische Blau des Kollegen, der um die Ecke grüßenden orangefarbenen Maus, und das der dynamisch pulsierenden Warpkerne, die uns superreal schnell dorthin bringen, wo nie zuvor ein Mensch gewesen ist – vielleicht sogar zu sich selbst.
 
 ---
 
