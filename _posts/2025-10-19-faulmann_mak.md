@@ -14,7 +14,7 @@ Der Morgen am Flughafen war kurz und stürmisch. Der Geruch von warmem Öl und K
 
 Es ist still. Nur der Boden hallt leise unter den Sohlen. Im weiten weißen Vorraum steht er allein – der **Mercedes-Benz 300 SL**, Gullwing, Flügeltürer, Ikone. Seine Linien sind glatt wie gespannte Muskeln, sein Chrom spiegelt das Licht der Halle. Faulmann bleibt stehen, fast andächtig. „Ein Tier aus Metall“, denkt er. „Geboren aus Geschwindigkeit und Sehnsucht.“ Auf dem Schild daneben liest er: *„Sensation der Straße“*, *„Designlegende des 20. Jahrhunderts“*. Und tatsächlich – das Ding hat etwas Lebendiges. Nicht nur, weil es glänzt, sondern weil es etwas erzählt: von Träumen, Technik und dem menschlichen Willen, Schönheit in Bewegung zu übersetzen. Der Bär tritt einen Schritt zurück. Hinter diesem Auto, ahnt er, beginnt etwas Neues – eine Geschichte, in der das Nützliche plötzlich schön sein darf und das Schöne sich mit Schrauben befestigen lässt.
 
-![Mercedes-Benz 300 SL By Oleg Yunakov](https://pxscdn.com/public/m/_v2/607467830790472239/0c2c69eb8-6377a8/oOK2YjVnfXnW/IYa5vOrhBA3PC6bKOMCwkTDIvfVT4USIQJZ5exfp.jpg)
+![Mercedes-Benz 300 SL By Oleg Yunakov](https://pixelfed.social/storage/m/_v2/607467830790472239/0c2c69eb8-6377a8/yapCaX1iGTL0/C643cz3dTitU6RUjQz8SRPlcY9iIo6hlOea1DDe5.jpg)
 
 ---
 
@@ -94,6 +94,7 @@ Und doch, tief in ihm, glimmt etwas von jener alten Farbe der Zukunft: ein matte
 ---
 
 *Faulmann, im Herbst 2025 – zwischen Neon und Blau.*
+
 
 
 
