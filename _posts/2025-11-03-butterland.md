@@ -10,7 +10,7 @@ teaser: "Ein Land, das man nicht mit Pass, sondern mit einer Stulle betritt."
 
 Butter schmeckt besser, wenn man sie teilt,  das wissen auch Waldbewohner mit Sinn für Gemütlichkeit. Genau darum geht’s bei **„Butterland – Stulle, Hörnchen, Hand in Hand“.** 🧈🐻🥐
 
-In Faulmanns Welt gibt es Orte, die betritt man nicht mit Stempel und Schranke, sondern mit **Gewohnheiten**. Butterland ist so einer. Da kommst du nicht mit Pass rein, sondern indem du **etwas aufs Brett legst**. Du reist nicht per Ticket, sondern per **Stulle, die rumgeht**. Und statt einer pathetischen Hymne gibt’s diesen völlig faulmanesken Satz:
+Im Faulmanniversum gibt es Orte, die betritt man nicht mit Stempel und Schranke, sondern mit **Gewohnheiten**. Butterland ist so einer. Da kommst du nicht mit Pass rein, sondern indem du **etwas aufs Brett legst**. Du reist nicht per Ticket, sondern per **Stulle, die rumgeht**. Und statt einer pathetischen Hymne gibt’s diesen völlig faulmanesken Satz:
 
 > **„Kein Tamtam im Ofenrohr.“**
 
