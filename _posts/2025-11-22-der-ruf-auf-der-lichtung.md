@@ -12,8 +12,6 @@ teaser: "Wenn ein Wort sticht und ein Wald zuhören lernt."
 
 Auf der Lichtung herrscht nie völlige Einigkeit. Das ist gut so – denn Reden, Zuhören und Widersprechen gehören zum Atmen des Waldes. Nur manchmal, wenn jemand zu laut beschließt, was andere sagen dürfen, wird es unruhig. Dann zeigt sich, dass Offenheit nicht Beliebigkeit heißt und dass selbst im freundlichsten Wald eine Spur von Wehrhaftigkeit wohnt.
 
-## Die Fabel
-
 An einem klaren Abend saßen Faulmann, Mummrich, Dachsbert und – leicht im Schatten – die junge Füchsin Liora auf der Lichtung.  
 Die Vögel waren schon stiller, nur die Krähe knabberte noch an einem alten Streit mit den Eichelhähern, die sie seither am Krächzen hinderten, indem sie jedes Mal laut pfiffen, sobald sie sie erblickten.
 
