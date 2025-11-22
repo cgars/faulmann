@@ -8,6 +8,8 @@ teaser: "Wenn ein Wort sticht und ein Wald zuhören lernt."
 
 # Der Ruf auf der Lichtung
 
+![](https://pixelfed.social/storage/m/_v2/607467830790472239/3dc769ff5-aadbb1/xZcusLkP2gCy/6U2R1BdJMmclTd8kanNoRhqSCyRGu0vRry3vL9xk.png)
+
 Auf der Lichtung herrscht nie völlige Einigkeit. Das ist gut so – denn Reden, Zuhören und Widersprechen gehören zum Atmen des Waldes. Nur manchmal, wenn jemand zu laut beschließt, was andere sagen dürfen, wird es unruhig. Dann zeigt sich, dass Offenheit nicht Beliebigkeit heißt und dass selbst im freundlichsten Wald eine Spur von Wehrhaftigkeit wohnt.
 
 ## Die Fabel
