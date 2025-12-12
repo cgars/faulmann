@@ -1,5 +1,5 @@
 ---
-title: "Die Dinge im Atem des Raumes"
+title: "Zwischen Abdruck und Erinnerung"
 layout: post
 categories: [faulmann, popart, museum]
 date: 2025-12-07
