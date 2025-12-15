@@ -9,3 +9,25 @@
 .wrapper         {width: 80%; max-width: 800px; height: 100%; margin: 0 auto;}
 .h_iframe        {position: relative; padding-top: 56%;}
 .h_iframe iframe {position: absolute; top: 0; left: 0; width: 100%; height: 100%;}
+
+/* Dachsbert voice block */
+.dachsbert {
+  margin: 1.2rem 0;          /* breathing room */
+  padding: 0.15rem 0 0.15rem 1rem;
+  border-left: 3px solid rgba(0,0,0,0.18);  /* subtle marker */
+  color: rgba(0,0,0,0.88);   /* slightly darker than body text */
+  font-weight: 500;          /* not bold, just heavier */
+}
+
+/* Optional: make it feel more “aside / off-axis” */
+.dachsbert--narrow {
+  max-width: 42rem;          /* a touch tighter */
+}
+
+/* Optional: if your site has dark mode, keep it legible */
+@media (prefers-color-scheme: dark) {
+  .dachsbert {
+    border-left-color: rgba(255,255,255,0.22);
+    color: rgba(255,255,255,0.92);
+  }
+}
