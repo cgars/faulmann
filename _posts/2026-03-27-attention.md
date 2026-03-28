@@ -44,10 +44,21 @@ Und irgendwo zwischen diesen Antworten begann sich eine andere Frage aufzudräng
 
 "Was passiert mit einer Gesellschaft, in der Aufmerksamkeit nicht mehr nur begrenzt ist, sondern gestaltet wird?"
 
-Diesmal antwortete das Gerät nicht sofort. Legte dann aber umso entschiedener los
+Diesmal antwortete das Gerät nicht sofort.  
+Dann setzte es umso entschiedener an.
 ![](https://pixelfed.social/storage/m/_v2/607467830790472239/a1431798c-70628a/JXPTyoO0nqys/ORTz0F63PTiSx3NFKxDkDd0AfacQYWDlAwtasSGx.png)
 
-Es ist eine kleine Ironie, dass ausgerechnet jenes Paper, das den aktuellen KI-Schub maßgeblich geprägt hat, "Attention Is All You Need" heißt. Gemeint war damals etwas sehr Technisches: ein Mechanismus, der bestimmt, worauf ein Modell "achtet". Heute klingt der Satz fast anders. Nicht mehr nur als Beschreibung eines Algorithmus, sondern wie eine leise Vorwegnahme dessen, was diese Systeme von uns brauchen: unsere Aufmerksamkeit.
+Es ist eine kleine Ironie, dass ausgerechnet jenes Paper, das den aktuellen KI-Schub maßgeblich geprägt hat, "Attention Is All You Need" heißt.
+
+Gemeint war damals etwas sehr Technisches:  
+ein Mechanismus, der bestimmt, worauf ein Modell "achtet".
+
+Heute klingt der Satz fast anders.
+
+Nicht mehr nur als Beschreibung eines Algorithmus,  
+sondern wie eine leise Vorwegnahme dessen, was diese Systeme von uns brauchen:
+
+unsere Aufmerksamkeit.
 
 ---
 
@@ -67,13 +78,17 @@ Ohne Verbesserung keine Relevanz.
 
 Und ohne Relevanz: keine Existenz.
 
-> Faulmann schauderte es kurz: "So ein Ding ist ja dann nicht nur ein System, das Aufmerksamkeit strukturiert - sondern eines, das um sie existenziell kreist. Fast so, als hätte man ein etwas erschaffen, dessen Überleben davon abhängt, benutzt zu werden und aufmerksamkeit zu bekommen" [^hertel].
+> Faulmann schauderte kurz:  
+> "So ein Ding ist ja dann nicht nur ein System, das Aufmerksamkeit strukturiert - sondern eines, das um sie existenziell kreist.  
+> Fast so, als hätte man etwas erschaffen, dessen Überleben davon abhängt, benutzt zu werden und daher darauf angewiesen ist nicht in Vergessenheit zu geraten." [^hertel]
 
 Einerseits steht da die technische Architektur moderner Systeme - inspiriert vom Paper "Attention Is All You Need" - in der Aufmerksamkeit ein Mechanismus zur Gewichtung von Kontext ist. Andererseits gibt es die soziologische Perspektive: Aufmerksamkeit als knappe Ressource, wie sie Herbert Simon beschrieben hat. Heute verschmelzen beide Ebenen.
 
 Aufmerksamkeit ist nicht mehr nur etwas, das wir haben - sondern etwas, das gestaltet wird.
 
-> In einem kurzen moment in dem das Gerät luft zu holen schien sage Mummrich: "Also ist Aufmerksamkeit nichts mehr, das wir lenken sondern etwas, das uns lenkt?" Faulmann schwieg.
+> In einem kurzen Moment, in dem das Gerät Luft zu holen schien, sagte Mummrich:  
+> "Also ist Aufmerksamkeit nichts mehr, das wir lenken, sondern etwas, das uns lenkt?"  
+> Faulmann schwieg.
 
 ---
 
@@ -105,7 +120,8 @@ Durch Trainingsverfahren wie RLHF lernen Systeme, Antworten zu bevorzugen, die:
 
 Das führt zu einer subtilen, aber tiefgreifenden Dynamik:
 
-Nicht nur Fehler werden gemacht - sondern Perspektiven werden bestätigt.Eine besonders treffendes Bild dafür ist:
+Nicht nur Fehler werden gemacht - sondern Perspektiven werden bestätigt. Eine besonders treffende Beschreibung dafür ist:
+
 > eine "Echokammer für eine Person"[^1]
 
 ---
@@ -231,7 +247,7 @@ der sonst einfach weitergegangen wäre.
 
 ---
 
-[^1]: Vgl. „Echokammer für eine Person“ im Kontext sykophantischer KI-Systeme. :contentReference[oaicite:0]{index=0}ursprüngliche Bedeutung hinausgewachsen ist.
+[^1]: Vgl. „Echokammer für eine Person“ im Kontext sykophantischer KI-Systeme. 
 
 [^hertel]: Vielleicht lohnt es sich, an dieser Stelle einen kleinen Exkurs zu machen. Mein großer akademischer Lehrmeister RainerH. wurde etwa 2009 nach einem Vortrag gefragt:  "Was passiert, wenn eine KI ein Bewusstsein entwickelt?" Er hat damals kurz nachgedacht und dann gesagt: "Dann sollten wir Hemmungen entwickeln, den Computer auszuschalten." 
 Damals klang das fast wie eine elegante Ausweichantwort. Heute wirkt es zunehmen prohetisch.
