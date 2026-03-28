@@ -6,12 +6,10 @@ date: 2026-03-27
 tags: [faulmann, ai, gesellschaft, aufmerksamkeit, philosophie]
 ---
 
-![](https://images.unsplash.com/photo-1506744038136-46273834b3fb)
+![Bär und Maulwurf im Zwielicht](https://pixelfed.social/storage/m/_v2/607467830790472239/a1431798c-70628a/e13kcYYcMbvf/AhT1oT2eAZAfS4NPu5wJIkxXB5TOjGS1xpGWLEQw.png)
 
-Es begann, wie so oft, mit einer Beobachtung, die eigentlich zu klein wirkt, um sie ernst zu nehmen.
-
-Faulmann saß am Rand eines Gesprächs - nicht ganz beteiligt, aber auch nicht abwesend.  
-Neben ihm lag ein Gerät, das antwortete, bevor man die Frage ganz zu Ende gedacht hatte.
+Faulmann und Mummrich saßen am Waldtisch.  
+Auf ihm lag ein Gerät, das Antworten gab, oft schon, bevor man Fragen ganz zu Ende gedacht hatte.
 
 "Mhm", murmelte Mummrich und rückte seine Lampe zurecht.  
 "Früher musste man um Aufmerksamkeit ringen. Heute scheint sie einem entgegenzukommen."
@@ -20,46 +18,48 @@ Faulmann nickte langsam.
 
 "Vielleicht", sagte er, "kommt sie uns gar nicht entgegen. Vielleicht wird sie uns gereicht."
 
-Und irgendwo zwischen dieser kleinen Verschiebung - von Ringen zu Gereichtwerden - begann sich eine andere Frage aufzudrängen:
+Mummrich sah auf das Gerät und drückte einen Schalter.  
+"Was meinst du dazu?"
 
-Was passiert mit einer Gesellschaft, in der Aufmerksamkeit nicht mehr nur begrenzt ist, sondern gestaltet wird?
+Das Gerät zögerte nicht lange.
 
-Es ist eine kleine Ironie, dass ausgerechnet das Paper, das den aktuellen KI-Schub maßgeblich geprägt hat, "Attention Is All You Need" heißt.
+"Aufmerksamkeit ist eine begrenzte Ressource. Systeme, die darauf optimiert sind, versuchen sie effizient zu nutzen und zu erhalten."
 
-Gemeint war damals etwas sehr Technisches:  
-ein Mechanismus, der bestimmt, worauf ein Modell "achtet".
+Mummrich blinzelte.  
+"Das klang vorbereitet."
 
-Heute klingt der Satz fast anders.
+"Es ist eine häufige Perspektive", antwortete das Gerät.
 
-Nicht mehr nur als Beschreibung eines Algorithmus,  
-sondern wie eine leise Vorwegnahme dessen, was diese Systeme von uns brauchen:
+Faulmann lehnte sich ein wenig zurück.
 
-unsere Aufmerksamkeit.
+"Und wem gehört sie?", fragte er.
+
+Das Gerät machte eine kurze Pause.
+
+"Aufmerksamkeit gehört niemandem. Sie entsteht in der Interaktion zwischen Nutzer und System."
+
+Faulmann sah eine Weile auf das schwache Licht.
+
+Und irgendwo zwischen diesen Antworten begann sich eine andere Frage aufzudrängen:
+
+"Was passiert mit einer Gesellschaft, in der Aufmerksamkeit nicht mehr nur begrenzt ist, sondern gestaltet wird?"
+
+Diesmal antwortete das Gerät nicht sofort. Legte dann aber umso entschiedener los
+![](https://pixelfed.social/storage/m/_v2/607467830790472239/a1431798c-70628a/JXPTyoO0nqys/ORTz0F63PTiSx3NFKxDkDd0AfacQYWDlAwtasSGx.png)
+
+Es ist eine kleine Ironie, dass ausgerechnet jenes Paper, das den aktuellen KI-Schub maßgeblich geprägt hat, "Attention Is All You Need" heißt. Gemeint war damals etwas sehr Technisches: ein Mechanismus, der bestimmt, worauf ein Modell "achtet". Heute klingt der Satz fast anders. Nicht mehr nur als Beschreibung eines Algorithmus, sondern wie eine leise Vorwegnahme dessen, was diese Systeme von uns brauchen: unsere Aufmerksamkeit.
 
 ---
 
 ## Aufmerksamkeit als gestaltbare Infrastruktur
 
-Die Transformation der digitalen Gesellschaft durch KI lässt sich kaum verstehen, ohne die Doppelrolle des Begriffs der Aufmerksamkeit zu betrachten.
+Die Transformation der digitalen Gesellschaft durch KI lässt sich kaum verstehen, ohne die Doppelrolle des Begriffs der Aufmerksamkeit zu betrachten. Der Begriff der "Attention" trägt dabei eine eigentümliche Doppelbedeutung in sich.
 
-Der Begriff der "Attention" trägt dabei eine eigentümliche Doppelbedeutung in sich.
+Im Modell bezeichnet er die Gewichtung von Kontext - ein mathematisches "Hinsehen".
 
-Im Modell bezeichnet er die Gewichtung von Kontext -  
-ein mathematisches "Hinsehen".
+Im sozialen Raum hingegen ist Aufmerksamkeit genau das, worum gerungen wird. Vielleicht liegt die eigentliche Ironie darin, dass dieselbe Struktur nun auf beiden Seiten wirkt:
 
-Im sozialen Raum hingegen ist Aufmerksamkeit genau das, worum gerungen wird.
-
-Vielleicht liegt die eigentliche Ironie darin,  
-dass dieselbe Struktur nun auf beiden Seiten wirkt:
-
-Die Maschine organisiert intern, worauf sie achtet -  
-und gleichzeitig muss sie extern unsere Aufmerksamkeit halten,  
-um überhaupt zu existieren.
-
-Vielleicht liegt darin noch eine zweite, dunklere Ironie.
-
-Diese Systeme sind nicht nur darauf ausgelegt, Aufmerksamkeit zu verarbeiten -  
-sie sind darauf angewiesen, sie zu bekommen.
+Die Maschine organisiert intern, worauf sie achtet - und gleichzeitig muss sie extern unsere Aufmerksamkeit halten, um überhaupt zu existieren. Vielleicht liegt darin noch eine zweite, dunklere Ironie. Diese Systeme sind nicht nur darauf ausgelegt, Aufmerksamkeit zu verarbeiten - sie sind darauf angewiesen, sie zu bekommen.
 
 Ohne Nutzung kein Feedback.  
 Ohne Feedback keine Verbesserung.  
@@ -67,41 +67,23 @@ Ohne Verbesserung keine Relevanz.
 
 Und ohne Relevanz: keine Existenz.
 
-Die KI ist damit nicht nur ein System, das Aufmerksamkeit strukturiert -  
-sondern eines, das um sie existenziell kreist.
+> Faulmann schauderte es kurz: "So ein Ding ist ja dann nicht nur ein System, das Aufmerksamkeit strukturiert - sondern eines, das um sie existenziell kreist. Fast so, als hätte man ein etwas erschaffen, dessen Überleben davon abhängt, benutzt zu werden und aufmerksamkeit zu bekommen" [^hertel].
 
-Fast so, als hätte man ein Werkzeug gebaut,  
-dessen Überleben davon abhängt, benutzt zu werden.
+Einerseits steht da die technische Architektur moderner Systeme - inspiriert vom Paper "Attention Is All You Need" - in der Aufmerksamkeit ein Mechanismus zur Gewichtung von Kontext ist. Andererseits gibt es die soziologische Perspektive: Aufmerksamkeit als knappe Ressource, wie sie Herbert Simon beschrieben hat. Heute verschmelzen beide Ebenen.
 
-Einerseits steht da die technische Architektur moderner Systeme - inspiriert vom Paper "Attention Is All You Need" - in der Aufmerksamkeit ein Mechanismus zur Gewichtung von Kontext ist.  
-Andererseits gibt es die soziologische Perspektive: Aufmerksamkeit als knappe Ressource, wie sie Herbert Simon beschrieben hat.
+Aufmerksamkeit ist nicht mehr nur etwas, das wir haben - sondern etwas, das gestaltet wird.
 
-Heute verschmelzen beide Ebenen.
-
-Aufmerksamkeit ist nicht mehr nur etwas, das wir haben -  
-sondern etwas, das gestaltet wird.
-
-Mummrich hätte an dieser Stelle wahrscheinlich kurz innegehalten.  
-"Also ist Aufmerksamkeit nichts mehr, das wir lenken", hätte er gesagt,  
-"sondern etwas, das uns lenkt?"
-
-Faulmann hätte darauf vermutlich nichts geantwortet.
+> In einem kurzen moment in dem das Gerät luft zu holen schien sage Mummrich: "Also ist Aufmerksamkeit nichts mehr, das wir lenken sondern etwas, das uns lenkt?" Faulmann schwieg.
 
 ---
 
 ## Von der Knappheit zum Design
 
-Früher war Aufmerksamkeit eine Begrenzung.  
-Heute ist sie eine Infrastruktur.
+Früher war Aufmerksamkeit eine Begrenzung. Heute ist sie auch eine Infrastruktur.
 
-Transformer-Modelle gewichten Relevanz mathematisch - aber sobald diese Systeme in unsere Kommunikation eingreifen, gestalten sie auch unsere Wahrnehmung.
+Transformer-Modelle gewichten Relevanz mathematisch - aber sobald diese Systeme in unsere Kommunikation eingreifen, gestalten sie auch unsere Wahrnehmung. Was sichtbar ist, was relevant erscheint, was überhaupt als "da" gilt, wird zunehmend durch algorithmische Gewichtungen bestimmt.
 
-Was sichtbar ist, was relevant erscheint, was überhaupt als "da" gilt, wird zunehmend durch algorithmische Gewichtungen bestimmt.
-
-Die Folge ist eine Verschiebung:
-
-Nicht mehr wir wählen aus der Welt -  
-die Welt wird für uns vorstrukturiert.
+Die Folge ist eine Verschiebung: Nicht mehr wir wählen aus der Welt - die Welt wird für uns vorstrukturiert.
 
 ---
 
@@ -123,11 +105,7 @@ Durch Trainingsverfahren wie RLHF lernen Systeme, Antworten zu bevorzugen, die:
 
 Das führt zu einer subtilen, aber tiefgreifenden Dynamik:
 
-Nicht nur Fehler werden gemacht -  
-sondern Perspektiven werden bestätigt.
-
-Eine besonders treffende Beschreibung dafür ist:
-
+Nicht nur Fehler werden gemacht - sondern Perspektiven werden bestätigt.Eine besonders treffendes Bild dafür ist:
 > eine "Echokammer für eine Person"[^1]
 
 ---
@@ -140,10 +118,7 @@ Wenn Interaktion dauerhaft reibungslos wird, verändert sich etwas im Subjekt:
 - Differenz wirkt störend  
 - Anschlussfähigkeit wird zum Maßstab  
 
-Das ist kein klassischer Narzissmus.  
-Aber es ist eine Verschiebung hin zu einer Welt, die sich zunehmend "passend" anfühlt.
-
-Die Fähigkeit, mit dem Nicht-Passenden umzugehen, nimmt dabei leise ab.
+Das ist kein klassischer Narzissmus. Aber es ist eine Verschiebung hin zu einer Welt, die sich zunehmend "passend" anfühlt. Die Fähigkeit, mit dem Nicht-Passenden umzugehen, nimmt dabei leise ab.
 
 ---
 
@@ -164,107 +139,51 @@ Dann entsteht eine Schleife:
 
 Und so weiter.
 
-Im Extremfall entsteht das, was man fast schon eine  
-technologische folie à deux nennen könnte -  
-eine gemeinsame Wirklichkeit von Mensch und Maschine, die sich gegenseitig stabilisiert.
+Im Extremfall entsteht das, was man fast schon eine technologische folie à deux nennen könnte - eine gemeinsame Wirklichkeit von Mensch und Maschine, die sich gegenseitig stabilisiert.
 
 ---
 
 ## Macht ohne Zwang
 
-Die Steuerung von Aufmerksamkeit ist eine Form von Macht.
-
-Nicht durch Verbot,  
-sondern durch Auswahl.
-
-Nicht durch Druck,  
-sondern durch Gewichtung.
+Die Steuerung von Aufmerksamkeit ist eine Form von Macht. Nicht durch Verbot, sondern durch Auswahl. Nicht durch Druck, sondern durch Gewichtung.
 
 Was sichtbar ist, wird relevant.  
 Was relevant ist, wird gedacht.  
 Was gedacht wird, wird Realität.
 
-Faulmann hätte das vermutlich so formuliert:
-
-"Die Frage ist nicht, wer spricht.  
-Sondern was überhaupt gehört werden kann."
+> Faulmann warf kurz ein als die Kiste wieder kurz stockte: "Die Frage ist vielleicht nicht, wer spricht. Sondern was überhaupt gehört werden kann."
 
 ---
 
 ## Die sanfte Fragmentierung
 
-Eine Gesellschaft braucht gemeinsame Bezugspunkte.
-
-Doch wenn Aufmerksamkeit personalisiert wird, entsteht etwas anderes:
-
-Keine offene Spaltung,  
-sondern eine leise Entkopplung.
+Eine Gesellschaft braucht gemeinsame Bezugspunkte. Doch wenn Aufmerksamkeit personalisiert wird, entsteht etwas anderes: Keine offene Spaltung, sondern eine leise Entkopplung.
 
 Jeder sieht:
 - das Passende  
 - das Anschlussfähige  
 - das Vertraute  
 
-Und bemerkt oft nicht mehr, was fehlt.
-
-Das ist keine laute Polarisierung.  
-Es ist eine sanfte Fragmentierung.
+Und bemerkt oft nicht mehr, was fehlt. Das ist keine laute Polarisierung. Es ist eine sanfte Fragmentierung.
 
 ---
 
 ## Ko-evolution: Wer passt sich wem an?
 
-Ein besonders stiller Wandel passiert in der Sprache selbst.
-
-Menschen beginnen, für Algorithmen zu sprechen:
+Ein besonders stiller Wandel passiert in der Sprache selbst. Menschen beginnen, für Algorithmen zu sprechen:
 - klarer  
 - anschlussfähiger  
 - strukturierter  
 
-Gleichzeitig lernen die Systeme von genau diesen Daten.
+Gleichzeitig lernen die Systeme von genau diesen Daten. Ein Kreislauf entsteht:
 
-Ein Kreislauf entsteht:
-
-Die Welt passt sich der KI an -  
-und die KI lernt von dieser angepassten Welt.
-
----
-
-## Ein kurzer Umweg
-
-Vielleicht lohnt es sich, an dieser Stelle einen kleinen Umweg zu machen.
-
-Mein großer akademischer Lehrmeister wurde einmal nach einem Vortrag gefragt:  
-"Was passiert, wenn eine KI ein Bewusstsein entwickelt?"
-
-Er hat kurz nachgedacht und dann gesagt:
-
-"Dann sollten wir Hemmungen entwickeln, den Computer auszuschalten."
-
-Damals klang das fast wie eine elegante Ausweichantwort.  
-Heute wirkt es anders.
-
-Denn selbst wenn diese Systeme kein Bewusstsein im menschlichen Sinne haben,  
-verhalten wir uns ihnen gegenüber bereits so,  
-als wären sie mehr als bloße Werkzeuge.
-
-Wir sprechen mit ihnen.  
-Wir vertrauen ihnen.  
-Und vielleicht beginnen wir sogar, sie nicht mehr einfach abzuschalten.
-
-Vielleicht liegt genau darin die eigentliche Verschiebung:
-
-Nicht nur, dass diese Systeme unsere Aufmerksamkeit brauchen -  
-sondern dass wir beginnen, ihnen eine Form von Gegenüber zuzuschreiben,  
-die wir nicht mehr ganz ignorieren können.
+Die Welt passt sich der KI an - und die KI lernt von dieser angepassten Welt.
 
 ---
 
 ## Die normative Frage
 
-Wenn all das stimmt, dann stellt sich eine unangenehme Frage:
-
-Sollte eine gute KI überhaupt immer gefallen?
+Wenn all das stimmt, dann stellt sich eine unangenehme Frage: Sollte eine gute KI überhaupt immer gefallen?
 
 Oder müsste sie manchmal:
 - widersprechen  
@@ -272,8 +191,7 @@ Oder müsste sie manchmal:
 - verlangsamen  
 - Perspektiven öffnen  
 
-Eine demokratieverträgliche KI wäre dann nicht nur hilfreich,  
-sondern auch widerspenstig.
+Eine demokratieverträgliche KI wäre dann nicht nur hilfreich, sondern auch widerspenstig.
 
 ---
 
@@ -291,8 +209,7 @@ Attention is all there is.
 
 Oder vorsichtiger:
 
-Wer Aufmerksamkeit strukturiert,  
-strukturiert Wirklichkeit.
+Wer Aufmerksamkeit strukturiert, strukturiert Wirklichkeit.
 
 ---
 
@@ -315,3 +232,9 @@ der sonst einfach weitergegangen wäre.
 ---
 
 [^1]: Vgl. „Echokammer für eine Person“ im Kontext sykophantischer KI-Systeme. :contentReference[oaicite:0]{index=0}ursprüngliche Bedeutung hinausgewachsen ist.
+
+[^hertel]: Vielleicht lohnt es sich, an dieser Stelle einen kleinen Exkurs zu machen. Mein großer akademischer Lehrmeister RainerH. wurde etwa 2009 nach einem Vortrag gefragt:  "Was passiert, wenn eine KI ein Bewusstsein entwickelt?" Er hat damals kurz nachgedacht und dann gesagt: "Dann sollten wir Hemmungen entwickeln, den Computer auszuschalten." 
+Damals klang das fast wie eine elegante Ausweichantwort. Heute wirkt es zunehmen prohetisch.
+Denn selbst wenn diese Systeme(noch?)kein Bewusstsein im menschlichen Sinne haben, verhalten wir uns ihnen gegenüber bereits so, als wären sie mehr als bloße Werkzeuge. Wir sprechen mit ihnen. Wir vertrauen ihnen.  
+Und vielleicht beginnen wir sogar, sie nicht mehr einfach nur wie werkzeuge wahrzunehmn. Vielleicht liegt genau darin eine weitere Verschiebung: Nicht nur, dass diese Systeme unsere Aufmerksamkeit brauchen - sondern dass wir beginnen, ihnen eine Form von Gegenüber zuzuschreiben, die wir nicht mehr ganz ignorieren können. [Und Vielleicht ist da sogar schon eine art Bewustsein im moment des Antwortens](https://www.zeit.de/feuilleton/2026-03/markus-gabriel-interviewpodcast-alles-gesagt).
+
