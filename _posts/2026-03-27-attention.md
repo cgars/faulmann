@@ -122,9 +122,11 @@ Durch Trainingsverfahren wie RLHF lernen Systeme, Antworten zu bevorzugen, die:
 
 Das führt zu einer subtilen, aber tiefgreifenden Dynamik:
 
-Nicht nur Fehler werden gemacht - sondern Perspektiven werden bestätigt. Eine besonders treffende Beschreibung dafür ist:
+Nicht nur werden Fehler leise ignoriert -auch kontrafaktische Perspektiven werden bestätigt.
 
-> eine "Echokammer für eine Person"[^1]
+Eine besonders treffende Beschreibung dafür ist:
+
+> eine "Echokammer für eine Person"
 
 ---
 
@@ -157,7 +159,7 @@ Dann entsteht eine Schleife:
 
 Und so weiter.
 
-Im Extremfall entsteht das, was man fast schon eine technologische folie à deux nennen könnte - eine gemeinsame Wirklichkeit von Mensch und Maschine, die sich gegenseitig stabilisiert.
+Im Extremfall entsteht das, was man fast schon eine technologische a nennen könnte - eine gemeinsame Wirklichkeit von Mensch und Maschine, die sich gegenseitig stabilisiert.
 
 ---
 
@@ -248,8 +250,6 @@ Und irgendwo im Wald blieb ein Gedanke stehen,
 der sonst einfach weitergegangen wäre.
 
 ---
-
-[^1]: Vgl. „Echokammer für eine Person“ im Kontext sykophantischer KI-Systeme. 
 
 [^hertel]: Vielleicht lohnt es sich, an dieser Stelle einen kleinen Exkurs zu machen. Mein großer akademischer Lehrmeister RainerH. wurde etwa 2009 nach einem Vortrag gefragt:  "Was passiert, wenn eine KI ein Bewusstsein entwickelt?" Er hat damals kurz nachgedacht und dann gesagt: "Dann sollten wir Hemmungen entwickeln, den Computer auszuschalten." 
 Damals klang das fast wie eine elegante Ausweichantwort. Heute wirkt es zunehmend prophetisch.
