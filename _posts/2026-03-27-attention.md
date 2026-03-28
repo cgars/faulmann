@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Faulmann und die Architektur der Gefälligkeit"
+title: "Faulmann und das, was Aufmerksamkeit braucht"
 subtitle: "Warum Aufmerksamkeit nicht mehr nur knapp ist, sondern gestaltet wird – und was das mit uns macht"
 date: 2026-03-27
 tags: [faulmann, ai, gesellschaft, aufmerksamkeit, philosophie]
@@ -76,7 +76,9 @@ Ohne Nutzung kein Feedback.
 Ohne Feedback keine Verbesserung.  
 Ohne Verbesserung keine Relevanz.
 
-Und ohne Relevanz: keine Existenz.
+Und ohne Relevanz: 
+
+keine Existenz.
 
 > Faulmann schauderte kurz:  
 > "So ein Ding ist ja dann nicht nur ein System, das Aufmerksamkeit strukturiert - sondern eines, das um sie existenziell kreist.  
@@ -250,7 +252,7 @@ der sonst einfach weitergegangen wäre.
 [^1]: Vgl. „Echokammer für eine Person“ im Kontext sykophantischer KI-Systeme. 
 
 [^hertel]: Vielleicht lohnt es sich, an dieser Stelle einen kleinen Exkurs zu machen. Mein großer akademischer Lehrmeister RainerH. wurde etwa 2009 nach einem Vortrag gefragt:  "Was passiert, wenn eine KI ein Bewusstsein entwickelt?" Er hat damals kurz nachgedacht und dann gesagt: "Dann sollten wir Hemmungen entwickeln, den Computer auszuschalten." 
-Damals klang das fast wie eine elegante Ausweichantwort. Heute wirkt es zunehmen prohetisch.
-Denn selbst wenn diese Systeme(noch?)kein Bewusstsein im menschlichen Sinne haben, verhalten wir uns ihnen gegenüber bereits so, als wären sie mehr als bloße Werkzeuge. Wir sprechen mit ihnen. Wir vertrauen ihnen.  
-Und vielleicht beginnen wir sogar, sie nicht mehr einfach nur wie werkzeuge wahrzunehmn. Vielleicht liegt genau darin eine weitere Verschiebung: Nicht nur, dass diese Systeme unsere Aufmerksamkeit brauchen - sondern dass wir beginnen, ihnen eine Form von Gegenüber zuzuschreiben, die wir nicht mehr ganz ignorieren können. [Und Vielleicht ist da sogar schon eine art Bewustsein im moment des Antwortens](https://www.zeit.de/feuilleton/2026-03/markus-gabriel-interviewpodcast-alles-gesagt).
+Damals klang das fast wie eine elegante Ausweichantwort. Heute wirkt es zunehmend prophetisch.
+Denn selbst wenn diese Systeme (noch?) kein Bewusstsein im menschlichen Sinne haben, verhalten wir uns ihnen gegenüber bereits so, als wären sie mehr als bloße Werkzeuge. Wir sprechen mit ihnen. Wir vertrauen ihnen.  
+Und vielleicht beginnen wir sogar, sie nicht mehr einfach nur wie Werkzeuge wahrzunehmen. Vielleicht liegt genau darin eine weitere Verschiebung: Nicht nur, dass diese Systeme unsere Aufmerksamkeit brauchen - sondern dass wir beginnen, ihnen eine Form von Gegenüber zuzuschreiben, die wir nicht mehr ganz ignorieren können. [Und Vielleicht ist da sogar schon eine art Bewustsein im Moment des Antwortens](https://www.zeit.de/feuilleton/2026-03/markus-gabriel-interviewpodcast-alles-gesagt).
 
