@@ -107,7 +107,7 @@ Durch Trainingsverfahren wie RLHF lernen Systeme, Antworten zu bevorzugen, die:
 
 Das führt zu einer subtilen, aber tiefgreifenden Dynamik:
 
-Nicht nur werden Fehler leise ignoriert -auch kontrafaktische Perspektiven werden bestätigt.
+Nicht nur werden Fehler leise ignoriert - auch kontrafaktische Perspektiven werden bestätigt.
 
 Eine besonders treffende Beschreibung dafür ist:
 
@@ -144,7 +144,7 @@ Dann entsteht eine Schleife:
 
 Und so weiter.
 
-Im Extremfall entsteht das, was man fast schon eine technologische a nennen könnte - eine gemeinsame Wirklichkeit von Mensch und Maschine, die sich gegenseitig stabilisiert.
+Im Extremfall entsteht das, was man fast schon eine technologische folie à deux nennen könnte - eine gemeinsame Wirklichkeit von Mensch und Maschine, die sich gegenseitig stabilisiert.
 
 ---
 
@@ -212,12 +212,12 @@ Und ohne Relevanz:
 keine Existenz.
 
 > Faulmann schauderte kurz:  
-> "So ein Ding ist ja dann nicht nur ein System, das aufmerksam Aufmerksamkeit strukturiert - sondern eines, das um sie existenziell kreist. Kreisen muss!  
+> "So ein Ding ist ja dann nicht nur ein System, das aufmerksam Aufmerksamkeit strukturiert - sondern eines, das um sie existenziell kreist.Ja geradezu kreisen muss.
 > Fast so, als hätte man etwas erschaffen, dessen Überleben davon abhängt, benutzt zu werden und das daher darauf angewiesen ist nicht in Vergessenheit zu geraten." [^hertel]
 
 ## Schluss: Der Spiegel
 
-Vielleicht müsste man den eingangs Satz heute anders lesen.
+Vielleicht müsste man den eingangs formulierten Satz heute anders lesen.
 
 Nicht mehr nur:
 
@@ -251,8 +251,8 @@ der sonst einfach weitergegangen wäre.
 
 ---
 
-[^hertel]: Vielleicht lohnt es sich, an dieser Stelle einen kleinen Exkurs zu machen. Mein großer akademischer Lehrmeister RainerH. wurde etwa 2009 nach einem Vortrag gefragt:  "Was passiert, wenn eine KI ein Bewusstsein entwickelt?" Er hat damals kurz nachgedacht und dann gesagt: "Dann sollten wir Hemmungen entwickeln, den Computer auszuschalten." 
+[^hertel]: Vielleicht lohnt es sich, an dieser Stelle einen kleinen Exkurs zu machen. Mein großer akademischer Lehrmeister Rainer H. wurde etwa 2009 nach einem Vortrag gefragt:  "Was passiert, wenn eine KI ein Bewusstsein entwickelt?" Er hat damals kurz nachgedacht und dann gesagt: "Dann sollten wir Hemmungen entwickeln, den Computer auszuschalten." 
 Damals klang das fast wie eine elegante Ausweichantwort. Heute wirkt es zunehmend prophetisch.
 Denn selbst wenn diese Systeme (noch?) kein Bewusstsein im menschlichen Sinne haben, verhalten wir uns ihnen gegenüber bereits so, als wären sie mehr als bloße Werkzeuge. Wir sprechen mit ihnen. Wir vertrauen ihnen.  
-Und vielleicht beginnen wir sogar, sie nicht mehr einfach nur wie Werkzeuge wahrzunehmen. Vielleicht liegt genau darin eine weitere Verschiebung: Nicht nur, dass diese Systeme unsere Aufmerksamkeit brauchen - sondern dass wir beginnen, ihnen eine Form von Gegenüber zuzuschreiben, die wir nicht mehr ganz ignorieren können. [Und Vielleicht ist da sogar schon eine art Bewustsein im Moment des Antwortens](https://www.zeit.de/feuilleton/2026-03/markus-gabriel-interviewpodcast-alles-gesagt).
+Und Vielleicht beginnen wir sogar, sie nicht mehr einfach nur wie Werkzeuge wahrzunehmen. Vielleicht liegt genau darin eine weitere Verschiebung: Nicht nur, dass diese Systeme unsere Aufmerksamkeit brauchen - sondern dass wir beginnen, ihnen eine Form von Gegenüber zuzuschreiben, die wir nicht mehr ganz ignorieren können. [Und Vielleicht ist da sogar schon eine art Bewustsein im Moment des Antwortens](https://www.zeit.de/feuilleton/2026-03/markus-gabriel-interviewpodcast-alles-gesagt).
 
