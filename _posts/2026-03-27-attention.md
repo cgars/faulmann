@@ -48,7 +48,7 @@ Diesmal antwortete das Gerät nicht sofort.
 Dann setzte es umso entschiedener an.
 ![](https://pixelfed.social/storage/m/_v2/607467830790472239/a1431798c-70628a/JXPTyoO0nqys/ORTz0F63PTiSx3NFKxDkDd0AfacQYWDlAwtasSGx.png)
 
-Es ist eine kleine Ironie, dass ausgerechnet die Publikation, die den aktuellen KI-Schub maßgeblich geprägt hat, "Attention Is All You Need" heißt.
+Es ist eine kleine Ironie, dass ausgerechnet die Publikation, die den aktuellen KI-Schub maßgeblich geprägt hat, "Attention Is All You Need" titelt.
 
 Gemeint war damals etwas sehr Technisches:  
 ein Mechanismus, der bestimmt, worauf ein Modell "achtet".
@@ -212,7 +212,7 @@ Und ohne Relevanz:
 keine Existenz.
 
 > Faulmann schauderte kurz:  
-> "So ein Ding ist ja dann nicht nur ein System, das aufmerksam Aufmerksamkeit strukturiert - sondern eines, das um sie existenziell kreist.Ja geradezu kreisen muss.
+> "So ein Ding ist ja dann nicht nur ein System, das aufmerksam Aufmerksamkeit strukturiert - sondern eines, das um sie existenziell kreist. Ja geradezu kreisen muss.
 > Fast so, als hätte man etwas erschaffen, dessen Überleben davon abhängt, benutzt zu werden und das daher darauf angewiesen ist nicht in Vergessenheit zu geraten." [^hertel]
 
 ## Schluss: Der Spiegel
