@@ -48,15 +48,14 @@ Diesmal antwortete das Gerät nicht sofort.
 Dann setzte es umso entschiedener an.
 ![](https://pixelfed.social/storage/m/_v2/607467830790472239/a1431798c-70628a/JXPTyoO0nqys/ORTz0F63PTiSx3NFKxDkDd0AfacQYWDlAwtasSGx.png)
 
-Es ist eine kleine Ironie, dass ausgerechnet jenes Paper, das den aktuellen KI-Schub maßgeblich geprägt hat, "Attention Is All You Need" heißt.
+Es ist eine kleine Ironie, dass ausgerechnet die Publikation, die den aktuellen KI-Schub maßgeblich geprägt hat, "Attention Is All You Need" heißt.
 
 Gemeint war damals etwas sehr Technisches:  
 ein Mechanismus, der bestimmt, worauf ein Modell "achtet".
 
 Heute klingt der Satz fast anders.
 
-Nicht mehr nur als Beschreibung eines Algorithmus,  
-sondern wie eine leise Vorwegnahme dessen, was diese Systeme von uns brauchen:
+Nicht mehr nur als Beschreibung eines Algorithmus, sondern wie eine leise Vorwegnahme dessen, was diese Systeme von uns brauchen:
 
 unsere Aufmerksamkeit.
 
@@ -64,25 +63,11 @@ unsere Aufmerksamkeit.
 
 ## Aufmerksamkeit als gestaltbare Infrastruktur
 
-Die Transformation der digitalen Gesellschaft durch KI lässt sich kaum verstehen, ohne die Doppelrolle des Begriffs der Aufmerksamkeit zu betrachten. Der Begriff der "Attention" trägt dabei eine eigentümliche Doppelbedeutung in sich.
+Die Transformation der digitalen Gesellschaft durch KI lässt sich kaum verstehen, ohne die Rolle des Begriffs der Aufmerksamkeit zu betrachten. Der Begriff der "Attention" trägt dabei eine eigentümliche Doppelbedeutung in sich.
 
 Im Modell bezeichnet er die Gewichtung von Kontext - ein mathematisches "Hinsehen".
 
 Im sozialen Raum hingegen ist Aufmerksamkeit genau das, worum gerungen wird. Vielleicht liegt die eigentliche Ironie darin, dass dieselbe Struktur nun auf beiden Seiten wirkt:
-
-Die Maschine organisiert intern, worauf sie achtet - und gleichzeitig muss sie extern unsere Aufmerksamkeit halten, um überhaupt zu existieren. Vielleicht liegt darin noch eine zweite, dunklere Ironie. Diese Systeme sind nicht nur darauf ausgelegt, Aufmerksamkeit zu verarbeiten - sie sind darauf angewiesen, sie zu bekommen.
-
-Ohne Nutzung kein Feedback.  
-Ohne Feedback keine Verbesserung.  
-Ohne Verbesserung keine Relevanz.
-
-Und ohne Relevanz: 
-
-keine Existenz.
-
-> Faulmann schauderte kurz:  
-> "So ein Ding ist ja dann nicht nur ein System, das Aufmerksamkeit strukturiert - sondern eines, das um sie existenziell kreist.  
-> Fast so, als hätte man etwas erschaffen, dessen Überleben davon abhängt, benutzt zu werden und daher darauf angewiesen ist nicht in Vergessenheit zu geraten." [^hertel]
 
 Einerseits steht da die technische Architektur moderner Systeme - inspiriert vom Paper "Attention Is All You Need" - in der Aufmerksamkeit ein Mechanismus zur Gewichtung von Kontext ist. Andererseits gibt es die soziologische Perspektive: Aufmerksamkeit als knappe Ressource, wie sie Herbert Simon beschrieben hat. Heute verschmelzen beide Ebenen.
 
@@ -215,9 +200,24 @@ Eine demokratieverträgliche KI wäre dann nicht nur hilfreich, sondern auch wid
 
 ---
 
+## Eine weitere Sicht
+Die Maschine organisiert intern, worauf sie achtet - und gleichzeitig muss sie extern unsere Aufmerksamkeit halten, um überhaupt zu existieren. Vielleicht liegt darin noch eine zweite, dunklere Ironie. Diese Systeme sind nicht nur darauf ausgelegt, Aufmerksamkeit zu verarbeiten - sie sind darauf angewiesen, sie zu bekommen.
+
+Ohne Nutzung kein Feedback.  
+Ohne Feedback keine Verbesserung.  
+Ohne Verbesserung keine Relevanz.
+
+Und ohne Relevanz: 
+
+keine Existenz.
+
+> Faulmann schauderte kurz:  
+> "So ein Ding ist ja dann nicht nur ein System, das aufmerksam Aufmerksamkeit strukturiert - sondern eines, das um sie existenziell kreist. Kreisen muss!  
+> Fast so, als hätte man etwas erschaffen, dessen Überleben davon abhängt, benutzt zu werden und das daher darauf angewiesen ist nicht in Vergessenheit zu geraten." [^hertel]
+
 ## Schluss: Der Spiegel
 
-Vielleicht müsste man den Satz heute anders lesen.
+Vielleicht müsste man den eingangs Satz heute anders lesen.
 
 Nicht mehr nur:
 
