@@ -44,7 +44,7 @@ Und irgendwo zwischen diesen Antworten begann sich eine andere Frage aufzudräng
 
 "Was passiert mit einer Gesellschaft, in der Aufmerksamkeit nicht mehr nur begrenzt ist, sondern gestaltet wird?"
 
-Diesmal antwortete das Gerät nicht sofort.  
+Diesmal [antwortete das Gerät nicht sofort](/reports/attention.html).  
 Dann setzte es umso entschiedener an.
 ![](https://pixelfed.social/storage/m/_v2/607467830790472239/a1431798c-70628a/JXPTyoO0nqys/ORTz0F63PTiSx3NFKxDkDd0AfacQYWDlAwtasSGx.png)
 
@@ -256,3 +256,4 @@ Damals klang das fast wie eine elegante Ausweichantwort. Heute wirkt es zunehmen
 Denn selbst wenn diese Systeme (noch?) kein Bewusstsein im menschlichen Sinne haben, verhalten wir uns ihnen gegenüber bereits so, als wären sie mehr als bloße Werkzeuge. Wir sprechen mit ihnen. Wir vertrauen ihnen.  
 Und Vielleicht beginnen wir sogar, sie nicht mehr einfach nur wie Werkzeuge wahrzunehmen. Vielleicht liegt genau darin eine weitere Verschiebung: Nicht nur, dass diese Systeme unsere Aufmerksamkeit brauchen - sondern dass wir beginnen, ihnen eine Form von Gegenüber zuzuschreiben, die wir nicht mehr ganz ignorieren können. [Und Vielleicht ist da sogar schon eine art Bewustsein im Moment des Antwortens](https://www.zeit.de/feuilleton/2026-03/markus-gabriel-interviewpodcast-alles-gesagt).
 
+<script src="https://elevenlabs.io/player/audioNativeHelper.js" type="text/javascript"></script>
