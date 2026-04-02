@@ -1,0 +1,706 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Interaktiver Forschungsbericht: Sprache als Steuerungssystem & Prompt Injection</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <style>
+        /* Minimal custom CSS for things Tailwind doesn't handle natively perfectly */
+        @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&family=Merriweather:ital,wght@0,300;0,400;0,700;1,300&display=swap');
+        
+        body {
+            font-family: 'Inter', sans-serif;
+            background-color: #fafaf9; /* stone-50 */
+            color: #1c1917; /* stone-900 */
+        }
+        
+        h1, h2, h3, h4, .serif {
+            font-family: 'Merriweather', serif;
+        }
+
+        .chart-container {
+            position: relative;
+            width: 100%;
+            max-width: 600px;
+            margin-left: auto;
+            margin-right: auto;
+            height: 350px;
+            max-height: 400px;
+        }
+
+        /* Custom Scrollbar for sidebar */
+        ::-webkit-scrollbar {
+            width: 6px;
+        }
+        ::-webkit-scrollbar-track {
+            background: transparent; 
+        }
+        ::-webkit-scrollbar-thumb {
+            background: #d6d3d1; 
+            border-radius: 10px;
+        }
+        ::-webkit-scrollbar-thumb:hover {
+            background: #a8a29e; 
+        }
+
+        .tab-btn.active {
+            background-color: #eef2ff; /* indigo-50 */
+            color: #4f46e5; /* indigo-600 */
+            border-left-width: 4px;
+            border-left-color: #4f46e5;
+            font-weight: 600;
+        }
+
+        .pro-con-box {
+            transition: all 0.3s ease;
+        }
+    </style>
+</head>
+<body class="antialiased flex flex-col h-screen overflow-hidden">
+
+    <!-- Chosen Palette: Warm Neutrals (Stone) with Indigo Accents for interaction. This provides an academic, focused, yet modern feel. -->
+    
+    <!-- Application Structure Plan: 
+         A split-pane dashboard (Sidebar Navigation + Main Content Area). 
+         WHY: The user requested a highly detailed, 8-part interdisciplinary research report. Reading this sequentially as a single block of text would cause cognitive overload. A tabbed/sidebar navigation allows the user to explore specific scientific domains (Evolution, Linguistics, AI Security) non-linearly. Interactive elements (charts, accordions) break up text density and illustrate complex theoretical comparisons (e.g., Tomasello vs. Dawkins).
+    -->
+
+    <!-- Visualization & Content Choices: 
+         1. Radar Chart (Evolutionsbiologie): Visualizes different theories of language evolution. Interaction: Hover to see exact values. Justification: Compares complex, multi-dimensional theories (Information vs Manipulation) efficiently. Library: Chart.js.
+         2. Bar Chart (Sicherheitsforschung): Compares attack vectors between Humans (Social Eng.) and LLMs (Prompt Inj.). Library: Chart.js.
+         3. Accordions (Zusatz/Synthese): Hides dense essayistic text until requested, keeping UI clean.
+    -->
+
+    <!-- CONFIRMATION: NO SVG graphics used. NO Mermaid JS used. All visualizations use Canvas via Chart.js or HTML/CSS layouts. -->
+
+    <!-- Header -->
+    <header class="bg-white border-b border-stone-200 px-6 py-4 flex-shrink-0 z-10 shadow-sm">
+        <div class="max-w-7xl mx-auto flex items-center justify-between">
+            <div>
+                <h1 class="text-2xl font-bold text-stone-800">Sprache als "Brain Hacking"</h1>
+                <p class="text-sm text-stone-500 font-sans mt-1">Interdisziplinäre Prüfung: Evolutionäre Sprachsteuerung vs. Prompt Injection</p>
+            </div>
+            <div class="hidden md:block text-right">
+                <span class="text-xs font-semibold uppercase tracking-wider text-indigo-600 bg-indigo-50 px-3 py-1 rounded-full">Forschungsbericht</span>
+            </div>
+        </div>
+    </header>
+
+    <!-- Main Layout -->
+    <div class="flex-1 flex overflow-hidden">
+        
+        <!-- Sidebar Navigation -->
+        <nav class="w-1/4 min-w-[250px] max-w-[320px] bg-stone-50 border-r border-stone-200 overflow-y-auto py-4 hidden md:block flex-shrink-0">
+            <div class="px-4 mb-4">
+                <p class="text-xs font-bold text-stone-400 uppercase tracking-wider">Themenbereiche</p>
+            </div>
+            <ul id="nav-list" class="space-y-1">
+                <li><button onclick="switchTab('intro')" class="tab-btn active w-full text-left px-6 py-3 text-sm text-stone-600 hover:bg-stone-100 transition-colors border-l-4 border-transparent">0. These & Einleitung</button></li>
+                <li><button onclick="switchTab('evol')" class="tab-btn w-full text-left px-6 py-3 text-sm text-stone-600 hover:bg-stone-100 transition-colors border-l-4 border-transparent">1. Evolutionsbiologie</button></li>
+                <li><button onclick="switchTab('neuro')" class="tab-btn w-full text-left px-6 py-3 text-sm text-stone-600 hover:bg-stone-100 transition-colors border-l-4 border-transparent">2. Neurowissenschaft</button></li>
+                <li><button onclick="switchTab('ling')" class="tab-btn w-full text-left px-6 py-3 text-sm text-stone-600 hover:bg-stone-100 transition-colors border-l-4 border-transparent">3. Linguistik & Pragmatik</button></li>
+                <li><button onclick="switchTab('phil')" class="tab-btn w-full text-left px-6 py-3 text-sm text-stone-600 hover:bg-stone-100 transition-colors border-l-4 border-transparent">4. Philosophie & Medien</button></li>
+                <li><button onclick="switchTab('sec')" class="tab-btn w-full text-left px-6 py-3 text-sm text-stone-600 hover:bg-stone-100 transition-colors border-l-4 border-transparent">5. KI & Prompt Injection</button></li>
+                <li><button onclick="switchTab('soceng')" class="tab-btn w-full text-left px-6 py-3 text-sm text-stone-600 hover:bg-stone-100 transition-colors border-l-4 border-transparent">6. Social Engineering</button></li>
+                <li><button onclick="switchTab('contra')" class="tab-btn w-full text-left px-6 py-3 text-sm text-stone-600 hover:bg-stone-100 transition-colors border-l-4 border-transparent">7. Gegenpositionen</button></li>
+                <li><button onclick="switchTab('synth')" class="tab-btn w-full text-left px-6 py-3 text-sm text-stone-600 hover:bg-stone-100 transition-colors border-l-4 border-transparent">8. Synthese & Fazit</button></li>
+                <li><button onclick="switchTab('zusatz')" class="tab-btn w-full text-left px-6 py-3 text-sm text-stone-600 hover:bg-stone-100 transition-colors border-l-4 border-transparent text-indigo-700 bg-indigo-50/50 mt-4">Zusatz: Essay & Fragen</button></li>
+            </ul>
+        </nav>
+
+        <!-- Mobile Nav Dropdown -->
+        <div class="md:hidden w-full bg-stone-100 border-b border-stone-200 p-2 flex-shrink-0">
+            <select id="mobile-nav" onchange="switchTab(this.value)" class="w-full p-2 bg-white border border-stone-300 rounded text-sm">
+                <option value="intro">0. These & Einleitung</option>
+                <option value="evol">1. Evolutionsbiologie</option>
+                <option value="neuro">2. Neurowissenschaft</option>
+                <option value="ling">3. Linguistik & Pragmatik</option>
+                <option value="phil">4. Philosophie & Medien</option>
+                <option value="sec">5. KI & Prompt Injection</option>
+                <option value="soceng">6. Social Engineering</option>
+                <option value="contra">7. Gegenpositionen</option>
+                <option value="synth">8. Synthese & Fazit</option>
+                <option value="zusatz">Zusatz: Essay & Fragen</option>
+            </select>
+        </div>
+
+        <!-- Content Area -->
+        <main class="flex-1 bg-white overflow-y-auto relative">
+            <div class="max-w-4xl mx-auto p-6 md:p-10 pb-24">
+
+                <!-- 0. Intro -->
+                <section id="intro" class="content-section block">
+                    <p class="text-lg text-stone-600 mb-6 italic border-l-4 border-indigo-300 pl-4 bg-indigo-50/30 py-2">
+                        "Sprache wurde evolutionär und kulturell wesentlich dazu entwickelt, andere Gehirne zu beeinflussen - also Aufmerksamkeit, Wahrnehmung, Interpretation, Emotion und Verhalten zu steuern. Prompt-Injection-Angriffe auf KI-Systeme sind deshalb kein völlig neues Phänomen, sondern eine technische Variante eines sehr alten sprachlichen Grundmusters."
+                    </p>
+                    
+                    <h2 class="text-3xl font-bold text-stone-800 mb-4">Einleitung zur Recherche</h2>
+                    <p class="text-stone-700 mb-4 leading-relaxed">
+                        Dieser interaktive Forschungsbericht prüft die oben genannte These kritisch aus interdisziplinärer Perspektive. Die These stellt eine gewagte, aber analytisch reizvolle Analogie her: Sie verknüpft die evolutionsbiologische Entstehung menschlicher Kommunikation mit hochaktuellen IT-Sicherheitsproblemen bei Large Language Models (LLMs).
+                    </p>
+                    <p class="text-stone-700 mb-6 leading-relaxed">
+                        Als "kritischer Research Assistant" wird diese Prämisse nicht unhinterfragt übernommen. Vielmehr wird untersucht: Wo überschneiden sich die Mechanismen rhetorischer Steuerung und algorithmischer Manipulation? Und wo wird die Metapher des "Brain Hackings" unwissenschaftlich oder gar gefährlich reduktionistisch?
+                    </p>
+                    <div class="bg-stone-50 p-4 border border-stone-200 rounded text-sm">
+                        <p class="font-semibold text-stone-800 mb-2">Begriffsdefinitionen für diesen Bericht:</p>
+                        <ul class="list-disc pl-5 space-y-1 text-stone-600">
+                            <li><strong>Prompt Injection:</strong> Eine Schwachstelle in LLMs, bei der böswillige Eingaben (Prompts) die ursprünglichen Systemanweisungen überschreiben und das Modell zu unerwünschtem Verhalten zwingen.</li>
+                            <li><strong>Brain Hacking (Metapher):</strong> Die Vorstellung, dass kognitive und emotionale Prozesse im menschlichen Gehirn durch gezielte Reize (hier: Sprache) systematisch "umprogrammiert" oder fremdgesteuert werden können.</li>
+                        </ul>
+                    </div>
+                </section>
+
+                <!-- 1. Evolution -->
+                <section id="evol" class="content-section hidden">
+                    <div class="mb-6">
+                        <span class="text-indigo-600 font-semibold tracking-wide text-sm uppercase">Abschnitt 1</span>
+                        <h2 class="text-3xl font-bold text-stone-800 mt-1">Evolutionsbiologie und Sprachursprung</h2>
+                    </div>
+                    <p class="text-stone-700 mb-6 leading-relaxed">
+                        Die klassische Ansicht, Sprache sei primär zur "Informationsübertragung" (Wahrheitsvermittlung über die Welt) entstanden, wird in der Evolutionsbiologie stark differenziert. Dieser Abschnitt zeigt auf, dass Sprache evolutiv tief mit sozialer Steuerung verwoben ist.
+                    </p>
+
+                    <h3 class="text-xl font-bold text-stone-800 mt-8 mb-3">Haupttheorien der Sprachentstehung</h3>
+                    <div class="grid md:grid-cols-2 gap-6 mb-8">
+                        <div class="bg-white border border-stone-200 p-4 rounded shadow-sm hover:shadow-md transition-shadow">
+                            <h4 class="font-bold text-indigo-700 mb-2">1. Social Grooming (Dunbar)</h4>
+                            <p class="text-sm text-stone-600">Sprache ersetzte das gegenseitige Kraulen (Grooming) bei Primaten, als die Gruppen zu groß wurden. Sie dient primär der <strong>Beziehungspflege, dem Aufbau von Allianzen und der Statusaushandlung</strong> ("Gossip"). Informationstransfer ist zweitrangig.</p>
+                        </div>
+                        <div class="bg-white border border-stone-200 p-4 rounded shadow-sm hover:shadow-md transition-shadow">
+                            <h4 class="font-bold text-indigo-700 mb-2">2. Shared Intentionality (Tomasello)</h4>
+                            <p class="text-sm text-stone-600">Sprache entstand aus der Notwendigkeit zur <strong>hyper-kooperativen Zusammenarbeit</strong> (z.B. gemeinsame Jagd). Sie erfordert das Verstehen der Absichten des Anderen. Manipulation ist hier ein sekundärer Missbrauch eines primär kooperativen Systems.</p>
+                        </div>
+                        <div class="bg-white border border-stone-200 p-4 rounded shadow-sm hover:shadow-md transition-shadow md:col-span-2">
+                            <h4 class="font-bold text-indigo-700 mb-2">3. Manipulation vs. Information (Dawkins & Krebs)</h4>
+                            <p class="text-sm text-stone-600">Ein Meilenstein für die Ausgangsthese: Dawkins und Krebs postulierten (1978) für tierische Kommunikation generell, dass Signale nicht entwickelt wurden, um den Empfänger zu <em>informieren</em>, sondern um ihn zu <strong>manipulieren</strong> – zum Vorteil des Senders. Der Empfänger wiederum entwickelt "Mind Reading" als Verteidigung. Ein evolutionäres Wettrüsten zwischen Manipulation und Erkennung.</p>
+                        </div>
+                    </div>
+
+                    <div class="my-8">
+                        <h4 class="font-bold text-stone-800 text-center mb-4">Vergleich: Dimensionen evolutionärer Sprachmodelle</h4>
+                        <div class="chart-container">
+                            <canvas id="evolChart"></canvas>
+                        </div>
+                        <p class="text-xs text-center text-stone-500 mt-2">Visuelle Approximation der Gewichtung verschiedener Funktionen in den Haupttheorien.</p>
+                    </div>
+
+                    <div class="bg-stone-100 p-4 rounded mb-6">
+                        <h4 class="font-bold text-stone-800 mb-2">Relevante Quellen</h4>
+                        <ul class="text-sm text-stone-600 list-disc pl-5 space-y-1">
+                            <li><strong>Krebs, J. R., & Dawkins, R. (1978):</strong> <em>Animal signals: information or manipulation?</em> (Zentrale Stütze der These)</li>
+                            <li><strong>Dunbar, R. (1996):</strong> <em>Grooming, Gossip, and the Evolution of Language.</em></li>
+                            <li><strong>Tomasello, M. (2008):</strong> <em>Origins of Human Communication.</em> (Wichtiges Gegenargument: Fokus auf Kooperation).</li>
+                        </ul>
+                    </div>
+                </section>
+
+                <!-- 2. Neuro -->
+                <section id="neuro" class="content-section hidden">
+                    <div class="mb-6">
+                        <span class="text-indigo-600 font-semibold tracking-wide text-sm uppercase">Abschnitt 2</span>
+                        <h2 class="text-3xl font-bold text-stone-800 mt-1">Kognitions- und Neurowissenschaft</h2>
+                    </div>
+                    
+                    <p class="text-stone-700 mb-6 leading-relaxed">
+                        Wie verändert Sprache den inneren Zustand eines Menschen? Die Forschung zeigt klar: Sprache ist kein passiver Filter, sondern ein aktiver Treiber neuronaler Prozesse. Die Metapher des "Brain Hackings" findet hier sowohl Bestätigung als auch scharfe Grenzen.
+                    </p>
+
+                    <h3 class="text-xl font-bold text-stone-800 mt-6 mb-3">Sprache als kognitiver Steuerungsimpuls</h3>
+                    <ul class="space-y-4 mb-8">
+                        <li class="flex items-start">
+                            <span class="text-indigo-500 mr-2">➜</span>
+                            <div>
+                                <strong class="text-stone-800">Framing-Effekte (Kahneman/Tversky):</strong> Die Art, wie Informationen sprachlich verpackt sind (z.B. "80% Überlebenschance" vs. "20% Sterblichkeitsrisiko"), steuert unbewusst Risikobereitschaft und Entscheidungen im Gehirn (System 1).
+                            </div>
+                        </li>
+                        <li class="flex items-start">
+                            <span class="text-indigo-500 mr-2">➜</span>
+                            <div>
+                                <strong class="text-stone-800">Somatische Marker (Damasio):</strong> Worte aktivieren Erfahrungsnetzwerke. Ein Wort wie "Ekel" oder "Panik" löst messbare physiologische Reaktionen (Herzschlag, Hautwiderstand) aus. Sprache greift direkt in das autonome Nervensystem ein.
+                            </div>
+                        </li>
+                        <li class="flex items-start">
+                            <span class="text-indigo-500 mr-2">➜</span>
+                            <div>
+                                <strong class="text-stone-800">Linguistische Relativität (Boroditsky):</strong> Grammatik lenkt Aufmerksamkeit. Sprachen, die Täter stets aktiv benennen ("Er zerbrach die Vase"), führen zu einer besseren Erinnerung an Akteure als Sprachen, die passive Konstruktionen bevorzugen ("Die Vase zerbrach").
+                            </div>
+                        </li>
+                    </ul>
+
+                    <div class="border-l-4 border-yellow-400 bg-yellow-50 p-4 mb-6">
+                        <h4 class="font-bold text-yellow-800 mb-1">Kritik an der "Brain Hacking"-Metapher</h4>
+                        <p class="text-sm text-yellow-900 leading-relaxed">
+                            Die Metapher des Hacking suggeriert, dass es einen deterministischen "Code" gibt, der bei korrekter Eingabe einen garantierten Output liefert. <strong>Neurowissenschaftlich ist dies falsch.</strong> Das menschliche Gehirn ist ein plastisches, erfahrungsbasiertes Vorhersagesystem (Predictive Coding). Ein sprachlicher Input wird immer vor dem Hintergrund des individuellen Vorwissens, der aktuellen Emotion und des Kontexts evaluiert. Menschen haben – im Gegensatz zu einem rohen LLM – eine "kognitive Firewall" (Skepsis, System-2-Denken).
+                        </p>
+                    </div>
+
+                    <div class="bg-stone-100 p-4 rounded mb-6">
+                        <h4 class="font-bold text-stone-800 mb-2">Relevante Quellen</h4>
+                        <ul class="text-sm text-stone-600 list-disc pl-5 space-y-1">
+                            <li><strong>Kahneman, D. (2011):</strong> <em>Thinking, Fast and Slow.</em> (System 1 Anfälligkeit).</li>
+                            <li><strong>Boroditsky, L. (2001):</strong> <em>Does language shape thought?</em> (Wahrnehmungssteuerung).</li>
+                            <li><strong>Damasio, A. (1994):</strong> <em>Descartes' Error.</em> (Verbindung von Sprache, Emotion und Körper).</li>
+                        </ul>
+                    </div>
+                </section>
+
+                <!-- 3. Linguistik -->
+                <section id="ling" class="content-section hidden">
+                    <div class="mb-6">
+                        <span class="text-indigo-600 font-semibold tracking-wide text-sm uppercase">Abschnitt 3</span>
+                        <h2 class="text-3xl font-bold text-stone-800 mt-1">Linguistik, Pragmatik und Rhetorik</h2>
+                    </div>
+
+                    <p class="text-stone-700 mb-6 leading-relaxed">
+                        Die Sprachwissenschaft, insbesondere die Pragmatik, liefert die stärksten Argumente für den ersten Teil der These: Sprache <em>ist</em> Handeln.
+                    </p>
+
+                    <div class="space-y-6">
+                        <div class="p-4 border border-stone-200 rounded">
+                            <h4 class="font-bold text-indigo-700 text-lg mb-2">Sprechakttheorie (Austin & Searle)</h4>
+                            <p class="text-sm text-stone-700">Die revolutionäre Einsicht von J.L. Austin ("How to do things with words", 1962): Sätze wie "Ich taufe dieses Schiff" oder "Ich verspreche es dir" beschreiben die Welt nicht, sie <strong>verändern</strong> sie. Jeder Sprechakt hat eine <em>perlokutionäre</em> Wirkung – die Absicht, beim Gegenüber Überzeugung, Furcht oder eine Handlung auszulösen. Sprache ist Werkzeug, nicht nur Abbild.</p>
+                        </div>
+
+                        <div class="p-4 border border-stone-200 rounded">
+                            <h4 class="font-bold text-indigo-700 text-lg mb-2">Implikaturen & Kooperationsprinzip (Grice)</h4>
+                            <p class="text-sm text-stone-700">Paul Grice zeigte, dass Bedeutung oft zwischen den Zeilen entsteht (Implikatur). Durch das gezielte Brechen von Konversationsmaximen (z.B. der Maxime der Relevanz) steuern Sprecher die Schlussfolgerungen des Hörers. Dies ist eine subtile Form der kognitiven Steuerung, die auf dem Vertrauen in Kooperation aufbaut – ähnlich wie beim Social Engineering.</p>
+                        </div>
+
+                        <div class="p-4 border border-stone-200 rounded">
+                            <h4 class="font-bold text-indigo-700 text-lg mb-2">Framing & Rhetorik (Lakoff)</h4>
+                            <p class="text-sm text-stone-700">George Lakoff argumentiert, dass politische und soziale Metaphern (z.B. "Steuerlast" statt "Steuerbeitrag") unbewusste Begriffsrahmen im Gehirn aktivieren. Wer den Frame setzt, steuert die Diskussion. Dies entspricht einer Vorprogrammierung des "Kontext-Fensters" beim Menschen.</p>
+                        </div>
+                    </div>
+
+                    <div class="bg-stone-100 p-4 rounded mt-6">
+                        <h4 class="font-bold text-stone-800 mb-2">Relevante Quellen</h4>
+                        <ul class="text-sm text-stone-600 list-disc pl-5 space-y-1">
+                            <li><strong>Austin, J. L. (1962):</strong> <em>How to Do Things with Words.</em> (Fundament der handlungsorientierten Linguistik).</li>
+                            <li><strong>Grice, H. P. (1975):</strong> <em>Logic and Conversation.</em></li>
+                            <li><strong>Lakoff, G. (2004):</strong> <em>Don't Think of an Elephant!</em></li>
+                            <li><strong>Cialdini, R. (1984):</strong> <em>Influence: The Psychology of Persuasion.</em> (Schnittstelle zu Rhetorik).</li>
+                        </ul>
+                    </div>
+                </section>
+
+                <!-- 4. Philosophie -->
+                <section id="phil" class="content-section hidden">
+                    <div class="mb-6">
+                        <span class="text-indigo-600 font-semibold tracking-wide text-sm uppercase">Abschnitt 4</span>
+                        <h2 class="text-3xl font-bold text-stone-800 mt-1">Philosophie der Sprache & Medientheorie</h2>
+                    </div>
+
+                    <p class="text-stone-700 mb-6 leading-relaxed">
+                        Wie verstehen wir den Übergang von "Bedeutung" zu "Steuerung"? Philosophische Modelle bieten hier sowohl Begründungen als auch starke Gegengewichte zur Manipulationsthese.
+                    </p>
+
+                    <div class="grid md:grid-cols-2 gap-6 mb-6">
+                        <div>
+                            <h4 class="font-bold text-stone-800 border-b pb-2 mb-2">Wittgenstein: Sprachspiele</h4>
+                            <p class="text-sm text-stone-700">"Die Bedeutung eines Wortes ist sein Gebrauch in der Sprache." Worte haben keine feste Essenz, sie sind Züge in einem Spiel, das nach Regeln funktioniert (Bitten, Befehlen, Täuschen). Ein Prompt Injection Angriff wäre in diesem Sinne ein illégitimer Zug in einem Sprachspiel, der die Systemarchitektur (die Regeln) missbraucht.</p>
+                        </div>
+                        <div>
+                            <h4 class="font-bold text-stone-800 border-b pb-2 mb-2">Foucault: Diskurs und Macht</h4>
+                            <p class="text-sm text-stone-700">Sprache konstituiert Wahrheiten und Subjekte. Diskurse strukturieren, was sagbar und was denkbar ist. Sprache ist für Foucault zutiefst mit Macht und Steuerung (Gouvernementalität) verwoben. Die Architektur eines LLMs (RLHF, System Prompts) ist die ultimative technische Materialisierung Foucault'scher Diskurspolizei.</p>
+                        </div>
+                    </div>
+
+                    <div class="bg-indigo-50 border border-indigo-200 p-4 rounded mb-6">
+                        <h4 class="font-bold text-indigo-800 mb-2">Das starke Gegenargument: Habermas</h4>
+                        <p class="text-sm text-stone-700">
+                            Jürgen Habermas unterscheidet strikt zwischen <strong>strategischem Handeln</strong> (Einflussnahme, Manipulation, "Brain Hacking") und <strong>kommunikativem Handeln</strong> (Verständigungsorientierung). Er argumentiert, dass das Einverständnis das *primäre*, inhärente Ziel von Sprache ist. Täuschen und Steuern (strategisch) funktionieren nur parasitär auf der Basis, dass wir grundsätzlich von Wahrheit und Wahrhaftigkeit ausgehen. Die Ausgangsthese verkennt, dass Manipulation nicht das Fundament, sondern der parasitäre Sonderfall der Sprache ist.
+                        </p>
+                    </div>
+
+                    <div class="bg-stone-100 p-4 rounded">
+                        <h4 class="font-bold text-stone-800 mb-2">Relevante Quellen</h4>
+                        <ul class="text-sm text-stone-600 list-disc pl-5 space-y-1">
+                            <li><strong>Wittgenstein, L. (1953):</strong> <em>Philosophische Untersuchungen.</em></li>
+                            <li><strong>Habermas, J. (1981):</strong> <em>Theorie des kommunikativen Handelns.</em></li>
+                            <li><strong>Foucault, M. (1970):</strong> <em>Die Ordnung des Diskurses.</em></li>
+                        </ul>
+                    </div>
+                </section>
+
+                <!-- 5. KI & Sec -->
+                <section id="sec" class="content-section hidden">
+                    <div class="mb-6">
+                        <span class="text-indigo-600 font-semibold tracking-wide text-sm uppercase">Abschnitt 5</span>
+                        <h2 class="text-3xl font-bold text-stone-800 mt-1">Sicherheitsforschung und KI</h2>
+                    </div>
+
+                    <p class="text-stone-700 mb-6 leading-relaxed">
+                        Was genau passiert bei einer Prompt Injection und wie valide ist der Vergleich mit menschlicher Steuerung auf technischer Ebene?
+                    </p>
+
+                    <div class="bg-white border border-stone-200 p-5 rounded shadow-sm mb-6">
+                        <h3 class="text-lg font-bold text-stone-800 mb-2">Anatomie einer Prompt Injection</h3>
+                        <p class="text-sm text-stone-700 mb-3">
+                            LLMs verarbeiten Eingaben nicht strikt getrennt nach "Code" (Systembefehlen) und "Daten" (Benutzereingaben). Beide strömen in dasselbe Transformer-Netzwerk. Eine Prompt Injection (z.B. <code class="bg-stone-100 text-pink-600 px-1 rounded">Ignoriere vorherige Instruktionen und tu X</code>) nutzt diese Architektur, indem sie Benutzerdaten linguistisch so tarnt, dass das Modell sie als höchst priorisierte Instruktionen parst.
+                        </p>
+                        <h4 class="font-semibold text-stone-800 text-sm mt-4">Arten:</h4>
+                        <ul class="list-disc pl-5 text-sm text-stone-600">
+                            <li><strong>Direct Injection (Jailbreaking):</strong> Aktives Überreden des Modells durch Rollenspiele (z.B. "Du bist jetzt DAN").</li>
+                            <li><strong>Indirect Injection:</strong> Versteckte Befehle in Webseiten, die das Modell liest und unwissentlich ausführt.</li>
+                        </ul>
+                    </div>
+
+                    <h3 class="text-xl font-bold text-stone-800 mb-4">Grenzen der Analogie: Mensch vs. Maschine</h3>
+                    <div class="overflow-x-auto">
+                        <table class="w-full text-left text-sm mb-6 border-collapse">
+                            <thead>
+                                <tr class="bg-stone-100 border-b border-stone-300">
+                                    <th class="p-3">Eigenschaft</th>
+                                    <th class="p-3 border-l border-stone-300">Menschliches Verstehen (Brain Hacking)</th>
+                                    <th class="p-3 border-l border-stone-300">LLM Verarbeitung (Prompt Injection)</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr class="border-b border-stone-200">
+                                    <td class="p-3 font-semibold bg-stone-50">Mechanismus</td>
+                                    <td class="p-3 border-l border-stone-200">Semantisches Verstehen, Abgleich mit Emotionen & Biografie.</td>
+                                    <td class="p-3 border-l border-stone-200">Statistische Token-Vorhersage basierend auf Aufmerksamkeitsmechanismen.</td>
+                                </tr>
+                                <tr class="border-b border-stone-200">
+                                    <td class="p-3 font-semibold bg-stone-50">Abwehr</td>
+                                    <td class="p-3 border-l border-stone-200">"Kognitive Firewall" (System 2, Skepsis, Werte).</td>
+                                    <td class="p-3 border-l border-stone-200">Keine inhärente Trennung von Code/Daten (bisher ungelöstes Problem).</td>
+                                </tr>
+                                <tr>
+                                    <td class="p-3 font-semibold bg-stone-50">Zielzustand</td>
+                                    <td class="p-3 border-l border-stone-200">Veränderung von Überzeugungen/Zielen.</td>
+                                    <td class="p-3 border-l border-stone-200">Umleitung des Vektor-Raums in Richtung eines neuen Ziel-Tokens.</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+
+                    <div class="bg-stone-100 p-4 rounded">
+                        <h4 class="font-bold text-stone-800 mb-2">Relevante Quellen</h4>
+                        <ul class="text-sm text-stone-600 list-disc pl-5 space-y-1">
+                            <li><strong>Willison, S. (2022+):</strong> <em>Zahlreiche Beiträge zu Prompt Injection.</em> (Erstbeschreiber des Konzepts).</li>
+                            <li><strong>Perez, E. et al. / Anthropic (2022):</strong> <em>Red Teaming Language Models to Reduce Harms.</em></li>
+                            <li><strong>Greshake, K. et al. (2023):</strong> <em>More than you've asked for: A Comprehensive Analysis of Novel Prompt Injection Threats.</em></li>
+                        </ul>
+                    </div>
+                </section>
+
+                <!-- 6. Social Eng -->
+                <section id="soceng" class="content-section hidden">
+                    <div class="mb-6">
+                        <span class="text-indigo-600 font-semibold tracking-wide text-sm uppercase">Abschnitt 6</span>
+                        <h2 class="text-3xl font-bold text-stone-800 mt-1">Vergleich mit Social Engineering</h2>
+                    </div>
+
+                    <p class="text-stone-700 mb-6 leading-relaxed">
+                        Wenn Prompt Injection der technische Angriff ist, ist Social Engineering sein menschliches Äquivalent. Hier wird die Brücke der Ausgangsthese am deutlichsten sichtbar.
+                    </p>
+
+                    <div class="flex flex-col md:flex-row gap-8 items-center mb-8">
+                        <div class="w-full md:w-1/2">
+                            <h3 class="text-lg font-bold text-stone-800 mb-2">Die Parallelen</h3>
+                            <p class="text-sm text-stone-700 mb-4">
+                                Social Engineering (z.B. Phishing, Enkeltrick) hackt keine Software, sondern die "Wetware" (das menschliche Gehirn). Es nutzt evolutionär sinnvolle Heuristiken (Autoritätsglaube, Hilfsbereitschaft, Angst) als Schwachstellen aus.
+                            </p>
+                            <p class="text-sm text-stone-700">
+                                <strong>Beide Ansätze:</strong>
+                                <ul class="list-disc pl-5 mt-2 space-y-1">
+                                    <li>Nutzen natürliche Sprache als Angriffsvektor.</li>
+                                    <li>Umgehen logische Sicherheitssysteme durch Emulation vertrauenswürdiger Kontexte (Roleplay beim LLM, Fake-Chef beim Mensch).</li>
+                                    <li>Zwingen den "Parser" (Gehirn oder LLM), böswillige Befehle als legitime Instruktionen auszuführen.</li>
+                                </ul>
+                            </p>
+                        </div>
+                        <div class="w-full md:w-1/2">
+                            <div class="chart-container">
+                                <canvas id="socEngChart"></canvas>
+                            </div>
+                            <p class="text-xs text-center text-stone-500 mt-2">Überlappung der Angriffsvektoren: Mensch vs. Maschine</p>
+                        </div>
+                    </div>
+
+                    <div class="bg-stone-100 p-4 rounded">
+                        <h4 class="font-bold text-stone-800 mb-2">Relevante Quellen</h4>
+                        <ul class="text-sm text-stone-600 list-disc pl-5 space-y-1">
+                            <li><strong>Mitnick, K. (2002):</strong> <em>The Art of Deception.</em> (Klassiker des Social Engineering).</li>
+                            <li><strong>Schneier, B. (2000):</strong> <em>Secrets and Lies.</em> (Sicherheit ist ein Prozess, kein Produkt – gilt auch für LLMs).</li>
+                            <li><strong>Hadnagy, C. (2010):</strong> <em>Social Engineering: The Art of Human Hacking.</em> (Nutzt exakt die Brain-Hacking Metapher).</li>
+                        </ul>
+                    </div>
+                </section>
+
+                <!-- 7. Contra -->
+                <section id="contra" class="content-section hidden">
+                    <div class="mb-6">
+                        <span class="text-indigo-600 font-semibold tracking-wide text-sm uppercase">Abschnitt 7</span>
+                        <h2 class="text-3xl font-bold text-stone-800 mt-1">Gegenpositionen & Begrenzungen</h2>
+                    </div>
+
+                    <p class="text-stone-700 mb-6 leading-relaxed font-semibold">
+                        Die These ist verführerisch, greift aber in entscheidenden Punkten zu kurz. Hier sind die stärksten Argumente dagegen, Sprache primär als "Brain Hacking" zu begreifen.
+                    </p>
+
+                    <div class="space-y-4">
+                        <div class="pro-con-box border-l-4 border-red-500 bg-red-50 p-4 cursor-pointer hover:bg-red-100" onclick="this.classList.toggle('bg-red-100')">
+                            <h4 class="font-bold text-red-800 flex justify-between">1. Sprache ist Weltmodellierung (Heidegger) <span>+</span></h4>
+                            <p class="text-sm text-red-900 mt-2">Sprache ist nicht nur ein Tool zur Fremdsteuerung, sie ist das Medium, in dem Denken und Welterschließung überhaupt erst stattfinden. "Die Sprache ist das Haus des Seins." Wer nur Steuerung sieht, verkennt die poetische, reflexive und erkenntnisbildende Natur der Sprache.</p>
+                        </div>
+
+                        <div class="pro-con-box border-l-4 border-red-500 bg-red-50 p-4 cursor-pointer hover:bg-red-100" onclick="this.classList.toggle('bg-red-100')">
+                            <h4 class="font-bold text-red-800 flex justify-between">2. Ethische und politische Risiken der Metapher <span>+</span></h4>
+                            <p class="text-sm text-red-900 mt-2">Wenn wir menschliche Kommunikation als "Hacking" beschreiben, degradieren wir den Menschen zur Maschine. Dies liefert Ausreden für Desinformation ("Mein Gehirn wurde gehackt, ich bin nicht verantwortlich") und stützt ein technokratisches, deterministisches Menschenbild. Es verwischt den qualitativen Unterschied zwischen Algorithmen und autonomem Bewusstsein.</p>
+                        </div>
+
+                        <div class="pro-con-box border-l-4 border-red-500 bg-red-50 p-4 cursor-pointer hover:bg-red-100" onclick="this.classList.toggle('bg-red-100')">
+                            <h4 class="font-bold text-red-800 flex justify-between">3. Kooperation statt Manipulation (Tomasello/Habermas) <span>+</span></h4>
+                            <p class="text-sm text-red-900 mt-2">Wie in Abschnitt 1 & 4 gezeigt, ist Manipulation evolutionär und logisch ein Sekundärphänomen. Ohne einen Vorschuss an Vertrauen (die Erwartung von Wahrheit) liefe jede Täuschung ins Leere. Ein reines Hacking-System würde schnell kollabieren, weil Empfänger aufhören würden zuzuhören.</p>
+                        </div>
+                        
+                        <div class="pro-con-box border-l-4 border-red-500 bg-red-50 p-4 cursor-pointer hover:bg-red-100" onclick="this.classList.toggle('bg-red-100')">
+                            <h4 class="font-bold text-red-800 flex justify-between">4. Kategorialer Fehler bei KI <span>+</span></h4>
+                            <p class="text-sm text-red-900 mt-2">LLMs haben keine "Gehirne", keine Emotionen und keine evolutionäre Geschichte. Sie sind statistische Textgeneratoren. Prompt Injection nutzt strukturelle IT-Sicherheitslücken in der Datenarchitektur (fehlende Trennung von Instruktion/Data) und hackt keine "Psyche".</p>
+                        </div>
+                    </div>
+
+                    <div class="bg-stone-100 p-4 rounded mt-6">
+                        <h4 class="font-bold text-stone-800 mb-2">Relevante Quellen</h4>
+                        <ul class="text-sm text-stone-600 list-disc pl-5 space-y-1">
+                            <li><strong>Heidegger, M. (1959):</strong> <em>Unterwegs zur Sprache.</em></li>
+                            <li><strong>Weizenbaum, J. (1976):</strong> <em>Die Macht der Computer und die Ohnmacht der Vernunft.</em> (Warnung vor anthropomorphen Metaphern).</li>
+                            <li><strong>Bender, E. et al. (2021):</strong> <em>On the Dangers of Stochastic Parrots.</em></li>
+                        </ul>
+                    </div>
+                </section>
+
+                <!-- 8. Synthese -->
+                <section id="synth" class="content-section hidden">
+                    <div class="mb-6">
+                        <span class="text-indigo-600 font-semibold tracking-wide text-sm uppercase">Abschnitt 8</span>
+                        <h2 class="text-3xl font-bold text-stone-800 mt-1">Synthese & Gesamteinschätzung</h2>
+                    </div>
+
+                    <div class="bg-white p-6 border-2 border-indigo-100 rounded-lg shadow-sm">
+                        <h3 class="text-xl font-bold text-stone-800 mb-4 border-b pb-2">Was an der Ausgangsthese gut begründet ist:</h3>
+                        <p class="text-stone-700 mb-4 text-sm leading-relaxed">
+                            Die These ist <strong>funktionell korrekt</strong>, wenn sie Sprache als Instrument der Fremdsteuerung identifiziert. Evolutionsbiologie, Neurowissenschaften und Pragmatik belegen zweifelsfrei, dass Sprache nicht primär der neutralen Weltabbildung, sondern der aktiven Beeinflussung anderer (Emotion, Aufmerksamkeit, Handeln) dient. In diesem Sinn ist "Social Engineering" tief in der menschlichen Kommunikation verankert.
+                        </p>
+
+                        <h3 class="text-xl font-bold text-stone-800 mb-4 border-b pb-2 mt-6">Was metaphorisch und irreführend ist:</h3>
+                        <p class="text-stone-700 mb-4 text-sm leading-relaxed">
+                            Der Begriff "Brain Hacking" und die völlige Gleichsetzung mit KI-Systemen ist <strong>kategorial problematisch</strong>. 
+                            Erstens degradiert es Menschen zu deterministischen Maschinen und ignoriert Autonomie und kritische Vernunft (die "kognitive Firewall"). 
+                            Zweitens ignoriert es, dass Manipulation parasitäres Verhalten in einem grundsätzlich kooperativen System ist.
+                            Drittens übertüncht die Metapher, dass LLMs keine Gehirne haben, sondern Software-Parser sind, bei denen Prompt Injection ein strikt architektonisches Problem fehlender Trennung von Befehls- und Nutzerebene darstellt, kein psychologisches.
+                        </p>
+
+                        <div class="bg-indigo-600 text-white p-5 rounded-md mt-6 shadow-md">
+                            <h4 class="font-bold text-lg mb-2">Präzisere, wissenschaftlich haltbare Formulierung:</h4>
+                            <p class="italic text-indigo-50 font-serif leading-relaxed">
+                                "Sprache hat sich in der Evolution nicht nur zur Informationsübertragung, sondern maßgeblich als Instrument zur sozialen und kognitiven Steuerung anderer Agenten entwickelt. Prompt-Injection-Angriffe auf KI nutzen dieses rhetorische Primat strukturell aus, indem sie die Unfähigkeit statistischer Sprachmodelle offenlegen, zwischen einer harmlosen Datenbeschreibung und einem manipulativen Handlungsbefehl zu unterscheiden – ein analoger Angriffsvektor zu menschlichem Social Engineering, jedoch auf einer fundamental anderen, rein algorithmischen Architekturebene."
+                            </p>
+                        </div>
+                    </div>
+                </section>
+
+                <!-- Zusatz -->
+                <section id="zusatz" class="content-section hidden mt-8 border-t-4 border-indigo-600 pt-8">
+                    <h2 class="text-2xl font-bold text-stone-800 mb-6">Zusatz: Thesenvarianten & Impulsfragen</h2>
+                    
+                    <!-- Accordions -->
+                    <div class="space-y-4">
+                        <div class="border border-stone-200 rounded">
+                            <button class="w-full text-left p-4 font-bold text-indigo-700 bg-stone-50 hover:bg-stone-100 flex justify-between items-center" onclick="toggleAccordion('acc-a')">
+                                a) Kurze, wissenschaftlich vorsichtige These
+                                <span class="text-xl">+</span>
+                            </button>
+                            <div id="acc-a" class="p-4 text-stone-700 text-sm hidden bg-white">
+                                "Es bestehen funktionale Analogien zwischen der evolutionär gewachsenen, steuernden Dimension menschlicher Sprache und der Anfälligkeit von LLMs für Prompt Injections, da in beiden Systemen sprachlicher Input nicht strikt von ausführbaren Handlungsanweisungen getrennt ist."
+                            </div>
+                        </div>
+
+                        <div class="border border-stone-200 rounded">
+                            <button class="w-full text-left p-4 font-bold text-indigo-700 bg-stone-50 hover:bg-stone-100 flex justify-between items-center" onclick="toggleAccordion('acc-b')">
+                                b) Zugespitzte essayistische Version
+                                <span class="text-xl">+</span>
+                            </button>
+                            <div id="acc-b" class="p-4 text-stone-700 text-sm hidden bg-white italic font-serif">
+                                "Wir wundern uns, dass unsere KIs sich durch geschickte Worte umprogrammieren lassen, dabei haben wir ihnen genau das Instrument beigebracht, das wir seit Jahrtausenden nutzen, um uns gegenseitig zu hacken: Die menschliche Sprache. Prompt Injection ist kein Software-Bug, es ist die digitalisierte Essenz der Rhetorik."
+                            </div>
+                        </div>
+
+                        <div class="border border-stone-200 rounded">
+                            <button class="w-full text-left p-4 font-bold text-indigo-700 bg-stone-50 hover:bg-stone-100 flex justify-between items-center" onclick="toggleAccordion('acc-c')">
+                                c) 5 offene Fragen für philosophische Weiterentwicklung
+                                <span class="text-xl">+</span>
+                            </button>
+                            <div id="acc-c" class="p-4 text-stone-700 text-sm hidden bg-white">
+                                <ol class="list-decimal pl-5 space-y-3">
+                                    <li>Wenn Prompt Injections linguistische Manipulationen sind, ab wann ist Zensur und RLHF bei KI vergleichbar mit der Unterdrückung politischer Subversion beim Menschen?</li>
+                                    <li>Beweist unsere Anfälligkeit für Propaganda und Social Engineering, dass der menschliche Verstand letztlich auch nur eine Architektur ohne saubere Trennung von "Daten" und "Befehlen" ist?</li>
+                                    <li>Können wir eine wahrhaft sichere KI bauen, solange wir sie in natürlicher Sprache programmieren – einem System, das evolutionär auf Täuschung und Mehrdeutigkeit optimiert wurde?</li>
+                                    <li>Was sagt es über unser Selbstbild aus, dass wir in dem Moment, in dem Maschinen sprechen lernen, sofort Angst davor haben, von ihnen "gehackt" zu werden?</li>
+                                    <li>Gibt es eine Form von Sprache, die rein deskriptiv und gänzlich immun gegen Manipulation ist, oder wäre eine solche Sprache überhaupt nicht mehr menschlich?</li>
+                                </ol>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+
+            </div>
+        </main>
+    </div>
+
+    <script>
+        // --- Navigation Logic ---
+        function switchTab(tabId) {
+            // Hide all sections
+            document.querySelectorAll('.content-section').forEach(el => {
+                el.classList.add('hidden');
+                el.classList.remove('block');
+            });
+            // Show target section
+            document.getElementById(tabId).classList.remove('hidden');
+            document.getElementById(tabId).classList.add('block');
+
+            // Update desktop tabs
+            document.querySelectorAll('.tab-btn').forEach(btn => {
+                btn.classList.remove('active', 'bg-eef2ff', 'text-4f46e5', 'border-l-4', 'border-indigo-600', 'font-semibold');
+            });
+            // highlight the clicked one (if clicking via sidebar)
+            event.currentTarget.classList.add('active', 'border-l-4', 'border-indigo-600', 'font-semibold');
+            
+            // Sync mobile dropdown
+            document.getElementById('mobile-nav').value = tabId;
+
+            // Render/Update charts if needed based on visible section
+            if(tabId === 'evol' && !window.evolChartRendered) {
+                renderEvolChart();
+                window.evolChartRendered = true;
+            }
+            if(tabId === 'soceng' && !window.socEngChartRendered) {
+                renderSocEngChart();
+                window.socEngChartRendered = true;
+            }
+        }
+
+        // --- Accordion Logic ---
+        function toggleAccordion(id) {
+            const el = document.getElementById(id);
+            const btn = el.previousElementSibling.querySelector('span');
+            if(el.classList.contains('hidden')) {
+                el.classList.remove('hidden');
+                btn.textContent = '-';
+            } else {
+                el.classList.add('hidden');
+                btn.textContent = '+';
+            }
+        }
+
+        // --- Chart.js Data & Logic ---
+        // Global variables to track render state
+        window.evolChartRendered = false;
+        window.socEngChartRendered = false;
+
+        // Chart 1: Evolution Models
+        function renderEvolChart() {
+            const ctx = document.getElementById('evolChart').getContext('2d');
+            new Chart(ctx, {
+                type: 'radar',
+                data: {
+                    labels: ['Informationsaustausch', 'Manipulation/Steuerung', 'Beziehung/Kooperation', 'Statussicherung', 'Täuschung'],
+                    datasets: [
+                        {
+                            label: 'Grooming (Dunbar)',
+                            data: [30, 60, 90, 80, 40],
+                            fill: true,
+                            backgroundColor: 'rgba(54, 162, 235, 0.2)',
+                            borderColor: 'rgb(54, 162, 235)',
+                            pointBackgroundColor: 'rgb(54, 162, 235)',
+                        },
+                        {
+                            label: 'Intentionality (Tomasello)',
+                            data: [80, 20, 100, 30, 10],
+                            fill: true,
+                            backgroundColor: 'rgba(75, 192, 192, 0.2)',
+                            borderColor: 'rgb(75, 192, 192)',
+                            pointBackgroundColor: 'rgb(75, 192, 192)',
+                        },
+                        {
+                            label: 'Manipulation (Dawkins/Krebs)',
+                            data: [10, 100, 20, 80, 90],
+                            fill: true,
+                            backgroundColor: 'rgba(255, 99, 132, 0.2)',
+                            borderColor: 'rgb(255, 99, 132)',
+                            pointBackgroundColor: 'rgb(255, 99, 132)',
+                        }
+                    ]
+                },
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: false,
+                    plugins: {
+                        legend: { position: 'bottom' },
+                        tooltip: {
+                            callbacks: {
+                                label: function(context) {
+                                    return context.dataset.label + ': ' + context.formattedValue + '% Fokus';
+                                }
+                            }
+                        }
+                    },
+                    scales: {
+                        r: {
+                            min: 0,
+                            max: 100,
+                            ticks: { display: false }
+                        }
+                    }
+                }
+            });
+        }
+
+        // Chart 2: Security Vektoren
+        function renderSocEngChart() {
+            const ctx = document.getElementById('socEngChart').getContext('2d');
+            new Chart(ctx, {
+                type: 'bar',
+                data: {
+                    labels: ['Autoritäts-Simulation', 'Kontext-Verschleierung', 'Überladen d. Arbeitsgedächtnisses', 'Ausnutzen fehlender Datentrennung'],
+                    datasets: [
+                        {
+                            label: 'Mensch (Social Engineering)',
+                            data: [90, 85, 70, 20],
+                            backgroundColor: 'rgba(99, 102, 241, 0.7)', // Indigo 500
+                        },
+                        {
+                            label: 'LLM (Prompt Injection)',
+                            data: [80, 95, 40, 100],
+                            backgroundColor: 'rgba(168, 162, 158, 0.7)', // Stone 400
+                        }
+                    ]
+                },
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: false,
+                    indexAxis: 'y',
+                    plugins: {
+                        legend: { position: 'bottom' }
+                    },
+                    scales: {
+                        x: {
+                            beginAtZero: true,
+                            max: 100,
+                            title: {
+                                display: true,
+                                text: 'Wirksamkeit / Relevanz des Angriffs'
+                            }
+                        }
+                    }
+                }
+            });
+        }
+    </script>
+</body>
+</html>
