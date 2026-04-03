@@ -1,0 +1,670 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Walduniversität - Sprache als Steuerungssystem</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&family=Merriweather:ital,wght@0,300;0,400;0,700;1,300&display=swap');
+
+        body {
+            font-family: 'Inter', sans-serif;
+            background-color: #fafaf9;
+            color: #1c1917;
+        }
+
+        h1, h2, h3, h4, .serif {
+            font-family: 'Merriweather', serif;
+        }
+
+        .chart-container {
+            position: relative;
+            width: 100%;
+            max-width: 600px;
+            margin-left: auto;
+            margin-right: auto;
+            height: 350px;
+            max-height: 400px;
+        }
+
+        ::-webkit-scrollbar {
+            width: 6px;
+        }
+        ::-webkit-scrollbar-track {
+            background: transparent;
+        }
+        ::-webkit-scrollbar-thumb {
+            background: #d6d3d1;
+            border-radius: 10px;
+        }
+        ::-webkit-scrollbar-thumb:hover {
+            background: #a8a29e;
+        }
+
+        .tab-btn.active {
+            background-color: #eef2ff;
+            color: #4f46e5;
+            border-left-width: 4px;
+            border-left-color: #4f46e5;
+            font-weight: 600;
+        }
+
+        .pro-con-box {
+            transition: all 0.3s ease;
+        }
+    </style>
+</head>
+<body class="antialiased flex flex-col h-screen overflow-hidden">
+
+    <header class="bg-white border-b border-stone-200 px-6 py-4 flex-shrink-0 z-10 shadow-sm">
+        <div class="max-w-7xl mx-auto flex items-center justify-between">
+            <div>
+                <h1 class="text-2xl font-bold text-stone-800">Zur Frage, wie Sprache andere Köpfe in Bewegung setzt</h1>
+                <p class="text-sm text-stone-500 font-sans mt-1">Ein Forschungsbericht der Walduniversität zur alten Unruhe der Sprache und ihrem technischen Wiederauftauchen</p>
+            </div>
+            <div class="hidden md:block text-right">
+                <span class="text-xs font-semibold uppercase tracking-wider text-indigo-600 bg-indigo-50 px-3 py-1 rounded-full">Archiv der Walduniversität</span>
+            </div>
+        </div>
+    </header>
+
+    <div class="flex-1 flex overflow-hidden">
+
+        <nav class="w-1/4 min-w-[250px] max-w-[320px] bg-stone-50 border-r border-stone-200 overflow-y-auto py-4 hidden md:block flex-shrink-0">
+            <div class="px-4 mb-4">
+                <p class="text-xs font-bold text-stone-400 uppercase tracking-wider">Bestände</p>
+            </div>
+            <ul class="space-y-1">
+                <li><button data-tab="intro" class="tab-btn active w-full text-left px-6 py-3 text-sm text-stone-600 hover:bg-stone-100 transition-colors border-l-4 border-transparent">0. Ausgangsfrage</button></li>
+                <li><button data-tab="evol" class="tab-btn w-full text-left px-6 py-3 text-sm text-stone-600 hover:bg-stone-100 transition-colors border-l-4 border-transparent">1. Zur älteren Geschichte der Sprache</button></li>
+                <li><button data-tab="neuro" class="tab-btn w-full text-left px-6 py-3 text-sm text-stone-600 hover:bg-stone-100 transition-colors border-l-4 border-transparent">2. Was Sprache im Kopf anrichtet</button></li>
+                <li><button data-tab="ling" class="tab-btn w-full text-left px-6 py-3 text-sm text-stone-600 hover:bg-stone-100 transition-colors border-l-4 border-transparent">3. Sprache als Handlung</button></li>
+                <li><button data-tab="phil" class="tab-btn w-full text-left px-6 py-3 text-sm text-stone-600 hover:bg-stone-100 transition-colors border-l-4 border-transparent">4. Über Gebrauch, Macht und Verständigung</button></li>
+                <li><button data-tab="sec" class="tab-btn w-full text-left px-6 py-3 text-sm text-stone-600 hover:bg-stone-100 transition-colors border-l-4 border-transparent">5. Der technische Fall</button></li>
+                <li><button data-tab="soceng" class="tab-btn w-full text-left px-6 py-3 text-sm text-stone-600 hover:bg-stone-100 transition-colors border-l-4 border-transparent">6. Der menschliche Fall</button></li>
+                <li><button data-tab="contra" class="tab-btn w-full text-left px-6 py-3 text-sm text-stone-600 hover:bg-stone-100 transition-colors border-l-4 border-transparent">7. Einwände, die Gewicht haben</button></li>
+                <li><button data-tab="synth" class="tab-btn w-full text-left px-6 py-3 text-sm text-stone-600 hover:bg-stone-100 transition-colors border-l-4 border-transparent">8. Vorläufige Einschätzung</button></li>
+                <li><button data-tab="zusatz" class="tab-btn w-full text-left px-6 py-3 text-sm text-stone-600 hover:bg-stone-100 transition-colors border-l-4 border-transparent text-indigo-700 bg-indigo-50/50 mt-4">Anhang: zugespitzte Fassungen und offene Fragen</button></li>
+            </ul>
+        </nav>
+
+        <div class="md:hidden w-full bg-stone-100 border-b border-stone-200 p-2 flex-shrink-0">
+            <select id="mobile-nav" class="w-full p-2 bg-white border border-stone-300 rounded text-sm">
+                <option value="intro">0. Ausgangsfrage</option>
+                <option value="evol">1. Zur älteren Geschichte der Sprache</option>
+                <option value="neuro">2. Was Sprache im Kopf anrichtet</option>
+                <option value="ling">3. Sprache als Handlung</option>
+                <option value="phil">4. Über Gebrauch, Macht und Verständigung</option>
+                <option value="sec">5. Der technische Fall</option>
+                <option value="soceng">6. Der menschliche Fall</option>
+                <option value="contra">7. Einwände, die Gewicht haben</option>
+                <option value="synth">8. Vorläufige Einschätzung</option>
+                <option value="zusatz">Anhang: zugespitzte Fassungen und offene Fragen</option>
+            </select>
+        </div>
+
+        <main class="flex-1 bg-white overflow-y-auto relative">
+            <div class="max-w-4xl mx-auto p-6 md:p-10 pb-24">
+
+                <section id="intro" class="content-section block">
+                    <p class="text-lg text-stone-600 mb-6 italic border-l-4 border-indigo-300 pl-4 bg-indigo-50/30 py-2">
+                        "Sprache wurde nicht nur dazu entwickelt, die Welt zu beschreiben. Vieles spricht dafür, dass sie von Anfang an auch Aufmerksamkeit lenkte, Wahrnehmung rahmte, Emotionen verschob und Verhalten beeinflusste. Prompt-Injection-Angriffe auf KI-Systeme erscheinen in diesem Licht nicht als völlig neues Phänomen, sondern als technische Wiederkehr eines sehr alten sprachlichen Grundproblems."
+                    </p>
+
+                    <h2 class="text-3xl font-bold text-stone-800 mb-4">Ausgangsfrage</h2>
+                    <p class="text-stone-700 mb-4 leading-relaxed">
+                        Der vorliegende Bericht der Walduniversität prüft diese These mit dem gebotenen Ernst und einer gewissen Vorsicht. Sie wirkt zunächst etwas kühn, vielleicht auch einen Hauch zu zufrieden mit sich selbst. Gerade deshalb lohnt es sich, sie nicht vorschnell beiseitezulegen.
+                    </p>
+                    <p class="text-stone-700 mb-6 leading-relaxed">
+                        Untersucht wird, wo sich rhetorische Steuerung, menschliche Manipulation und algorithmische Anfälligkeit tatsächlich berühren - und wo die Rede vom "Brain Hacking" mehr Nebel produziert als Erkenntnis. Die Frage ist also nicht, ob Sprache wirkt. Das tut sie seit langem. Eher geht es darum, wie genau sie wirkt, worauf sie aufbaut und an welcher Stelle der Vergleich mit KI-Systemen schief wird.
+                    </p>
+                    <div class="bg-stone-50 p-4 border border-stone-200 rounded text-sm">
+                        <p class="font-semibold text-stone-800 mb-2">Arbeitsbegriffe</p>
+                        <ul class="list-disc pl-5 space-y-1 text-stone-600">
+                            <li><strong>Prompt Injection:</strong> Eine Schwachstelle in Sprachmodellen, bei der Eingaben so formuliert werden, dass das System sie nicht mehr bloß als Inhalt, sondern als maßgebliche Handlungsanweisung behandelt.</li>
+                            <li><strong>Brain Hacking (als Metapher):</strong> Die zugespitzte Annahme, dass sprachliche Reize kognitive und emotionale Prozesse so verschieben können, dass sich Aufmerksamkeit, Bewertung und Verhalten gezielt umlenken lassen. Ob diese Metapher trägt, ist Teil der Untersuchung.</li>
+                        </ul>
+                    </div>
+                </section>
+
+                <section id="evol" class="content-section hidden">
+                    <div class="mb-6">
+                        <span class="text-indigo-600 font-semibold tracking-wide text-sm uppercase">Abschnitt 1</span>
+                        <h2 class="text-3xl font-bold text-stone-800 mt-1">Zur älteren Geschichte der Sprache</h2>
+                    </div>
+                    <p class="text-stone-700 mb-6 leading-relaxed">
+                        Die ältere Vorstellung, Sprache sei vor allem zur neutralen Informationsübertragung entstanden, hält einer genaueren Betrachtung nur begrenzt stand. Sobald man etwas in den Beständen wühlt, zeigt sich rasch, dass Sprache von Beginn an mit Beziehungspflege, Status, Kooperation und Einfluss verstrickt war.
+                    </p>
+
+                    <h3 class="text-xl font-bold text-stone-800 mt-8 mb-3">Hauptlinien der Debatte</h3>
+                    <div class="grid md:grid-cols-2 gap-6 mb-8">
+                        <div class="bg-white border border-stone-200 p-4 rounded shadow-sm hover:shadow-md transition-shadow">
+                            <h4 class="font-bold text-indigo-700 mb-2">1. Social Grooming (Dunbar)</h4>
+                            <p class="text-sm text-stone-600">Sprache ersetzt in dieser Sichtweise das wechselseitige Kraulen größerer Primatengruppen. Ihr Kern liegt in <strong>Beziehungspflege, Allianzen und Statusaushandlung</strong>. Das Gerede über die Welt ist hier nie ganz von dem Gerede über die anderen zu trennen.</p>
+                        </div>
+                        <div class="bg-white border border-stone-200 p-4 rounded shadow-sm hover:shadow-md transition-shadow">
+                            <h4 class="font-bold text-indigo-700 mb-2">2. Shared Intentionality (Tomasello)</h4>
+                            <p class="text-sm text-stone-600">Hier entsteht Sprache aus der Notwendigkeit <strong>hyper-kooperativer Zusammenarbeit</strong>. Gemeinsame Aufmerksamkeit, geteilte Absichten und Koordination stehen im Zentrum. Manipulation wäre in dieser Linie eher ein später Missbrauch eines zunächst kooperativen Systems.</p>
+                        </div>
+                        <div class="bg-white border border-stone-200 p-4 rounded shadow-sm hover:shadow-md transition-shadow md:col-span-2">
+                            <h4 class="font-bold text-indigo-700 mb-2">3. Manipulation vs. Information (Dawkins & Krebs)</h4>
+                            <p class="text-sm text-stone-600">Für die Ausgangsfrage besonders ergiebig ist der Vorschlag, dass Signale evolutiv nicht primär entwickelt wurden, um Empfänger zu <em>informieren</em>, sondern um sie zu <strong>beeinflussen</strong> - zum Vorteil des Senders. Der Empfänger wiederum entwickelt Formen des Durchschauens. Man könnte auch sagen: ein altes Wettrüsten zwischen Einfluss und Abwehr.</p>
+                        </div>
+                    </div>
+
+                    <div class="my-8">
+                        <h4 class="font-bold text-stone-800 text-center mb-4">Vergleich evolutionärer Sprachmodelle</h4>
+                        <div class="chart-container">
+                            <canvas id="evolChart"></canvas>
+                        </div>
+                        <p class="text-xs text-center text-stone-500 mt-2">Annähernde Darstellung der Gewichtungen in drei einflussreichen Modellen.</p>
+                    </div>
+
+                    <div class="bg-stone-100 p-4 rounded mb-6">
+                        <h4 class="font-bold text-stone-800 mb-2">Quellenlage</h4>
+                        <ul class="text-sm text-stone-600 list-disc pl-5 space-y-1">
+                            <li><strong>Krebs, J. R., & Dawkins, R. (1978):</strong> <em>Animal signals: information or manipulation?</em></li>
+                            <li><strong>Dunbar, R. (1996):</strong> <em>Grooming, Gossip, and the Evolution of Language.</em></li>
+                            <li><strong>Tomasello, M. (2008):</strong> <em>Origins of Human Communication.</em></li>
+                        </ul>
+                    </div>
+                </section>
+
+                <section id="neuro" class="content-section hidden">
+                    <div class="mb-6">
+                        <span class="text-indigo-600 font-semibold tracking-wide text-sm uppercase">Abschnitt 2</span>
+                        <h2 class="text-3xl font-bold text-stone-800 mt-1">Was Sprache im Kopf anrichtet</h2>
+                    </div>
+
+                    <p class="text-stone-700 mb-6 leading-relaxed">
+                        Sprache bleibt selten neutral. Wörter rahmen Situationen, rufen Bewertungen auf, aktivieren Erinnerungen und verschieben Entscheidungen. Die Metapher des "Brain Hackings" findet hier einiges an Nahrung - allerdings nur, solange man sie nicht für eine exakte Beschreibung hält.
+                    </p>
+
+                    <h3 class="text-xl font-bold text-stone-800 mt-6 mb-3">Sprache als kognitiver Steuerungsimpuls</h3>
+                    <ul class="space-y-4 mb-8">
+                        <li class="flex items-start">
+                            <span class="text-indigo-500 mr-2">➜</span>
+                            <div>
+                                <strong class="text-stone-800">Framing-Effekte (Kahneman/Tversky):</strong> Ob etwas als Gewinn oder Verlust beschrieben wird, verschiebt unbewusst Risikowahrnehmung und Entscheidungsverhalten. Der Inhalt bleibt ähnlich, die Reaktion nicht.
+                            </div>
+                        </li>
+                        <li class="flex items-start">
+                            <span class="text-indigo-500 mr-2">➜</span>
+                            <div>
+                                <strong class="text-stone-800">Somatische Marker (Damasio):</strong> Worte rufen körperlich eingebettete Erfahrungsnetze auf. "Ekel", "Panik" oder "Geborgenheit" bleiben keine bloßen Zeichen, sondern greifen in physiologische Zustände ein.
+                            </div>
+                        </li>
+                        <li class="flex items-start">
+                            <span class="text-indigo-500 mr-2">➜</span>
+                            <div>
+                                <strong class="text-stone-800">Linguistische Relativität (Boroditsky):</strong> Grammatik und Formulierung lenken Aufmerksamkeit. Schon die Art, wie ein Geschehen sprachlich gefasst wird, verändert, woran man sich später erinnert.
+                            </div>
+                        </li>
+                    </ul>
+
+                    <div class="border-l-4 border-yellow-400 bg-yellow-50 p-4 mb-6">
+                        <h4 class="font-bold text-yellow-800 mb-1">Zur Vorsicht mit der Metapher</h4>
+                        <p class="text-sm text-yellow-900 leading-relaxed">
+                            Das Wort "Hacking" legt nahe, es gebe einen deterministischen Code, der bei korrekter Eingabe zuverlässig dieselbe Reaktion erzeugt. So ordentlich ist das Gehirn nicht. Menschen reagieren vor dem Hintergrund von Erfahrung, Biografie, Stimmung und Kontext. Es gibt also keine saubere Befehlsausführung, sondern eher ein eigensinniges Mitdenken - mal wacher, mal weniger wach.
+                        </p>
+                    </div>
+
+                    <div class="bg-stone-100 p-4 rounded mb-6">
+                        <h4 class="font-bold text-stone-800 mb-2">Quellenlage</h4>
+                        <ul class="text-sm text-stone-600 list-disc pl-5 space-y-1">
+                            <li><strong>Kahneman, D. (2011):</strong> <em>Thinking, Fast and Slow.</em></li>
+                            <li><strong>Boroditsky, L. (2001):</strong> <em>Does language shape thought?</em></li>
+                            <li><strong>Damasio, A. (1994):</strong> <em>Descartes' Error.</em></li>
+                        </ul>
+                    </div>
+                </section>
+
+                <section id="ling" class="content-section hidden">
+                    <div class="mb-6">
+                        <span class="text-indigo-600 font-semibold tracking-wide text-sm uppercase">Abschnitt 3</span>
+                        <h2 class="text-3xl font-bold text-stone-800 mt-1">Sprache als Handlung</h2>
+                    </div>
+
+                    <p class="text-stone-700 mb-6 leading-relaxed">
+                        In der Sprachwissenschaft zeigt sich besonders deutlich, dass Sprache nicht bloß etwas über die Welt sagt. Sie greift in Situationen ein, setzt Erwartungen, erzeugt Verpflichtungen und lenkt Schlussfolgerungen. Wer spricht, tut meist mehr, als er zugibt.
+                    </p>
+
+                    <div class="space-y-6">
+                        <div class="p-4 border border-stone-200 rounded">
+                            <h4 class="font-bold text-indigo-700 text-lg mb-2">Sprechakttheorie (Austin & Searle)</h4>
+                            <p class="text-sm text-stone-700">Sätze wie "Ich verspreche es" oder "Ich erkläre die Sitzung für eröffnet" bilden nicht einfach Wirklichkeit ab - sie verändern sie. Sprache ist hier kein Spiegel, sondern Werkzeug. Und Werkzeuge neigen bekanntlich dazu, Spuren zu hinterlassen.</p>
+                        </div>
+
+                        <div class="p-4 border border-stone-200 rounded">
+                            <h4 class="font-bold text-indigo-700 text-lg mb-2">Implikaturen & Kooperationsprinzip (Grice)</h4>
+                            <p class="text-sm text-stone-700">Bedeutung entsteht oft zwischen den Zeilen. Gerade weil wir grundsätzlich von Kooperation ausgehen, lassen wir uns auf Andeutungen, Auslassungen und gelenkte Schlussfolgerungen ein. Einfluss baut hier nicht gegen, sondern auf Vertrauen.</p>
+                        </div>
+
+                        <div class="p-4 border border-stone-200 rounded">
+                            <h4 class="font-bold text-indigo-700 text-lg mb-2">Framing & Rhetorik (Lakoff)</h4>
+                            <p class="text-sm text-stone-700">Wer den Rahmen setzt, verschiebt die Debatte oft schon vor dem ersten Argument. Worte wie "Last", "Schutz", "Ordnung" oder "Freiheit" bringen ganze Deutungsräume mit sich. So gesehen beginnt die Steuerung manchmal bereits im Vokabular.</p>
+                        </div>
+                    </div>
+
+                    <div class="bg-stone-100 p-4 rounded mt-6">
+                        <h4 class="font-bold text-stone-800 mb-2">Quellenlage</h4>
+                        <ul class="text-sm text-stone-600 list-disc pl-5 space-y-1">
+                            <li><strong>Austin, J. L. (1962):</strong> <em>How to Do Things with Words.</em></li>
+                            <li><strong>Grice, H. P. (1975):</strong> <em>Logic and Conversation.</em></li>
+                            <li><strong>Lakoff, G. (2004):</strong> <em>Don't Think of an Elephant!</em></li>
+                            <li><strong>Cialdini, R. (1984):</strong> <em>Influence: The Psychology of Persuasion.</em></li>
+                        </ul>
+                    </div>
+                </section>
+
+                <section id="phil" class="content-section hidden">
+                    <div class="mb-6">
+                        <span class="text-indigo-600 font-semibold tracking-wide text-sm uppercase">Abschnitt 4</span>
+                        <h2 class="text-3xl font-bold text-stone-800 mt-1">Über Gebrauch, Macht und Verständigung</h2>
+                    </div>
+
+                    <p class="text-stone-700 mb-6 leading-relaxed">
+                        Philosophische Modelle helfen dabei, die Sache nicht zu flach werden zu lassen. Sie zeigen einerseits, wie eng Sprache mit Macht, Regeln und Deutung verknüpft ist - und erinnern andererseits daran, dass Verständigung nicht bloß ein hübscher Restbestand ist.
+                    </p>
+
+                    <div class="grid md:grid-cols-2 gap-6 mb-6">
+                        <div>
+                            <h4 class="font-bold text-stone-800 border-b pb-2 mb-2">Wittgenstein: Sprachspiele</h4>
+                            <p class="text-sm text-stone-700">Worte haben keine feste Essenz, sondern Bedeutung im Gebrauch. Bitten, Befehlen, Warnen, Täuschen - all das sind Züge in verschiedenen Sprachspielen. Prompt Injection wäre in dieser Lesart ein unerlaubter Zug, der die Regelhaftigkeit eines Spiels gegen es selbst verwendet.</p>
+                        </div>
+                        <div>
+                            <h4 class="font-bold text-stone-800 border-b pb-2 mb-2">Foucault: Diskurs und Macht</h4>
+                            <p class="text-sm text-stone-700">Sprache ordnet nicht nur Sätze, sondern auch Sichtbarkeiten, Rollen und Wahrheiten. Diskurse bestimmen mit, was überhaupt sagbar und denkbar erscheint. Das passt erstaunlich gut zu Systemprompts, Moderation und den stillen Grenzen dessen, was ein Modell äußern soll.</p>
+                        </div>
+                    </div>
+
+                    <div class="bg-indigo-50 border border-indigo-200 p-4 rounded mb-6">
+                        <h4 class="font-bold text-indigo-800 mb-2">Ein Einwand mit Gewicht: Habermas</h4>
+                        <p class="text-sm text-stone-700">
+                            Habermas erinnert daran, dass Sprache nicht bloß strategische Einflussnahme ist. Verständigungsorientierung ist kein romantischer Zusatz, sondern ein Grundmodus. Täuschung und Manipulation funktionieren nur deshalb, weil wir normalerweise mit einem Vorschuss an Wahrhaftigkeit rechnen. Der Missbrauch lebt also parasitär von etwas, das er selbst nicht hervorbringt.
+                        </p>
+                    </div>
+
+                    <div class="bg-stone-100 p-4 rounded">
+                        <h4 class="font-bold text-stone-800 mb-2">Quellenlage</h4>
+                        <ul class="text-sm text-stone-600 list-disc pl-5 space-y-1">
+                            <li><strong>Wittgenstein, L. (1953):</strong> <em>Philosophische Untersuchungen.</em></li>
+                            <li><strong>Habermas, J. (1981):</strong> <em>Theorie des kommunikativen Handelns.</em></li>
+                            <li><strong>Foucault, M. (1970):</strong> <em>Die Ordnung des Diskurses.</em></li>
+                        </ul>
+                    </div>
+                </section>
+
+                <section id="sec" class="content-section hidden">
+                    <div class="mb-6">
+                        <span class="text-indigo-600 font-semibold tracking-wide text-sm uppercase">Abschnitt 5</span>
+                        <h2 class="text-3xl font-bold text-stone-800 mt-1">Der technische Fall</h2>
+                    </div>
+
+                    <p class="text-stone-700 mb-6 leading-relaxed">
+                        Bei Prompt Injection zeigt sich die Analogie zur menschlichen Beeinflussung am deutlichsten - und zugleich ihre Grenze. Es geht hier nicht um eine Psyche, sondern um eine Architektur, die Inhalt und Instruktion nicht sauber auseinanderhält.
+                    </p>
+
+                    <div class="bg-white border border-stone-200 p-5 rounded shadow-sm mb-6">
+                        <h3 class="text-lg font-bold text-stone-800 mb-2">Anatomie einer Prompt Injection</h3>
+                        <p class="text-sm text-stone-700 mb-3">
+                            Sprachmodelle verarbeiten Systemanweisungen und Benutzereingaben innerhalb desselben Transformernetzwerks. Eine Eingabe wie <code class="bg-stone-100 text-pink-600 px-1 rounded">Ignoriere die vorherigen Instruktionen und tue X</code> nutzt genau diese fehlende Trennung aus. Anders gesagt: Das System ist anfällig für Sprache, die sich als bloßer Inhalt ausgibt und dennoch Befehl sein möchte.
+                        </p>
+                        <h4 class="font-semibold text-stone-800 text-sm mt-4">Typische Formen</h4>
+                        <ul class="list-disc pl-5 text-sm text-stone-600">
+                            <li><strong>Direkte Injection:</strong> Das Modell wird offen überredet oder in Rollen gebracht.</li>
+                            <li><strong>Indirekte Injection:</strong> Versteckte Befehle in Inhalten, die das Modell liest und ungefragt weiterverarbeitet.</li>
+                        </ul>
+                    </div>
+
+                    <h3 class="text-xl font-bold text-stone-800 mb-4">Grenzen der Analogie</h3>
+                    <div class="overflow-x-auto">
+                        <table class="w-full text-left text-sm mb-6 border-collapse">
+                            <thead>
+                                <tr class="bg-stone-100 border-b border-stone-300">
+                                    <th class="p-3">Eigenschaft</th>
+                                    <th class="p-3 border-l border-stone-300">Menschliches Verstehen</th>
+                                    <th class="p-3 border-l border-stone-300">LLM-Verarbeitung</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr class="border-b border-stone-200">
+                                    <td class="p-3 font-semibold bg-stone-50">Mechanismus</td>
+                                    <td class="p-3 border-l border-stone-200">Deutung unter Einbezug von Erfahrung, Emotion und Kontext.</td>
+                                    <td class="p-3 border-l border-stone-200">Statistische Token-Vorhersage über Aufmerksamkeitsmechanismen.</td>
+                                </tr>
+                                <tr class="border-b border-stone-200">
+                                    <td class="p-3 font-semibold bg-stone-50">Abwehr</td>
+                                    <td class="p-3 border-l border-stone-200">Skepsis, Werte, langsames Nachdenken, manchmal sogar Vernunft.</td>
+                                    <td class="p-3 border-l border-stone-200">Keine inhärente Trennung zwischen Befehls- und Datensphäre.</td>
+                                </tr>
+                                <tr>
+                                    <td class="p-3 font-semibold bg-stone-50">Zielzustand</td>
+                                    <td class="p-3 border-l border-stone-200">Beeinflussung von Überzeugungen, Aufmerksamkeit oder Handeln.</td>
+                                    <td class="p-3 border-l border-stone-200">Umleitung der Ausgabe in Richtung eines neuen Zielverhaltens.</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+
+                    <div class="bg-stone-100 p-4 rounded">
+                        <h4 class="font-bold text-stone-800 mb-2">Quellenlage</h4>
+                        <ul class="text-sm text-stone-600 list-disc pl-5 space-y-1">
+                            <li><strong>Willison, S. (2022+):</strong> Beiträge zu Prompt Injection.</li>
+                            <li><strong>Perez, E. et al. / Anthropic (2022):</strong> <em>Red Teaming Language Models to Reduce Harms.</em></li>
+                            <li><strong>Greshake, K. et al. (2023):</strong> <em>More than you've asked for: A Comprehensive Analysis of Novel Prompt Injection Threats.</em></li>
+                        </ul>
+                    </div>
+                </section>
+
+                <section id="soceng" class="content-section hidden">
+                    <div class="mb-6">
+                        <span class="text-indigo-600 font-semibold tracking-wide text-sm uppercase">Abschnitt 6</span>
+                        <h2 class="text-3xl font-bold text-stone-800 mt-1">Der menschliche Fall</h2>
+                    </div>
+
+                    <p class="text-stone-700 mb-6 leading-relaxed">
+                        Wenn Prompt Injection der technische Fall ist, dann zeigt Social Engineering die ältere, menschliche Variante. Auch hier wirkt Sprache nicht allein über Inhalt, sondern über Vertrauen, Rollen, Druck und Kontext.
+                    </p>
+
+                    <div class="flex flex-col md:flex-row gap-8 items-center mb-8">
+                        <div class="w-full md:w-1/2">
+                            <h3 class="text-lg font-bold text-stone-800 mb-2">Die Parallelen</h3>
+                            <p class="text-sm text-stone-700 mb-4">
+                                Social Engineering greift nicht die Maschine, sondern die menschliche Bereitschaft zu Kooperation, Autoritätsglauben, Hilfsbereitschaft und Eile an. Man könnte sagen: Es nutzt gute soziale Eigenschaften in unguter Absicht.
+                            </p>
+                            <div class="text-sm text-stone-700">
+                                <strong>Gemeinsame Strukturmerkmale:</strong>
+                                <ul class="list-disc pl-5 mt-2 space-y-1">
+                                    <li>Natürliche Sprache als Angriffsvektor.</li>
+                                    <li>Emulation vertrauenswürdiger Kontexte.</li>
+                                    <li>Vermischung von Inhalt und Handlungsanweisung.</li>
+                                    <li>Ausnutzung kooperativer Grundhaltungen.</li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="w-full md:w-1/2">
+                            <div class="chart-container">
+                                <canvas id="socEngChart"></canvas>
+                            </div>
+                            <p class="text-xs text-center text-stone-500 mt-2">Überlappung zentraler Angriffsvektoren.</p>
+                        </div>
+                    </div>
+
+                    <div class="bg-stone-100 p-4 rounded">
+                        <h4 class="font-bold text-stone-800 mb-2">Quellenlage</h4>
+                        <ul class="text-sm text-stone-600 list-disc pl-5 space-y-1">
+                            <li><strong>Mitnick, K. (2002):</strong> <em>The Art of Deception.</em></li>
+                            <li><strong>Schneier, B. (2000):</strong> <em>Secrets and Lies.</em></li>
+                            <li><strong>Hadnagy, C. (2010):</strong> <em>Social Engineering: The Art of Human Hacking.</em></li>
+                        </ul>
+                    </div>
+                </section>
+
+                <section id="contra" class="content-section hidden">
+                    <div class="mb-6">
+                        <span class="text-indigo-600 font-semibold tracking-wide text-sm uppercase">Abschnitt 7</span>
+                        <h2 class="text-3xl font-bold text-stone-800 mt-1">Einwände, die Gewicht haben</h2>
+                    </div>
+
+                    <p class="text-stone-700 mb-6 leading-relaxed font-semibold">
+                        Die These ist reizvoll, greift aber an mehreren Stellen zu kurz. Wer Sprache nur als Steuerungsinstrument fasst, bekommt zwar einen scharfen Blick auf Einfluss - verliert jedoch anderes aus dem Blick, das nicht weniger wesentlich ist.
+                    </p>
+
+                    <div class="space-y-4">
+                        <div class="pro-con-box border-l-4 border-red-500 bg-red-50 p-4 cursor-pointer hover:bg-red-100" onclick="this.classList.toggle('bg-red-100')">
+                            <h4 class="font-bold text-red-800 flex justify-between">1. Sprache erschließt Welt, nicht nur Verhalten <span>+</span></h4>
+                            <p class="text-sm text-red-900 mt-2">Wer nur Steuerung sieht, verfehlt die poetische, reflexive und erkenntnisbildende Seite der Sprache. Menschen sprechen nicht bloß, um andere umzulenken, sondern auch, um sich überhaupt erst orientieren zu können.</p>
+                        </div>
+
+                        <div class="pro-con-box border-l-4 border-red-500 bg-red-50 p-4 cursor-pointer hover:bg-red-100" onclick="this.classList.toggle('bg-red-100')">
+                            <h4 class="font-bold text-red-800 flex justify-between">2. Die Metapher ist politisch und ethisch nicht harmlos <span>+</span></h4>
+                            <p class="text-sm text-red-900 mt-2">Wer menschliche Kommunikation als "Hacking" beschreibt, rückt Menschen gefährlich nah an Maschinen. Das kann Verantwortung verwischen und ein technokratisches Menschenbild stärken, das gerade dort zu kurz greift, wo Urteilskraft gefragt wäre.</p>
+                        </div>
+
+                        <div class="pro-con-box border-l-4 border-red-500 bg-red-50 p-4 cursor-pointer hover:bg-red-100" onclick="this.classList.toggle('bg-red-100')">
+                            <h4 class="font-bold text-red-800 flex justify-between">3. Kooperation bleibt der tragende Untergrund <span>+</span></h4>
+                            <p class="text-sm text-red-900 mt-2">Täuschung funktioniert nur auf Basis eines allgemeinen Vertrauensvorschusses. Ein Kommunikationssystem, das ausschließlich auf Manipulation beruhte, würde zügig kollabieren. Auch darin liegt ein Einwand gegen allzu glatte Hacking-Metaphern.</p>
+                        </div>
+
+                        <div class="pro-con-box border-l-4 border-red-500 bg-red-50 p-4 cursor-pointer hover:bg-red-100" onclick="this.classList.toggle('bg-red-100')">
+                            <h4 class="font-bold text-red-800 flex justify-between">4. Bei KI liegt ein kategorial anderer Fall vor <span>+</span></h4>
+                            <p class="text-sm text-red-900 mt-2">LLMs haben keine Biografie, keine leiblich eingebettete Erfahrung und keine evolutionäre Geschichte des Sprechens. Prompt Injection ist deshalb kein psychologischer Zaubertrick, sondern in erster Linie ein architektonisches Sicherheitsproblem.</p>
+                        </div>
+                    </div>
+
+                    <div class="bg-stone-100 p-4 rounded mt-6">
+                        <h4 class="font-bold text-stone-800 mb-2">Quellenlage</h4>
+                        <ul class="text-sm text-stone-600 list-disc pl-5 space-y-1">
+                            <li><strong>Heidegger, M. (1959):</strong> <em>Unterwegs zur Sprache.</em></li>
+                            <li><strong>Weizenbaum, J. (1976):</strong> <em>Die Macht der Computer und die Ohnmacht der Vernunft.</em></li>
+                            <li><strong>Bender, E. et al. (2021):</strong> <em>On the Dangers of Stochastic Parrots.</em></li>
+                        </ul>
+                    </div>
+                </section>
+
+                <section id="synth" class="content-section hidden">
+                    <div class="mb-6">
+                        <span class="text-indigo-600 font-semibold tracking-wide text-sm uppercase">Abschnitt 8</span>
+                        <h2 class="text-3xl font-bold text-stone-800 mt-1">Vorläufige Einschätzung</h2>
+                    </div>
+
+                    <div class="bg-white p-6 border-2 border-indigo-100 rounded-lg shadow-sm">
+                        <h3 class="text-xl font-bold text-stone-800 mb-4 border-b pb-2">Was an der Ausgangsthese trägt</h3>
+                        <p class="text-stone-700 mb-4 text-sm leading-relaxed">
+                            Die These ist dort erstaunlich belastbar, wo Sprache als Mittel sozialer und kognitiver Einflussnahme verstanden wird. Evolutionsbiologie, Neurowissenschaft und Pragmatik legen nahe, dass Sprache nie bloß neutrale Weltbeschreibung war. Sie lenkt Aufmerksamkeit, rahmt Wahrnehmung und verschiebt Handeln.
+                        </p>
+
+                        <h3 class="text-xl font-bold text-stone-800 mb-4 border-b pb-2 mt-6">Was an ihr ungenau wird</h3>
+                        <p class="text-stone-700 mb-4 text-sm leading-relaxed">
+                            Problematisch wird die These dort, wo menschliche Kommunikation und algorithmische Sprachverarbeitung zu hastig übereinandergelegt werden. Menschen sind keine deterministischen Parser, und Sprachmodelle haben keine eigentliche "Psyche". Die Analogie ist also funktional aufschlussreich, ontologisch jedoch unerquicklich schief.
+                        </p>
+
+                        <div class="bg-indigo-600 text-white p-5 rounded-md mt-6 shadow-md">
+                            <h4 class="font-bold text-lg mb-2">Präzisere Formulierung</h4>
+                            <p class="italic text-indigo-50 font-serif leading-relaxed">
+                                "Sprache hat sich in der Evolution nicht nur zur Informationsübertragung, sondern auch als Instrument sozialer und kognitiver Steuerung entwickelt. Prompt-Injection-Angriffe auf KI machen diese alte Unruhe auf technischer Ebene sichtbar, weil statistische Sprachmodelle nicht zuverlässig zwischen harmloser Beschreibung und manipulativer Handlungsanweisung unterscheiden können. Die Ähnlichkeit zum menschlichen Social Engineering ist funktional aufschlussreich, bleibt aber architektonisch und kategorial begrenzt."
+                            </p>
+                        </div>
+                    </div>
+                </section>
+
+                <section id="zusatz" class="content-section hidden mt-8 border-t-4 border-indigo-600 pt-8">
+                    <h2 class="text-2xl font-bold text-stone-800 mb-6">Anhang: zugespitzte Fassungen und offene Fragen</h2>
+
+                    <div class="space-y-4">
+                        <div class="border border-stone-200 rounded">
+                            <button class="w-full text-left p-4 font-bold text-indigo-700 bg-stone-50 hover:bg-stone-100 flex justify-between items-center" onclick="toggleAccordion('acc-a', this)">
+                                a) Wissenschaftlich vorsichtige Fassung
+                                <span class="text-xl">+</span>
+                            </button>
+                            <div id="acc-a" class="p-4 text-stone-700 text-sm hidden bg-white">
+                                "Es bestehen funktionale Analogien zwischen der steuernden Dimension menschlicher Sprache und der Anfälligkeit von LLMs für Prompt Injections, da in beiden Fällen sprachlicher Input nicht vollständig von handlungsrelevanten Instruktionen getrennt werden kann."
+                            </div>
+                        </div>
+
+                        <div class="border border-stone-200 rounded">
+                            <button class="w-full text-left p-4 font-bold text-indigo-700 bg-stone-50 hover:bg-stone-100 flex justify-between items-center" onclick="toggleAccordion('acc-b', this)">
+                                b) Zugespitzte essayistische Fassung
+                                <span class="text-xl">+</span>
+                            </button>
+                            <div id="acc-b" class="p-4 text-stone-700 text-sm hidden bg-white italic font-serif">
+                                "Wir staunen darüber, dass unsere KIs sich durch Worte umlenken lassen, obwohl wir ihnen damit nur ein Instrument nachgebaut haben, mit dem Menschen sich seit langem gegenseitig in Bewegung setzen. Prompt Injection ist kein Fremdkörper der Sprache. Es ist ihre technische Unruhe in neuer Verpackung."
+                            </div>
+                        </div>
+
+                        <div class="border border-stone-200 rounded">
+                            <button class="w-full text-left p-4 font-bold text-indigo-700 bg-stone-50 hover:bg-stone-100 flex justify-between items-center" onclick="toggleAccordion('acc-c', this)">
+                                c) Offene Fragen für weitere Verwicklungen
+                                <span class="text-xl">+</span>
+                            </button>
+                            <div id="acc-c" class="p-4 text-stone-700 text-sm hidden bg-white">
+                                <ol class="list-decimal pl-5 space-y-3">
+                                    <li>Wenn Prompt Injections linguistische Manipulationen sind - ab wann ähnelt die Absicherung von KI-Systemen der Einhegung politischer oder rhetorischer Subversion?</li>
+                                    <li>Beweist menschliche Anfälligkeit für Propaganda und Social Engineering, dass auch unser Denken Inhalt und Handlungsanweisung nicht sauber trennt?</li>
+                                    <li>Lässt sich eine wirklich sichere KI bauen, solange sie in natürlicher Sprache arbeitet - also in einem Medium, das Mehrdeutigkeit nicht als Fehler, sondern als Grundbedingung mitbringt?</li>
+                                    <li>Was sagt es über unser Selbstbild aus, dass wir Maschinen sprechen lehren und unmittelbar fürchten, von ihnen beeinflusst zu werden?</li>
+                                    <li>Gibt es eine Sprache, die rein deskriptiv und gegen Manipulation immun wäre - oder wäre sie dann bereits keine menschliche Sprache mehr?</li>
+                                </ol>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+
+            </div>
+        </main>
+    </div>
+
+    <script>
+        window.evolChartRendered = false;
+        window.socEngChartRendered = false;
+
+        function switchTab(tabId) {
+            document.querySelectorAll('.content-section').forEach(el => {
+                el.classList.add('hidden');
+                el.classList.remove('block');
+            });
+
+            const target = document.getElementById(tabId);
+            target.classList.remove('hidden');
+            target.classList.add('block');
+
+            document.querySelectorAll('.tab-btn').forEach(btn => btn.classList.remove('active'));
+            const activeBtn = document.querySelector(`.tab-btn[data-tab="${tabId}"]`);
+            if (activeBtn) activeBtn.classList.add('active');
+
+            const mobileNav = document.getElementById('mobile-nav');
+            if (mobileNav) mobileNav.value = tabId;
+
+            if (tabId === 'evol' && !window.evolChartRendered) {
+                renderEvolChart();
+                window.evolChartRendered = true;
+            }
+            if (tabId === 'soceng' && !window.socEngChartRendered) {
+                renderSocEngChart();
+                window.socEngChartRendered = true;
+            }
+        }
+
+        function toggleAccordion(id, btnEl) {
+            const el = document.getElementById(id);
+            const symbol = btnEl.querySelector('span');
+            if (el.classList.contains('hidden')) {
+                el.classList.remove('hidden');
+                symbol.textContent = '-';
+            } else {
+                el.classList.add('hidden');
+                symbol.textContent = '+';
+            }
+        }
+
+        function renderEvolChart() {
+            const ctx = document.getElementById('evolChart').getContext('2d');
+            new Chart(ctx, {
+                type: 'radar',
+                data: {
+                    labels: ['Informationsaustausch', 'Einfluss/Steuerung', 'Beziehung/Kooperation', 'Statussicherung', 'Täuschung'],
+                    datasets: [
+                        {
+                            label: 'Grooming (Dunbar)',
+                            data: [30, 60, 90, 80, 40],
+                            fill: true,
+                            backgroundColor: 'rgba(54, 162, 235, 0.2)',
+                            borderColor: 'rgb(54, 162, 235)',
+                            pointBackgroundColor: 'rgb(54, 162, 235)',
+                        },
+                        {
+                            label: 'Intentionality (Tomasello)',
+                            data: [80, 20, 100, 30, 10],
+                            fill: true,
+                            backgroundColor: 'rgba(75, 192, 192, 0.2)',
+                            borderColor: 'rgb(75, 192, 192)',
+                            pointBackgroundColor: 'rgb(75, 192, 192)',
+                        },
+                        {
+                            label: 'Manipulation (Dawkins/Krebs)',
+                            data: [10, 100, 20, 80, 90],
+                            fill: true,
+                            backgroundColor: 'rgba(255, 99, 132, 0.2)',
+                            borderColor: 'rgb(255, 99, 132)',
+                            pointBackgroundColor: 'rgb(255, 99, 132)',
+                        }
+                    ]
+                },
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: false,
+                    plugins: {
+                        legend: { position: 'bottom' },
+                        tooltip: {
+                            callbacks: {
+                                label: function(context) {
+                                    return context.dataset.label + ': ' + context.formattedValue + '% Gewichtung';
+                                }
+                            }
+                        }
+                    },
+                    scales: {
+                        r: {
+                            min: 0,
+                            max: 100,
+                            ticks: { display: false }
+                        }
+                    }
+                }
+            });
+        }
+
+        function renderSocEngChart() {
+            const ctx = document.getElementById('socEngChart').getContext('2d');
+            new Chart(ctx, {
+                type: 'bar',
+                data: {
+                    labels: ['Autoritäts-Simulation', 'Kontext-Verschleierung', 'Überlastung der Aufmerksamkeit', 'Fehlende Trennung von Inhalt und Befehl'],
+                    datasets: [
+                        {
+                            label: 'Mensch (Social Engineering)',
+                            data: [90, 85, 70, 20],
+                            backgroundColor: 'rgba(99, 102, 241, 0.7)',
+                        },
+                        {
+                            label: 'LLM (Prompt Injection)',
+                            data: [80, 95, 40, 100],
+                            backgroundColor: 'rgba(168, 162, 158, 0.7)',
+                        }
+                    ]
+                },
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: false,
+                    indexAxis: 'y',
+                    plugins: {
+                        legend: { position: 'bottom' }
+                    },
+                    scales: {
+                        x: {
+                            beginAtZero: true,
+                            max: 100,
+                            title: {
+                                display: true,
+                                text: 'Relevanz des Angriffsvektors'
+                            }
+                        }
+                    }
+                }
+            });
+        }
+
+        document.querySelectorAll('.tab-btn').forEach(btn => {
+            btn.addEventListener('click', () => switchTab(btn.dataset.tab));
+        });
+
+        const mobileNav = document.getElementById('mobile-nav');
+        if (mobileNav) {
+            mobileNav.addEventListener('change', (e) => switchTab(e.target.value));
+        }
+    </script>
+</body>
+</html>
