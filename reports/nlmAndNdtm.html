@@ -332,7 +332,76 @@
         .text-stone-400{ color:#8b9484 !important; }
         .text-stone-50{ color:#f7f4ea !important; }
 
-        @media (min-width: 768px){
+        
+
+        header h1::before{
+            content:"✦ ";
+            color:rgba(199,155,75,.92);
+        }
+
+        section h2{
+            position:relative;
+            padding-bottom:.35rem;
+        }
+
+        section h2::after{
+            content:"";
+            display:block;
+            width:84px;
+            height:2px;
+            margin-top:.7rem;
+            background:linear-gradient(90deg, rgba(47,93,59,.85), rgba(199,155,75,.55), transparent);
+            border-radius:999px;
+        }
+
+        .prose p, .text-lg, p{
+            hanging-punctuation:first;
+        }
+
+        .bg-white p:first-child::first-letter,
+        .prose p:first-child::first-letter{
+            font-size:1.08em;
+        }
+
+        .tab-content.active{
+            animation:fadeIn .45s ease-in-out;
+        }
+
+        .chart-container,
+        .bg-white,
+        .bg-stone-100,
+        .bg-teal-50,
+        .bg-amber-50,
+        .bg-stone-800{
+            position:relative;
+            overflow:hidden;
+        }
+
+        .chart-container::before,
+        .bg-white::before,
+        .bg-stone-100::before,
+        .bg-teal-50::before,
+        .bg-amber-50::before,
+        .bg-stone-800::before{
+            content:"";
+            position:absolute;
+            inset:0;
+            pointer-events:none;
+            background:linear-gradient(180deg, rgba(255,255,255,.14), transparent 30%);
+            opacity:.7;
+        }
+
+        .bg-stone-800::after{
+            content:"";
+            position:absolute;
+            inset:auto 1.2rem 1rem auto;
+            width:72px;
+            height:72px;
+            border-radius:50%;
+            background:radial-gradient(circle, rgba(199,155,75,.12), transparent 68%);
+            pointer-events:none;
+        }
+@media (min-width: 768px){
             nav{
                 position:relative;
             }
@@ -370,35 +439,35 @@
 
     <header class="bg-stone-900 text-stone-50 py-4 px-6 shadow-md z-10 flex-shrink-0">
         <div class="max-w-7xl mx-auto flex justify-between items-center">
-            <h1 class="text-xl md:text-2xl font-serif font-bold tracking-tight">🧠 NLM & Determinismus</h1>
-            <span class="text-sm text-stone-400 hidden md:block">Eine interaktive Analyse zur Softwarequalität</span>
+            <h1 class="text-xl md:text-2xl font-serif font-bold tracking-tight">🧠 NLM und Determinismus</h1>
+            <span class="text-sm text-stone-400 hidden md:block">Eine interaktive Waldlektüre zwischen Code, Regelwerk und Erkenntnis</span>
         </div>
     </header>
 
     <div class="flex-1 flex flex-col md:flex-row overflow-hidden max-w-7xl mx-auto w-full">
         
         <nav class="bg-stone-100 w-full md:w-72 flex-shrink-0 border-b md:border-b-0 md:border-r border-stone-200 overflow-x-auto md:overflow-y-auto hide-scroll p-4 z-10">
-            <p class="text-xs font-bold text-stone-400 uppercase tracking-wider mb-4 hidden md:block">Dimensionen</p>
+            <p class="text-xs font-bold text-stone-400 uppercase tracking-wider mb-4 hidden md:block">Lehrpfade</p>
             <ul class="flex md:flex-col space-x-2 md:space-x-0 md:space-y-2" id="nav-menu">
-                <li><button data-target="intro" class="nav-btn w-full text-left px-4 py-3 rounded-lg transition-colors bg-teal-50 text-teal-700 font-medium whitespace-nowrap md:whitespace-normal">🔍 Übersicht</button></li>
-                <li><button data-target="erwartung" class="nav-btn w-full text-left px-4 py-3 rounded-lg transition-colors hover:bg-stone-200 text-stone-600 whitespace-nowrap md:whitespace-normal">1. Erwartung vs. Realität</button></li>
+                <li><button data-target="intro" class="nav-btn w-full text-left px-4 py-3 rounded-lg transition-colors bg-teal-50 text-teal-700 font-medium whitespace-nowrap md:whitespace-normal">🌲 Übersicht</button></li>
+                <li><button data-target="erwartung" class="nav-btn w-full text-left px-4 py-3 rounded-lg transition-colors hover:bg-stone-200 text-stone-600 whitespace-nowrap md:whitespace-normal">1. Erwartung und Wirklichkeit</button></li>
                 <li><button data-target="klassisch" class="nav-btn w-full text-left px-4 py-3 rounded-lg transition-colors hover:bg-stone-200 text-stone-600 whitespace-nowrap md:whitespace-normal">2. Grenzen klassischer Software</button></li>
-                <li><button data-target="fehler" class="nav-btn w-full text-left px-4 py-3 rounded-lg transition-colors hover:bg-stone-200 text-stone-600 whitespace-nowrap md:whitespace-normal">3. Fehlerfindung durch NLMs</button></li>
-                <li><button data-target="vergleich" class="nav-btn w-full text-left px-4 py-3 rounded-lg transition-colors hover:bg-stone-200 text-stone-600 whitespace-nowrap md:whitespace-normal">4. Paradigmenvergleich</button></li>
-                <li><button data-target="philosophie" class="nav-btn w-full text-left px-4 py-3 rounded-lg transition-colors hover:bg-stone-200 text-stone-600 whitespace-nowrap md:whitespace-normal">5. Philosophie & Vertrauen</button></li>
+                <li><button data-target="fehler" class="nav-btn w-full text-left px-4 py-3 rounded-lg transition-colors hover:bg-stone-200 text-stone-600 whitespace-nowrap md:whitespace-normal">3. Fehlersuche mit NLMs</button></li>
+                <li><button data-target="vergleich" class="nav-btn w-full text-left px-4 py-3 rounded-lg transition-colors hover:bg-stone-200 text-stone-600 whitespace-nowrap md:whitespace-normal">4. Vergleich der Paradigmen</button></li>
+                <li><button data-target="philosophie" class="nav-btn w-full text-left px-4 py-3 rounded-lg transition-colors hover:bg-stone-200 text-stone-600 whitespace-nowrap md:whitespace-normal">5. Philosophie und Vertrauen</button></li>
             </ul>
         </nav>
 
         <main class="flex-1 overflow-y-auto p-6 md:p-10 bg-stone-50 relative">
             
             <section id="intro" class="tab-content active max-w-4xl mx-auto">
-                <h2 class="text-3xl font-serif font-bold text-stone-900 mb-6">Die Rolle von Non-Determinismus in Neuronalen Sprachmodellen</h2>
+                <h2 class="text-3xl font-serif font-bold text-stone-900 mb-6">Die Rolle von Non-Determinismus in neuronalen Sprachmodellen</h2>
                 <div class="prose prose-stone max-w-none text-lg leading-relaxed space-y-6">
                     <p class="bg-white p-6 rounded-xl border border-stone-200 shadow-sm">
-                        Diese interaktive Analyse untersucht das Spannungsfeld zwischen <strong>neuronalen Sprachmodellen (NLMs)</strong> und klassischer <strong>Softwarequalität</strong>. Im Zentrum steht ein scheinbarer Widerspruch: Während klassische Codeanalyse strengen, deterministischen Regeln folgt, operieren NLMs probabilistisch und oft nicht-deterministisch.
+                        Diese interaktive Lektüre untersucht das Spannungsfeld zwischen <strong>neuronalen Sprachmodellen (NLMs)</strong> und klassischer <strong>Softwarequalität</strong>. Im Zentrum steht ein scheinbarer Widerspruch: Während klassische Codeanalyse strengen, deterministischen Regeln folgt, operieren NLMs probabilistisch und oft nicht-deterministisch.
                     </p>
                     <p>
-                        In dieser Applikation können Sie die verschiedenen Dimensionen dieses Themas erkunden. Sie analysiert, warum Nicht-Determinismus oft als Schwäche wahrgenommen wird, dekonstruiert den Mythos der perfekt deterministischen klassischen Software und zeigt auf, warum gerade der probabilistische Ansatz von NLMs neue Horizonte in der Fehlerfindung eröffnet.
+                        Auf dieser Seite können Sie die verschiedenen Dimensionen dieses Themas erkunden. Sie analysiert, warum Nicht-Determinismus oft als Schwäche wahrgenommen wird, dekonstruiert den Mythos der perfekt deterministischen klassischen Software und zeigt auf, warum gerade der probabilistische Ansatz von NLMs neue Horizonte in der Fehlerfindung eröffnet.
                     </p>
                     <div class="grid grid-cols-1 sm:grid-cols-2 gap-4 mt-8">
                         <div class="bg-amber-50 border border-amber-200 p-5 rounded-lg">
@@ -415,13 +484,13 @@
 
             <section id="erwartung" class="tab-content max-w-4xl mx-auto">
                 <div class="mb-8">
-                    <h2 class="text-3xl font-serif font-bold text-stone-900 mb-4">1. Erwartung vs. Realität</h2>
-                    <p class="text-stone-600 text-lg">In diesem Abschnitt betrachten wir die Diskrepanz zwischen den Anforderungen klassischer Softwareentwicklung und der eigentlichen Natur von NLMs.</p>
+                    <h2 class="text-3xl font-serif font-bold text-stone-900 mb-4">1. Erwartung und Wirklichkeit</h2>
+                    <p class="text-stone-600 text-lg">In diesem Abschnitt betrachten wir die Diskrepanz zwischen den Anforderungen klassischer Softwareentwicklung und der eigentlichen Natur von NLMs - gewissermaßen den Unterschied zwischen Karte und Gelände.</p>
                 </div>
 
                 <div class="flex space-x-2 mb-6 bg-stone-200 p-1 rounded-lg w-fit">
-                    <button id="toggle-erwartung" class="px-6 py-2 rounded-md font-medium bg-white shadow-sm text-stone-800 transition-all">Die Projektion</button>
-                    <button id="toggle-realitaet" class="px-6 py-2 rounded-md font-medium text-stone-500 hover:text-stone-800 transition-all">Die Realität der NLMs</button>
+                    <button id="toggle-erwartung" class="px-6 py-2 rounded-md font-medium bg-white shadow-sm text-stone-800 transition-all">Die Erwartung</button>
+                    <button id="toggle-realitaet" class="px-6 py-2 rounded-md font-medium text-stone-500 hover:text-stone-800 transition-all">Die Natur der NLMs</button>
                 </div>
 
                 <div id="content-erwartung" class="bg-white p-8 rounded-xl border border-stone-200 shadow-sm transition-opacity duration-300">
@@ -468,7 +537,7 @@
             <section id="klassisch" class="tab-content max-w-4xl mx-auto">
                 <div class="mb-8">
                     <h2 class="text-3xl font-serif font-bold text-stone-900 mb-4">2. Der Mythos des perfekten Determinismus</h2>
-                    <p class="text-stone-600 text-lg">Klassische Software gilt als deterministisch. Doch in der Praxis ist dieser Determinismus oft eher eine Annahme auf einer bestimmten Abstraktionsebene als eine universelle Realität. Klicken Sie auf die Faktoren, um die Grenzen zu explorieren.</p>
+                    <p class="text-stone-600 text-lg">Klassische Software gilt als deterministisch. Doch in der Praxis ist dieser Determinismus oft eher eine Annahme auf einer bestimmten Abstraktionsebene als eine universelle Realität. Klicken Sie auf die Faktoren, um diese Grenzbereiche näher zu betrachten.</p>
                 </div>
 
                 <div class="grid grid-cols-1 md:grid-cols-3 gap-6 mb-8">
@@ -481,20 +550,20 @@
                     <div class="col-span-1 md:col-span-2 bg-white rounded-xl border border-stone-200 shadow-inner p-8 flex items-center justify-center min-h-[300px]">
                         <div id="grenze-detail" class="text-center">
                             <span class="text-4xl block mb-4 text-stone-300">👈</span>
-                            <p class="text-stone-500 text-lg">Wählen Sie einen Faktor aus, um zu sehen, wo klassische Software ihren Determinismus verliert.</p>
+                            <p class="text-stone-500 text-lg">Wählen Sie einen Faktor aus, um zu sehen, an welcher Stelle klassische Software ihren Determinismus einbüßt.</p>
                         </div>
                     </div>
                 </div>
 
                 <div class="bg-stone-800 text-stone-50 p-6 rounded-xl mt-4">
-                    <h4 class="font-bold text-amber-400 mb-2">💡 Zwischenfazit: Determinismus als Ideal</h4>
-                    <p class="text-sm">Der Begriff "Determinismus" ist in der Praxis oft eine nützliche Fiktion. Wir isolieren Softwareumgebungen massiv (durch VMs, Container, strenge Konventionen), um deterministisches <em>Verhalten</em> zu erzwingen. Bei komplexen, verteilten Systemen weicht auch klassische Software längst in probabilistische Resilienz-Muster (z.B. Retries, Chaos Engineering) aus.</p>
+                    <h4 class="font-bold text-amber-400 mb-2">💡 Zwischenfazit: Determinismus als Leitbild</h4>
+                    <p class="text-sm">Der Begriff "Determinismus" ist in der Praxis oft eher eine nützliche Fiktion. Wir isolieren Softwareumgebungen massiv (durch VMs, Container, strenge Konventionen), um deterministisches <em>Verhalten</em> zu erzwingen. Bei komplexen, verteilten Systemen weicht auch klassische Software längst in probabilistische Resilienz-Muster (z.B. Retries, Chaos Engineering) aus.</p>
                 </div>
             </section>
 
             <section id="fehler" class="tab-content max-w-5xl mx-auto w-full">
                 <div class="mb-8">
-                    <h2 class="text-3xl font-serif font-bold text-stone-900 mb-4">3. Fehlerfindung durch NLMs</h2>
+                    <h2 class="text-3xl font-serif font-bold text-stone-900 mb-4">3. Fehlersuche mit NLMs</h2>
                     <p class="text-stone-600 text-lg">Finden Modelle Fehler <em>trotz</em> oder <em>wegen</em> ihres Nicht-Determinismus? Der Chart visualisiert die Stärken unterschiedlicher Analysemethoden. Die probabilistische Natur erlaubt eine Exploration, die statischen Tools fehlt.</p>
                 </div>
 
@@ -504,11 +573,11 @@
 
                 <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
                     <div class="bg-white p-5 rounded-xl shadow-sm border-t-4 border-teal-500">
-                        <h4 class="font-bold text-lg mb-2">Breite Exploration</h4>
+                        <h4 class="font-bold text-lg mb-2">Breite Erkundung</h4>
                         <p class="text-sm text-stone-600">NLMs iterieren durch den latenten semantischen Lösungsraum. Dieser Nicht-Determinismus ermöglicht es ihnen, ungewöhnliche Edge-Cases und kontextuelle Bugs zu erahnen, für die noch keine explizite Regel geschrieben wurde.</p>
                     </div>
                     <div class="bg-white p-5 rounded-xl shadow-sm border-t-4 border-blue-500">
-                        <h4 class="font-bold text-lg mb-2">Fehlende globale Bindung</h4>
+                        <h4 class="font-bold text-lg mb-2">Geringe globale Bindung</h4>
                         <p class="text-sm text-stone-600">Anders als ein Linter haben NLMs keine starren, globalen Annahmen über die Architektur. Sie bewerten den <em>lokalen Kontext</em> und Stilheuristiken mit hoher Geschwindigkeit, was sie anfällig für Halluzinationen, aber exzellent im Erkennen von "Code Smells" macht.</p>
                     </div>
                     <div class="bg-white p-5 rounded-xl shadow-sm border-t-4 border-stone-500">
@@ -521,13 +590,13 @@
             <section id="vergleich" class="tab-content max-w-5xl mx-auto w-full">
                 <div class="mb-8">
                     <h2 class="text-3xl font-serif font-bold text-stone-900 mb-4">4. Vergleich der Paradigmen</h2>
-                    <p class="text-stone-600 text-lg">Gegenüberstellung deterministischer Regelsysteme und probabilistischer NLMs. Nutzen Sie die Filter, um spezifische Aspekte zu vergleichen.</p>
+                    <p class="text-stone-600 text-lg">Gegenüberstellung deterministischer Regelsysteme und probabilistischer NLMs. Nutzen Sie die Filter, um einzelne Aspekte nebeneinander zu legen.</p>
                 </div>
 
                 <div class="flex flex-wrap gap-2 mb-6">
                     <button class="filter-btn bg-stone-800 text-white px-4 py-2 rounded-full text-sm font-medium transition" data-filter="all">Alle Aspekte</button>
                     <button class="filter-btn bg-stone-200 text-stone-700 hover:bg-stone-300 px-4 py-2 rounded-full text-sm font-medium transition" data-filter="strength">Stärken</button>
-                    <button class="filter-btn bg-stone-200 text-stone-700 hover:bg-stone-300 px-4 py-2 rounded-full text-sm font-medium transition" data-filter="weakness">Schwächen & Blindheit</button>
+                    <button class="filter-btn bg-stone-200 text-stone-700 hover:bg-stone-300 px-4 py-2 rounded-full text-sm font-medium transition" data-filter="weakness">Schwächen und Blindheit</button>
                     <button class="filter-btn bg-stone-200 text-stone-700 hover:bg-stone-300 px-4 py-2 rounded-full text-sm font-medium transition" data-filter="synergy">Ergänzung</button>
                 </div>
 
@@ -571,19 +640,19 @@
             <section id="philosophie" class="tab-content max-w-4xl mx-auto">
                 <div class="mb-10">
                     <h2 class="text-3xl font-serif font-bold text-stone-900 mb-4">5. Philosophische Einordnung</h2>
-                    <p class="text-stone-600 text-lg">Ist der harte Gegensatz zwischen deterministisch und nicht-deterministisch hier überhaupt zielführend? Bewegen Sie den Regler, um die Paradigmenverschiebung zu beobachten.</p>
+                    <p class="text-stone-600 text-lg">Ist der harte Gegensatz zwischen deterministisch und nicht-deterministisch hier überhaupt zielführend? Bewegen Sie den Regler, um die Verschiebung des Blicks zu verfolgen.</p>
                 </div>
 
                 <div class="bg-white p-8 rounded-xl shadow-sm border border-stone-200">
                     
                     <div class="flex justify-between text-xs font-bold text-stone-400 uppercase mb-2">
-                        <span>Strikte Dichotomie</span>
+                        <span>Strikte Trennung</span>
                         <span>Synergetisches Modell</span>
                     </div>
                     <input type="range" min="0" max="100" value="0" id="phil-slider" class="w-full h-2 bg-stone-200 rounded-lg appearance-none mb-8">
                     
                     <div id="phil-text-0" class="transition-opacity duration-300">
-                        <h3 class="text-xl font-bold text-stone-800 mb-3 border-l-4 border-red-500 pl-3">Das Irreführende Paradigma</h3>
+                        <h3 class="text-xl font-bold text-stone-800 mb-3 border-l-4 border-red-500 pl-3">Das irreführende Paradigma</h3>
                         <p class="text-stone-700 leading-relaxed">
                             Die strikte Trennung ist oft irreführend. Sie basiert auf dem tief verankerten <strong>Vertrauensmodell</strong> der Informatik: "Ich vertraue dem Code, weil ich seinen Pfad mathematisch nachvollziehen kann". NLMs greifen dieses Vertrauensmodell an, da ihr "Wissen" in kontinuierlichen Vektorräumen codiert ist. Der Vorwurf des Nicht-Determinismus ist oft nur ein Stellvertreter-Argument für den eigentlichen Schmerzpunkt: den Verlust der mechanistischen Erklärbarkeit (Explainability).
                         </p>
