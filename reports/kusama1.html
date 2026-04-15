@@ -1,0 +1,747 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Narcissus Garden & Die Selfie-Kultur</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <style>
+        :root {
+            --forest-deep: #1f2a22;
+            --forest: #2f4334;
+            --moss: #556b56;
+            --fern: #70866a;
+            --bark: #5b4738;
+            --stone: #7b746a;
+            --paper: #f3eee3;
+            --paper-soft: #ebe4d6;
+            --gold-muted: #b99657;
+            --lantern: #d6b77a;
+            --shadow-deep: rgba(21, 28, 22, 0.34);
+            --shadow-soft: rgba(38, 48, 39, 0.12);
+            --line-soft: rgba(74, 87, 72, 0.18);
+        }
+
+        * {
+            box-sizing: border-box;
+        }
+
+        html {
+            scroll-behavior: smooth;
+        }
+
+        body {
+            min-height: 100vh;
+            color: #2d312d;
+            font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+            background:
+                radial-gradient(circle at top left, rgba(214, 183, 122, 0.10), transparent 28%),
+                radial-gradient(circle at bottom right, rgba(85, 107, 86, 0.10), transparent 30%),
+                linear-gradient(180deg, #e8e1d3 0%, #f1ebdf 18%, #ede6d9 58%, #e7dfd1 100%);
+            background-attachment: fixed;
+            position: relative;
+        }
+
+        body::before {
+            content: "";
+            position: fixed;
+            inset: 0;
+            pointer-events: none;
+            opacity: 0.28;
+            background-image:
+                linear-gradient(rgba(255,255,255,0.03), rgba(255,255,255,0.03)),
+                repeating-linear-gradient(
+                    90deg,
+                    rgba(67, 84, 67, 0.025) 0px,
+                    rgba(67, 84, 67, 0.025) 1px,
+                    transparent 1px,
+                    transparent 26px
+                ),
+                repeating-linear-gradient(
+                    0deg,
+                    rgba(67, 84, 67, 0.02) 0px,
+                    rgba(67, 84, 67, 0.02) 1px,
+                    transparent 1px,
+                    transparent 24px
+                );
+            mix-blend-mode: multiply;
+        }
+
+        .chart-container {
+            position: relative;
+            width: 100%;
+            max-width: 680px;
+            margin-left: auto;
+            margin-right: auto;
+            height: 350px;
+            max-height: 420px;
+        }
+
+        @media (max-width: 768px) {
+            .chart-container {
+                height: 300px;
+            }
+        }
+
+        .nav-btn {
+            transition: all 0.24s ease-in-out;
+            position: relative;
+            overflow: hidden;
+            color: #334036;
+            background:
+                linear-gradient(180deg, rgba(255,255,255,0.82), rgba(247,242,233,0.92));
+            border: 1px solid rgba(86, 100, 83, 0.16);
+            box-shadow:
+                inset 0 1px 0 rgba(255,255,255,0.65),
+                0 8px 18px rgba(35, 44, 36, 0.05);
+            backdrop-filter: blur(2px);
+        }
+
+        .nav-btn::before {
+            content: "";
+            position: absolute;
+            inset: 0;
+            background:
+                linear-gradient(90deg, rgba(185,150,87,0.10), transparent 38%, transparent 70%, rgba(85,107,86,0.06));
+            opacity: 0;
+            transition: opacity 0.24s ease-in-out;
+        }
+
+        .nav-btn:hover {
+            transform: translateX(3px);
+            border-color: rgba(112, 134, 106, 0.35);
+            background:
+                linear-gradient(180deg, rgba(251,248,241,0.96), rgba(242,235,223,0.98));
+            box-shadow:
+                inset 0 1px 0 rgba(255,255,255,0.72),
+                0 10px 24px rgba(35, 44, 36, 0.09);
+        }
+
+        .nav-btn:hover::before {
+            opacity: 1;
+        }
+
+        .nav-btn.active {
+            background:
+                linear-gradient(135deg, rgba(58, 78, 62, 0.98), rgba(43, 58, 47, 0.98));
+            color: #f6f0e4;
+            border-color: rgba(185, 150, 87, 0.45);
+            transform: translateX(5px);
+            box-shadow:
+                inset 0 1px 0 rgba(255,255,255,0.06),
+                0 16px 28px rgba(20, 28, 21, 0.22);
+        }
+
+        .nav-btn.active::after {
+            content: "";
+            position: absolute;
+            top: 12%;
+            bottom: 12%;
+            left: 0;
+            width: 4px;
+            border-radius: 999px;
+            background: linear-gradient(180deg, var(--lantern), var(--gold-muted));
+            box-shadow: 0 0 10px rgba(214, 183, 122, 0.3);
+        }
+
+        .forest-header {
+            position: relative;
+            overflow: hidden;
+            background:
+                linear-gradient(180deg, rgba(18, 24, 20, 0.90), rgba(33, 43, 35, 0.95)),
+                radial-gradient(circle at top right, rgba(214, 183, 122, 0.15), transparent 26%),
+                radial-gradient(circle at left center, rgba(112, 134, 106, 0.16), transparent 24%);
+            border-bottom: 1px solid rgba(214, 183, 122, 0.12);
+            box-shadow: 0 18px 36px rgba(24, 29, 24, 0.18);
+        }
+
+        .forest-header::before,
+        .forest-header::after {
+            content: "";
+            position: absolute;
+            inset: 0;
+            pointer-events: none;
+        }
+
+        .forest-header::before {
+            opacity: 0.16;
+            background:
+                linear-gradient(120deg, transparent 0%, rgba(255,255,255,0.05) 24%, transparent 46%),
+                repeating-linear-gradient(
+                    90deg,
+                    rgba(255,255,255,0.03) 0px,
+                    rgba(255,255,255,0.03) 1px,
+                    transparent 1px,
+                    transparent 30px
+                );
+        }
+
+        .forest-header::after {
+            background:
+                radial-gradient(circle at 10% 18%, rgba(214, 183, 122, 0.11), transparent 12%),
+                radial-gradient(circle at 86% 28%, rgba(214, 183, 122, 0.10), transparent 10%);
+            opacity: 0.7;
+        }
+
+        .section-card {
+            background:
+                linear-gradient(180deg, rgba(251,248,242,0.98), rgba(244,238,227,0.96));
+            border: 1px solid rgba(89, 103, 86, 0.16);
+            box-shadow:
+                0 20px 40px var(--shadow-soft),
+                inset 0 1px 0 rgba(255,255,255,0.65);
+            position: relative;
+        }
+
+        .section-card::before {
+            content: "";
+            position: absolute;
+            inset: 0;
+            border-radius: 1rem;
+            pointer-events: none;
+            background:
+                linear-gradient(180deg, rgba(255,255,255,0.26), transparent 16%),
+                radial-gradient(circle at top right, rgba(214, 183, 122, 0.08), transparent 24%);
+        }
+
+        .section-card > * {
+            position: relative;
+            z-index: 1;
+        }
+
+        .panel-label {
+            letter-spacing: 0.18em;
+        }
+
+        .chart-shell {
+            background:
+                linear-gradient(180deg, rgba(236,229,216,0.92), rgba(228,220,206,0.95));
+            border: 1px solid rgba(89, 103, 86, 0.12);
+            box-shadow:
+                inset 0 1px 0 rgba(255,255,255,0.55),
+                0 10px 24px rgba(35, 44, 36, 0.06);
+        }
+
+        .prose-custom {
+            color: #495247;
+            line-height: 1.82;
+            font-size: 1.02rem;
+        }
+
+        .prose-custom p {
+            margin-bottom: 1rem;
+        }
+
+        .prose-custom strong {
+            color: #243126;
+        }
+
+        .prose-custom em {
+            color: #405143;
+        }
+
+        .prose-custom ul {
+            margin-top: 0.8rem;
+            margin-bottom: 0.8rem;
+        }
+
+        .forest-footer {
+            background:
+                linear-gradient(180deg, rgba(28, 36, 30, 0.98), rgba(20, 25, 21, 1));
+            border-top: 1px solid rgba(214, 183, 122, 0.12);
+            box-shadow: 0 -10px 30px rgba(20, 25, 21, 0.14);
+        }
+
+        .headline-glow {
+            text-shadow: 0 1px 0 rgba(255,255,255,0.03), 0 8px 24px rgba(0,0,0,0.16);
+        }
+
+        .eyebrow {
+            color: #d1b27a;
+        }
+
+        .section-title-style {
+            color: #243126;
+            letter-spacing: -0.02em;
+        }
+
+        .subtle-rule {
+            height: 1px;
+            width: 100%;
+            background: linear-gradient(90deg, transparent, rgba(111,128,106,0.35), transparent);
+        }
+
+        @media (max-width: 767px) {
+            .nav-btn.active {
+                transform: translateY(-1px);
+            }
+
+            .nav-btn:hover {
+                transform: translateY(-1px);
+            }
+        }
+    </style>
+</head>
+<body class="text-stone-800 font-sans antialiased">
+
+<!-- Chosen Palette: Walduniversität (Tannengrün, Moos, Papier, Rinde, gedämpftes Gold) -->
+<!-- Application Structure Plan: The SPA retains the existing "Digital Exhibition Dashboard" architecture. The thematic navigation remains unchanged and continues to guide users through focused analytical modules. The visual redesign reframes the interface as a calm, scholarly observation room with organic materials and restrained atmospheric depth. -->
+<!-- Visualization & Content Choices: Content: Philosophical analysis -> Goal: Conceptualize abstract ideas -> Viz/Method: Abstract Chart.js visualizations (Radar, Doughnut, Line, Bubble, Polar Area, Bar) -> Interaction: Dynamic rendering on sidebar click -> Justification: The charts remain fully intact and continue to translate theoretical relationships into visual comparison. NO SVG/Mermaid used. -->
+<!-- CONFIRMATION: NO SVG graphics used. NO Mermaid JS used. -->
+
+<div class="min-h-screen flex flex-col">
+    <header class="forest-header text-stone-100 py-14 px-4 md:px-8">
+        <div class="max-w-6xl mx-auto">
+            <p class="eyebrow font-semibold tracking-[0.22em] uppercase text-xs md:text-sm mb-3">Interaktive Forschungsanalyse</p>
+            <h1 class="text-4xl md:text-5xl lg:text-6xl font-light mb-5 headline-glow leading-tight">Von der Spiegelkugel zum unendlichen Feed</h1>
+            <div class="subtle-rule max-w-3xl mb-5"></div>
+            <p class="text-lg md:text-xl text-stone-300 max-w-3xl leading-relaxed">
+                Eine systematische Untersuchung der Parallelen zwischen Yayoi Kusamas Installation <span class="italic text-stone-100">„Narcissus Garden“ (1966)</span> und der zeitgenössischen Selfie-Kultur im Kontext der digitalen Aufmerksamkeitsökonomie.
+            </p>
+        </div>
+    </header>
+
+    <main class="flex-grow max-w-6xl mx-auto w-full p-4 md:p-8 flex flex-col md:flex-row gap-8">
+        <aside class="md:w-1/3 lg:w-1/4 flex flex-col gap-2">
+            <h2 class="text-sm font-bold text-[#5e685d] uppercase tracking-[0.18em] mb-3 px-2">Themenfelder</h2>
+
+            <button class="nav-btn active text-left px-4 py-3 rounded-xl font-medium text-sm md:text-base" data-target="verzerrung">
+                🪞 Selbstbild &amp; Verzerrung
+            </button>
+            <button class="nav-btn text-left px-4 py-3 rounded-xl font-medium text-sm md:text-base" data-target="vervielfaeltigung">
+                ♾️ Vervielfältigung
+            </button>
+            <button class="nav-btn text-left px-4 py-3 rounded-xl font-medium text-sm md:text-base" data-target="narzissmus">
+                👁️ Narzissmus &amp; Kritik
+            </button>
+            <button class="nav-btn text-left px-4 py-3 rounded-xl font-medium text-sm md:text-base" data-target="kommerzialisierung">
+                🏷️ Kommerzialisierung
+            </button>
+            <button class="nav-btn text-left px-4 py-3 rounded-xl font-medium text-sm md:text-base" data-target="kontrolle">
+                🕹️ Kontrolle &amp; Verlust
+            </button>
+            <button class="nav-btn text-left px-4 py-3 rounded-xl font-medium text-sm md:text-base" data-target="oekonomie">
+                📈 Aufmerksamkeitsökonomie
+            </button>
+            <button class="nav-btn text-left px-4 py-3 rounded-xl font-medium text-sm md:text-base" data-target="theorie">
+                📚 Medientheorie
+            </button>
+        </aside>
+
+        <section class="section-card md:w-2/3 lg:w-3/4 p-6 md:p-10 rounded-2xl flex flex-col">
+            <div id="content-container" class="flex-grow">
+                <p class="panel-label text-xs font-bold text-[#6e786b] uppercase mb-3">Lektürefeld</p>
+                <h2 id="section-title" class="section-title-style text-3xl md:text-[2rem] font-semibold mb-6">Selbstbild und Verzerrung</h2>
+                <div id="section-text" class="prose-custom max-w-none space-y-4 mb-8">
+                    <p>
+                        In <strong>Narcissus Garden</strong> erzeugen Hunderte verspiegelter Kugeln eine optische Fragmentierung. Das Selbst wird nicht als kohärentes Ganzes zurückgeworfen, sondern multipliziert, gekrümmt und in die Umgebung eingepasst. Die konvexe Form der Kugel erzwingt eine physische Verzerrung der Wahrnehmung.
+                    </p>
+                    <p>
+                        Diese mechanische Verzerrung lässt sich direkt mit der kuratierten Selbstdarstellung der heutigen Selfie-Kultur vergleichen. Auch hier wird das Selbstbild durch „digitale konvexe Spiegel“ – Filter, Bearbeitungs-Apps, Kamerawinkel und algorithmische Schönheitsideale – modifiziert. Das Resultat ist in beiden Fällen ein konstruiertes, fragmentiertes Ego, das sich von der physischen Realität entkoppelt hat. Das untenstehende konzeptionelle Netzdiagramm visualisiert die Diskrepanz zwischen wahrgenommenen Eigenschaften in der Realität gegenüber der durch das Medium (Kugel/Filter) verzerrten Darstellung.
+                    </p>
+                </div>
+            </div>
+
+            <div class="chart-shell rounded-2xl p-4 md:p-5 mt-auto">
+                <h3 class="panel-label text-xs font-bold text-[#6a7367] uppercase text-center mb-4">Konzeptionelle Visualisierung</h3>
+                <div class="chart-container">
+                    <canvas id="analysisChart"></canvas>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer class="forest-footer text-stone-400 py-12 text-center text-sm mt-12 px-4">
+        <div class="max-w-3xl mx-auto space-y-4">
+            <p class="text-stone-200"><strong>Entwurf für Blogpost / Ausstellung:</strong></p>
+            <p class="italic text-stone-300 leading-relaxed">
+                „Stellen Sie sich einen Holztisch im Wald vor. Darauf verstreut: glänzende Spiegelkugeln, die das Blätterdach reflektieren. Daneben liegt ein Smartphone im Gras. Es vibriert leise, der Bildschirm leuchtet auf. Eine neue Benachrichtigung. Ein Like. Die Grenze zwischen Kusamas physischem Garten und unserem digitalen Garten verschwimmt.“
+            </p>
+            <p class="pt-4 border-t border-[rgba(214,183,122,0.14)] text-stone-400">Analytisches Dashboard auf Grundlage strukturierter medientheoretischer Recherche.</p>
+        </div>
+    </footer>
+</div>
+
+<script>
+    const contentData = {
+        "verzerrung": {
+            title: "Selbstbild und Verzerrung",
+            text: `
+                <p>In <strong>Narcissus Garden</strong> erzeugen Hunderte verspiegelter Kugeln eine optische Fragmentierung. Das Selbst wird nicht als kohärentes Ganzes zurückgeworfen, sondern multipliziert, gekrümmt und in die Umgebung eingepasst. Die konvexe Form der Kugel erzwingt eine physische Verzerrung der Wahrnehmung.</p>
+                <p>Diese mechanische Verzerrung lässt sich direkt mit der kuratierten Selbstdarstellung der heutigen Selfie-Kultur vergleichen. Auch hier wird das Selbstbild durch „digitale konvexe Spiegel“ – Filter, Bearbeitungs-Apps, Kamerawinkel und algorithmische Schönheitsideale – modifiziert. Das Resultat ist in beiden Fällen ein konstruiertes, fragmentiertes Ego, das sich von der physischen Realität entkoppelt hat. Das untenstehende konzeptionelle Netzdiagramm visualisiert die Diskrepanz zwischen Eigenschaften in der Realität gegenüber der durch das Medium (Kugel/Filter) verzerrten Darstellung.</p>
+            `,
+            config: {
+                type: 'radar',
+                data: {
+                    labels: ['Authentizität', 'Ästhetisierung', 'Kontrolle', 'Fragmentierung', 'Sichtbarkeit'],
+                    datasets: [{
+                        label: 'Physisches Selbst',
+                        data: [90, 20, 50, 10, 30],
+                        fill: true,
+                        backgroundColor: 'rgba(85, 107, 86, 0.16)',
+                        borderColor: 'rgb(85, 107, 86)',
+                        pointBackgroundColor: 'rgb(85, 107, 86)',
+                        pointBorderColor: '#f3eee3',
+                        pointHoverBackgroundColor: '#f3eee3',
+                        pointHoverBorderColor: 'rgb(85, 107, 86)'
+                    }, {
+                        label: 'Mediales Selbst (Kugel/Selfie)',
+                        data: [30, 95, 80, 85, 90],
+                        fill: true,
+                        backgroundColor: 'rgba(185, 150, 87, 0.18)',
+                        borderColor: 'rgb(185, 150, 87)',
+                        pointBackgroundColor: 'rgb(185, 150, 87)',
+                        pointBorderColor: '#f3eee3',
+                        pointHoverBackgroundColor: '#f3eee3',
+                        pointHoverBorderColor: 'rgb(185, 150, 87)'
+                    }]
+                },
+                options: {
+                    maintainAspectRatio: false,
+                    scales: {
+                        r: {
+                            angleLines: { color: 'rgba(71, 82, 69, 0.12)' },
+                            grid: { color: 'rgba(71, 82, 69, 0.12)' },
+                            pointLabels: { color: '#435043', font: { size: 12 } },
+                            ticks: { display: false, backdropColor: 'transparent' }
+                        }
+                    },
+                    plugins: {
+                        legend: {
+                            position: 'bottom',
+                            labels: {
+                                color: '#445045',
+                                boxWidth: 14
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "vervielfaeltigung": {
+            title: "Vervielfältigung und Entindividualisierung",
+            text: `
+                <p>Die serielle Wiederholung der 1.500 Spiegelkugeln in Kusamas Originalinstallation eliminiert die Einzigartigkeit des einzelnen Objekts. Der Betrachter blickt in ein endloses Meer aus Reflexionen, in dem das eigene Spiegelbild zu einem repetitiven Muster im Raster der Kugeln wird.</p>
+                <p>Dies spiegelt die Architektur des modernen Social-Media-Feeds wider. Ein einzelnes Selfie mag als Ausdruck purer Individualität intendiert sein. In der seriellen Aneinanderreihung des unendlichen Scrollens – dem „Infinite Feed“ – wird diese Individualität jedoch nivelliert. Das Individuum wird, ähnlich wie in Kusamas Installation, dekonstruiert und als standardisierter Datenpunkt in ein algorithmisches System integriert. Das Blasendiagramm veranschaulicht, wie die Zunahme der Masse (Feed/Kugeln) die wahrgenommene Individualität des Einzelnen verdrängt.</p>
+            `,
+            config: {
+                type: 'bubble',
+                data: {
+                    datasets: [{
+                        label: 'Einzelnes Selfie / Spiegelung',
+                        data: Array.from({ length: 40 }, () => ({
+                            x: Math.random() * 100,
+                            y: Math.random() * 100,
+                            r: Math.random() * 15 + 5
+                        })),
+                        backgroundColor: 'rgba(185, 150, 87, 0.38)',
+                        borderColor: 'rgb(185, 150, 87)',
+                        borderWidth: 1.1
+                    }]
+                },
+                options: {
+                    maintainAspectRatio: false,
+                    scales: {
+                        x: {
+                            title: { display: true, text: 'Masse / Quantität im System', color: '#475446' },
+                            grid: { display: false },
+                            ticks: { color: '#596458' }
+                        },
+                        y: {
+                            title: { display: true, text: 'Wahrgenommene Individualität', color: '#475446' },
+                            grid: { display: false },
+                            ticks: { color: '#596458' }
+                        }
+                    },
+                    plugins: {
+                        legend: { display: false },
+                        tooltip: { enabled: false }
+                    }
+                }
+            }
+        },
+        "narzissmus": {
+            title: "Narzissmus und seine Kritik",
+            text: `
+                <p>Der Titel „Narcissus Garden“ verweist explizit auf den antiken Mythos der tödlichen Selbstverliebtheit. Begleitet wurde die Installation von Schildern mit der Aufschrift <em>„Your Narcissism for Sale“</em>. Kusama hielt der Kunstwelt – und den Betrachtern – sprichwörtlich und im übertragenen Sinn den Spiegel vor.</p>
+                <p>Ihre Kritik greift Mechanismen vorweg, die heute digital omnipräsent sind. Der heutige digitale Narzissmus ist nicht nur ein psychologisches Phänomen, sondern eine infrastrukturelle Anforderung von Plattformen. Wir werden ermutigt, uns in die eigene Reflexion zu verlieben, um Daten und Engagement zu generieren. Die Konzeptgrafik zeigt die hypothetische Entwicklung von der bloßen Selbstbetrachtung (Spiegel) hin zur systemischen Verstärkung durch digitale Validierungs-Metriken (Likes, Shares).</p>
+            `,
+            config: {
+                type: 'bar',
+                data: {
+                    labels: ['1966 (Spiegelkugel)', '2005 (Web 2.0)', '2015 (Instagram-Ära)', 'Heute (Algo-Feeds)'],
+                    datasets: [{
+                        label: 'Intensität der narzisstischen Feedback-Schleife',
+                        data: [15, 40, 85, 100],
+                        backgroundColor: [
+                            'rgba(112, 134, 106, 0.58)',
+                            'rgba(159, 171, 150, 0.72)',
+                            'rgba(214, 183, 122, 0.78)',
+                            'rgba(144, 109, 52, 0.84)'
+                        ],
+                        borderRadius: 6
+                    }]
+                },
+                options: {
+                    maintainAspectRatio: false,
+                    scales: {
+                        y: { beginAtZero: true, display: false },
+                        x: {
+                            grid: { display: false },
+                            ticks: { color: '#4a554a' }
+                        }
+                    },
+                    plugins: {
+                        legend: { display: false }
+                    }
+                }
+            }
+        },
+        "kommerzialisierung": {
+            title: "Kommerzialisierung des Selbst",
+            text: `
+                <p>Auf der Biennale in Venedig 1966 verkaufte Kusama die einzelnen Spiegelkugeln unautorisiert für 1200 Lire (ca. 2 US-Dollar) an Passanten. Sie machte die Kunst, die Eitelkeit des Käufers und letztlich sich selbst zu einer greifbaren, billigen Ware im Rahmen eines elitären Kunstevents.</p>
+                <p>Diese performative Kommerzialisierung der Reflexion ist der Prototyp der heutigen Influencer-Ökonomie. Likes, Follower und Views sind die Währung, für die das Selbstbild heute gehandelt wird. Die Plattformlogik monetarisiert unsere Eitelkeit. Wir sind gleichzeitig Konsumenten unseres Bildes und das Produkt, das an Werbetreibende verkauft wird. Das Diagramm vergleicht den einmaligen Transaktionswert von Kusamas Kugel mit dem exponentiellen Wertschöpfungsmodell der digitalen Selbstvermarktung.</p>
+            `,
+            config: {
+                type: 'line',
+                data: {
+                    labels: ['Interaktion 1', 'Interaktion 10', 'Interaktion 100', 'Interaktion 1000', 'Skalierung'],
+                    datasets: [{
+                        label: 'Physischer Verkauf (Kugel, 1966)',
+                        data: [2, 2, 2, 2, 2],
+                        borderColor: 'rgb(95, 107, 92)',
+                        borderDash: [5, 5],
+                        tension: 0,
+                        pointBackgroundColor: 'rgb(95, 107, 92)',
+                        pointRadius: 3
+                    }, {
+                        label: 'Digitaler Wert (Influencer-Metriken, Heute)',
+                        data: [0.1, 1, 15, 60, 100],
+                        borderColor: 'rgb(185, 150, 87)',
+                        backgroundColor: 'rgba(185, 150, 87, 0.16)',
+                        fill: true,
+                        tension: 0.4,
+                        pointBackgroundColor: 'rgb(185, 150, 87)',
+                        pointRadius: 3
+                    }]
+                },
+                options: {
+                    maintainAspectRatio: false,
+                    scales: {
+                        y: {
+                            title: { display: true, text: 'Abstrakter monetärer Wert', color: '#475446' },
+                            ticks: { color: '#5a6558' },
+                            grid: { color: 'rgba(71, 82, 69, 0.10)' }
+                        },
+                        x: {
+                            ticks: { color: '#5a6558' },
+                            grid: { color: 'rgba(71, 82, 69, 0.06)' }
+                        }
+                    },
+                    plugins: {
+                        legend: {
+                            position: 'bottom',
+                            labels: { color: '#445045' }
+                        }
+                    }
+                }
+            }
+        },
+        "kontrolle": {
+            title: "Kontrolle vs. Kontrollverlust",
+            text: `
+                <p>Selfies suggerieren maximale Autonomie: Wir wählen den Winkel, den Filter, den Moment der Veröffentlichung. Es ist ein scheinbar souveräner Akt der Bildkontrolle.</p>
+                <p>Kusamas Installation bildet den genauen Gegenpol: Wer den „Narcissus Garden“ betritt, verliert die Kontrolle über sein Abbild. Man wird ungefragt von dutzenden Kugeln gleichzeitig reflektiert, zerschnitten und verzerrt. Interessanterweise ist die Souveränität beim Selfie oft ebenso eine Illusion. Sobald das Bild hochgeladen ist, unterliegt es den unkontrollierbaren Mechanismen der Plattformen (Komprimierung, Algorithmische Sortierung, Aneignung durch Dritte). Das Doughnut-Diagramm kontrastiert das subjektive Gefühl der Kontrolle mit der realen Bestimmungsmacht der digitalen Infrastruktur.</p>
+            `,
+            config: {
+                type: 'doughnut',
+                data: {
+                    labels: ['Subjektive Illusion der Kontrolle', 'Algorithmische Steuerung', 'Plattform-Regularien', 'Sozialer Druck'],
+                    datasets: [{
+                        data: [25, 45, 15, 15],
+                        backgroundColor: [
+                            'rgba(185, 150, 87, 0.88)',
+                            'rgba(47, 67, 52, 0.90)',
+                            'rgba(95, 107, 92, 0.84)',
+                            'rgba(153, 160, 147, 0.88)'
+                        ],
+                        borderWidth: 0
+                    }]
+                },
+                options: {
+                    maintainAspectRatio: false,
+                    cutout: '70%',
+                    plugins: {
+                        legend: {
+                            position: 'right',
+                            labels: {
+                                color: '#445045',
+                                boxWidth: 14
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "oekonomie": {
+            title: "Aufmerksamkeitsökonomie",
+            text: `
+                <p>Liest man <em>Narcissus Garden</em> im Kontext der Theorien von Herbert A. Simon (Information verzehrt Aufmerksamkeit) oder Shoshana Zuboff (Überwachungskapitalismus), wird die Arbeit zu einer radikalen Kritik an der Ökonomisierung von Sichtbarkeit.</p>
+                <p>Kusama verlangte Bezahlung für die Reflexion. Heute bezahlen wir mit unseren Daten und unserer kognitiven Kapazität. Die spiegelnden Kugeln fangen den Blick und lassen ihn nicht los – ein physischer Vorläufer der „Engagement-Optimierung“ moderner Interfaces. Das Flächendiagramm illustriert das Grundproblem der Aufmerksamkeitsökonomie: Während das Volumen an Reizen (Content/Kugeln) exponentiell steigt, bleibt die menschliche Ressource Aufmerksamkeit streng limitiert.</p>
+            `,
+            config: {
+                type: 'line',
+                data: {
+                    labels: ['Zeitpunkt T1', 'Zeitpunkt T2', 'Zeitpunkt T3', 'Zeitpunkt T4', 'Zeitpunkt T5'],
+                    datasets: [{
+                        label: 'Verfügbare menschliche Aufmerksamkeit',
+                        data: [100, 95, 90, 85, 80],
+                        borderColor: 'rgb(95, 107, 92)',
+                        backgroundColor: 'rgba(95, 107, 92, 0.06)',
+                        tension: 0.3,
+                        pointBackgroundColor: 'rgb(95, 107, 92)',
+                        pointRadius: 3
+                    }, {
+                        label: 'Volumen an visuellen Reizen (Content)',
+                        data: [20, 40, 80, 150, 250],
+                        borderColor: 'rgb(185, 150, 87)',
+                        backgroundColor: 'rgba(185, 150, 87, 0.18)',
+                        fill: true,
+                        tension: 0.4,
+                        pointBackgroundColor: 'rgb(185, 150, 87)',
+                        pointRadius: 3
+                    }]
+                },
+                options: {
+                    maintainAspectRatio: false,
+                    scales: {
+                        y: {
+                            display: false,
+                            grid: { color: 'rgba(71, 82, 69, 0.08)' }
+                        },
+                        x: {
+                            ticks: { color: '#596458' },
+                            grid: { color: 'rgba(71, 82, 69, 0.05)' }
+                        }
+                    },
+                    plugins: {
+                        legend: {
+                            position: 'bottom',
+                            labels: { color: '#445045' }
+                        }
+                    }
+                }
+            }
+        },
+        "theorie": {
+            title: "Medientheoretische Perspektiven",
+            text: `
+                <p>Abschließend lässt sich „Narcissus Garden“ als prä-digitales Interface lesen, das Kerngedanken zentraler Medientheoretiker vorwegnimmt oder physisch erfahrbar macht.</p>
+                <ul class="list-disc pl-5 mt-2 space-y-2">
+                    <li><strong>Jean Baudrillard (Simulation):</strong> Das Selfie als Simulakrum. Es verweist auf kein Original mehr, sondern generiert eine eigene hyperreale Wahrheit. Kusamas Kugeln simulieren den Raum, bis die Realität dahinter verschwindet.</li>
+                    <li><strong>Guy Debord (Spektakel):</strong> „Your Narcissism for Sale“ ist die Essenz der Spektakel-Gesellschaft, in der alles Erlebte in Repräsentation übergeht.</li>
+                    <li><strong>Marshall McLuhan (Erweiterung):</strong> Der konvexe Spiegel und das Smartphone sind gleichermaßen Prothesen (Extensions) des Auges und des Egos, die unsere Wahrnehmung der Welt massiv umstrukturieren.</li>
+                </ul>
+                <p class="mt-4">Das Polardiagramm ordnet diese Theorien den verschiedenen Aspekten der Kusama-Selfie-Analogie zu.</p>
+            `,
+            config: {
+                type: 'polarArea',
+                data: {
+                    labels: ['Simulation (Baudrillard)', 'Spektakel (Debord)', 'Extension (McLuhan)', 'Überwachung (Zuboff)'],
+                    datasets: [{
+                        data: [90, 85, 75, 60],
+                        backgroundColor: [
+                            'rgba(185, 150, 87, 0.74)',
+                            'rgba(207, 175, 111, 0.74)',
+                            'rgba(131, 150, 123, 0.70)',
+                            'rgba(95, 107, 92, 0.70)'
+                        ],
+                        borderWidth: 1,
+                        borderColor: 'rgba(255,255,255,0.88)'
+                    }]
+                },
+                options: {
+                    maintainAspectRatio: false,
+                    plugins: {
+                        legend: {
+                            position: 'right',
+                            labels: { color: '#445045', boxWidth: 14 }
+                        }
+                    },
+                    scales: {
+                        r: {
+                            display: false
+                        }
+                    }
+                }
+            }
+        }
+    };
+
+    let currentChart = null;
+
+    const globalChartDefaults = {
+        color: '#465245',
+        font: {
+            family: 'Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif'
+        },
+        plugins: {
+            legend: {
+                labels: {
+                    color: '#465245'
+                }
+            },
+            tooltip: {
+                backgroundColor: 'rgba(34, 44, 36, 0.94)',
+                titleColor: '#f3eee3',
+                bodyColor: '#f3eee3',
+                borderColor: 'rgba(185, 150, 87, 0.35)',
+                borderWidth: 1,
+                padding: 10
+            }
+        }
+    };
+
+    Chart.defaults.color = globalChartDefaults.color;
+    Chart.defaults.font.family = globalChartDefaults.font.family;
+    Chart.defaults.plugins.legend.labels.color = globalChartDefaults.plugins.legend.labels.color;
+    Chart.defaults.plugins.tooltip.backgroundColor = globalChartDefaults.plugins.tooltip.backgroundColor;
+    Chart.defaults.plugins.tooltip.titleColor = globalChartDefaults.plugins.tooltip.titleColor;
+    Chart.defaults.plugins.tooltip.bodyColor = globalChartDefaults.plugins.tooltip.bodyColor;
+    Chart.defaults.plugins.tooltip.borderColor = globalChartDefaults.plugins.tooltip.borderColor;
+    Chart.defaults.plugins.tooltip.borderWidth = globalChartDefaults.plugins.tooltip.borderWidth;
+    Chart.defaults.plugins.tooltip.padding = globalChartDefaults.plugins.tooltip.padding;
+
+    function renderContent(targetId) {
+        const data = contentData[targetId];
+        if (!data) return;
+
+        document.getElementById('section-title').textContent = data.title;
+        document.getElementById('section-text').innerHTML = data.text;
+
+        if (currentChart) {
+            currentChart.destroy();
+        }
+
+        const ctx = document.getElementById('analysisChart').getContext('2d');
+        currentChart = new Chart(ctx, data.config);
+    }
+
+    document.querySelectorAll('.nav-btn').forEach(btn => {
+        btn.addEventListener('click', (e) => {
+            document.querySelectorAll('.nav-btn').forEach(b => b.classList.remove('active', 'bg-orange-500', 'text-white', 'border-orange-600'));
+
+            e.currentTarget.classList.add('active');
+
+            const target = e.currentTarget.getAttribute('data-target');
+            renderContent(target);
+        });
+    });
+
+    // Initialize first view
+    renderContent('verzerrung');
+</script>
+</body>
+</html>
