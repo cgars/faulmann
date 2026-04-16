@@ -1,0 +1,966 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NLMs & Determinismus in der Codeanalyse</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    colors: {
+                        stone: {
+                            50: '#fafaf9',
+                            100: '#f5f5f4',
+                            200: '#e7e5e4',
+                            800: '#292524',
+                            900: '#1c1917',
+                        },
+                        teal: {
+                            600: '#0d9488',
+                            700: '#0f766e',
+                        },
+                        amber: {
+                            100: '#fef3c7',
+                            700: '#b45309',
+                        }
+                    },
+                    fontFamily: {
+                        sans: ['Inter', 'system-ui', 'sans-serif'],
+                        serif: ['Merriweather', 'serif'],
+                    }
+                }
+            }
+        }
+    </script>
+    <style>
+        body {
+            background-color: #fafaf9;
+            color: #292524;
+        }
+        .chart-container {
+            position: relative;
+            width: 100%;
+            max-width: 700px;
+            margin-left: auto;
+            margin-right: auto;
+            height: 40vh;
+            max-height: 450px;
+            min-height: 300px;
+        }
+        .hide-scroll::-webkit-scrollbar {
+            display: none;
+        }
+        .hide-scroll {
+            -ms-overflow-style: none;
+            scrollbar-width: none;
+        }
+        .tab-content {
+            display: none;
+            animation: fadeIn 0.4s ease-in-out;
+        }
+        .tab-content.active {
+            display: block;
+        }
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(10px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+        input[type=range]::-webkit-slider-thumb {
+            appearance: none;
+            width: 20px;
+            height: 20px;
+            border-radius: 50%;
+            background: #0f766e;
+            cursor: pointer;
+        }
+    </style>
+
+    <style id="walduniversitaet-theme">
+        :root{
+            --wald-dunkel:#14281d;
+            --wald-tief:#1d3a2a;
+            --wald-moos:#2f5d3b;
+            --wald-salbei:#6f8f72;
+            --wald-nebel:#eef3ea;
+            --wald-rinde:#6d4c35;
+            --wald-gold:#c79b4b;
+            --wald-papier:#f6f3ea;
+            --wald-kupfer:#a8683c;
+            --schatten:0 10px 30px rgba(20,40,29,.12);
+            --schatten-tief:0 18px 50px rgba(20,40,29,.18);
+        }
+
+        html, body {
+            background:
+                radial-gradient(circle at top left, rgba(199,155,75,.10), transparent 26%),
+                radial-gradient(circle at top right, rgba(47,93,59,.10), transparent 24%),
+                linear-gradient(180deg, #edf3ea 0%, #f6f3ea 30%, #f4efe4 100%);
+            color:#233126;
+        }
+
+        body::before{
+            content:"";
+            position:fixed;
+            inset:0;
+            pointer-events:none;
+            background:
+                linear-gradient(90deg, rgba(255,255,255,.05) 50%, transparent 50%),
+                linear-gradient(rgba(255,255,255,.04) 50%, transparent 50%);
+            background-size: 3px 3px, 3px 3px;
+            opacity:.08;
+            mix-blend-mode:multiply;
+        }
+
+        body::after{
+            content:"";
+            position:fixed;
+            inset:0;
+            pointer-events:none;
+            background:
+                radial-gradient(circle at 20% 8%, rgba(255,255,255,.55), transparent 18%),
+                radial-gradient(circle at 80% 0%, rgba(199,155,75,.10), transparent 18%);
+            opacity:.55;
+        }
+
+        .font-serif{
+            letter-spacing:.01em;
+        }
+
+        header{
+            background:
+                linear-gradient(135deg, rgba(20,40,29,.97), rgba(34,63,45,.97)),
+                repeating-linear-gradient(90deg, rgba(255,255,255,.02) 0, rgba(255,255,255,.02) 1px, transparent 1px, transparent 9px) !important;
+            border-bottom:1px solid rgba(199,155,75,.22);
+            box-shadow:0 8px 30px rgba(20,40,29,.24);
+            position:relative;
+        }
+
+        header::after{
+            content:"";
+            position:absolute;
+            left:0; right:0; bottom:0;
+            height:2px;
+            background:linear-gradient(90deg, transparent, rgba(199,155,75,.55), transparent);
+        }
+
+        nav{
+            background:
+                linear-gradient(180deg, rgba(243,239,226,.88), rgba(238,243,234,.94)) !important;
+            backdrop-filter: blur(10px);
+            border-right:1px solid rgba(111,143,114,.25) !important;
+            box-shadow: inset -1px 0 0 rgba(255,255,255,.45);
+        }
+
+        main{
+            background:
+                radial-gradient(circle at 85% 12%, rgba(111,143,114,.08), transparent 18%),
+                radial-gradient(circle at 12% 80%, rgba(199,155,75,.08), transparent 18%),
+                transparent !important;
+        }
+
+        .nav-btn{
+            border:1px solid transparent;
+            border-radius:16px !important;
+            transition:all .25s ease;
+            color:#314536 !important;
+        }
+
+        .nav-btn:hover{
+            background:rgba(47,93,59,.08) !important;
+            border-color:rgba(111,143,114,.22);
+            transform:translateX(2px);
+        }
+
+        .nav-btn.bg-teal-50{
+            background:
+                linear-gradient(135deg, rgba(47,93,59,.14), rgba(199,155,75,.12)) !important;
+            color:#1d3a2a !important;
+            border-color:rgba(47,93,59,.26);
+            box-shadow:0 6px 20px rgba(47,93,59,.10);
+        }
+
+        .tab-content > h2,
+        section h2{
+            color:#173322 !important;
+        }
+
+        .bg-white,
+        .chart-container,
+        .grid.grid-cols-1.md\:grid-cols-2.gap-0,
+        .bg-stone-800,
+        .bg-stone-100,
+        .bg-teal-50,
+        .bg-amber-50{
+            border-radius:22px !important;
+        }
+
+        .bg-white,
+        .chart-container,
+        .bg-stone-100,
+        .bg-teal-50,
+        .bg-amber-50,
+        .bg-stone-800{
+            box-shadow:var(--schatten);
+            border-color:rgba(111,143,114,.20) !important;
+        }
+
+        .bg-white{
+            background:
+                linear-gradient(180deg, rgba(255,255,255,.94), rgba(248,245,237,.96)) !important;
+        }
+
+        .bg-stone-100{
+            background:
+                linear-gradient(180deg, rgba(239,241,232,.92), rgba(230,238,228,.92)) !important;
+        }
+
+        .bg-teal-50{
+            background:
+                linear-gradient(180deg, rgba(228,239,228,.92), rgba(237,244,233,.96)) !important;
+        }
+
+        .bg-amber-50{
+            background:
+                linear-gradient(180deg, rgba(246,235,212,.94), rgba(250,241,225,.96)) !important;
+        }
+
+        .bg-stone-800{
+            background:
+                linear-gradient(135deg, rgba(34,46,35,.97), rgba(48,58,44,.96)) !important;
+            border:1px solid rgba(199,155,75,.20) !important;
+            box-shadow:var(--schatten-tief);
+        }
+
+        .shadow-sm, .shadow-md, .shadow-inner{
+            box-shadow:var(--schatten) !important;
+        }
+
+        .border-stone-200, .border-stone-100, .border-amber-200, .border-teal-200{
+            border-color:rgba(111,143,114,.22) !important;
+        }
+
+        .prose{
+            color:#2b3a2e !important;
+        }
+
+        .prose strong{
+            color:#173322 !important;
+        }
+
+        .grenze-btn{
+            background:linear-gradient(180deg, rgba(255,255,255,.86), rgba(246,243,234,.92));
+            border-radius:18px !important;
+            border-color:rgba(111,143,114,.18) !important;
+            box-shadow:var(--schatten);
+        }
+
+        .grenze-btn:hover{
+            border-color:rgba(199,155,75,.48) !important;
+            background:linear-gradient(180deg, rgba(250,241,225,.96), rgba(245,235,214,.96)) !important;
+            transform:translateY(-1px);
+        }
+
+        .grenze-btn.bg-amber-50{
+            background:linear-gradient(180deg, rgba(250,241,225,.98), rgba(244,234,210,.98)) !important;
+            border-color:rgba(199,155,75,.52) !important;
+        }
+
+        .filter-btn{
+            border-radius:999px !important;
+            border:1px solid rgba(111,143,114,.18);
+        }
+
+        .filter-btn.bg-stone-800{
+            background:linear-gradient(135deg, #284531, #1d3a2a) !important;
+        }
+
+        .matrix-item, #grenze-detail > div, #content-erwartung, #content-realitaet{
+            border-radius:18px !important;
+        }
+
+        .matrix-item{
+            background:rgba(255,255,255,.82) !important;
+            border:1px solid rgba(111,143,114,.14);
+        }
+
+        .chart-container{
+            background:
+                linear-gradient(180deg, rgba(255,255,255,.92), rgba(246,243,234,.96)) !important;
+        }
+
+        canvas{
+            filter:saturate(.92);
+        }
+
+        input[type=range]{
+            accent-color:#2f5d3b;
+        }
+
+        input[type=range]::-webkit-slider-thumb{
+            background: radial-gradient(circle at 30% 30%, #f6f3ea, #2f5d3b 70%) !important;
+            border:2px solid #f6f3ea;
+            box-shadow:0 4px 12px rgba(20,40,29,.24);
+        }
+        input[type=range]::-moz-range-thumb{
+            background:#2f5d3b !important;
+            border:2px solid #f6f3ea;
+            box-shadow:0 4px 12px rgba(20,40,29,.24);
+        }
+
+        .text-teal-700, .text-teal-800, .text-teal-900{
+            color:#21452d !important;
+        }
+
+        .text-amber-800, .text-amber-700{
+            color:#8b5a24 !important;
+        }
+
+        .border-teal-500{ border-color:#486f50 !important; }
+        .border-blue-500{ border-color:#7b5a3a !important; }
+        .border-green-500{ border-color:#5d805f !important; }
+        .border-red-500{ border-color:#9b5f48 !important; }
+        .border-l-4{ border-left-width:5px !important; }
+
+        .text-stone-900{ color:#173322 !important; }
+        .text-stone-800{ color:#263729 !important; }
+        .text-stone-700{ color:#415245 !important; }
+        .text-stone-600{ color:#5a6a5f !important; }
+        .text-stone-500{ color:#76857a !important; }
+        .text-stone-400{ color:#8b9484 !important; }
+        .text-stone-50{ color:#f7f4ea !important; }
+
+        
+
+        header h1::before{
+            content:"✦ ";
+            color:rgba(199,155,75,.92);
+        }
+
+        section h2{
+            position:relative;
+            padding-bottom:.35rem;
+        }
+
+        section h2::after{
+            content:"";
+            display:block;
+            width:84px;
+            height:2px;
+            margin-top:.7rem;
+            background:linear-gradient(90deg, rgba(47,93,59,.85), rgba(199,155,75,.55), transparent);
+            border-radius:999px;
+        }
+
+        .prose p, .text-lg, p{
+            hanging-punctuation:first;
+        }
+
+        .bg-white p:first-child::first-letter,
+        .prose p:first-child::first-letter{
+            font-size:1.08em;
+        }
+
+        .tab-content.active{
+            animation:fadeIn .45s ease-in-out;
+        }
+
+        .chart-container,
+        .bg-white,
+        .bg-stone-100,
+        .bg-teal-50,
+        .bg-amber-50,
+        .bg-stone-800{
+            position:relative;
+            overflow:hidden;
+        }
+
+        .chart-container::before,
+        .bg-white::before,
+        .bg-stone-100::before,
+        .bg-teal-50::before,
+        .bg-amber-50::before,
+        .bg-stone-800::before{
+            content:"";
+            position:absolute;
+            inset:0;
+            pointer-events:none;
+            background:linear-gradient(180deg, rgba(255,255,255,.14), transparent 30%);
+            opacity:.7;
+        }
+
+        .bg-stone-800::after{
+            content:"";
+            position:absolute;
+            inset:auto 1.2rem 1rem auto;
+            width:72px;
+            height:72px;
+            border-radius:50%;
+            background:radial-gradient(circle, rgba(199,155,75,.12), transparent 68%);
+            pointer-events:none;
+        }
+@media (min-width: 768px){
+            nav{
+                position:relative;
+            }
+            nav::after{
+                content:"Walduniversität";
+                position:sticky;
+                bottom:0;
+                display:block;
+                margin-top:1rem;
+                padding:.85rem 1rem;
+                border-radius:16px;
+                background:linear-gradient(135deg, rgba(47,93,59,.10), rgba(199,155,75,.10));
+                color:#48604b;
+                font-size:.82rem;
+                letter-spacing:.08em;
+                text-transform:uppercase;
+                border:1px solid rgba(111,143,114,.18);
+            }
+        }
+    </style>
+
+</head>
+<body class="font-sans antialiased flex flex-col h-screen overflow-hidden">
+
+    <!-- Chosen Palette: Warm Neutrals (Stone/Sand) with Subtle Teal and Amber Accents -->
+    <!-- Application Structure Plan: The application uses a dashboard-style layout with a persistent sidebar navigation (bottom bar on mobile). This structure was chosen because the source report explores 5 distinct but interrelated philosophical and technical dimensions. A linear scroll would dilute the comparative nature of the analysis. By sectioning the content into focus areas, users can selectively explore concepts, interact with specific arguments (e.g., expectation vs. reality toggles, paradigm comparison matrices), and view visualizations without losing context. -->
+    <!-- Visualization & Content Choices: 
+         1. Expectation vs Reality -> Goal: Contrast -> Text Toggle -> Highlights cognitive dissonance in classical devs using NLMs.
+         2. Classic Determinism -> Goal: Inform/Deconstruct -> Interactive List -> Breaks down the myth of perfect determinism in traditional code.
+         3. Bug Finding -> Goal: Compare -> Radar Chart (Chart.js) -> Visualizes how NLMs explore solution spaces differently than static/dynamic analysis.
+         4. Paradigms -> Goal: Organize/Compare -> Interactive Matrix -> Allows filtering strengths/weaknesses of both systems side-by-side.
+         5. Philosophy -> Goal: Synthesize -> Interactive Slider -> Demonstrates the spectrum between strict dichotomy and complementary trust models.
+         - Confirming NO SVG/Mermaid. Used HTML/Tailwind, standard Unicode icons, and Chart.js. -->
+    <!-- CONFIRMATION: NO SVG graphics used. NO Mermaid JS used. -->
+
+    <header class="bg-stone-900 text-stone-50 py-4 px-6 shadow-md z-10 flex-shrink-0">
+        <div class="max-w-7xl mx-auto flex justify-between items-center">
+            <h1 class="text-xl md:text-2xl font-serif font-bold tracking-tight">🧠 NLM und Determinismus</h1>
+            <span class="text-sm text-stone-400 hidden md:block">Eine interaktive Waldlektüre zwischen Code, Regelwerk und Erkenntnis</span>
+        </div>
+    </header>
+
+    <div class="flex-1 flex flex-col md:flex-row overflow-hidden max-w-7xl mx-auto w-full">
+        
+        <nav class="bg-stone-100 w-full md:w-72 flex-shrink-0 border-b md:border-b-0 md:border-r border-stone-200 overflow-x-auto md:overflow-y-auto hide-scroll p-4 z-10">
+            <p class="text-xs font-bold text-stone-400 uppercase tracking-wider mb-4 hidden md:block">Lehrpfade</p>
+            <ul class="flex md:flex-col space-x-2 md:space-x-0 md:space-y-2" id="nav-menu">
+                <li><button data-target="intro" class="nav-btn w-full text-left px-4 py-3 rounded-lg transition-colors bg-teal-50 text-teal-700 font-medium whitespace-nowrap md:whitespace-normal">🌲 Übersicht</button></li>
+                <li><button data-target="erwartung" class="nav-btn w-full text-left px-4 py-3 rounded-lg transition-colors hover:bg-stone-200 text-stone-600 whitespace-nowrap md:whitespace-normal">1. Erwartung und Wirklichkeit</button></li>
+                <li><button data-target="klassisch" class="nav-btn w-full text-left px-4 py-3 rounded-lg transition-colors hover:bg-stone-200 text-stone-600 whitespace-nowrap md:whitespace-normal">2. Grenzen klassischer Software</button></li>
+                <li><button data-target="fehler" class="nav-btn w-full text-left px-4 py-3 rounded-lg transition-colors hover:bg-stone-200 text-stone-600 whitespace-nowrap md:whitespace-normal">3. Fehlersuche mit NLMs</button></li>
+                <li><button data-target="vergleich" class="nav-btn w-full text-left px-4 py-3 rounded-lg transition-colors hover:bg-stone-200 text-stone-600 whitespace-nowrap md:whitespace-normal">4. Vergleich der Paradigmen</button></li>
+                <li><button data-target="philosophie" class="nav-btn w-full text-left px-4 py-3 rounded-lg transition-colors hover:bg-stone-200 text-stone-600 whitespace-nowrap md:whitespace-normal">5. Philosophie und Vertrauen</button></li>
+            </ul>
+        </nav>
+
+        <main class="flex-1 overflow-y-auto p-6 md:p-10 bg-stone-50 relative">
+            
+            <section id="intro" class="tab-content active max-w-4xl mx-auto">
+                <h2 class="text-3xl font-serif font-bold text-stone-900 mb-6">Die Rolle von Non-Determinismus in neuronalen Sprachmodellen</h2>
+                <div class="prose prose-stone max-w-none text-lg leading-relaxed space-y-6">
+                    <p class="bg-white p-6 rounded-xl border border-stone-200 shadow-sm">
+                        Diese interaktive Lektüre untersucht das Spannungsfeld zwischen <strong>neuronalen Sprachmodellen (NLMs)</strong> und klassischer <strong>Softwarequalität</strong>. Im Zentrum steht ein scheinbarer Widerspruch: Während klassische Codeanalyse strengen, deterministischen Regeln folgt, operieren NLMs probabilistisch und oft nicht-deterministisch.
+                    </p>
+                    <p>
+                        Auf dieser Seite können Sie die verschiedenen Dimensionen dieses Themas erkunden. Sie analysiert, warum Nicht-Determinismus oft als Schwäche wahrgenommen wird, dekonstruiert den Mythos der perfekt deterministischen klassischen Software und zeigt auf, warum gerade der probabilistische Ansatz von NLMs neue Horizonte in der Fehlerfindung eröffnet.
+                    </p>
+                    <div class="grid grid-cols-1 sm:grid-cols-2 gap-4 mt-8">
+                        <div class="bg-amber-50 border border-amber-200 p-5 rounded-lg">
+                            <h3 class="font-bold text-amber-800 flex items-center">⚙️ Deterministisch</h3>
+                            <p class="text-sm mt-2 text-stone-700">Gleicher Input führt <em>immer</em> zum absolut gleichen Output. Das Ideal der klassischen Informatik und traditioneller statischer Analyse.</p>
+                        </div>
+                        <div class="bg-teal-50 border border-teal-200 p-5 rounded-lg">
+                            <h3 class="font-bold text-teal-800 flex items-center">🎲 Probabilistisch</h3>
+                            <p class="text-sm mt-2 text-stone-700">Outputs basieren auf Wahrscheinlichkeitsverteilungen. Variation und Exploration sind möglich (und bei NLMs systemimmanent).</p>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <section id="erwartung" class="tab-content max-w-4xl mx-auto">
+                <div class="mb-8">
+                    <h2 class="text-3xl font-serif font-bold text-stone-900 mb-4">1. Erwartung und Wirklichkeit</h2>
+                    <p class="text-stone-600 text-lg">In diesem Abschnitt betrachten wir die Diskrepanz zwischen den Anforderungen klassischer Softwareentwicklung und der eigentlichen Natur von NLMs - gewissermaßen den Unterschied zwischen Karte und Gelände.</p>
+                </div>
+
+                <div class="flex space-x-2 mb-6 bg-stone-200 p-1 rounded-lg w-fit">
+                    <button id="toggle-erwartung" class="px-6 py-2 rounded-md font-medium bg-white shadow-sm text-stone-800 transition-all">Die Erwartung</button>
+                    <button id="toggle-realitaet" class="px-6 py-2 rounded-md font-medium text-stone-500 hover:text-stone-800 transition-all">Die Natur der NLMs</button>
+                </div>
+
+                <div id="content-erwartung" class="bg-white p-8 rounded-xl border border-stone-200 shadow-sm transition-opacity duration-300">
+                    <h3 class="text-xl font-bold text-stone-800 mb-4">Übertragung klassischer Erwartungen</h3>
+                    <ul class="space-y-4">
+                        <li class="flex items-start">
+                            <span class="text-2xl mr-4">📐</span>
+                            <div>
+                                <h4 class="font-semibold">Der Determinismus-Anspruch</h4>
+                                <p class="text-stone-600 mt-1">Aus der klassischen Softwareentwicklung wird die Erwartung übertragen: Ein Analysewerkzeug (Compiler, Linter) muss auf identischen Code stets identisches Feedback geben. Nicht-Determinismus wird intuitiv mit "Unzuverlässigkeit" oder "Bugs" gleichgesetzt.</p>
+                            </div>
+                        </li>
+                        <li class="flex items-start">
+                            <span class="text-2xl mr-4">⚖️</span>
+                            <div>
+                                <h4 class="font-semibold">Regelbasierte Sicherheit</h4>
+                                <p class="text-stone-600 mt-1">Entwickler verlassen sich auf formale Beweisbarkeit und feste Regelsätze. Die Vorwürfe gegen NLMs entstehen, weil ihr Output nicht durch eine transparente, regelbasierte Logikkette rückverfolgbar ist.</p>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+
+                <div id="content-realitaet" class="bg-white p-8 rounded-xl border border-stone-200 shadow-sm transition-opacity duration-300 hidden">
+                    <h3 class="text-xl font-bold text-teal-800 mb-4">Die probabilistische Natur</h3>
+                    <ul class="space-y-4">
+                        <li class="flex items-start">
+                            <span class="text-2xl mr-4">🌌</span>
+                            <div>
+                                <h4 class="font-semibold">Nie als Ziel formuliert</h4>
+                                <p class="text-stone-600 mt-1">Strikter Determinismus war bei generativen NLMs nie ein Architekturziel. Sie sind darauf trainiert, Wahrscheinlichkeitsverteilungen über Vokabulare abzubilden, um natürliche Sprache und Code flexibel zu modellieren.</p>
+                            </div>
+                        </li>
+                        <li class="flex items-start">
+                            <span class="text-2xl mr-4">🎭</span>
+                            <div>
+                                <h4 class="font-semibold">Kreativität durch Varianz</h4>
+                                <p class="text-stone-600 mt-1">Die "Schwäche" ist eigentlich das Kernfeature (Temperatur). Nur durch probabilistische Sampling-Methoden können Modelle verschiedene semantische Lösungswege explorieren und generalisieren, statt bloß auswendig gelernte Templates abzuspulen.</p>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+            </section>
+
+            <section id="klassisch" class="tab-content max-w-4xl mx-auto">
+                <div class="mb-8">
+                    <h2 class="text-3xl font-serif font-bold text-stone-900 mb-4">2. Der Mythos des perfekten Determinismus</h2>
+                    <p class="text-stone-600 text-lg">Klassische Software gilt als deterministisch. Doch in der Praxis ist dieser Determinismus oft eher eine Annahme auf einer bestimmten Abstraktionsebene als eine universelle Realität. Klicken Sie auf die Faktoren, um diese Grenzbereiche näher zu betrachten.</p>
+                </div>
+
+                <div class="grid grid-cols-1 md:grid-cols-3 gap-6 mb-8">
+                    <div class="col-span-1 space-y-3">
+                        <button class="grenze-btn w-full text-left p-4 rounded-lg border-2 border-stone-200 hover:border-amber-500 hover:bg-amber-50 transition-colors font-semibold" data-detail="ub">Undefined Behavior</button>
+                        <button class="grenze-btn w-full text-left p-4 rounded-lg border-2 border-stone-200 hover:border-amber-500 hover:bg-amber-50 transition-colors font-semibold" data-detail="concurrency">Concurrency & Race Conditions</button>
+                        <button class="grenze-btn w-full text-left p-4 rounded-lg border-2 border-stone-200 hover:border-amber-500 hover:bg-amber-50 transition-colors font-semibold" data-detail="hardware">Hardware & Umwelt</button>
+                        <button class="grenze-btn w-full text-left p-4 rounded-lg border-2 border-stone-200 hover:border-amber-500 hover:bg-amber-50 transition-colors font-semibold" data-detail="specs">Unvollständige Spezifikationen</button>
+                    </div>
+                    <div class="col-span-1 md:col-span-2 bg-white rounded-xl border border-stone-200 shadow-inner p-8 flex items-center justify-center min-h-[300px]">
+                        <div id="grenze-detail" class="text-center">
+                            <span class="text-4xl block mb-4 text-stone-300">👈</span>
+                            <p class="text-stone-500 text-lg">Wählen Sie einen Faktor aus, um zu sehen, an welcher Stelle klassische Software ihren Determinismus einbüßt.</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="bg-stone-800 text-stone-50 p-6 rounded-xl mt-4">
+                    <h4 class="font-bold text-amber-400 mb-2">💡 Zwischenfazit: Determinismus als Leitbild</h4>
+                    <p class="text-sm">Der Begriff "Determinismus" ist in der Praxis oft eher eine nützliche Fiktion. Wir isolieren Softwareumgebungen massiv (durch VMs, Container, strenge Konventionen), um deterministisches <em>Verhalten</em> zu erzwingen. Bei komplexen, verteilten Systemen weicht auch klassische Software längst in probabilistische Resilienz-Muster (z.B. Retries, Chaos Engineering) aus.</p>
+                </div>
+            </section>
+
+            <section id="fehler" class="tab-content max-w-5xl mx-auto w-full">
+                <div class="mb-8">
+                    <h2 class="text-3xl font-serif font-bold text-stone-900 mb-4">3. Fehlersuche mit NLMs</h2>
+                    <p class="text-stone-600 text-lg">Finden Modelle Fehler <em>trotz</em> oder <em>wegen</em> ihres Nicht-Determinismus? Der Chart visualisiert die Stärken unterschiedlicher Analysemethoden. Die probabilistische Natur erlaubt eine Exploration, die statischen Tools fehlt.</p>
+                </div>
+
+                <div class="chart-container bg-white p-4 rounded-xl shadow-sm border border-stone-200 mb-8">
+                    <canvas id="analysisChart"></canvas>
+                </div>
+
+                <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
+                    <div class="bg-white p-5 rounded-xl shadow-sm border-t-4 border-teal-500">
+                        <h4 class="font-bold text-lg mb-2">Breite Erkundung</h4>
+                        <p class="text-sm text-stone-600">NLMs iterieren durch den latenten semantischen Lösungsraum. Dieser Nicht-Determinismus ermöglicht es ihnen, ungewöhnliche Edge-Cases und kontextuelle Bugs zu erahnen, für die noch keine explizite Regel geschrieben wurde.</p>
+                    </div>
+                    <div class="bg-white p-5 rounded-xl shadow-sm border-t-4 border-blue-500">
+                        <h4 class="font-bold text-lg mb-2">Geringe globale Bindung</h4>
+                        <p class="text-sm text-stone-600">Anders als ein Linter haben NLMs keine starren, globalen Annahmen über die Architektur. Sie bewerten den <em>lokalen Kontext</em> und Stilheuristiken mit hoher Geschwindigkeit, was sie anfällig für Halluzinationen, aber exzellent im Erkennen von "Code Smells" macht.</p>
+                    </div>
+                    <div class="bg-white p-5 rounded-xl shadow-sm border-t-4 border-stone-500">
+                        <h4 class="font-bold text-lg mb-2">Klassische Werkzeuge</h4>
+                        <p class="text-sm text-stone-600">Statische/Dynamische Analysen glänzen bei Typsicherheit und formalen Beweisen. Sie sind "blind" für fehlerhafte Geschäftslogik, die syntaktisch korrekt ist, während NLMs semantische Inkonsistenzen aufspüren können.</p>
+                    </div>
+                </div>
+            </section>
+
+            <section id="vergleich" class="tab-content max-w-5xl mx-auto w-full">
+                <div class="mb-8">
+                    <h2 class="text-3xl font-serif font-bold text-stone-900 mb-4">4. Vergleich der Paradigmen</h2>
+                    <p class="text-stone-600 text-lg">Gegenüberstellung deterministischer Regelsysteme und probabilistischer NLMs. Nutzen Sie die Filter, um einzelne Aspekte nebeneinander zu legen.</p>
+                </div>
+
+                <div class="flex flex-wrap gap-2 mb-6">
+                    <button class="filter-btn bg-stone-800 text-white px-4 py-2 rounded-full text-sm font-medium transition" data-filter="all">Alle Aspekte</button>
+                    <button class="filter-btn bg-stone-200 text-stone-700 hover:bg-stone-300 px-4 py-2 rounded-full text-sm font-medium transition" data-filter="strength">Stärken</button>
+                    <button class="filter-btn bg-stone-200 text-stone-700 hover:bg-stone-300 px-4 py-2 rounded-full text-sm font-medium transition" data-filter="weakness">Schwächen und Blindheit</button>
+                    <button class="filter-btn bg-stone-200 text-stone-700 hover:bg-stone-300 px-4 py-2 rounded-full text-sm font-medium transition" data-filter="synergy">Ergänzung</button>
+                </div>
+
+                <div class="grid grid-cols-1 md:grid-cols-2 gap-0 border border-stone-200 rounded-xl overflow-hidden shadow-sm">
+                    <div class="bg-stone-100 p-6 border-b md:border-b-0 md:border-r border-stone-200">
+                        <h3 class="text-xl font-bold text-stone-800 text-center mb-6">⚙️ Deterministische Systeme<br><span class="text-sm font-normal text-stone-500">(Statische Analyse, Linter, Tests)</span></h3>
+                        
+                        <div class="matrix-item strength mb-4 p-4 bg-white rounded-lg border-l-4 border-green-500 shadow-sm">
+                            <span class="text-xs font-bold text-green-600 uppercase">Stärke</span>
+                            <p class="mt-1 text-sm font-medium">100% Reproduzierbarkeit, mathematische Beweisbarkeit, keine False Positives bei klar definierten Regeln.</p>
+                        </div>
+                        <div class="matrix-item weakness mb-4 p-4 bg-white rounded-lg border-l-4 border-red-500 shadow-sm">
+                            <span class="text-xs font-bold text-red-600 uppercase">Fehlerblindheit</span>
+                            <p class="mt-1 text-sm font-medium">Blind für fehlende semantische Logik ("Das Programm läuft fehlerfrei, tut aber das Falsche"). Ignoriert Domänenwissen.</p>
+                        </div>
+                        <div class="matrix-item synergy mb-4 p-4 bg-white rounded-lg border-l-4 border-blue-500 shadow-sm">
+                            <span class="text-xs font-bold text-blue-600 uppercase">Idealer Einsatz</span>
+                            <p class="mt-1 text-sm font-medium">Continuous Integration Gateways, Typprüfung, Auffinden von Memory Leaks, Sicherheits-Compliance.</p>
+                        </div>
+                    </div>
+
+                    <div class="bg-teal-50 p-6">
+                        <h3 class="text-xl font-bold text-teal-900 text-center mb-6">🎲 Probabilistische Systeme<br><span class="text-sm font-normal text-teal-600">(NLMs, LLMs)</span></h3>
+                        
+                        <div class="matrix-item strength mb-4 p-4 bg-white rounded-lg border-l-4 border-green-500 shadow-sm">
+                            <span class="text-xs font-bold text-green-600 uppercase">Stärke</span>
+                            <p class="mt-1 text-sm font-medium">Hohe Kontextsensitivität, Erkennen von architektonischen Mustern, Verstehen von Kommentaren und Variablen-Semantik.</p>
+                        </div>
+                        <div class="matrix-item weakness mb-4 p-4 bg-white rounded-lg border-l-4 border-red-500 shadow-sm">
+                            <span class="text-xs font-bold text-red-600 uppercase">Fehlerblindheit</span>
+                            <p class="mt-1 text-sm font-medium">Halluzination von APIs, Schwierigkeiten bei tiefen, mathematisch strikten Abhängigkeitsketten. Ergebnisse schwanken ("Flakiness").</p>
+                        </div>
+                        <div class="matrix-item synergy mb-4 p-4 bg-white rounded-lg border-l-4 border-blue-500 shadow-sm">
+                            <span class="text-xs font-bold text-blue-600 uppercase">Idealer Einsatz</span>
+                            <p class="mt-1 text-sm font-medium">Code Reviews auf Architekturebene, Generierung von Unit-Tests, Identifikation von logischen Designfehlern, Refactoring-Vorschläge.</p>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <section id="philosophie" class="tab-content max-w-4xl mx-auto">
+                <div class="mb-10">
+                    <h2 class="text-3xl font-serif font-bold text-stone-900 mb-4">5. Philosophische Einordnung</h2>
+                    <p class="text-stone-600 text-lg">Ist der harte Gegensatz zwischen deterministisch und nicht-deterministisch hier überhaupt zielführend? Bewegen Sie den Regler, um die Verschiebung des Blicks zu verfolgen.</p>
+                </div>
+
+                <div class="bg-white p-8 rounded-xl shadow-sm border border-stone-200">
+                    
+                    <div class="flex justify-between text-xs font-bold text-stone-400 uppercase mb-2">
+                        <span>Strikte Trennung</span>
+                        <span>Synergetisches Modell</span>
+                    </div>
+                    <input type="range" min="0" max="100" value="0" id="phil-slider" class="w-full h-2 bg-stone-200 rounded-lg appearance-none mb-8">
+                    
+                    <div id="phil-text-0" class="transition-opacity duration-300">
+                        <h3 class="text-xl font-bold text-stone-800 mb-3 border-l-4 border-red-500 pl-3">Das irreführende Paradigma</h3>
+                        <p class="text-stone-700 leading-relaxed">
+                            Die strikte Trennung ist oft irreführend. Sie basiert auf dem tief verankerten <strong>Vertrauensmodell</strong> der Informatik: "Ich vertraue dem Code, weil ich seinen Pfad mathematisch nachvollziehen kann". NLMs greifen dieses Vertrauensmodell an, da ihr "Wissen" in kontinuierlichen Vektorräumen codiert ist. Der Vorwurf des Nicht-Determinismus ist oft nur ein Stellvertreter-Argument für den eigentlichen Schmerzpunkt: den Verlust der mechanistischen Erklärbarkeit (Explainability).
+                        </p>
+                    </div>
+
+                    <div id="phil-text-100" class="transition-opacity duration-300 hidden absolute top-0 left-0">
+                        <h3 class="text-xl font-bold text-teal-800 mb-3 border-l-4 border-teal-500 pl-3">Vertrauen durch Verifikation</h3>
+                        <p class="text-stone-700 leading-relaxed">
+                            Ein zeitgemäßes Verständnis sieht beide nicht als Gegensätze, sondern als Ebenen eines <strong>hybriden epistemologischen Modells</strong>. NLMs agieren als probabilistische Hypothesengeneratoren (System 1 - schnell, intuitiv, mustererkennend). Klassische deterministische Werkzeuge dienen als Verifikatoren (System 2 - langsam, regelbasiert, absichernd). Das Vertrauen verschiebt sich: Wir vertrauen nicht mehr auf die unbedingte Richtigkeit des NLM-Outputs, sondern auf die deterministische Pipeline, die diesen Output im Nachgang validiert.
+                        </p>
+                    </div>
+
+                    <div class="relative min-h-[150px] mt-4" id="phil-text-container">
+                        <!-- Content injected via JS absolute positioning trick to avoid height jumps -->
+                    </div>
+
+                </div>
+            </section>
+
+        </main>
+    </div>
+
+    <script>
+        const state = {
+            currentTab: 'intro',
+            chartInstance: null
+        };
+
+        const grenzenData = {
+            'ub': {
+                icon: '⚠️',
+                title: 'Undefined Behavior (UB)',
+                text: 'In Sprachen wie C/C++ gibt der Standard für bestimmte Konstrukte kein Verhalten vor. Compiler optimieren unter der Annahme, dass UB nicht auftritt. Tritt es doch auf, ist das Programmverhalten zur Laufzeit völlig unvorhersehbar und streng genommen nicht-deterministisch.'
+            },
+            'concurrency': {
+                icon: '🔄',
+                title: 'Concurrency & Race Conditions',
+                text: 'Multithreading-Systeme hängen vom Scheduler des Betriebssystems ab. Die Ausführungsreihenfolge von Threads schwankt bei jedem Durchlauf. Ohne perfekte Synchronisation (Locks, Mutexes) ist der Output solcher Systeme inherent probabilistisch.'
+            },
+            'hardware': {
+                icon: '🌡️',
+                title: 'Hardware & Umwelt',
+                text: 'Soft errors (z.B. Bit-Flips durch kosmische Strahlung), thermisches Throttling, variierende Netzwerklatenzen oder verteilte Datenbank-Konsistenzmechanismen (Eventual Consistency) untergraben den reinen Determinismus auf physikalischer und Systemebene.'
+            },
+            'specs': {
+                icon: '📝',
+                title: 'Unvollständige Spezifikationen',
+                text: 'Software ist nur so deterministisch wie ihr Modell der realen Welt. Oft sind Anforderungen (Specs) vage, woraufhin Entwickler Annahmen treffen. Bei unvorhergesehenen Edge-Cases verhält sich das System zwar algorithmisch deterministisch, aber aus Sicht des Nutzers "zufällig" falsch.'
+            }
+        };
+
+        function initNav() {
+            const btns = document.querySelectorAll('.nav-btn');
+            btns.forEach(btn => {
+                btn.addEventListener('click', (e) => {
+                    btns.forEach(b => {
+                        b.classList.remove('bg-teal-50', 'text-teal-700', 'font-medium');
+                        b.classList.add('hover:bg-stone-200', 'text-stone-600');
+                    });
+                    const target = e.target;
+                    target.classList.add('bg-teal-50', 'text-teal-700', 'font-medium');
+                    target.classList.remove('hover:bg-stone-200', 'text-stone-600');
+
+                    document.querySelectorAll('.tab-content').forEach(tc => tc.classList.remove('active'));
+                    const tabId = target.getAttribute('data-target');
+                    document.getElementById(tabId).classList.add('active');
+                    
+                    if(tabId === 'fehler' && !state.chartInstance) {
+                        initChart();
+                    }
+                });
+            });
+        }
+
+        function initS1Toggle() {
+            const btnE = document.getElementById('toggle-erwartung');
+            const btnR = document.getElementById('toggle-realitaet');
+            const contE = document.getElementById('content-erwartung');
+            const contR = document.getElementById('content-realitaet');
+
+            btnE.addEventListener('click', () => {
+                btnE.classList.replace('text-stone-500', 'text-stone-800');
+                btnE.classList.replace('hover:text-stone-800', 'bg-white');
+                btnE.classList.add('shadow-sm');
+                
+                btnR.classList.replace('text-stone-800', 'text-stone-500');
+                btnR.classList.remove('bg-white', 'shadow-sm');
+                btnR.classList.add('hover:text-stone-800');
+
+                contR.classList.add('hidden');
+                contE.classList.remove('hidden');
+            });
+
+            btnR.addEventListener('click', () => {
+                btnR.classList.replace('text-stone-500', 'text-stone-800');
+                btnR.classList.replace('hover:text-stone-800', 'bg-white');
+                btnR.classList.add('shadow-sm');
+                
+                btnE.classList.replace('text-stone-800', 'text-stone-500');
+                btnE.classList.remove('bg-white', 'shadow-sm');
+                btnE.classList.add('hover:text-stone-800');
+
+                contE.classList.add('hidden');
+                contR.classList.remove('hidden');
+            });
+        }
+
+        function initS2List() {
+            const btns = document.querySelectorAll('.grenze-btn');
+            const detailContainer = document.getElementById('grenze-detail');
+
+            btns.forEach(btn => {
+                btn.addEventListener('click', (e) => {
+                    btns.forEach(b => {
+                        b.classList.remove('border-amber-500', 'bg-amber-50');
+                        b.classList.add('border-stone-200');
+                    });
+                    const target = e.target;
+                    target.classList.remove('border-stone-200');
+                    target.classList.add('border-amber-500', 'bg-amber-50');
+
+                    const dataKey = target.getAttribute('data-detail');
+                    const data = grenzenData[dataKey];
+
+                    detailContainer.innerHTML = `
+                        <div class="text-left animate-[fadeIn_0.3s_ease-in-out]">
+                            <span class="text-4xl block mb-4">${data.icon}</span>
+                            <h3 class="text-2xl font-bold text-stone-900 mb-3">${data.title}</h3>
+                            <p class="text-stone-700 leading-relaxed">${data.text}</p>
+                        </div>
+                    `;
+                });
+            });
+        }
+
+        function wrapText(text, maxChars) {
+            const words = text.split(' ');
+            const lines = [];
+            let currentLine = '';
+            words.forEach(word => {
+                if ((currentLine + word).length > maxChars) {
+                    lines.push(currentLine.trim());
+                    currentLine = word + ' ';
+                } else {
+                    currentLine += word + ' ';
+                }
+            });
+            lines.push(currentLine.trim());
+            return lines;
+        }
+
+        function initChart() {
+            const ctx = document.getElementById('analysisChart').getContext('2d');
+            
+            const labels = [
+                'Exploration des Lösungsraums', 
+                'Verarbeitungsgeschwindigkeit', 
+                'Regeltreue & Beweisbarkeit', 
+                'Kontextsensitivität (Semantik)', 
+                'Reproduzierbarkeit'
+            ].map(l => wrapText(l, 16));
+
+            state.chartInstance = new Chart(ctx, {
+                type: 'radar',
+                data: {
+                    labels: labels,
+                    datasets: [
+                        {
+                            label: 'NLMs (Probabilistisch)',
+                            data: [9, 8, 3, 9, 2],
+                            backgroundColor: 'rgba(13, 148, 136, 0.2)',
+                            borderColor: 'rgba(13, 148, 136, 1)',
+                            pointBackgroundColor: 'rgba(13, 148, 136, 1)',
+                            borderWidth: 2,
+                        },
+                        {
+                            label: 'Statische Analyse (Deterministisch)',
+                            data: [2, 9, 10, 4, 10],
+                            backgroundColor: 'rgba(120, 113, 108, 0.2)',
+                            borderColor: 'rgba(120, 113, 108, 1)',
+                            pointBackgroundColor: 'rgba(120, 113, 108, 1)',
+                            borderWidth: 2,
+                        }
+                    ]
+                },
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: false,
+                    scales: {
+                        r: {
+                            angleLines: { color: 'rgba(0, 0, 0, 0.1)' },
+                            grid: { color: 'rgba(0, 0, 0, 0.1)' },
+                            pointLabels: {
+                                font: { family: 'Inter', size: 11, weight: '600' },
+                                color: '#57534e'
+                            },
+                            ticks: {
+                                display: false,
+                                min: 0,
+                                max: 10
+                            }
+                        }
+                    },
+                    plugins: {
+                        legend: {
+                            position: 'bottom',
+                            labels: {
+                                font: { family: 'Inter', size: 13 },
+                                color: '#292524',
+                                padding: 20
+                            }
+                        },
+                        tooltip: {
+                            backgroundColor: 'rgba(28, 25, 23, 0.9)',
+                            titleFont: { family: 'Inter', size: 13 },
+                            bodyFont: { family: 'Inter', size: 12 },
+                            padding: 10,
+                            displayColors: true
+                        }
+                    }
+                }
+            });
+        }
+
+        function initMatrixFilters() {
+            const btns = document.querySelectorAll('.filter-btn');
+            const items = document.querySelectorAll('.matrix-item');
+
+            btns.forEach(btn => {
+                btn.addEventListener('click', (e) => {
+                    btns.forEach(b => {
+                        b.classList.remove('bg-stone-800', 'text-white');
+                        b.classList.add('bg-stone-200', 'text-stone-700');
+                    });
+                    const target = e.target;
+                    target.classList.remove('bg-stone-200', 'text-stone-700');
+                    target.classList.add('bg-stone-800', 'text-white');
+
+                    const filter = target.getAttribute('data-filter');
+                    
+                    items.forEach(item => {
+                        if (filter === 'all') {
+                            item.style.display = 'block';
+                        } else {
+                            if (item.classList.contains(filter)) {
+                                item.style.display = 'block';
+                            } else {
+                                item.style.display = 'none';
+                            }
+                        }
+                    });
+                });
+            });
+        }
+
+        function initSlider() {
+            const slider = document.getElementById('phil-slider');
+            const container = document.getElementById('phil-text-container');
+            const text0 = document.getElementById('phil-text-0');
+            const text100 = document.getElementById('phil-text-100');
+
+            container.appendChild(text0);
+            container.appendChild(text100);
+
+            slider.addEventListener('input', (e) => {
+                const val = e.target.value;
+                const op0 = 1 - (val / 100);
+                const op100 = val / 100;
+
+                text0.style.opacity = op0;
+                text100.style.opacity = op100;
+
+                if (val > 50) {
+                    text0.classList.add('hidden');
+                    text100.classList.remove('hidden');
+                    text100.style.position = 'relative';
+                    text0.style.position = 'absolute';
+                } else {
+                    text100.classList.add('hidden');
+                    text0.classList.remove('hidden');
+                    text0.style.position = 'relative';
+                    text100.style.position = 'absolute';
+                }
+                
+                let r = 15;
+                let g = 118;
+                let b = 110; 
+                
+                let rb = 120;
+                let gb = 113;
+                let bb = 108;
+                
+                let mixR = Math.round(rb + (r - rb) * (val/100));
+                let mixG = Math.round(gb + (g - gb) * (val/100));
+                let mixB = Math.round(bb + (b - bb) * (val/100));
+                
+                slider.style.setProperty('--thumb-color', `rgb(${mixR}, ${mixG}, ${mixB})`);
+            });
+        }
+
+        document.addEventListener('DOMContentLoaded', () => {
+            initNav();
+            initS1Toggle();
+            initS2List();
+            initMatrixFilters();
+            initSlider();
+        });
+
+    </script>
+</body>
+</html>
