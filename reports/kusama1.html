@@ -731,7 +731,7 @@
 
     document.querySelectorAll('.nav-btn').forEach(btn => {
         btn.addEventListener('click', (e) => {
-            document.querySelectorAll('.nav-btn').forEach(b => b.classList.remove('active', 'bg-orange-500', 'text-white', 'border-orange-600'));
+            document.querySelectorAll('.nav-btn').forEach(b => b.classList.remove('active'));
 
             e.currentTarget.classList.add('active');
 
