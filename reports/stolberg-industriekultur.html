@@ -24,7 +24,6 @@
     <style>
         .chart-container { position: relative; width: 100%; height: 320px; }
         .tab-btn.active { background: #0f172a; color: #f8fafc; }
-        .tag-btn.active { background: #1e293b; color: #fff; border-color: #1e293b; }
     </style>
 </head>
 <body class="bg-slate-50 text-slate-800">
@@ -42,7 +41,6 @@
             <a href="#burg" class="px-3 py-1 rounded-full bg-slate-100 hover:bg-slate-200">Burgchronologie</a>
             <a href="#industrie" class="px-3 py-1 rounded-full bg-slate-100 hover:bg-slate-200">Industrie</a>
             <a href="#wiederaufbau" class="px-3 py-1 rounded-full bg-slate-100 hover:bg-slate-200">Flut & Wiederaufbau</a>
-            <a href="#kalender" class="px-3 py-1 rounded-full bg-slate-100 hover:bg-slate-200">Kalender</a>
         </div>
     </nav>
 
@@ -57,7 +55,7 @@
         </section>
 
         <section id="burg" class="bg-white rounded-2xl border border-slate-200 p-6">
-            <div class="flex flex-col md:flex-row md:items-center md:justify-between gap-4 mb-4">
+            <div class="flex flex-col md:flex-row md:items-center md:justify-between gap-4 mb-6">
                 <h2 class="text-2xl font-semibold">2) Burg Stolberg (Rheinland): Zeitleiste</h2>
                 <label class="text-sm">Zeitraum
                     <select id="timelineFilter" class="ml-2 px-2 py-1 border border-slate-300 rounded">
@@ -67,8 +65,7 @@
                     </select>
                 </label>
             </div>
-            <div class="chart-container"><canvas id="timelineChart"></canvas></div>
-            <div id="timelineList" class="mt-6 grid md:grid-cols-2 gap-3"></div>
+            <div id="timelineList" class="relative pl-8 border-l-2 border-slate-200 space-y-6"></div>
         </section>
 
         <section id="industrie" class="bg-white rounded-2xl border border-slate-200 p-6">
@@ -137,27 +134,6 @@
             </div>
         </section>
 
-        <section id="kalender" class="bg-white rounded-2xl border border-slate-200 p-6">
-            <h2 class="text-2xl font-semibold mb-4">5) Veranstaltungskalender April 2026</h2>
-            <div class="flex flex-wrap items-center justify-between gap-3 mb-4">
-                <div id="eventTags" class="flex flex-wrap gap-2"></div>
-                <button id="upcomingToggle" class="px-3 py-1 rounded-full border border-slate-300 text-sm hover:bg-slate-100">Nur kommende Termine</button>
-            </div>
-            <div class="overflow-x-auto">
-                <table class="w-full text-sm border-collapse">
-                    <thead>
-                        <tr class="bg-slate-100 text-left">
-                            <th class="p-2 border border-slate-200">Datum</th>
-                            <th class="p-2 border border-slate-200">Typ</th>
-                            <th class="p-2 border border-slate-200">Ort</th>
-                            <th class="p-2 border border-slate-200">Details</th>
-                        </tr>
-                    </thead>
-                    <tbody id="eventTable"></tbody>
-                </table>
-            </div>
-        </section>
-
         <section class="bg-slate-900 text-slate-100 rounded-2xl p-6">
             <h2 class="text-2xl font-semibold mb-3">Fazit</h2>
             <p id="finalSummary" class="text-slate-300 leading-relaxed"></p>
@@ -195,16 +171,6 @@
             { year: 1909, label: "Schenkung", detail: "Übergabe an Bürgerschaft als unverkäufliches Erbe", phase: "neuzeit" }
         ];
 
-        const events = [
-            { date: "05.04.2026", type: "Tradition", place: "Schloss Stolberg", details: "Osterhasensuche im Terrassengarten" },
-            { date: "10.04.2026", type: "Vortrag", place: "Rittersaal Burg", details: "„The Pots of Pocahontas“ – Messing in Nordamerika" },
-            { date: "12.04.2026", type: "Kunst", place: "Zinkhütter Hof", details: "Kunstversuch „Rotation“" },
-            { date: "12.04.2026", type: "Industrie", place: "Museum ALTE MÜNZE", details: "Tag der Industriekultur – Schauprägen" },
-            { date: "17.04.2026", type: "Sport", place: "Stadtgebiet", details: "StolRun – Lauf-Event für alle" },
-            { date: "23.04.2026", type: "Event", place: "Steinweg", details: "After-Work-Markt" },
-            { date: "25.04.2026", type: "Musik", place: "Stadtgebiet", details: "Start Stolberger Musiksommer" }
-        ];
-
         const tabButtons = document.querySelectorAll(".tab-btn");
         const tabContent = document.getElementById("tab-content");
         function renderTab(key) {
@@ -223,48 +189,33 @@
         });
         renderTab("rheinland");
 
-        const timelineCtx = document.getElementById("timelineChart");
         const timelineList = document.getElementById("timelineList");
         const timelineFilter = document.getElementById("timelineFilter");
-        let timelineChart;
+
+        const phaseColors = {
+            mittelalter: { dot: "#1e293b", badge: "bg-slate-100 text-slate-700" },
+            neuzeit:     { dot: "#b45309", badge: "bg-amber-50 text-amber-800" }
+        };
 
         function renderTimeline() {
             const mode = timelineFilter.value;
             const filtered = mode === "all" ? timelineData : timelineData.filter(x => x.phase === mode);
-            if (timelineChart) timelineChart.destroy();
-            timelineChart = new Chart(timelineCtx, {
-                type: "bar",
-                data: {
-                    labels: filtered.map(x => x.year),
-                    datasets: [{
-                        label: "Burgentwicklung (Ereignisse)",
-                        data: filtered.map((_, i) => i + 1),
-                        backgroundColor: "#1e293b"
-                    }]
-                },
-                options: {
-                    responsive: true,
-                    maintainAspectRatio: false,
-                    plugins: {
-                        legend: { display: false },
-                        tooltip: {
-                            callbacks: {
-                                title: (ctx) => `${filtered[ctx[0].dataIndex].year}`,
-                                label: (ctx) => `${filtered[ctx.dataIndex].label}: ${filtered[ctx.dataIndex].detail}`
-                            }
-                        }
-                    },
-                    scales: { y: { display: false } }
-                }
-            });
-
-            timelineList.innerHTML = filtered.map(entry => `
-                <article class="p-3 rounded-lg border border-slate-200 bg-slate-50">
-                    <p class="text-xs font-semibold uppercase tracking-wide text-slate-500">${entry.year}</p>
-                    <h4 class="font-semibold">${entry.label}</h4>
-                    <p class="text-sm text-slate-600">${entry.detail}</p>
-                </article>
-            `).join("");
+            timelineList.innerHTML = filtered.map(entry => {
+                const colors = phaseColors[entry.phase];
+                return `
+                <div class="relative">
+                    <span class="absolute -left-[2.35rem] top-1 w-4 h-4 rounded-full border-2 border-white shadow"
+                          style="background:${colors.dot}"></span>
+                    <div class="bg-slate-50 border border-slate-200 rounded-xl p-4">
+                        <div class="flex flex-wrap items-center gap-2 mb-1">
+                            <span class="text-xs font-bold tracking-widest text-slate-400 uppercase">${entry.year}</span>
+                            <span class="text-xs px-2 py-0.5 rounded-full ${colors.badge}">${entry.phase === "mittelalter" ? "Mittelalter" : "Neuzeit"}</span>
+                        </div>
+                        <h4 class="font-semibold text-slate-800">${entry.label}</h4>
+                        <p class="text-sm text-slate-600 mt-0.5">${entry.detail}</p>
+                    </div>
+                </div>`;
+            }).join("");
         }
         timelineFilter.addEventListener("change", renderTimeline);
         renderTimeline();
@@ -306,56 +257,6 @@
                 scales: { r: { min: 0, max: 100, ticks: { stepSize: 20 } } }
             }
         });
-
-        const uniqueTypes = ["Alle", ...new Set(events.map(e => e.type))];
-        const eventTags = document.getElementById("eventTags");
-        const eventTable = document.getElementById("eventTable");
-        const upcomingToggle = document.getElementById("upcomingToggle");
-        let selectedType = "Alle";
-        let upcomingOnly = false;
-
-        function parseGermanDate(dateString) {
-            const [day, month, year] = dateString.split(".").map(Number);
-            return new Date(year, month - 1, day);
-        }
-
-        function renderEventTags(active = "Alle") {
-            eventTags.innerHTML = uniqueTypes.map(type => `
-                <button class="tag-btn ${type === active ? "active" : ""} px-3 py-1 rounded-full border border-slate-300 text-sm" data-type="${type}">
-                    ${type}
-                </button>
-            `).join("");
-            eventTags.querySelectorAll(".tag-btn").forEach(btn => {
-                btn.addEventListener("click", () => renderEvents(btn.dataset.type));
-            });
-        }
-
-        function renderEvents(type = "Alle") {
-            selectedType = type;
-            renderEventTags(type);
-            const today = new Date();
-            today.setHours(0, 0, 0, 0);
-            let filtered = type === "Alle" ? events : events.filter(e => e.type === type);
-            if (upcomingOnly) {
-                filtered = filtered.filter(e => parseGermanDate(e.date) >= today);
-            }
-            eventTable.innerHTML = filtered.map(e => `
-                <tr class="hover:bg-slate-50">
-                    <td class="p-2 border border-slate-200">${e.date}</td>
-                    <td class="p-2 border border-slate-200">${e.type}</td>
-                    <td class="p-2 border border-slate-200">${e.place}</td>
-                    <td class="p-2 border border-slate-200">${e.details}</td>
-                </tr>
-            `).join("") || `<tr><td colspan="4" class="p-3 text-center text-slate-500 border border-slate-200">Keine passenden Termine.</td></tr>`;
-        }
-        upcomingToggle.addEventListener("click", () => {
-            upcomingOnly = !upcomingOnly;
-            upcomingToggle.classList.toggle("bg-slate-800", upcomingOnly);
-            upcomingToggle.classList.toggle("text-white", upcomingOnly);
-            upcomingToggle.classList.toggle("border-slate-800", upcomingOnly);
-            renderEvents(selectedType);
-        });
-        renderEvents();
 
         document.getElementById("finalSummary").textContent =
             "Stolberg zeigt 2026 eine gleichzeitige Persistenz von Erbe und Krise: Die Burg- und Industriegeschichte bleibt identitätsstiftend, während Flutfolgen, Leerstand und Umbau den Gegenwartsdruck erhöhen. " +
