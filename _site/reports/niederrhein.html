@@ -1,0 +1,318 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Captain Faulmanns Tour-Recherche</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@400;700&family=Inter:wght@400;600&display=swap" rel="stylesheet">
+    <!-- Chosen Palette: Niederrhein Sunset -->
+    <!-- Application Structure Plan: Die App behält die chronologische, interaktive Zeitleistenstruktur bei. Diese ist optimal, um die Etappen der Reise logisch zu gliedern. Durch den Klick auf eine Etappe wird nun ausschließlich das Recherche-Panel angezeigt, was dem Wunsch des Nutzers nach reiner Faktenpräsentation entspricht. Die visuelle Trennung von Navigation (Zeitleiste) und Inhalt (Detail-Panel) sorgt für eine klare und aufgeräumte Benutzeroberfläche. Das Dashboard oben bietet weiterhin eine schnelle Zusammenfassung der Tourdaten. -->
+    <!-- Visualization & Content Choices: 
+        - Tourdaten (Distanz/Zeit): Ziel: Informieren. Methode: Große, klare Textkarten. Interaktion: Keine. Begründung: Schnelle und direkte Informationsvermittlung der Kerndaten.
+        - Höhenprofil: Ziel: Veränderung zeigen. Methode: Linien-Diagramm mit Chart.js. Interaktion: Hover-Tooltips für genaue Höhenangaben pro Etappe. Begründung: Visualisiert die Anstrengung der Tour effektiver als reine Zahlen.
+        - Etappen-Navigation: Ziel: Organisieren/Navigieren. Methode: Vertikale Zeitleiste mit Icons. Interaktion: Klick zum Anzeigen der Etappen-Details. Begründung: Intuitive, visuelle Führung durch die Stationen der Recherche.
+        - Etappen-Details: Ziel: Informieren. Methode: Ausklappbare Textblöcke, die nur noch die Recherche-Notizen enthalten. Interaktion: Werden durch Klick auf die Zeitleiste aktiviert. Begründung: Entfernt den erzählerischen Text ("Prosa") und fokussiert sich rein auf die Fakten, wie vom Nutzer gewünscht.
+        - Beobachtungen: Ziel: Hervorheben. Methode: Grid-Layout mit Karten. Interaktion: Keine. Begründung: Bündelt die pointierten Beobachtungen des Captains an einer Stelle.
+        - Library/Method: Chart.js für das Diagramm; ansonsten reines HTML/CSS/JS. -->
+    <!-- CONFIRMATION: NO SVG graphics used. NO Mermaid JS used. -->
+    <style>
+        body {
+            font-family: 'Inter', sans-serif;
+            background-color: #FDFBF8;
+            color: #404040;
+        }
+        h1, h2, h3, .font-display {
+            font-family: 'Roboto Slab', serif;
+        }
+        .timeline-item::before {
+            content: '';
+            position: absolute;
+            left: 19px;
+            top: 48px;
+            bottom: -48px;
+            width: 2px;
+            background-color: #D1D5DB;
+            z-index: 0;
+        }
+        .timeline-item:last-child::before {
+            display: none;
+        }
+        .timeline-marker {
+            transition: all 0.3s ease;
+            z-index: 1;
+        }
+        .timeline-marker.active {
+            background-color: #84A98C;
+            color: white;
+            transform: scale(1.1);
+        }
+        .content-panel {
+            max-height: 0;
+            overflow: hidden;
+            transition: max-height 0.7s ease-in-out, opacity 0.5s ease;
+            opacity: 0;
+        }
+        .content-panel.active {
+            max-height: 1500px;
+            opacity: 1;
+        }
+        .chart-container {
+            position: relative;
+            width: 100%;
+            max-width: 800px;
+            margin-left: auto;
+            margin-right: auto;
+            height: 250px;
+            max-height: 300px;
+        }
+        @media (min-width: 768px) {
+            .chart-container {
+                height: 300px;
+                max-height: 400px;
+            }
+        }
+    </style>
+</head>
+<body class="antialiased">
+
+    <div class="container mx-auto p-4 md:p-8 max-w-7xl">
+
+        <header class="text-center mb-12">
+            <h1 class="text-4xl md:text-6xl font-bold text-[#354F52] mb-2">Captain Faulmanns Tour-Recherche</h1>
+            <p class="text-lg md:text-xl text-[#52796F]">Die reinen Fakten zur Niederrhein-Route.</p>
+        </header>
+
+        <main>
+            <section id="dashboard" class="mb-12 p-6 bg-white rounded-2xl shadow-lg border border-gray-200">
+                <h2 class="text-2xl md:text-3xl font-bold text-[#354F52] mb-6 text-center">Tourdaten-Analyse</h2>
+                <div class="grid grid-cols-1 md:grid-cols-3 gap-6 mb-8 text-center">
+                    <div class="p-4 bg-[#CAD2C5] rounded-xl">
+                        <p class="text-sm font-semibold text-[#354F52] uppercase">Distanz</p>
+                        <p class="text-4xl font-bold text-[#2F3E46]">78,4 km</p>
+                    </div>
+                    <div class="p-4 bg-[#CAD2C5] rounded-xl">
+                        <p class="text-sm font-semibold text-[#354F52] uppercase">Reine Fahrzeit</p>
+                        <p class="text-4xl font-bold text-[#2F3E46]">4h 15min</p>
+                    </div>
+                    <div class="p-4 bg-[#CAD2C5] rounded-xl">
+                        <p class="text-sm font-semibold text-[#354F52] uppercase">Anstieg / Abstieg</p>
+                        <p class="text-4xl font-bold text-[#2F3E46]">285m / 260m</p>
+                    </div>
+                </div>
+                <div class="chart-container">
+                    <canvas id="elevationChart"></canvas>
+                </div>
+                <p class="text-center text-sm text-gray-500 mt-2">Visuelles Protokoll der Höhenmeter.</p>
+            </section>
+
+            <section id="tour">
+                <h2 class="text-2xl md:text-3xl font-bold text-[#354F52] mb-8 text-center">Recherche-Stationen</h2>
+                <div class="md:grid md:grid-cols-12 md:gap-12">
+                    
+                    <div id="timeline-nav" class="md:col-span-4 lg:col-span-3">
+                    </div>
+
+                    <div id="timeline-content" class="md:col-span-8 lg:col-span-9 mt-8 md:mt-0">
+                    </div>
+                </div>
+            </section>
+
+            <section id="highlights" class="mt-16">
+                 <h2 class="text-2xl md:text-3xl font-bold text-[#354F52] mb-8 text-center">Weitere Beobachtungen</h2>
+                 <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+                    <div class="bg-white p-6 rounded-2xl shadow border border-gray-200">
+                        <h3 class="font-display text-xl font-bold text-[#354F52] mb-2">🏗️ Duisburger Hafenkulisse</h3>
+                        <p class="text-gray-600">Ein faszinierendes Gewirr aus Kränen, Schiffen und Gleisen. Industrieromantik pur.</p>
+                    </div>
+                    <div class="bg-white p-6 rounded-2xl shadow border border-gray-200">
+                        <h3 class="font-display text-xl font-bold text-[#354F52] mb-2">🏰 Schloss Moers</h3>
+                        <p class="text-gray-600">Ein unerwartetes Idyll und ein schöner Kontrapunkt zum rauen Charme Duisburgs.</p>
+                    </div>
+                    <div class="bg-white p-6 rounded-2xl shadow border border-gray-200">
+                        <h3 class="font-display text-xl font-bold text-[#354F52] mb-2">🦆 Nieper Kuhlen</h3>
+                        <p class="text-gray-600">Ein echtes Naturparadies, das zeigt, wie schön renaturierte Flusslandschaften sein können.</p>
+                    </div>
+                    <div class="bg-white p-6 rounded-2xl shadow border border-gray-200">
+                        <h3 class="font-display text-xl font-bold text-[#354F52] mb-2">🪨 Grenzstein am Smokkelpad</h3>
+                        <p class="text-gray-600">Ein unscheinbarer Stein, der zwei Länder und unzählige Geschichten trennt – und verbindet.</p>
+                    </div>
+                     <div class="bg-white p-6 rounded-2xl shadow border border-gray-200">
+                        <h3 class="font-display text-xl font-bold text-[#354F52] mb-2"> glider Segelflugplatz Venlo</h3>
+                        <p class="text-gray-600">Die lautlose Eleganz der Flieger am Himmel hatte etwas Beruhigendes.</p>
+                    </div>
+                    <div class="bg-white p-6 rounded-2xl shadow border border-gray-200">
+                        <h3 class="font-display text-xl font-bold text-[#354F52] mb-2">🚆 Der Endspurt zum Bahnhof</h3>
+                        <p class="text-gray-600">Das beste Gefühl: eine quietschende Zugtür eine Sekunde vor Abfahrt hinter sich ins Schloss fallen zu hören.</p>
+                    </div>
+                 </div>
+            </section>
+
+            <footer class="mt-16 text-center border-t pt-8">
+                <h3 class="font-display text-2xl font-bold text-[#354F52]">Faulmanns Fazit</h3>
+                <p class="max-w-3xl mx-auto mt-4 text-lg text-gray-700">Die Daten lügen nicht: Der Niederrhein ist flach, aber die Geschichten dahinter haben Tiefgang. Eine Tour, die beweist, dass die interessantesten Details oft am Wegesrand liegen – oder in einer gut recherchierten Notiz.</p>
+                <p class="mt-8 text-sm text-gray-500">&copy; 2025 Captain Faulmann. Akte geschlossen.</p>
+            </footer>
+        </main>
+    </div>
+
+    <script>
+        const tourData = [
+            {
+                id: 'duisburg',
+                icon: '🏭',
+                title: 'Etappe 1: Duisburg',
+                subtitle: 'Das stählerne Herz',
+                elevation: 34,
+                recherche: `<strong>Captains Recherche-Notiz:</strong> Der Duisburger Hafen, oder 'duisport', ist nicht nur der größte Binnenhafen der Welt, sondern auch eine zentrale Logistikdrehscheibe in Europa. Pro Jahr werden hier über 20.000 Schiffe und 25.000 Züge abgefertigt. Ein wahres Monstrum der Effizienz!`
+            },
+            {
+                id: 'moers',
+                icon: '🌳',
+                title: 'Etappe 2: Moers',
+                subtitle: 'Die erste Verschnaufpause',
+                elevation: 30,
+                recherche: `<strong>Captains Recherche-Notiz:</strong> Das Moerser Schloss ist eine der ältesten erhaltenen Ringburganlagen des Rheinlands. Die heutige Form geht auf den Umbau im 17. Jahrhundert zurück. Heute beherbergt es ein Museum – viel zu viel Kultur für einen Tag auf dem Rad, aber schön anzusehen ist es allemal.`
+            },
+            {
+                id: 'neukirchen',
+                icon: '🌾',
+                title: 'Etappe 3: Neukirchen-Vluyn',
+                subtitle: 'Flüstern der alten Rheinläufe',
+                elevation: 35,
+                recherche: `<strong>Captains Recherche-Notiz:</strong> Die Nieper Kuhlen sind ein ausgewiesenes Naturschutzgebiet. Diese alten Rheinarme sind ein wichtiges Rückzugsgebiet für Wasservögel und Amphibien. Man radelt hier durch ein lebendiges Stück Erdgeschichte. Tatze hoch für dieses Projekt!`
+            },
+            {
+                id: 'kerken',
+                icon: '👯‍',
+                title: 'Etappe 4: Aldekerk & Nieukerk',
+                subtitle: 'Das Echo im Kirchturm',
+                elevation: 38,
+                recherche: `<strong>Captains Recherche-Notiz:</strong> Der Name "Kerken" leitet sich tatsächlich von den beiden Hauptorten ab. Aldekerk wurde bereits im 12. Jahrhundert urkundlich erwähnt, während Nieukerk später gegründet wurde. Der Dialekt macht aus dem hochdeutschen "Kirchen" eben "Kerken". Simpel, aber effektiv.`
+            },
+            {
+                id: 'straelen',
+                icon: '🤫',
+                title: 'Etappe 5: Straelen & Smokkelpad',
+                subtitle: 'Schmuggel für Anfänger',
+                elevation: 42,
+                recherche: `<strong>Captains Recherche-Notiz:</strong> Der Schmuggel war nach dem Krieg ein lukratives Geschäft, um hohe Zölle zu umgehen. Kaffee und Tabak waren die Klassiker. Die "Smokkelpads" sind heute beliebte Wander- und Radwege, die an diese wilde Zeit erinnern. Ein Grenzstein markiert den stillen Übergang.`
+            },
+            {
+                id: 'niederlande',
+                icon: '💧',
+                title: 'Etappe 6: Niederlande & Finale',
+                subtitle: 'Vanitas mit Libellen',
+                elevation: 50,
+                recherche: `<strong>Captains Recherche-Notiz:</strong> Der Naturpark Maas-Schwalm-Nette ist ein grenzüberschreitendes Projekt zwischen Deutschland und den Niederlanden. Die Seenlandschaft, wie die Hinsbecker Bruch- und Schrolikseen, entstand durch Torfabbau und ist heute ein Mosaik aus Wasser, Wald und Heidelandschaften.`
+            },
+            {
+                id: 'moenchengladbach',
+                icon: '🏁',
+                title: 'Ziel: Mönchengladbach',
+                subtitle: 'Nass, aber glücklich',
+                elevation: 74,
+                recherche: `<strong>Captains Recherche-Notiz:</strong> Keine Zeit für Recherche. Der Zug fuhr ab. Hauptsache, wieder im Trockenen!`
+            }
+        ];
+
+        document.addEventListener('DOMContentLoaded', () => {
+            const timelineNav = document.getElementById('timeline-nav');
+            const timelineContent = document.getElementById('timeline-content');
+            
+            tourData.forEach((item, index) => {
+                const navItem = document.createElement('div');
+                navItem.className = 'timeline-item relative flex items-center gap-4 cursor-pointer group mb-12';
+                navItem.innerHTML = `
+                    <div id="marker-${item.id}" class="timeline-marker flex-shrink-0 w-10 h-10 bg-gray-300 rounded-full flex items-center justify-center text-xl group-hover:bg-[#84A98C] group-hover:text-white">
+                        ${item.icon}
+                    </div>
+                    <div>
+                        <h3 class="font-bold text-lg text-gray-800 group-hover:text-[#354F52]">${item.title}</h3>
+                        <p class="text-sm text-gray-500">${item.subtitle}</p>
+                    </div>
+                `;
+                timelineNav.appendChild(navItem);
+
+                const contentItem = document.createElement('div');
+                contentItem.id = `content-${item.id}`;
+                contentItem.className = 'content-panel';
+                contentItem.innerHTML = `
+                    <div class="bg-white p-6 rounded-2xl shadow-md border border-gray-200 mb-4">
+                         <div class="p-4 bg-[#F0F2EF] rounded-lg border-l-4 border-[#84A98C]">
+                            <p class="text-sm text-gray-700">${item.recherche}</p>
+                        </div>
+                    </div>
+                `;
+                timelineContent.appendChild(contentItem);
+
+                navItem.addEventListener('click', () => {
+                    document.querySelectorAll('.timeline-marker').forEach(el => el.classList.remove('active'));
+                    document.querySelectorAll('.content-panel').forEach(el => el.classList.remove('active'));
+
+                    document.getElementById(`marker-${item.id}`).classList.add('active');
+                    document.getElementById(`content-${item.id}`).classList.add('active');
+                });
+            });
+
+            if (tourData.length > 0) {
+                document.querySelector('.timeline-item').click();
+            }
+
+            const ctx = document.getElementById('elevationChart').getContext('2d');
+            const elevationData = tourData.map(item => item.elevation);
+            const labels = tourData.map(item => item.title.split(':')[1].trim());
+
+            new Chart(ctx, {
+                type: 'line',
+                data: {
+                    labels: labels,
+                    datasets: [{
+                        label: 'Höhenprofil (m)',
+                        data: elevationData,
+                        borderColor: '#52796F',
+                        backgroundColor: 'rgba(82, 121, 111, 0.1)',
+                        fill: true,
+                        tension: 0.3,
+                        pointBackgroundColor: '#354F52',
+                        pointRadius: 5,
+                        pointHoverRadius: 7
+                    }]
+                },
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: false,
+                    scales: {
+                        y: {
+                            beginAtZero: false,
+                            title: {
+                                display: true,
+                                text: 'Höhe in Metern'
+                            }
+                        }
+                    },
+                    plugins: {
+                        legend: {
+                            display: false
+                        },
+                        tooltip: {
+                            callbacks: {
+                                title: function(context) {
+                                    return context[0].label;
+                                },
+                                label: function(context) {
+                                    return ` Höhe: ${context.parsed.y} m`;
+                                }
+                            }
+                        }
+                    }
+                }
+            });
+        });
+    </script>
+</body>
+</html>
+

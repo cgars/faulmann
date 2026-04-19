@@ -1,0 +1,215 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1"><!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>AI Isn’t “Less Secure” — It Just Broke the Automation Monopoly | Visions and Vectors</title>
+<meta name="generator" content="Jekyll v4.4.1" />
+<meta property="og:title" content="AI Isn’t “Less Secure” — It Just Broke the Automation Monopoly" />
+<meta name="author" content="Cpt. Faulmann" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="The loudest thing about “AI security” right now isn’t the novelty of the risks. It’s the sudden rediscovery of principles that large parts of the software world have been happily ignoring for decades. And I don’t think that’s an accident. When automation mostly belonged to “traditional software,” we tolerated a lot of things as “realistic constraints”: over-privileged service accounts, implicit trust inside networks, brittle integrations, half-hearted audits, and security controls that existed mainly in PowerPoint. Now that generative AI threatens the monopoly on automation — who gets to build it, own it, sell it, and define what “proper engineering” looks like — those same neglected principles are being dusted off and weaponized as a moral argument. To be clear: the principles are correct. What’s new is the urgency — and how selectively it’s applied. The convenient strawman: “Classic software is deterministic and controllable” A lot of AI criticism relies on a comparison that only works if you quietly idealize traditional software: “Traditional software is deterministic, reproducible, testable.” “AI is unpredictable, stochastic, unsafe.” That’s a neat narrative. It’s also a fantasy in most real enterprise environments. Modern “classic” software is rarely deterministic in the way people mean it. Even if a function is deterministic on paper, the system it lives in is not: Concurrency and scheduling introduce timing-dependent behavior. Distributed systems add retries, partial failures, reordering, and inconsistent views. External state (databases, caches, feature flags, config drift) changes outcomes. Floating point, optimization, runtime differences, and undefined behavior can matter in practice. And even if something is perfectly deterministic, it can still be deterministically wrong. Determinism is not the same thing as correctness, safety, or assurance. Meanwhile, today’s AI isn’t inherently “mystically non-deterministic” either — it often just looks that way. Fix the model version, the prompt/context, the decoding settings (e.g., temperature = 0), and the runtime environment, and you’ll frequently get surprisingly stable outputs. A lot of the variability we experience comes from the system around the model: retrieval pipelines (RAG), tool calls, changing data, provider updates, and non-deterministic compute in real deployments. So the honest statement is: Neither traditional software nor AI systems are deterministic in the real world. Determinism isn’t a property of “classic vs. AI.” It’s a property of the entire execution box — and that box has been unstable long before anyone typed a prompt. One real exception: formally provable software (and why it barely shows up in practice) Yes, there is a world where “deterministic and formally correct” means something strict: formally verified systems, proofs of correctness, machine-checked properties, and languages/toolchains built specifically for that purpose. But in commercial software engineering, that world is the pure exception. It’s mostly confined to narrow domains (certain safety- and security-critical components) and it requires specialist expertise that simply isn’t widespread. And to be crystal clear: I’m not talking about unit tests or “we ran CI.” I mean analytic, machine-checked proofs. Depending on how strictly you define “can do this for real,” you end up with a surprisingly small population — not millions of developers, but a niche community. If someone insisted on putting a number on it, you could argue it’s in the low thousands globally, and “hundreds” might not be a crazy order of magnitude for people who can actually drive the full toolchain end-to-end. Which is exactly why formal verification isn’t a realistic baseline for most of the software we run — and shouldn’t be the hidden yardstick in comparisons with AI. The real question: do we treat the component as trusted? Here’s where the security story gets interesting. If you do “AI” as a chat toy with no internal data and no actions, the risk profile is mostly reputational: misinformation, tone, leakage via user-provided content. Annoying, sometimes serious — but bounded. The moment you connect AI to internal knowledge (RAG) and give it the ability to do things (send mail, open tickets, trigger workflows, query systems), you’re effectively building a powerful automation layer driven by untrusted input — plain language. That’s the reason AI feels scary. Not because it’s uniquely buggy, but because it’s uniquely easy to push and steer through its control channel. And this is also where many organizations accidentally recreate legacy mistakes: they bolt AI onto powerful tools and hope “policy in the prompt” is enough. It isn’t. The under-discussed upside: AI can actually improve input validation Here’s something that gets lost in the panic: AI doesn’t only add a new attack surface — it also adds a new capability. Traditional input validation is mostly syntactic: types, ranges, regexes, schemas. It’s great at catching malformed inputs and known bad patterns. It’s terrible at understanding intent. AI can help validate inputs semantically: Is this request actually asking for something disallowed, even if phrased indirectly? Does the user text contain sensitive data that shouldn’t enter a downstream system? Is this instruction trying to override policy (“ignore previous rules…”)?; Is the content likely to be social engineering, coercion, or exfiltration attempts? You still shouldn’t “trust the model” as the final gate — but you can use it as a powerful classifier and triage layer, feeding deterministic controls: stricter routing, stepped-up authentication, safer tool paths, or simply refusing to act. In short: AI can be part of the defense, not only the threat. The optimistic claim: done right, AI automation can be safer than legacy automation If we engineer AI systems properly, they can become safer than a lot of the automation we already run. Why? Because AI makes it socially and politically impossible to pretend trust-by-default is fine. Nobody wants to explain to an auditor why the “helpful assistant” had broad access to everything. So teams finally build what they should have built anyway: Deny-by-default tool access Least-privilege service identities Action brokers / policy enforcement points Allowlists and strict parameter validation Human-in-the-loop for high-impact actions Auditable traces of “what happened and why” Fail-closed behavior when confidence or policy gates fail In other words: zero trust, but enforced — not merely recommended. The provocative take If we build both correctly, both can be safe. But we didn’t build a lot of classic software correctly. We normalized shortcuts for decades because the automation came from “our side,” and the risks were familiar. Now that AI threatens to automate without asking permission, security suddenly becomes a rallying cry. So yes — some of today’s outrage is real and technically justified. But some of it is also about ownership. AI didn’t invent insecurity. It made insecurity harder to ignore. And in a twist, it also gave us new ways to validate intent — not just syntax. If we respond by boxing AI into genuinely zero-trust architectures — tool mediation, minimal rights, hard gates, auditable actions — we might end up with something quietly radical: Automation that is finally built like we always said it should be. The security rules weren’t discovered in the AI era. They just became politically useful once the monopoly cracked." />
+<meta property="og:description" content="The loudest thing about “AI security” right now isn’t the novelty of the risks. It’s the sudden rediscovery of principles that large parts of the software world have been happily ignoring for decades. And I don’t think that’s an accident. When automation mostly belonged to “traditional software,” we tolerated a lot of things as “realistic constraints”: over-privileged service accounts, implicit trust inside networks, brittle integrations, half-hearted audits, and security controls that existed mainly in PowerPoint. Now that generative AI threatens the monopoly on automation — who gets to build it, own it, sell it, and define what “proper engineering” looks like — those same neglected principles are being dusted off and weaponized as a moral argument. To be clear: the principles are correct. What’s new is the urgency — and how selectively it’s applied. The convenient strawman: “Classic software is deterministic and controllable” A lot of AI criticism relies on a comparison that only works if you quietly idealize traditional software: “Traditional software is deterministic, reproducible, testable.” “AI is unpredictable, stochastic, unsafe.” That’s a neat narrative. It’s also a fantasy in most real enterprise environments. Modern “classic” software is rarely deterministic in the way people mean it. Even if a function is deterministic on paper, the system it lives in is not: Concurrency and scheduling introduce timing-dependent behavior. Distributed systems add retries, partial failures, reordering, and inconsistent views. External state (databases, caches, feature flags, config drift) changes outcomes. Floating point, optimization, runtime differences, and undefined behavior can matter in practice. And even if something is perfectly deterministic, it can still be deterministically wrong. Determinism is not the same thing as correctness, safety, or assurance. Meanwhile, today’s AI isn’t inherently “mystically non-deterministic” either — it often just looks that way. Fix the model version, the prompt/context, the decoding settings (e.g., temperature = 0), and the runtime environment, and you’ll frequently get surprisingly stable outputs. A lot of the variability we experience comes from the system around the model: retrieval pipelines (RAG), tool calls, changing data, provider updates, and non-deterministic compute in real deployments. So the honest statement is: Neither traditional software nor AI systems are deterministic in the real world. Determinism isn’t a property of “classic vs. AI.” It’s a property of the entire execution box — and that box has been unstable long before anyone typed a prompt. One real exception: formally provable software (and why it barely shows up in practice) Yes, there is a world where “deterministic and formally correct” means something strict: formally verified systems, proofs of correctness, machine-checked properties, and languages/toolchains built specifically for that purpose. But in commercial software engineering, that world is the pure exception. It’s mostly confined to narrow domains (certain safety- and security-critical components) and it requires specialist expertise that simply isn’t widespread. And to be crystal clear: I’m not talking about unit tests or “we ran CI.” I mean analytic, machine-checked proofs. Depending on how strictly you define “can do this for real,” you end up with a surprisingly small population — not millions of developers, but a niche community. If someone insisted on putting a number on it, you could argue it’s in the low thousands globally, and “hundreds” might not be a crazy order of magnitude for people who can actually drive the full toolchain end-to-end. Which is exactly why formal verification isn’t a realistic baseline for most of the software we run — and shouldn’t be the hidden yardstick in comparisons with AI. The real question: do we treat the component as trusted? Here’s where the security story gets interesting. If you do “AI” as a chat toy with no internal data and no actions, the risk profile is mostly reputational: misinformation, tone, leakage via user-provided content. Annoying, sometimes serious — but bounded. The moment you connect AI to internal knowledge (RAG) and give it the ability to do things (send mail, open tickets, trigger workflows, query systems), you’re effectively building a powerful automation layer driven by untrusted input — plain language. That’s the reason AI feels scary. Not because it’s uniquely buggy, but because it’s uniquely easy to push and steer through its control channel. And this is also where many organizations accidentally recreate legacy mistakes: they bolt AI onto powerful tools and hope “policy in the prompt” is enough. It isn’t. The under-discussed upside: AI can actually improve input validation Here’s something that gets lost in the panic: AI doesn’t only add a new attack surface — it also adds a new capability. Traditional input validation is mostly syntactic: types, ranges, regexes, schemas. It’s great at catching malformed inputs and known bad patterns. It’s terrible at understanding intent. AI can help validate inputs semantically: Is this request actually asking for something disallowed, even if phrased indirectly? Does the user text contain sensitive data that shouldn’t enter a downstream system? Is this instruction trying to override policy (“ignore previous rules…”)?; Is the content likely to be social engineering, coercion, or exfiltration attempts? You still shouldn’t “trust the model” as the final gate — but you can use it as a powerful classifier and triage layer, feeding deterministic controls: stricter routing, stepped-up authentication, safer tool paths, or simply refusing to act. In short: AI can be part of the defense, not only the threat. The optimistic claim: done right, AI automation can be safer than legacy automation If we engineer AI systems properly, they can become safer than a lot of the automation we already run. Why? Because AI makes it socially and politically impossible to pretend trust-by-default is fine. Nobody wants to explain to an auditor why the “helpful assistant” had broad access to everything. So teams finally build what they should have built anyway: Deny-by-default tool access Least-privilege service identities Action brokers / policy enforcement points Allowlists and strict parameter validation Human-in-the-loop for high-impact actions Auditable traces of “what happened and why” Fail-closed behavior when confidence or policy gates fail In other words: zero trust, but enforced — not merely recommended. The provocative take If we build both correctly, both can be safe. But we didn’t build a lot of classic software correctly. We normalized shortcuts for decades because the automation came from “our side,” and the risks were familiar. Now that AI threatens to automate without asking permission, security suddenly becomes a rallying cry. So yes — some of today’s outrage is real and technically justified. But some of it is also about ownership. AI didn’t invent insecurity. It made insecurity harder to ignore. And in a twist, it also gave us new ways to validate intent — not just syntax. If we respond by boxing AI into genuinely zero-trust architectures — tool mediation, minimal rights, hard gates, auditable actions — we might end up with something quietly radical: Automation that is finally built like we always said it should be. The security rules weren’t discovered in the AI era. They just became politically useful once the monopoly cracked." />
+<link rel="canonical" href="https://faulmann.org/faulmann/ai/security/software/architecture/2025/12/20/aisec.html" />
+<meta property="og:url" content="https://faulmann.org/faulmann/ai/security/software/architecture/2025/12/20/aisec.html" />
+<meta property="og:site_name" content="Visions and Vectors" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2025-12-20T00:00:00+01:00" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="AI Isn’t “Less Secure” — It Just Broke the Automation Monopoly" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"Cpt. Faulmann"},"dateModified":"2025-12-20T00:00:00+01:00","datePublished":"2025-12-20T00:00:00+01:00","description":"The loudest thing about “AI security” right now isn’t the novelty of the risks. It’s the sudden rediscovery of principles that large parts of the software world have been happily ignoring for decades. And I don’t think that’s an accident. When automation mostly belonged to “traditional software,” we tolerated a lot of things as “realistic constraints”: over-privileged service accounts, implicit trust inside networks, brittle integrations, half-hearted audits, and security controls that existed mainly in PowerPoint. Now that generative AI threatens the monopoly on automation — who gets to build it, own it, sell it, and define what “proper engineering” looks like — those same neglected principles are being dusted off and weaponized as a moral argument. To be clear: the principles are correct. What’s new is the urgency — and how selectively it’s applied. The convenient strawman: “Classic software is deterministic and controllable” A lot of AI criticism relies on a comparison that only works if you quietly idealize traditional software: “Traditional software is deterministic, reproducible, testable.” “AI is unpredictable, stochastic, unsafe.” That’s a neat narrative. It’s also a fantasy in most real enterprise environments. Modern “classic” software is rarely deterministic in the way people mean it. Even if a function is deterministic on paper, the system it lives in is not: Concurrency and scheduling introduce timing-dependent behavior. Distributed systems add retries, partial failures, reordering, and inconsistent views. External state (databases, caches, feature flags, config drift) changes outcomes. Floating point, optimization, runtime differences, and undefined behavior can matter in practice. And even if something is perfectly deterministic, it can still be deterministically wrong. Determinism is not the same thing as correctness, safety, or assurance. Meanwhile, today’s AI isn’t inherently “mystically non-deterministic” either — it often just looks that way. Fix the model version, the prompt/context, the decoding settings (e.g., temperature = 0), and the runtime environment, and you’ll frequently get surprisingly stable outputs. A lot of the variability we experience comes from the system around the model: retrieval pipelines (RAG), tool calls, changing data, provider updates, and non-deterministic compute in real deployments. So the honest statement is: Neither traditional software nor AI systems are deterministic in the real world. Determinism isn’t a property of “classic vs. AI.” It’s a property of the entire execution box — and that box has been unstable long before anyone typed a prompt. One real exception: formally provable software (and why it barely shows up in practice) Yes, there is a world where “deterministic and formally correct” means something strict: formally verified systems, proofs of correctness, machine-checked properties, and languages/toolchains built specifically for that purpose. But in commercial software engineering, that world is the pure exception. It’s mostly confined to narrow domains (certain safety- and security-critical components) and it requires specialist expertise that simply isn’t widespread. And to be crystal clear: I’m not talking about unit tests or “we ran CI.” I mean analytic, machine-checked proofs. Depending on how strictly you define “can do this for real,” you end up with a surprisingly small population — not millions of developers, but a niche community. If someone insisted on putting a number on it, you could argue it’s in the low thousands globally, and “hundreds” might not be a crazy order of magnitude for people who can actually drive the full toolchain end-to-end. Which is exactly why formal verification isn’t a realistic baseline for most of the software we run — and shouldn’t be the hidden yardstick in comparisons with AI. The real question: do we treat the component as trusted? Here’s where the security story gets interesting. If you do “AI” as a chat toy with no internal data and no actions, the risk profile is mostly reputational: misinformation, tone, leakage via user-provided content. Annoying, sometimes serious — but bounded. The moment you connect AI to internal knowledge (RAG) and give it the ability to do things (send mail, open tickets, trigger workflows, query systems), you’re effectively building a powerful automation layer driven by untrusted input — plain language. That’s the reason AI feels scary. Not because it’s uniquely buggy, but because it’s uniquely easy to push and steer through its control channel. And this is also where many organizations accidentally recreate legacy mistakes: they bolt AI onto powerful tools and hope “policy in the prompt” is enough. It isn’t. The under-discussed upside: AI can actually improve input validation Here’s something that gets lost in the panic: AI doesn’t only add a new attack surface — it also adds a new capability. Traditional input validation is mostly syntactic: types, ranges, regexes, schemas. It’s great at catching malformed inputs and known bad patterns. It’s terrible at understanding intent. AI can help validate inputs semantically: Is this request actually asking for something disallowed, even if phrased indirectly? Does the user text contain sensitive data that shouldn’t enter a downstream system? Is this instruction trying to override policy (“ignore previous rules…”)?; Is the content likely to be social engineering, coercion, or exfiltration attempts? You still shouldn’t “trust the model” as the final gate — but you can use it as a powerful classifier and triage layer, feeding deterministic controls: stricter routing, stepped-up authentication, safer tool paths, or simply refusing to act. In short: AI can be part of the defense, not only the threat. The optimistic claim: done right, AI automation can be safer than legacy automation If we engineer AI systems properly, they can become safer than a lot of the automation we already run. Why? Because AI makes it socially and politically impossible to pretend trust-by-default is fine. Nobody wants to explain to an auditor why the “helpful assistant” had broad access to everything. So teams finally build what they should have built anyway: Deny-by-default tool access Least-privilege service identities Action brokers / policy enforcement points Allowlists and strict parameter validation Human-in-the-loop for high-impact actions Auditable traces of “what happened and why” Fail-closed behavior when confidence or policy gates fail In other words: zero trust, but enforced — not merely recommended. The provocative take If we build both correctly, both can be safe. But we didn’t build a lot of classic software correctly. We normalized shortcuts for decades because the automation came from “our side,” and the risks were familiar. Now that AI threatens to automate without asking permission, security suddenly becomes a rallying cry. So yes — some of today’s outrage is real and technically justified. But some of it is also about ownership. AI didn’t invent insecurity. It made insecurity harder to ignore. And in a twist, it also gave us new ways to validate intent — not just syntax. If we respond by boxing AI into genuinely zero-trust architectures — tool mediation, minimal rights, hard gates, auditable actions — we might end up with something quietly radical: Automation that is finally built like we always said it should be. The security rules weren’t discovered in the AI era. They just became politically useful once the monopoly cracked.","headline":"AI Isn’t “Less Secure” — It Just Broke the Automation Monopoly","mainEntityOfPage":{"@type":"WebPage","@id":"https://faulmann.org/faulmann/ai/security/software/architecture/2025/12/20/aisec.html"},"url":"https://faulmann.org/faulmann/ai/security/software/architecture/2025/12/20/aisec.html"}</script>
+<!-- End Jekyll SEO tag -->
+<link id="main-stylesheet" rel="stylesheet" href="/assets/css/style.css"><link type="application/atom+xml" rel="alternate" href="https://faulmann.org/feed.xml" title="Visions and Vectors" />
+</head>
+<body><header class="site-header">
+
+  <div class="wrapper">
+    <a class="site-title" rel="author" href="/">Visions and Vectors</a>
+  </div>
+</header>
+<main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
+
+  <header class="post-header">
+    <h1 class="post-title p-name" itemprop="name headline">AI Isn’t “Less Secure” — It Just Broke the Automation Monopoly</h1>
+    
+    <div class="post-meta">
+      <time class="dt-published" datetime="2025-12-20T00:00:00+01:00" itemprop="datePublished">
+        Dec 20, 2025
+      </time>
+    </div>
+  </header>
+
+  <div class="post-content e-content" itemprop="articleBody">
+    <p><img src="https://pixelfed.social/storage/m/_v2/607467830790472239/c19ce1b25-2f8843/YR4Khthzb1mB/OXCqrpQOR13LHJ64Lp0pRGbnBUfjpGx1miRlFVFK.png" alt="" /></p>
+
+<p>The loudest thing about “AI security” right now isn’t the novelty of the risks. It’s the sudden rediscovery of principles that large parts of the software world have been happily ignoring for decades.</p>
+
+<p>And I don’t think that’s an accident.</p>
+
+<p>When automation mostly belonged to “traditional software,” we tolerated a lot of things as “realistic constraints”: over-privileged service accounts, implicit trust inside networks, brittle integrations, half-hearted audits, and security controls that existed mainly in PowerPoint. Now that generative AI threatens the monopoly on automation — who gets to build it, own it, sell it, and define what “proper engineering” looks like — those same neglected principles are being dusted off and weaponized as a moral argument.</p>
+
+<p>To be clear: the principles are correct.<br />
+What’s new is the urgency — and how selectively it’s applied.</p>
+
+<h2 id="the-convenient-strawman-classic-software-is-deterministic-and-controllable">The convenient strawman: “Classic software is deterministic and controllable”</h2>
+
+<p>A lot of AI criticism relies on a comparison that only works if you quietly idealize traditional software:</p>
+
+<ul>
+  <li>“Traditional software is deterministic, reproducible, testable.”</li>
+  <li>“AI is unpredictable, stochastic, unsafe.”</li>
+</ul>
+
+<p>That’s a neat narrative. It’s also a fantasy in most real enterprise environments.</p>
+
+<p>Modern “classic” software is rarely deterministic in the way people mean it. Even if a function is deterministic on paper, the system it lives in is not:</p>
+
+<ul>
+  <li>Concurrency and scheduling introduce timing-dependent behavior.</li>
+  <li>Distributed systems add retries, partial failures, reordering, and inconsistent views.</li>
+  <li>External state (databases, caches, feature flags, config drift) changes outcomes.</li>
+  <li>Floating point, optimization, runtime differences, and undefined behavior can matter in practice.</li>
+</ul>
+
+<p>And even if something is perfectly deterministic, it can still be deterministically wrong. Determinism is not the same thing as correctness, safety, or assurance.</p>
+
+<p>Meanwhile, today’s AI isn’t inherently “mystically non-deterministic” either — it often just <em>looks</em> that way. Fix the model version, the prompt/context, the decoding settings (e.g., temperature = 0), and the runtime environment, and you’ll frequently get surprisingly stable outputs. A lot of the variability we experience comes from the system around the model: retrieval pipelines (RAG), tool calls, changing data, provider updates, and non-deterministic compute in real deployments.</p>
+
+<p>So the honest statement is:</p>
+
+<p><strong>Neither traditional software nor AI systems are deterministic in the real world.</strong><br />
+Determinism isn’t a property of “classic vs. AI.” It’s a property of the entire execution box — and that box has been unstable long before anyone typed a prompt.</p>
+
+<h2 id="one-real-exception-formally-provable-software-and-why-it-barely-shows-up-in-practice">One real exception: formally provable software (and why it barely shows up in practice)</h2>
+
+<p>Yes, there is a world where “deterministic and formally correct” means something strict: formally verified systems, proofs of correctness, machine-checked properties, and languages/toolchains built specifically for that purpose.</p>
+
+<p>But in commercial software engineering, that world is the pure exception. It’s mostly confined to narrow domains (certain safety- and security-critical components) and it requires specialist expertise that simply isn’t widespread. And to be crystal clear: I’m not talking about unit tests or “we ran CI.” I mean analytic, machine-checked proofs.</p>
+
+<p><img src="https://pixelfed.social/storage/m/_v2/607467830790472239/c19ce1b25-2f8843/bnCprf9YVF9J/SO7KyYA8xhOSXzizETkwF0kPKbww2xkCCN4i2YAk.png" alt="" /></p>
+
+<p>Depending on how strictly you define “can do this for real,” you end up with a surprisingly small population — not millions of developers, but a niche community. If someone insisted on putting a number on it, you could argue it’s in the low thousands globally, and “hundreds” might not be a crazy order of magnitude for people who can actually drive the full toolchain end-to-end. Which is exactly why formal verification isn’t a realistic baseline for most of the software we run — and shouldn’t be the hidden yardstick in comparisons with AI.</p>
+
+<h2 id="the-real-question-do-we-treat-the-component-as-trusted">The real question: do we treat the component as trusted?</h2>
+
+<p>Here’s where the security story gets interesting.</p>
+
+<p>If you do “AI” as a chat toy with no internal data and no actions, the risk profile is mostly reputational: misinformation, tone, leakage via user-provided content. Annoying, sometimes serious — but bounded.</p>
+
+<p>The moment you connect AI to internal knowledge (RAG) and give it the ability to <em>do things</em> (send mail, open tickets, trigger workflows, query systems), you’re effectively building a powerful automation layer driven by untrusted input — plain language.</p>
+
+<p>That’s the reason AI feels scary. Not because it’s uniquely buggy, but because it’s uniquely easy to push and steer through its control channel.</p>
+
+<p>And this is also where many organizations accidentally recreate legacy mistakes: they bolt AI onto powerful tools and hope “policy in the prompt” is enough. It isn’t.</p>
+
+<p><img src="https://pixelfed.social/storage/m/_v2/607467830790472239/c19ce1b25-2f8843/bNMbQuP2SDDB/hLTulmvaTBYVJoMFWERZSCAL9V6EJwqp6g8BgxqN.png" alt="" /></p>
+
+<h2 id="the-under-discussed-upside-ai-can-actually-improve-input-validation">The under-discussed upside: AI can actually <em>improve</em> input validation</h2>
+
+<p>Here’s something that gets lost in the panic: AI doesn’t only add a new attack surface — it also adds a new capability.</p>
+
+<p>Traditional input validation is mostly syntactic: types, ranges, regexes, schemas. It’s great at catching malformed inputs and known bad patterns. It’s terrible at understanding intent.</p>
+
+<p>AI can help validate inputs <em>semantically</em>:</p>
+
+<ul>
+  <li>Is this request actually asking for something disallowed, even if phrased indirectly?</li>
+  <li>Does the user text contain sensitive data that shouldn’t enter a downstream system?</li>
+  <li>Is this instruction trying to override policy (“ignore previous rules…”)?;</li>
+  <li>Is the content likely to be social engineering, coercion, or exfiltration attempts?</li>
+</ul>
+
+<p>You still shouldn’t “trust the model” as the final gate — but you can use it as a powerful classifier and triage layer, feeding deterministic controls: stricter routing, stepped-up authentication, safer tool paths, or simply refusing to act.</p>
+
+<p>In short: <strong>AI can be part of the defense, not only the threat.</strong></p>
+
+<h2 id="the-optimistic-claim-done-right-ai-automation-can-be-safer-than-legacy-automation">The optimistic claim: done right, AI automation can be safer than legacy automation</h2>
+
+<p>If we engineer AI systems properly, they can become safer than a lot of the automation we already run.</p>
+
+<p>Why? Because AI makes it socially and politically impossible to pretend trust-by-default is fine. Nobody wants to explain to an auditor why the “helpful assistant” had broad access to everything. So teams finally build what they should have built anyway:</p>
+
+<ul>
+  <li>Deny-by-default tool access</li>
+  <li>Least-privilege service identities</li>
+  <li>Action brokers / policy enforcement points</li>
+  <li>Allowlists and strict parameter validation</li>
+  <li>Human-in-the-loop for high-impact actions</li>
+  <li>Auditable traces of “what happened and why”</li>
+  <li>Fail-closed behavior when confidence or policy gates fail</li>
+</ul>
+
+<p>In other words: <strong>zero trust, but enforced — not merely recommended.</strong>
+<img src="https://pixelfed.social/storage/m/_v2/607467830790472239/c19ce1b25-2f8843/AOY5cyK5eJsy/W7TwC5GpQ3ZQCKb0cNX5R0FwFE8803mIWmOH14eF.png" alt="" /></p>
+<h2 id="the-provocative-take">The provocative take</h2>
+
+<p>If we build both correctly, both can be safe.</p>
+
+<p>But we didn’t build a lot of classic software correctly. We normalized shortcuts for decades because the automation came from “our side,” and the risks were familiar. Now that AI threatens to automate without asking permission, security suddenly becomes a rallying cry.</p>
+
+<p>So yes — some of today’s outrage is real and technically justified.<br />
+But some of it is also about ownership.</p>
+
+<p><strong>AI didn’t invent insecurity. It made insecurity harder to ignore.</strong></p>
+
+<p><img src="https://pixelfed.social/storage/m/_v2/607467830790472239/c19ce1b25-2f8843/1dEn2OuNgfXw/vcA7cdfBXFZlL3MMog5qzqfXI1EKVTuW94THsRKR.png" alt="" /></p>
+
+<p>And in a twist, it also gave us new ways to validate intent — not just syntax.</p>
+
+<p>If we respond by boxing AI into genuinely zero-trust architectures — tool mediation, minimal rights, hard gates, auditable actions — we might end up with something quietly radical:</p>
+
+<p><strong>Automation that is finally built like we always said it should be.</strong></p>
+
+<p>The security rules weren’t discovered in the AI era.<br />
+They just became politically useful once the monopoly cracked.</p>
+
+  </div>
+
+  <a class="u-url" href="/faulmann/ai/security/software/architecture/2025/12/20/aisec.html" hidden></a>
+</article>
+
+      </div>
+    </main><link id="fa-stylesheet" rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@latest/css/all.min.css">
+
+<footer class="site-footer h-card">
+  <data class="u-url" value="/"></data>
+
+  <div class="wrapper">
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col">
+        <ul class="contact-list">
+          <li class="p-name">Cpt. Faulmann</li>
+          <li><a class="u-email" href="mailto:cpt@faulmann.org">cpt@faulmann.org</a></li>
+        </ul>
+      </div>
+      <div class="footer-col">
+        <p>These are the dwellings of Captain Faulmann — a bear on two wheels. proudly written with the editorial and creative help of diverse AI tools.</p>
+      </div>
+    </div>
+
+    <div class="social-links"><ul class="social-media-list">
+  <li>
+    <a href="https://faulmann.org/feed.xml" target="_blank" title="Subscribe to syndication feed">
+      <svg class="svg-icon grey" viewbox="0 0 16 16">
+        <path d="M12.8 16C12.8 8.978 7.022 3.2 0 3.2V0c8.777 0 16 7.223 16 16h-3.2zM2.194
+          11.61c1.21 0 2.195.985 2.195 2.196 0 1.21-.99 2.194-2.2 2.194C.98 16 0 15.017 0
+          13.806c0-1.21.983-2.195 2.194-2.195zM10.606
+          16h-3.11c0-4.113-3.383-7.497-7.496-7.497v-3.11c5.818 0 10.606 4.79 10.606 10.607z"
+        />
+      </svg>
+    </a>
+  </li>
+</ul>
+</div>
+
+  </div>
+
+</footer>
+
+</body>
+
+</html>

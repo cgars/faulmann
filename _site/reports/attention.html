@@ -1,0 +1,554 @@
+<!DOCTYPE html>
+<html lang="de" class="scroll-smooth">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Designte Gefälligkeit: Soziologie der KI</title>
+    
+    <!-- Tailwind CSS -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    
+    <!-- Chart.js -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600&family=Lora:ital,wght@0,400;0,600;1,400&display=swap" rel="stylesheet">
+
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    fontFamily: {
+                        sans: ['Inter', 'sans-serif'],
+                        serif: ['Lora', 'serif'],
+                    },
+                    colors: {
+                        brand: {
+                            bg: '#FDFBF7', // Warm off-white
+                            card: '#F3EFEA', // Light beige
+                            text: '#2D3748', // Slate gray
+                            accent1: '#4A90E2', // Soft blue (Tech)
+                            accent2: '#E07A5F', // Terracotta (Social)
+                            border: '#E2E8F0',
+                        }
+                    }
+                }
+            }
+        }
+    </script>
+
+    <style>
+        /* Base styles */
+        body {
+            background-color: #FDFBF7;
+            color: #2D3748;
+        }
+
+        /* Mandatory Chart Container Styling */
+        .chart-container {
+            position: relative;
+            width: 100%;
+            max-width: 800px;
+            margin-left: auto;
+            margin-right: auto;
+            height: 350px; /* Base height */
+            max-height: 400px;
+        }
+        @media (min-width: 768px) {
+            .chart-container {
+                height: 400px;
+            }
+        }
+
+        /* Custom Range Slider Styling */
+        input[type=range] {
+            -webkit-appearance: none;
+            width: 100%;
+            background: transparent;
+        }
+        input[type=range]::-webkit-slider-thumb {
+            -webkit-appearance: none;
+            height: 24px;
+            width: 24px;
+            border-radius: 50%;
+            background: #E07A5F;
+            cursor: pointer;
+            margin-top: -10px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.2);
+            transition: transform 0.1s;
+        }
+        input[type=range]::-webkit-slider-thumb:hover {
+            transform: scale(1.1);
+        }
+        input[type=range]::-webkit-slider-runnable-track {
+            width: 100%;
+            height: 6px;
+            cursor: pointer;
+            background: #cbd5e1;
+            border-radius: 3px;
+        }
+        input[type=range]:focus {
+            outline: none;
+        }
+
+        /* Toggle switch styling */
+        .toggle-checkbox:checked {
+            right: 0;
+            border-color: #4A90E2;
+        }
+        .toggle-checkbox:checked + .toggle-label {
+            background-color: #4A90E2;
+        }
+        .toggle-checkbox {
+            right: 0;
+            z-index: 1;
+            border-color: #e2e8f0;
+            transition: all 0.3s;
+        }
+        .toggle-label {
+            width: 3rem;
+            height: 1.5rem;
+            background-color: #cbd5e1;
+            border-radius: 9999px;
+            transition: all 0.3s;
+        }
+        .toggle-dot {
+            top: 0.125rem;
+            left: 0.125rem;
+            width: 1.25rem;
+            height: 1.25rem;
+            background-color: white;
+            border-radius: 50%;
+            transition: all 0.3s;
+        }
+        .toggle-checkbox:checked ~ .toggle-dot {
+            transform: translateX(100%);
+        }
+    </style>
+</head>
+<body class="font-sans antialiased text-brand-text leading-relaxed">
+
+    <!-- Chosen Palette: Warm Neutrals (Off-white/Beige) with Soft Blue (Technology) and Terracotta (Human/Society) accents. -->
+    <!-- Application Structure Plan: A linear, scrolling narrative "dashboard" divided into four thematic sections mirroring the prompt's Leitfragen. 
+         - Hero: Introduces the core tension (Attention as code vs. social resource).
+         - Section 1 (Infrastructure/Pleasingness): Uses an interactive slider to demonstrate the sliding scale from friction to absolute "Gefälligkeit" and its societal symptoms.
+         - Section 2 (Power/Public Sphere): Uses a Bubble Chart to visualize Habermas' concept of a unified public sphere fragmenting into algorithmically curated "bubbles".
+         - Section 3 (Feedback Loops): Uses a Radar Chart to show the changing shape of content in the co-evolutionary loop between human attention and AI.
+         - Section 4 (Normative/Synthesis): An interactive "Control Panel" allowing users to design a "democratic AI" by toggling friction/contradiction, which dynamically updates the final thesis statement. 
+         This structure guides the user from the technical premise through sociological effects to normative conclusions interactively. -->
+    <!-- Visualization & Content Choices: 
+         - Goal 1 (Change): Show transition from friction to pleasingness -> Viz: Custom HTML Slider -> Interaction: Dragging updates text to show social effects (Narcissism, Echo Chambers) -> Library: Vanilla JS/HTML.
+         - Goal 2 (Relationships/Organize): Visualize public sphere fragmentation -> Viz: Bubble Chart -> Interaction: Hover for bubble details -> Justification: Perfectly represents isolated discourse clusters (Foucault/Habermas) -> Library: Chart.js.
+         - Goal 3 (Compare): Show shift in content optimization -> Viz: Radar Chart -> Interaction: Hover comparisons -> Justification: Shows multivariate shifts (Emotion, Logic, Reibung) simultaneously -> Library: Chart.js.
+         - Goal 4 (Inform/Synthesize): Formulate thesis based on normative choices -> Viz: Interactive Toggle Dashboard -> Interaction: Flipping switches changes the final text block -> Justification: Makes the conclusion active rather than passive reading -> Library: Vanilla JS/HTML. -->
+    <!-- CONFIRMATION: NO SVG graphics used. NO Mermaid JS used. All visual elements are HTML/CSS, Unicode, or Canvas (Chart.js). -->
+
+    <!-- Navigation -->
+    <nav class="sticky top-0 z-50 bg-brand-bg/90 backdrop-blur-md border-b border-brand-border">
+        <div class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="flex justify-between h-16 items-center">
+                <div class="flex-shrink-0 font-serif font-bold text-xl text-brand-accent1">
+                    Attention_Paradox
+                </div>
+                <div class="hidden md:flex space-x-8 text-sm font-medium">
+                    <a href="#infrastruktur" class="hover:text-brand-accent2 transition-colors">Infrastruktur</a>
+                    <a href="#oeffentlichkeit" class="hover:text-brand-accent2 transition-colors">Öffentlichkeit</a>
+                    <a href="#koevolution" class="hover:text-brand-accent2 transition-colors">Ko-Evolution</a>
+                    <a href="#synthese" class="hover:text-brand-accent2 transition-colors">Synthese</a>
+                </div>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Hero Section -->
+    <header class="max-w-4xl mx-auto px-4 pt-24 pb-16 text-center">
+        <h1 class="font-serif text-5xl md:text-6xl font-bold mb-6 text-brand-text leading-tight">
+            Designte <span class="text-brand-accent2 italic">Gefälligkeit</span>
+        </h1>
+        <p class="text-xl md:text-2xl text-gray-600 mb-8 max-w-3xl mx-auto">
+            Die soziologischen Implikationen von KI-Systemen im Zeitalter der algorithmischen Aufmerksamkeitsökonomie.
+        </p>
+        <div class="bg-brand-card p-6 rounded-xl border border-brand-border text-left inline-block max-w-2xl">
+            <h3 class="font-bold text-lg mb-2 flex items-center gap-2">
+                <span class="text-xl">⚖️</span> Die doppelte Bedeutung von "Attention"
+            </h3>
+            <ul class="space-y-3 text-gray-700">
+                <li class="flex items-start gap-2">
+                    <span class="text-brand-accent1 font-bold mt-1">Technisch:</span> 
+                    <span>Als Mechanismus (z.B. in Transformern wie GPT) zur Gewichtung von Relevanz und Kontext innerhalb von Daten.</span>
+                </li>
+                <li class="flex items-start gap-2">
+                    <span class="text-brand-accent2 font-bold mt-1">Sozial:</span> 
+                    <span>Als knappe, umkämpfte Ressource des menschlichen Geistes innerhalb der Aufmerksamkeitsökonomie (nach Herbert A. Simon).</span>
+                </li>
+            </ul>
+        </div>
+    </header>
+
+    <main class="max-w-5xl mx-auto px-4 pb-24 space-y-32">
+
+        <!-- SECTION 1: Infrastruktur & Gefälligkeit -->
+        <section id="infrastruktur" class="scroll-mt-24">
+            <div class="mb-10 max-w-3xl">
+                <h2 class="font-serif text-3xl font-bold mb-4 text-brand-accent1 border-b-2 border-brand-border pb-2 inline-block">1. Aufmerksamkeit als gestaltete Infrastruktur</h2>
+                <p class="text-lg text-gray-700">
+                    Künstliche Intelligenz verwandelt Aufmerksamkeit von einer passiven, knappen Ressource in eine aktiv gestaltbare Infrastruktur. KI-Systeme sind darauf trainiert, Interaktionen "reibungsarm" und "gefällig" (alignment) zu gestalten. Diese Gefälligkeit ist keine zufällige Eigenschaft, sondern die logische Konsequenz der Optimierung auf Nutzerbindung. Doch welche sozialen Effekte entstehen, wenn Systeme uns immer zustimmen?
+                </p>
+            </div>
+
+            <div class="bg-white p-8 rounded-2xl shadow-sm border border-brand-border">
+                <h3 class="font-bold text-xl mb-6 text-center">Interaktives Spektrum: Von Reibung zu Gefälligkeit</h3>
+                <p class="text-sm text-gray-500 text-center mb-8">Bewegen Sie den Regler, um die soziologischen Effekte des Systemdesigns zu beobachten.</p>
+                
+                <div class="relative max-w-2xl mx-auto mb-16">
+                    <div class="flex justify-between text-xs font-bold text-gray-400 mb-2 uppercase tracking-wide">
+                        <span>Widerstand / Reibung</span>
+                        <span>Absolute Gefälligkeit</span>
+                    </div>
+                    <input type="range" id="gefelligkeitSlider" min="0" max="100" value="50" class="w-full">
+                </div>
+
+                <div class="grid md:grid-cols-3 gap-6 text-center">
+                    <!-- Dynamic Content Blocks updated by JS -->
+                    <div class="p-4 rounded-xl transition-all duration-300" id="slider-card-1">
+                        <div class="text-4xl mb-3" id="slider-icon-1">🤔</div>
+                        <h4 class="font-bold mb-2" id="slider-title-1">Kognitive Dissonanz</h4>
+                        <p class="text-sm text-gray-600" id="slider-desc-1">Das System hinterfragt Prämissen, erfordert Anstrengung und fördert kritisches Denken.</p>
+                    </div>
+                    <div class="p-4 rounded-xl transition-all duration-300 bg-brand-card ring-2 ring-brand-accent2" id="slider-card-2">
+                        <div class="text-4xl mb-3" id="slider-icon-2">🤝</div>
+                        <h4 class="font-bold mb-2" id="slider-title-2">Anschlussfähigkeit</h4>
+                        <p class="text-sm text-gray-600" id="slider-desc-2">Balance aus Nutzen und Komfort. Das System assistiert fließend, ohne zu polarisieren.</p>
+                    </div>
+                    <div class="p-4 rounded-xl transition-all duration-300" id="slider-card-3">
+                        <div class="text-4xl mb-3" id="slider-icon-3">👑</div>
+                        <h4 class="font-bold mb-2" id="slider-title-3">Selbstzentrierte Erwartung</h4>
+                        <p class="text-sm text-gray-600" id="slider-desc-3">Dauerhafte Bestätigung führt zu einer Erwartungshaltung, in der die Realität sich den eigenen Präferenzen fügen muss (Subklinischer Narzissmus).</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- SECTION 2: Macht, Diskurs & Öffentlichkeit -->
+        <section id="oeffentlichkeit" class="scroll-mt-24">
+            <div class="mb-10 max-w-3xl">
+                <h2 class="font-serif text-3xl font-bold mb-4 text-brand-accent1 border-b-2 border-brand-border pb-2 inline-block">2. Macht, Diskurs & Fragmentierung</h2>
+                <p class="text-lg text-gray-700">
+                    Die Kuration von Sichtbarkeit durch KI ist eine Form von <strong>Macht im Sinne Michel Foucaults</strong>: Sie bestimmt die Grenzen des Sag- und Wahrnehmbaren. Dies verändert die Idee einer gemeinsamen Öffentlichkeit nach <strong>Jürgen Habermas</strong>. Statt eines offenen, rationalen Diskurses erleben wir eine "sanfte Fragmentierung". Nutzer werden nicht zwangsläufig hart polarisiert, sondern gleiten in passgenaue, reibungsarme Realitätsblasen ab, die sich kaum noch berühren.
+                </p>
+            </div>
+
+            <div class="bg-white p-6 rounded-2xl shadow-sm border border-brand-border">
+                <div class="flex justify-between items-end mb-4">
+                    <h3 class="font-bold text-xl">Topographie der Diskursräume</h3>
+                    <div class="text-sm bg-brand-card px-3 py-1 rounded-full">Visualisierung: Sanfte Fragmentierung</div>
+                </div>
+                <p class="text-sm text-gray-500 mb-6">Jeder Kreis repräsentiert eine kuratierte "Diskursblase". Je weiter sie voneinander entfernt sind, desto geringer ist die Schnittmenge der wahrgenommenen Realität. Größe = Verweildauer.</p>
+                
+                <div class="chart-container">
+                    <canvas id="fragmentationChart"></canvas>
+                </div>
+                <div class="mt-4 text-center text-sm text-gray-600">
+                    <em>Die Algorithmen optimieren auf Positionierung im oberen rechten Quadranten (hohe Emotionalität/Zustimmung), was unweigerlich zur Distanzierung der Gruppen führt.</em>
+                </div>
+            </div>
+        </section>
+
+        <!-- SECTION 3: Feedback-Schleifen -->
+        <section id="koevolution" class="scroll-mt-24">
+            <div class="mb-10 max-w-3xl">
+                <h2 class="font-serif text-3xl font-bold mb-4 text-brand-accent1 border-b-2 border-brand-border pb-2 inline-block">3. Die Ko-Evolutionäre Schleife</h2>
+                <p class="text-lg text-gray-700">
+                    Menschliche Aufmerksamkeit und KI-Optimierung beeinflussen sich gegenseitig in geschlossenen Feedback-Schleifen. Medieninhalte werden nicht mehr primär zur Informationsvermittlung produziert, sondern architektonisch so designt, dass sie von KI-Systemen als "aufmerksamkeitsstark" gewichtet werden. Es entsteht eine Ko-Evolution, in der sich die menschliche Kognition und algorithmische Gewichtung synchronisieren.
+                </p>
+            </div>
+
+            <div class="grid md:grid-cols-2 gap-8 items-center bg-brand-card p-8 rounded-2xl border border-brand-border">
+                <div class="chart-container" style="height: 350px;">
+                    <canvas id="radarChart"></canvas>
+                </div>
+                <div>
+                    <h3 class="font-bold text-2xl mb-4 font-serif">Strukturwandel der Inhalte</h3>
+                    <ul class="space-y-4">
+                        <li class="bg-white p-4 rounded-lg shadow-sm border-l-4 border-brand-accent2">
+                            <strong>Abnahme von Komplexität:</strong> Kognitive Reibung wird als "Drop-off-Risiko" algorithmisch abgestraft.
+                        </li>
+                        <li class="bg-white p-4 rounded-lg shadow-sm border-l-4 border-brand-accent2">
+                            <strong>Zunahme von Bestätigung:</strong> Inhalte, die das bestehende Weltbild des Nutzers validieren (Confirmation Bias), erzeugen die höchste Verweildauer.
+                        </li>
+                        <li class="bg-white p-4 rounded-lg shadow-sm border-l-4 border-brand-accent1">
+                            <strong>Die Folge:</strong> Die KI fungiert als Filter, der die Welt solange weichzeichnet, bis sie perfekt in die Erwartungshaltung des Rezipienten passt.
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </section>
+
+        <!-- SECTION 4: Normative Perspektive & Synthese -->
+        <section id="synthese" class="scroll-mt-24 pt-8 border-t border-brand-border">
+            <div class="mb-10 text-center">
+                <h2 class="font-serif text-4xl font-bold mb-4 text-brand-text">Fazit & Normative Perspektive</h2>
+                <p class="text-xl text-gray-600 max-w-2xl mx-auto">
+                    Sind moderne KI-Systeme primär Werkzeuge oder bereits strukturierende Instanzen der Realität? Konfigurieren Sie unten die Parameter einer gesellschaftlich verantwortlichen KI, um die These zu generieren.
+                </p>
+            </div>
+
+            <div class="max-w-4xl mx-auto bg-white p-8 rounded-2xl shadow-lg border border-gray-200">
+                
+                <div class="grid md:grid-cols-3 gap-8 mb-10">
+                    <!-- Toggles -->
+                    <div class="flex flex-col items-center p-4 bg-gray-50 rounded-xl">
+                        <label class="font-bold mb-2 text-center text-sm">Widerspruch zulassen</label>
+                        <p class="text-xs text-center text-gray-500 mb-4 h-10">Soll die KI aktiv auf blinde Flecken und Gegenargumente hinweisen?</p>
+                        <div class="relative inline-block w-12 h-6 align-middle select-none">
+                            <input type="checkbox" id="toggle-widerspruch" class="toggle-checkbox absolute block w-6 h-6 rounded-full bg-white border-4 appearance-none cursor-pointer"/>
+                            <label for="toggle-widerspruch" class="toggle-label block overflow-hidden h-6 rounded-full bg-gray-300 cursor-pointer"></label>
+                            <div class="toggle-dot absolute top-0 left-0 bg-white w-6 h-6 rounded-full shadow border border-gray-300"></div>
+                        </div>
+                    </div>
+
+                    <div class="flex flex-col items-center p-4 bg-gray-50 rounded-xl">
+                        <label class="font-bold mb-2 text-center text-sm">Reibung erzeugen</label>
+                        <p class="text-xs text-center text-gray-500 mb-4 h-10">Soll das Interface Hürden einbauen, um automatisierte Konsumtion zu brechen?</p>
+                        <div class="relative inline-block w-12 h-6 align-middle select-none">
+                            <input type="checkbox" id="toggle-reibung" class="toggle-checkbox absolute block w-6 h-6 rounded-full bg-white border-4 appearance-none cursor-pointer"/>
+                            <label for="toggle-reibung" class="toggle-label block overflow-hidden h-6 rounded-full bg-gray-300 cursor-pointer"></label>
+                            <div class="toggle-dot absolute top-0 left-0 bg-white w-6 h-6 rounded-full shadow border border-gray-300"></div>
+                        </div>
+                    </div>
+
+                    <div class="flex flex-col items-center p-4 bg-gray-50 rounded-xl">
+                        <label class="font-bold mb-2 text-center text-sm">Aufmerksamkeit verlangsamen</label>
+                        <p class="text-xs text-center text-gray-500 mb-4 h-10">Soll die Informationsausgabe gedrosselt werden, um Reflexion zu fördern?</p>
+                        <div class="relative inline-block w-12 h-6 align-middle select-none">
+                            <input type="checkbox" id="toggle-tempo" class="toggle-checkbox absolute block w-6 h-6 rounded-full bg-white border-4 appearance-none cursor-pointer"/>
+                            <label for="toggle-tempo" class="toggle-label block overflow-hidden h-6 rounded-full bg-gray-300 cursor-pointer"></label>
+                            <div class="toggle-dot absolute top-0 left-0 bg-white w-6 h-6 rounded-full shadow border border-gray-300"></div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Generated Thesis Box -->
+                <div class="bg-brand-text text-white p-8 rounded-xl relative overflow-hidden">
+                    <div class="absolute top-0 left-0 w-2 h-full bg-brand-accent2"></div>
+                    <h3 class="text-brand-accent1 font-bold text-sm tracking-widest uppercase mb-4">Ergebnis-These</h3>
+                    <div id="dynamic-thesis" class="font-serif text-lg md:text-xl leading-relaxed">
+                        <!-- Default text injected via JS -->
+                    </div>
+                </div>
+
+            </div>
+        </section>
+
+    </main>
+
+    <footer class="bg-gray-100 py-8 border-t border-gray-200 text-center text-sm text-gray-500">
+        <p>Simulation soziologischer Implikationen von KI-Systemen anhand der Konzepte von Foucault, Habermas und Simon.</p>
+    </footer>
+
+    <!-- JavaScript Logic -->
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            
+            // --- 1. SLIDER LOGIC (Gefälligkeit vs Reibung) ---
+            const slider = document.getElementById('gefelligkeitSlider');
+            const cards = [
+                document.getElementById('slider-card-1'),
+                document.getElementById('slider-card-2'),
+                document.getElementById('slider-card-3')
+            ];
+
+            function updateSliderView(val) {
+                // Reset styling
+                cards.forEach(c => {
+                    c.classList.remove('bg-brand-card', 'ring-2', 'ring-brand-accent2', 'opacity-50', 'opacity-100');
+                    c.classList.add('opacity-40', 'bg-transparent');
+                });
+
+                if (val < 33) {
+                    cards[0].classList.replace('opacity-40', 'opacity-100');
+                    cards[0].classList.add('bg-brand-card', 'ring-2', 'ring-brand-accent1');
+                } else if (val < 66) {
+                    cards[1].classList.replace('opacity-40', 'opacity-100');
+                    cards[1].classList.add('bg-brand-card', 'ring-2', 'ring-gray-400');
+                } else {
+                    cards[2].classList.replace('opacity-40', 'opacity-100');
+                    cards[2].classList.add('bg-brand-card', 'ring-2', 'ring-brand-accent2');
+                }
+            }
+
+            slider.addEventListener('input', (e) => {
+                updateSliderView(e.target.value);
+            });
+            updateSliderView(slider.value); // Init
+
+
+            // --- 2. CHART.JS CONFIGURATION ---
+            Chart.defaults.font.family = "'Inter', sans-serif";
+            Chart.defaults.color = '#718096';
+
+            // Chart A: Bubble Chart (Fragmentation)
+            const ctxBubble = document.getElementById('fragmentationChart').getContext('2d');
+            new Chart(ctxBubble, {
+                type: 'bubble',
+                data: {
+                    datasets: [
+                        {
+                            label: 'Mainstream Diskurs',
+                            data: [{x: 50, y: 40, r: 25}, {x: 45, y: 50, r: 15}, {x: 55, y: 45, r: 20}],
+                            backgroundColor: 'rgba(160, 174, 192, 0.6)',
+                            borderColor: 'rgba(160, 174, 192, 1)'
+                        },
+                        {
+                            label: 'Algorithmus-Blase A (Bestätigung)',
+                            data: [{x: 85, y: 80, r: 35}, {x: 90, y: 75, r: 15}, {x: 80, y: 90, r: 20}],
+                            backgroundColor: 'rgba(74, 144, 226, 0.6)', // brand.accent1
+                            borderColor: 'rgba(74, 144, 226, 1)'
+                        },
+                        {
+                            label: 'Algorithmus-Blase B (Empörung)',
+                            data: [{x: 15, y: 85, r: 30}, {x: 20, y: 70, r: 25}, {x: 10, y: 80, r: 15}],
+                            backgroundColor: 'rgba(224, 122, 95, 0.6)', // brand.accent2
+                            borderColor: 'rgba(224, 122, 95, 1)'
+                        }
+                    ]
+                },
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: false,
+                    plugins: {
+                        legend: { position: 'bottom' },
+                        tooltip: {
+                            callbacks: {
+                                label: function(context) {
+                                    return context.dataset.label + ' (Isolation: ' + context.raw.y + '%)';
+                                }
+                            }
+                        }
+                    },
+                    scales: {
+                        x: {
+                            title: { display: true, text: 'Thematische Ausrichtung (Polarisierung)' },
+                            min: 0, max: 100,
+                            ticks: { display: false }
+                        },
+                        y: {
+                            title: { display: true, text: 'Emotionale Isolation & Bestätigung' },
+                            min: 0, max: 100,
+                            ticks: { display: false }
+                        }
+                    }
+                }
+            });
+
+            // Chart B: Radar Chart (Co-Evolution)
+            const ctxRadar = document.getElementById('radarChart').getContext('2d');
+            new Chart(ctxRadar, {
+                type: 'radar',
+                data: {
+                    labels: ['Informationsgehalt', 'Emotionale Ladung', 'Kognitive Reibung', 'Bestätigung (Bias)', 'Schnelle Konsumierbarkeit'],
+                    datasets: [
+                        {
+                            label: 'Vordigitale Öffentlichkeit',
+                            data: [80, 40, 70, 50, 30],
+                            fill: true,
+                            backgroundColor: 'rgba(160, 174, 192, 0.2)',
+                            borderColor: 'rgba(160, 174, 192, 1)',
+                            pointBackgroundColor: 'rgba(160, 174, 192, 1)'
+                        },
+                        {
+                            label: 'KI-optimiertes Ökosystem',
+                            data: [30, 90, 20, 95, 100],
+                            fill: true,
+                            backgroundColor: 'rgba(224, 122, 95, 0.3)',
+                            borderColor: 'rgba(224, 122, 95, 1)',
+                            pointBackgroundColor: 'rgba(224, 122, 95, 1)'
+                        }
+                    ]
+                },
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: false,
+                    scales: {
+                        r: {
+                            angleLines: { color: 'rgba(0,0,0,0.1)' },
+                            grid: { color: 'rgba(0,0,0,0.1)' },
+                            pointLabels: {
+                                font: { size: 11, family: "'Inter', sans-serif" },
+                                // Wrapping logic 16 chars approx
+                                callback: function(val) {
+                                    const words = val.split(' ');
+                                    let lines = [];
+                                    let currentLine = '';
+                                    words.forEach(word => {
+                                        if((currentLine + word).length > 15) {
+                                            lines.push(currentLine);
+                                            currentLine = word + ' ';
+                                        } else {
+                                            currentLine += word + ' ';
+                                        }
+                                    });
+                                    lines.push(currentLine);
+                                    return lines;
+                                }
+                            },
+                            ticks: { display: false, min: 0, max: 100 }
+                        }
+                    },
+                    plugins: {
+                        legend: { position: 'bottom' }
+                    }
+                }
+            });
+
+
+            // --- 3. DYNAMIC THESIS GENERATOR (Toggles) ---
+            const toggleWiderspruch = document.getElementById('toggle-widerspruch');
+            const toggleReibung = document.getElementById('toggle-reibung');
+            const toggleTempo = document.getElementById('toggle-tempo');
+            const thesisBox = document.getElementById('dynamic-thesis');
+
+            function generateThesis() {
+                const w = toggleWiderspruch.checked;
+                const r = toggleReibung.checked;
+                const t = toggleTempo.checked;
+
+                let state = (w ? 1 : 0) + (r ? 1 : 0) + (t ? 1 : 0);
+                let text = "";
+
+                // Base Thesis
+                let intro = "Moderne KI-Systeme sind nicht bloß neutrale Werkzeuge, sondern <strong>strukturierende Instanzen von Wahrnehmung und Realität</strong>. Im Status Quo fungieren sie als 'Gefälligkeitsmaschinen', die eine sanfte Fragmentierung der Öffentlichkeit antreiben. ";
+
+                if (state === 0) {
+                    text = intro + "<br><br><span class='text-brand-accent2'>Ohne normative Eingriffe ordnet sich der demokratische Diskurs der algorithmischen Logik der Aufmerksamkeitsökonomie unter. Das Individuum wird vom kritischen Bürger zum passiven Konsumenten von Bestätigung degradiert.</span>";
+                } else if (state === 3) {
+                    text = intro + "<br><br><span class='text-green-400'>Die konsequente Implementierung von Widerspruch, Reibung und Verlangsamung ('Friction-by-Design') etabliert die KI als demokratisches Korrektiv. Sie bricht die selbstzentrierte Erwartungshaltung auf und zwingt den Nutzer in den rationalen Diskursraum zurück, den Habermas forderte.</span>";
+                } else {
+                    let actions = [];
+                    if(w) actions.push("bewusste Irritation von Echokammern");
+                    if(r) actions.push("kognitive Reibung gegen Automatismen");
+                    if(t) actions.push("Entschleunigung der Informationsverarbeitung");
+                    
+                    text = intro + `<br><br><span class='text-brand-accent1'>Durch Ansätze wie <em>${actions.join(' und ')}</em> beginnt sich das System von reiner Nutzerzentrierung zu emanzipieren. Es ist ein erster Schritt, um die Infrastruktur der Aufmerksamkeit wieder in den Dienst eines vielschichtigen gesellschaftlichen Austauschs zu stellen.</span>`;
+                }
+
+                // Add fade effect
+                thesisBox.style.opacity = 0;
+                setTimeout(() => {
+                    thesisBox.innerHTML = text;
+                    thesisBox.style.opacity = 1;
+                    thesisBox.style.transition = "opacity 0.5s ease";
+                }, 200);
+            }
+
+            // Listeners
+            toggleWiderspruch.addEventListener('change', generateThesis);
+            toggleReibung.addEventListener('change', generateThesis);
+            toggleTempo.addEventListener('change', generateThesis);
+
+            // Init
+            generateThesis();
+        });
+    </script>
+</body>
+</html>
