@@ -1,0 +1,341 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Stolberg Industriekultur – Dynamischer Report</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    colors: {
+                        slate: { 950: '#020617' },
+                        copper: '#b45309',
+                        zinc: '#475569',
+                        flood: '#1d4ed8',
+                        growth: '#166534'
+                    }
+                }
+            }
+        }
+    </script>
+    <style>
+        .chart-container { position: relative; width: 100%; height: 320px; }
+        .tab-btn.active { background: #0f172a; color: #f8fafc; }
+        .tag-btn.active { background: #1e293b; color: #fff; border-color: #1e293b; }
+    </style>
+</head>
+<body class="bg-slate-50 text-slate-800">
+    <header class="bg-slate-950 text-slate-100">
+        <div class="max-w-6xl mx-auto px-4 py-10">
+            <p class="text-sm uppercase tracking-widest text-slate-300 mb-2">Interaktiver Einseiten-Report</p>
+            <h1 class="text-3xl md:text-5xl font-bold leading-tight">Die Genese einer Industriekultur: Stolberg (Rheinland) & Stolberg (Harz)</h1>
+            <p class="mt-4 text-slate-300 max-w-4xl">Eine dynamische Auswertung zu Burgentwicklung, Industrialisierung, Flutfolgen, Revitalisierung und kultureller Resilienz im April 2026.</p>
+        </div>
+    </header>
+
+    <nav class="sticky top-0 z-40 bg-white/95 backdrop-blur border-b border-slate-200">
+        <div class="max-w-6xl mx-auto px-4 py-3 flex flex-wrap gap-2 text-sm">
+            <a href="#dualitaet" class="px-3 py-1 rounded-full bg-slate-100 hover:bg-slate-200">Dualität</a>
+            <a href="#burg" class="px-3 py-1 rounded-full bg-slate-100 hover:bg-slate-200">Burgchronologie</a>
+            <a href="#industrie" class="px-3 py-1 rounded-full bg-slate-100 hover:bg-slate-200">Industrie</a>
+            <a href="#wiederaufbau" class="px-3 py-1 rounded-full bg-slate-100 hover:bg-slate-200">Flut & Wiederaufbau</a>
+            <a href="#kalender" class="px-3 py-1 rounded-full bg-slate-100 hover:bg-slate-200">Kalender</a>
+        </div>
+    </nav>
+
+    <main class="max-w-6xl mx-auto px-4 py-8 space-y-10">
+        <section id="dualitaet" class="bg-white rounded-2xl border border-slate-200 p-6">
+            <h2 class="text-2xl font-semibold mb-4">1) Historische Dualität</h2>
+            <div class="flex flex-wrap gap-2 mb-4">
+                <button class="tab-btn active px-4 py-2 rounded-lg border border-slate-300" data-tab="rheinland">Stolberg (Rheinland)</button>
+                <button class="tab-btn px-4 py-2 rounded-lg border border-slate-300" data-tab="harz">Stolberg (Harz)</button>
+            </div>
+            <div id="tab-content" class="bg-slate-50 rounded-xl p-5 border border-slate-200"></div>
+        </section>
+
+        <section id="burg" class="bg-white rounded-2xl border border-slate-200 p-6">
+            <div class="flex flex-col md:flex-row md:items-center md:justify-between gap-4 mb-4">
+                <h2 class="text-2xl font-semibold">2) Burg Stolberg (Rheinland): Zeitleiste</h2>
+                <label class="text-sm">Zeitraum
+                    <select id="timelineFilter" class="ml-2 px-2 py-1 border border-slate-300 rounded">
+                        <option value="all">Alle</option>
+                        <option value="mittelalter">Mittelalter</option>
+                        <option value="neuzeit">Neuzeit</option>
+                    </select>
+                </label>
+            </div>
+            <div class="chart-container"><canvas id="timelineChart"></canvas></div>
+            <div id="timelineList" class="mt-6 grid md:grid-cols-2 gap-3"></div>
+        </section>
+
+        <section id="industrie" class="bg-white rounded-2xl border border-slate-200 p-6">
+            <h2 class="text-2xl font-semibold mb-5">3) Industrie, Chemie & Naturraum</h2>
+            <div class="grid lg:grid-cols-2 gap-6">
+                <div>
+                    <h3 class="font-semibold mb-2">Museum Zinkhütter Hof – Schwerpunktfelder</h3>
+                    <div class="chart-container"><canvas id="industryChart"></canvas></div>
+                </div>
+                <div class="space-y-3">
+                    <div class="p-4 rounded-lg bg-amber-50 border border-amber-200">
+                        <h4 class="font-semibold text-copper">Metallurgie-Basis</h4>
+                        <ul class="mt-2 text-sm space-y-1">
+                            <li><b>Galmei / Zinkspat:</b> ZnCO₃</li>
+                            <li><b>Kalkstein:</b> CaCO₃</li>
+                            <li><b>Branntkalk:</b> CaO</li>
+                            <li><b>Löschkalk:</b> Ca(OH)₂</li>
+                        </ul>
+                    </div>
+                    <div class="p-4 rounded-lg bg-emerald-50 border border-emerald-200">
+                        <h4 class="font-semibold text-growth">Galmeiflora am Schlangenberg</h4>
+                        <p class="text-sm mt-2">Das Gelbe Galmeiveilchen (Viola calaminaria) toleriert hohe Schwermetallanteile (u. a. Zink, Blei, Cadmium) und ist ein weltweit seltenes Anpassungsphänomen.</p>
+                    </div>
+                    <div class="p-4 rounded-lg bg-slate-100 border border-slate-200">
+                        <h4 class="font-semibold text-zinc">Museumsfigur Galminus</h4>
+                        <p class="text-sm mt-2">Symbolisiert die Verbindung von Rohstoffgeschichte, Bergbaukultur und Vermittlung für Kinder.</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="wiederaufbau" class="bg-white rounded-2xl border border-slate-200 p-6">
+            <h2 class="text-2xl font-semibold mb-5">4) Flutkatastrophe 2021 und Resilienz bis 2026</h2>
+            <div class="grid lg:grid-cols-2 gap-6">
+                <div class="space-y-3">
+                    <div class="p-4 rounded-lg bg-blue-50 border border-blue-200">
+                        <h4 class="font-semibold text-flood">Zentrale Schäden</h4>
+                        <ul class="mt-2 text-sm list-disc pl-5 space-y-1">
+                            <li>Wasserstände bis 2,20 m in Gebäuden</li>
+                            <li>Massive Schäden in Vichtbach-Industrie (u. a. Prym, Aurubis, Kerpen Datacom)</li>
+                            <li>Rathaus so stark beschädigt, dass ein Neubau erforderlich ist</li>
+                            <li>Kulturelle Verluste: Torburg-Sammlung stark kontaminiert</li>
+                        </ul>
+                    </div>
+                    <div class="p-4 rounded-lg bg-green-50 border border-green-200">
+                        <h4 class="font-semibold text-growth">Wiederaufbauhebel</h4>
+                        <ul class="mt-2 text-sm list-disc pl-5 space-y-1">
+                            <li>Rathaus-Neubau als größtes Wiederaufbauprojekt in NRW</li>
+                            <li>Rückhaltebecken Rott: 745.000 m³ Kapazität</li>
+                            <li>Förderanträge zur Schadensbeseitigung bis 30.06.2026</li>
+                        </ul>
+                    </div>
+                </div>
+                <div>
+                    <h3 class="font-semibold mb-2">Statusindikatoren 2026</h3>
+                    <div class="chart-container"><canvas id="resilienceChart"></canvas></div>
+                </div>
+            </div>
+            <div class="mt-6">
+                <h3 class="font-semibold mb-2">Altstadtrevitalisierung</h3>
+                <p class="text-sm mb-3">Mietförderung (20 % Kaltmiete in 2 Jahren), Schwammstadt-Ansatz und Grüne Talachse 2030 bilden das Kernpaket gegen Leerstand und Funktionsverlust.</p>
+                <div class="w-full bg-slate-200 rounded-full h-3">
+                    <div class="bg-growth h-3 rounded-full" style="width: 44%"></div>
+                </div>
+                <p class="text-xs mt-1 text-slate-600">44 reaktivierte Ladenlokale (Programmstand Bericht)</p>
+            </div>
+        </section>
+
+        <section id="kalender" class="bg-white rounded-2xl border border-slate-200 p-6">
+            <h2 class="text-2xl font-semibold mb-4">5) Veranstaltungskalender April 2026</h2>
+            <div id="eventTags" class="flex flex-wrap gap-2 mb-4"></div>
+            <div class="overflow-x-auto">
+                <table class="w-full text-sm border-collapse">
+                    <thead>
+                        <tr class="bg-slate-100 text-left">
+                            <th class="p-2 border border-slate-200">Datum</th>
+                            <th class="p-2 border border-slate-200">Typ</th>
+                            <th class="p-2 border border-slate-200">Ort</th>
+                            <th class="p-2 border border-slate-200">Details</th>
+                        </tr>
+                    </thead>
+                    <tbody id="eventTable"></tbody>
+                </table>
+            </div>
+        </section>
+
+        <section class="bg-slate-900 text-slate-100 rounded-2xl p-6">
+            <h2 class="text-2xl font-semibold mb-3">Fazit</h2>
+            <p id="finalSummary" class="text-slate-300 leading-relaxed"></p>
+        </section>
+    </main>
+
+    <script>
+        const dualData = {
+            rheinland: {
+                title: "Stolberg (Rheinland) – Kupferstadt im Strukturwandel",
+                bullets: [
+                    "Burgentwicklung vom 12. Jahrhundert bis zur historistischen Neuinszenierung (1887–1909).",
+                    "Langfristige Prägung durch Messing-, Zink- und Nadelindustrie.",
+                    "Seit 2021 von Flutschäden und anschließender Transformationspolitik geprägt."
+                ]
+            },
+            harz: {
+                title: "Stolberg (Harz) – Dynastische Bedeutung",
+                bullets: [
+                    "Historischer Bezug als Wiege des niederländischen Königshauses.",
+                    "Europäische Relevanz über genealogische und adlige Verflechtungen.",
+                    "Kontrast zum rheinischen, primär industriegeschichtlich geprägten Stolberg."
+                ]
+            }
+        };
+
+        const timelineData = [
+            { year: 1118, label: "Reinardus von Stalburg", detail: "Erste urkundliche Erwähnung, frühe Wehranlage", phase: "mittelalter" },
+            { year: 1300, label: "Mechthild von Reifferscheid", detail: "Ausbau zum befestigten Wohnhof", phase: "mittelalter" },
+            { year: 1316, label: "Johann von Reifferscheid", detail: "Kapelle St. Johannes und Wohnturm erwähnt", phase: "mittelalter" },
+            { year: 1375, label: "Belagerung", detail: "Weitgehende Schleifung der Anlage", phase: "mittelalter" },
+            { year: 1450, label: "Wilhelm von Nesselrode", detail: "Neuerrichtung als spätmittelalterliche Anlage", phase: "mittelalter" },
+            { year: 1542, label: "Geldrische Fehde", detail: "Niederbrand, Renaissance-Umbau folgt", phase: "neuzeit" },
+            { year: 1887, label: "Moritz Kraus", detail: "Erwerb und historistischer Wiederaufbau", phase: "neuzeit" },
+            { year: 1909, label: "Schenkung", detail: "Übergabe an Bürgerschaft als unverkäufliches Erbe", phase: "neuzeit" }
+        ];
+
+        const events = [
+            { date: "05.04.2026", type: "Tradition", place: "Schloss Stolberg", details: "Osterhasensuche im Terrassengarten" },
+            { date: "10.04.2026", type: "Vortrag", place: "Rittersaal Burg", details: "„The Pots of Pocahontas“ – Messing in Nordamerika" },
+            { date: "12.04.2026", type: "Kunst", place: "Zinkhütter Hof", details: "Kunstversuch „Rotation“" },
+            { date: "12.04.2026", type: "Industrie", place: "Museum ALTE MÜNZE", details: "Tag der Industriekultur – Schauprägen" },
+            { date: "17.04.2026", type: "Sport", place: "Stadtgebiet", details: "StolRun – Lauf-Event für alle" },
+            { date: "23.04.2026", type: "Event", place: "Steinweg", details: "After-Work-Markt" },
+            { date: "25.04.2026", type: "Musik", place: "Stadtgebiet", details: "Start Stolberger Musiksommer" }
+        ];
+
+        const tabButtons = document.querySelectorAll(".tab-btn");
+        const tabContent = document.getElementById("tab-content");
+        function renderTab(key) {
+            const item = dualData[key];
+            tabContent.innerHTML = `
+                <h3 class="text-xl font-semibold mb-2">${item.title}</h3>
+                <ul class="list-disc pl-5 space-y-1 text-sm">${item.bullets.map(b => `<li>${b}</li>`).join("")}</ul>
+            `;
+        }
+        tabButtons.forEach(btn => {
+            btn.addEventListener("click", () => {
+                tabButtons.forEach(b => b.classList.remove("active"));
+                btn.classList.add("active");
+                renderTab(btn.dataset.tab);
+            });
+        });
+        renderTab("rheinland");
+
+        const timelineCtx = document.getElementById("timelineChart");
+        const timelineList = document.getElementById("timelineList");
+        const timelineFilter = document.getElementById("timelineFilter");
+        let timelineChart;
+
+        function renderTimeline() {
+            const mode = timelineFilter.value;
+            const filtered = mode === "all" ? timelineData : timelineData.filter(x => x.phase === mode);
+            if (timelineChart) timelineChart.destroy();
+            timelineChart = new Chart(timelineCtx, {
+                type: "bar",
+                data: {
+                    labels: filtered.map(x => x.year),
+                    datasets: [{
+                        label: "Burgentwicklung (Ereignisse)",
+                        data: filtered.map((_, i) => i + 1),
+                        backgroundColor: "#1e293b"
+                    }]
+                },
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: false,
+                    plugins: {
+                        legend: { display: false },
+                        tooltip: {
+                            callbacks: {
+                                title: (ctx) => `${filtered[ctx[0].dataIndex].year}`,
+                                label: (ctx) => `${filtered[ctx.dataIndex].label}: ${filtered[ctx.dataIndex].detail}`
+                            }
+                        }
+                    },
+                    scales: { y: { display: false } }
+                }
+            });
+
+            timelineList.innerHTML = filtered.map(entry => `
+                <article class="p-3 rounded-lg border border-slate-200 bg-slate-50">
+                    <p class="text-xs font-semibold uppercase tracking-wide text-slate-500">${entry.year}</p>
+                    <h4 class="font-semibold">${entry.label}</h4>
+                    <p class="text-sm text-slate-600">${entry.detail}</p>
+                </article>
+            `).join("");
+        }
+        timelineFilter.addEventListener("change", renderTimeline);
+        renderTimeline();
+
+        new Chart(document.getElementById("industryChart"), {
+            type: "doughnut",
+            data: {
+                labels: ["Messing", "Zink", "Aachener Nadel", "Mobilität"],
+                datasets: [{
+                    data: [32, 27, 24, 17],
+                    backgroundColor: ["#b45309", "#475569", "#0f766e", "#1d4ed8"]
+                }]
+            },
+            options: {
+                responsive: true,
+                maintainAspectRatio: false,
+                plugins: {
+                    legend: { position: "bottom" },
+                    tooltip: { callbacks: { label: (ctx) => `${ctx.label}: ${ctx.parsed}%` } }
+                }
+            }
+        });
+
+        new Chart(document.getElementById("resilienceChart"), {
+            type: "radar",
+            data: {
+                labels: ["Infrastruktur", "Hochwasserschutz", "Verwaltung", "Kultur", "Wirtschaft", "Innenstadtbelebung"],
+                datasets: [{
+                    label: "Wiederaufbau-Status (April 2026, qualitativ)",
+                    data: [75, 70, 60, 55, 62, 58],
+                    borderColor: "#1d4ed8",
+                    backgroundColor: "rgba(29,78,216,0.2)",
+                    pointBackgroundColor: "#1d4ed8"
+                }]
+            },
+            options: {
+                responsive: true,
+                maintainAspectRatio: false,
+                scales: { r: { min: 0, max: 100, ticks: { stepSize: 20 } } }
+            }
+        });
+
+        const uniqueTypes = ["Alle", ...new Set(events.map(e => e.type))];
+        const eventTags = document.getElementById("eventTags");
+        const eventTable = document.getElementById("eventTable");
+
+        function renderEventTags(active = "Alle") {
+            eventTags.innerHTML = uniqueTypes.map(type => `
+                <button class="tag-btn ${type === active ? "active" : ""} px-3 py-1 rounded-full border border-slate-300 text-sm" data-type="${type}">
+                    ${type}
+                </button>
+            `).join("");
+            eventTags.querySelectorAll(".tag-btn").forEach(btn => {
+                btn.addEventListener("click", () => renderEvents(btn.dataset.type));
+            });
+        }
+
+        function renderEvents(type = "Alle") {
+            renderEventTags(type);
+            const filtered = type === "Alle" ? events : events.filter(e => e.type === type);
+            eventTable.innerHTML = filtered.map(e => `
+                <tr class="hover:bg-slate-50">
+                    <td class="p-2 border border-slate-200">${e.date}</td>
+                    <td class="p-2 border border-slate-200">${e.type}</td>
+                    <td class="p-2 border border-slate-200">${e.place}</td>
+                    <td class="p-2 border border-slate-200">${e.details}</td>
+                </tr>
+            `).join("");
+        }
+        renderEvents();
+
+        document.getElementById("finalSummary").textContent =
+            "Stolberg zeigt 2026 eine gleichzeitige Persistenz von Erbe und Krise: Die Burg- und Industriegeschichte bleibt identitätsstiftend, während Flutfolgen, Leerstand und Umbau den Gegenwartsdruck erhöhen. " +
+            "Die aktuellen Maßnahmen deuten auf einen aktiven Transformationspfad, in dem Denkmalkultur, Infrastrukturmodernisierung und klimaresiliente Stadtentwicklung verbunden werden.";
+    </script>
+</body>
+</html>
