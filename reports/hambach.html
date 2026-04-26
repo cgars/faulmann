@@ -1,0 +1,750 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Landschaften des Übergangs: Das Rheinische Revier</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <!-- Chosen Palette: Walduniversität (Tannengrün, Moos, Rinde, Farn, Stein, warmes Papier, gedämpftes Gold, tiefe Schatten, Laternenlicht) -->
+    <!-- Application Structure Plan: Tabbed interactive dashboard. The report is divided into thematic tabs to allow non-linear exploration of the complex, interconnected topics (Hambach, Jülich, Sophienhöhe) without overwhelming the user with a massive wall of text. A 'Synthese' tab bridges the topics, and a 'Material' tab provides the excursion guide and essay motifs. This supports both quick fact-finding and deep, reflective reading. -->
+    <!-- Visualization & Content Choices: 
+    1. Water Volume Chart (Chart.js Line) -> Goal: Change/Projections over time -> Shows the massive timeline of flooding the Hambach mine. Justification: Visualizes the 40-year timeframe effectively. 
+    2. Nuclear Waste Status (Chart.js Doughnut) -> Goal: Proportions -> Shows the state of the 152 Castor casks. Justification: Instantly communicates the scale of the unresolved storage issue. 
+    3. Elevation Comparison (Chart.js Bar) -> Goal: Compare -> Contrasts the depth of the mine with the height of the Sophienhöhe. Justification: Highlights the massive displacement of earth.
+    4. Timeline & Data Table -> Goal: Organize -> Interactive HTML/JS elements for detailed fact-checking and chronological context. 
+    Method: Vanilla JS, Chart.js, Tailwind. Confirming NO SVG/Mermaid. -->
+    <!-- CONFIRMATION: NO SVG graphics used. NO Mermaid JS used. -->
+    <style>
+        :root {
+            --forest-night: #17251b;
+            --forest-deep: #1f3a2a;
+            --forest: #2f5d3a;
+            --moss: #66865a;
+            --fern: #3f7a4f;
+            --bark: #5b4632;
+            --bark-soft: #7a6146;
+            --paper: #f5efdf;
+            --paper-soft: #fbf7ed;
+            --stone: #d9d1bf;
+            --stone-deep: #8c8574;
+            --gold: #b88a3b;
+            --gold-soft: #d7b56d;
+            --water: #2b6f73;
+            --water-light: #8fb8ad;
+            --ember: #b46d28;
+            --shadow: rgba(23, 37, 27, 0.18);
+        }
+
+        html {
+            scroll-behavior: smooth;
+        }
+
+        body {
+            font-family: Georgia, 'Times New Roman', serif;
+            background:
+                radial-gradient(circle at top left, rgba(102, 134, 90, 0.18), transparent 34rem),
+                radial-gradient(circle at top right, rgba(184, 138, 59, 0.11), transparent 30rem),
+                linear-gradient(180deg, #f7f1e3 0%, #eee6d4 54%, #e4dccb 100%);
+            color: var(--forest-night);
+            min-height: 100vh;
+        }
+
+        body::before {
+            content: "";
+            position: fixed;
+            inset: 0;
+            pointer-events: none;
+            opacity: 0.28;
+            z-index: -1;
+            background-image:
+                linear-gradient(rgba(31, 58, 42, 0.035) 1px, transparent 1px),
+                linear-gradient(90deg, rgba(31, 58, 42, 0.025) 1px, transparent 1px);
+            background-size: 34px 34px;
+        }
+
+        h1, h2, h3, h4, .nav-btn, input, table, footer, .brand-mark {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+
+        .tab-content {
+            display: none;
+        }
+
+        .tab-content.active {
+            display: block;
+            animation: fadeIn 0.35s ease-in-out;
+        }
+
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(8px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+
+        nav {
+            background:
+                linear-gradient(180deg, rgba(251, 247, 237, 0.98), rgba(242, 234, 216, 0.96));
+            border-bottom: 1px solid rgba(91, 70, 50, 0.18);
+            box-shadow: 0 12px 34px rgba(23, 37, 27, 0.12);
+            backdrop-filter: blur(14px);
+        }
+
+        .brand-mark {
+            letter-spacing: -0.045em;
+            text-shadow: 0 1px 0 rgba(255,255,255,0.45);
+        }
+
+        .nav-btn {
+            position: relative;
+            color: #4f5a4d;
+            border-bottom: 4px solid transparent;
+            border-radius: 999px 999px 0 0;
+            transition: all 0.22s ease;
+        }
+
+        .nav-btn:hover {
+            color: var(--forest);
+            background-color: rgba(102, 134, 90, 0.10);
+        }
+
+        .nav-btn.active {
+            border-bottom: 4px solid var(--gold);
+            color: var(--forest-deep);
+            font-weight: 700;
+            background:
+                linear-gradient(180deg, rgba(245, 239, 223, 0.95), rgba(220, 209, 180, 0.42));
+            box-shadow: inset 0 -1px 0 rgba(184, 138, 59, 0.18);
+        }
+
+        .chart-container {
+            position: relative;
+            width: 100%;
+            max-width: 800px;
+            margin-left: auto;
+            margin-right: auto;
+            height: 350px;
+            max-height: 400px;
+        }
+
+        @media (max-width: 768px) {
+            .chart-container { height: 250px; }
+        }
+
+        .timeline-item::before {
+            content: '';
+            position: absolute;
+            left: -7px;
+            top: 5px;
+            width: 14px;
+            height: 14px;
+            border-radius: 50%;
+            background:
+                radial-gradient(circle at 35% 35%, var(--gold-soft), var(--forest) 72%);
+            border: 2px solid var(--paper-soft);
+            box-shadow: 0 0 0 3px rgba(102, 134, 90, 0.18);
+        }
+
+        .timeline-line {
+            position: absolute;
+            left: 15px;
+            top: 10px;
+            bottom: 0;
+            width: 2px;
+            background: linear-gradient(180deg, rgba(184, 138, 59, 0.55), rgba(47, 93, 58, 0.25));
+            z-index: -1;
+        }
+
+        .forest-card {
+            background:
+                linear-gradient(180deg, rgba(251, 247, 237, 0.96), rgba(244, 237, 220, 0.96));
+            border: 1px solid rgba(91, 70, 50, 0.18);
+            box-shadow: 0 18px 48px rgba(23, 37, 27, 0.10);
+        }
+
+        .forest-card-soft {
+            background:
+                linear-gradient(180deg, rgba(242, 237, 220, 0.96), rgba(232, 224, 205, 0.94));
+            border: 1px solid rgba(91, 70, 50, 0.16);
+            box-shadow: 0 12px 30px rgba(23, 37, 27, 0.08);
+        }
+
+        .study-panel {
+            background:
+                linear-gradient(135deg, rgba(251, 247, 237, 0.98), rgba(238, 230, 211, 0.98));
+            border: 1px solid rgba(91, 70, 50, 0.16);
+            box-shadow:
+                0 16px 36px rgba(23, 37, 27, 0.09),
+                inset 0 1px 0 rgba(255,255,255,0.65);
+        }
+
+        .section-title {
+            color: var(--forest-night);
+            border-bottom-color: var(--gold);
+            letter-spacing: -0.018em;
+        }
+
+        .water-accent {
+            color: var(--water);
+            border-bottom-color: var(--water);
+        }
+
+        .ember-accent {
+            color: var(--ember);
+            border-bottom-color: var(--gold);
+        }
+
+        .fern-accent {
+            color: var(--fern);
+            border-bottom-color: var(--fern);
+        }
+
+        .quiet-link-card {
+            transform: translateY(0);
+            transition: transform 0.22s ease, box-shadow 0.22s ease, border-color 0.22s ease;
+        }
+
+        .quiet-link-card:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 18px 38px rgba(23, 37, 27, 0.14);
+            border-color: rgba(184, 138, 59, 0.44);
+        }
+
+        input#tableSearch {
+            background-color: rgba(251, 247, 237, 0.9);
+            border-color: rgba(91, 70, 50, 0.25);
+            color: var(--forest-night);
+        }
+
+        input#tableSearch:focus {
+            border-color: var(--gold);
+            box-shadow: 0 0 0 3px rgba(184, 138, 59, 0.16);
+        }
+
+        thead {
+            background:
+                linear-gradient(180deg, rgba(47, 93, 58, 0.10), rgba(184, 138, 59, 0.08));
+        }
+
+        footer {
+            background:
+                linear-gradient(135deg, #17251b 0%, #203727 55%, #111c15 100%);
+            border-top: 1px solid rgba(215, 181, 109, 0.2);
+        }
+
+        .motif-card {
+            background:
+                linear-gradient(180deg, rgba(251, 247, 237, 0.94), rgba(239, 231, 212, 0.94));
+            box-shadow: 0 10px 26px rgba(23, 37, 27, 0.08);
+            border-radius: 0.9rem;
+        }
+    </style>
+</head>
+<body class="antialiased">
+
+    <nav class="sticky top-0 z-50">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="flex justify-between h-16">
+                <div class="flex items-center">
+                    <span class="brand-mark text-2xl font-black text-[var(--forest-night)]">REVIER<span class="text-[var(--forest)]">WANDEL</span></span>
+                </div>
+                <div class="hidden md:flex space-x-1 overflow-x-auto" id="nav-tabs">
+                    <button class="nav-btn active px-4 py-4 text-sm font-medium transition-colors" data-target="zusammenfassung">Übersicht</button>
+                    <button class="nav-btn px-4 py-4 text-sm font-medium transition-colors" data-target="hambach">Hambacher See & Leitung</button>
+                    <button class="nav-btn px-4 py-4 text-sm font-medium transition-colors" data-target="juelich">AVR Jülich & Castoren</button>
+                    <button class="nav-btn px-4 py-4 text-sm font-medium transition-colors" data-target="sophienhoehe">Sophienhöhe</button>
+                    <button class="nav-btn px-4 py-4 text-sm font-medium transition-colors" data-target="synthese">Synthese & Daten</button>
+                    <button class="nav-btn px-4 py-4 text-sm font-medium transition-colors" data-target="exkursion">Exkursion & Essay</button>
+                </div>
+            </div>
+        </div>
+        <div class="md:hidden flex overflow-x-auto border-t border-[rgba(91,70,50,0.18)]" id="nav-tabs-mobile">
+            <button class="nav-btn active whitespace-nowrap px-4 py-3 text-sm font-medium" data-target="zusammenfassung">Übersicht</button>
+            <button class="nav-btn whitespace-nowrap px-4 py-3 text-sm font-medium" data-target="hambach">Hambach</button>
+            <button class="nav-btn whitespace-nowrap px-4 py-3 text-sm font-medium" data-target="juelich">Jülich</button>
+            <button class="nav-btn whitespace-nowrap px-4 py-3 text-sm font-medium" data-target="sophienhoehe">Sophienhöhe</button>
+            <button class="nav-btn whitespace-nowrap px-4 py-3 text-sm font-medium" data-target="synthese">Daten</button>
+            <button class="nav-btn whitespace-nowrap px-4 py-3 text-sm font-medium" data-target="exkursion">Exkursion</button>
+        </div>
+    </nav>
+
+    <main class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
+
+        <section id="zusammenfassung" class="tab-content active">
+            <header class="mb-10 text-center max-w-4xl mx-auto">
+                <p class="uppercase tracking-[0.24em] text-xs font-bold text-[var(--gold)] mb-4">Walduniversität des Rheinischen Reviers</p>
+                <h1 class="text-4xl md:text-5xl font-extrabold text-[var(--forest-night)] mb-6">Landschaften des Übergangs</h1>
+                <p class="text-xl text-[#56604f] leading-relaxed">Das Rheinische Revier vollzieht einen beispiellosen historischen Bruch: vom Zentrum der fossilen und nuklearen Energiegewinnung hin zu einer neu modellierten Topografie aus Restseen, künstlichen Bergen und technologischen Hinterlassenschaften.</p>
+            </header>
+            
+            <div class="forest-card rounded-2xl p-8 max-w-5xl mx-auto">
+                <h2 class="text-2xl font-bold text-[var(--forest-night)] mb-4 border-b-2 border-[var(--gold)] inline-block">Das Archiv des Nachlasses</h2>
+                <div class="prose max-w-none text-[#40503f] text-lg leading-relaxed space-y-4">
+                    <p>Das Rheinische Revier ist heute weniger ein Ort der Energiegewinnung als vielmehr ein Labor für Landschaftsumbau und ewige Lasten. Der Hambacher Tagebau, einst das größte Loch Europas, soll ab 2030 über vier Jahrzehnte hinweg mit Wasser aus dem Rhein geflutet werden. Dafür wird aktuell eine gewaltige, unsichtbare Transportleitung gebaut, die das Landschaftsbild und die Infrastruktur – wie den :terra nova Speedway – zerschneidet und neu ordnet. </p>
+                    <p>Unmittelbar neben dem künftigen See erhebt sich die Sophienhöhe, ein massives, komplett von Menschenhand geschaffenes Gebirge aus dem Abraum des Tagebaus. Sie steht paradoxerweise als Symbol für gelungene Rekultivierung und Naherholung, während sie gleichzeitig das monumentale Ausmaß der landschaftlichen Zerstörung markiert. </p>
+                    <p>Wenige Kilometer entfernt, am Forschungszentrum Jülich, lagert das nukleare Erbe der Region. Der ehemalige AVR-Kugelhaufenreaktor hinterlässt rund 300.000 hochradioaktive Brennelementkugeln, verpackt in 152 Castor-Behältern. Ihr geplanter Transport in das Zwischenlager Ahaus verdeutlicht, dass die Region nicht nur mit gigantischen Erdmassen und Wasservolumina kämpft, sondern auch mit den strahlenden Resten eines gescheiterten technologischen Versprechens. Das Revier wird so zu einer hybriden Zone, in der renaturierte Ausflugsziele, schweres technisches Gerät und ungelöste Zukunftsfragen unmittelbar nebeneinander existieren.</p>
+                </div>
+            </div>
+            
+            <div class="grid grid-cols-1 md:grid-cols-3 gap-6 mt-12 max-w-5xl mx-auto">
+                <div class="quiet-link-card forest-card-soft p-6 rounded-xl cursor-pointer" onclick="document.querySelector('[data-target=\'hambach\']').click()">
+                    <div class="text-[var(--water)] text-3xl mb-3">&#9660;</div>
+                    <h3 class="font-bold text-lg mb-2 text-[var(--forest-night)]">Das Tiefe: Hambach</h3>
+                    <p class="text-sm text-[#56604f]">Vom 400 Meter tiefen Tagebau zum zweitgrößten See Deutschlands durch den Import von Rheinwasser.</p>
+                </div>
+                <div class="quiet-link-card forest-card-soft p-6 rounded-xl cursor-pointer" onclick="document.querySelector('[data-target=\'juelich\']').click()">
+                    <div class="text-[var(--ember)] text-3xl mb-3">&#9762;</div>
+                    <h3 class="font-bold text-lg mb-2 text-[var(--forest-night)]">Das Strahlende: Jülich</h3>
+                    <p class="text-sm text-[#56604f]">152 Castoren und die ungelöste Frage der Endlagerung des ehemaligen Hochtemperaturreaktors.</p>
+                </div>
+                <div class="quiet-link-card forest-card-soft p-6 rounded-xl cursor-pointer" onclick="document.querySelector('[data-target=\'sophienhoehe\']').click()">
+                    <div class="text-[var(--fern)] text-3xl mb-3">&#9650;</div>
+                    <h3 class="font-bold text-lg mb-2 text-[var(--forest-night)]">Das Hohe: Sophienhöhe</h3>
+                    <p class="text-sm text-[#56604f]">Ein künstlicher Waldberg, der als Naturersatz dient und aus der Erde des Nachbarlochs besteht.</p>
+                </div>
+            </div>
+        </section>
+
+        <section id="hambach" class="tab-content">
+            <div class="max-w-6xl mx-auto">
+                <h2 class="section-title water-accent text-3xl font-bold mb-6 border-b-4 inline-block pb-2">Hambacher Tagebau & Rheinwassertransportleitung</h2>
+                <p class="text-lg text-[#56604f] mb-8">Dieser Bereich untersucht die hydrologische Transformation der Region. Er beleuchtet den Plan, die gigantische Kohlegrube in eine Wasserlandschaft zu verwandeln, und die dafür notwendige, landschaftszerschneidende Infrastruktur.</p>
+                
+                <div class="grid grid-cols-1 lg:grid-cols-2 gap-10">
+                    <div>
+                        <div class="study-panel p-6 rounded-xl mb-6">
+                            <h3 class="text-xl font-bold mb-3 text-[var(--water)]">Der zukünftige Hambacher See</h3>
+                            <ul class="space-y-3 text-[#40503f]">
+                                <li><strong class="text-[var(--forest-night)]">Planungsstand:</strong> Ja, der Tagebau soll definitiv geflutet werden. Es entsteht ein See mit ca. 4.000 Hektar Fläche und bis zu 400 Metern Tiefe.</li>
+                                <li><strong class="text-[var(--forest-night)]">Zeitplan:</strong> Die Befüllung soll 2030 beginnen.</li>
+                                <li><strong class="text-[var(--forest-night)]">Dauer:</strong> Voraussichtlich 40 Jahre, abhängig von den Pegelständen des Rheins und den klimatischen Bedingungen.</li>
+                                <li><strong class="text-[var(--forest-night)]">Warum Rheinwasser?</strong> Das natürliche Grundwasser und Niederschläge würden Jahrhunderte zur Füllung benötigen. Um Böschungsrutsche zu vermeiden und den Grundwasserspiegel der Region zu stabilisieren, ist eine schnelle Flutung zwingend.</li>
+                            </ul>
+                        </div>
+                        
+                        <div class="study-panel p-6 rounded-xl">
+                            <h3 class="text-xl font-bold mb-3 text-[var(--water)]">Die Rheinwassertransportleitung (RWTL)</h3>
+                            <ul class="space-y-3 text-[#40503f]">
+                                <li><strong class="text-[var(--forest-night)]">Verlauf:</strong> Von Dormagen am Rhein unterirdisch (ca. 45 km, verteilt auf drei Röhrensysteme) bis zu den Tagebauen Garzweiler und Hambach.</li>
+                                <li><strong class="text-[var(--forest-night)]">Auswirkungen Infrastruktur:</strong> Massive Bauarbeiten durchschneiden aktuell Wege, Straßen und landwirtschaftliche Flächen.</li>
+                                <li><strong class="text-[var(--forest-night)]">:terra nova Speedway:</strong> Der als Rad-Schnellweg gebaute Speedway auf der alten Trasse der Grubenbahn ist massiv betroffen. Er ist in mehreren Teilabschnitten immer wieder <strong>gesperrt</strong>. Seit Mitte 2023 begannen die schweren Sperrungen, die voraussichtlich bis zum Abschluss der Leitungsarbeiten (ca. 2029/2030) in wechselnden Abschnitten andauern werden.</li>
+                                <li><strong class="text-[var(--forest-night)]">Umleitungen:</strong> Werden von RWE und den Kommunen lokal ausgeschildert, verlängern die Streckenführung jedoch oft über unbefestigte oder landwirtschaftliche Wege.</li>
+                            </ul>
+                        </div>
+                    </div>
+                    
+                    <div class="study-panel p-6 rounded-xl flex flex-col">
+                        <h3 class="text-xl font-bold text-[var(--forest-night)] mb-4 text-center">Prognostizierter Wasserstand im Lesesaal der Daten (Milliarden Kubikmeter)</h3>
+                        <div class="chart-container flex-grow">
+                            <canvas id="hambachChart"></canvas>
+                        </div>
+                        <p class="text-xs text-[#6d725f] mt-4 text-center">Interaktives Diagramm: Geplanter Verlauf der Befüllung ab 2030. Die Linie zeigt das stetige Ansteigen der Wassermassen über vier Jahrzehnte an.</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="juelich" class="tab-content">
+            <div class="max-w-6xl mx-auto">
+                <h2 class="section-title ember-accent text-3xl font-bold mb-6 border-b-4 inline-block pb-2">AVR Jülich & Die Ahaus-Transporte</h2>
+                <p class="text-lg text-[#56604f] mb-8">Dieser Abschnitt widmet sich den Hinterlassenschaften der Atomforschung im Revier. Im Zentrum steht der Konflikt um die Räumung des Jülicher Zwischenlagers und der Widerstand gegen Castor-Transporte durch dicht besiedeltes Gebiet.</p>
+
+                <div class="grid grid-cols-1 lg:grid-cols-2 gap-10">
+                    <div class="study-panel p-6 rounded-xl flex flex-col">
+                        <h3 class="text-xl font-bold text-[var(--forest-night)] mb-4 text-center">Verbleib der 152 Castor-Behälter</h3>
+                        <div class="chart-container flex-grow">
+                            <canvas id="juelichChart"></canvas>
+                        </div>
+                        <p class="text-xs text-[#6d725f] mt-4 text-center">Interaktives Kreisdiagramm: Zeigt den aktuellen Status der geplanten Umlagerung von Jülich in das Zwischenlager Ahaus (Stand: Planungsphase, noch keine Transporte erfolgt).</p>
+                    </div>
+                    
+                    <div>
+                        <div class="forest-card-soft p-6 rounded-xl border border-[rgba(184,138,59,0.28)] mb-6">
+                            <h3 class="text-xl font-bold text-[var(--forest-night)] mb-3 text-[var(--ember)]">Technischer Hintergrund</h3>
+                            <ul class="space-y-3 text-[#40503f]">
+                                <li><strong class="text-[var(--forest-night)]">Was war der AVR?</strong> Die Arbeitsgemeinschaft Versuchsreaktor war ein experimenteller Hochtemperaturreaktor am Forschungszentrum Jülich (Betrieb 1967-1988).</li>
+                                <li><strong class="text-[var(--forest-night)]">Der Kugelhaufenreaktor:</strong> Anstelle von Brennstäben nutzte dieser Reaktortyp graphitummantelte, tennisballgroße Kugeln, die Uran und Thorium enthielten.</li>
+                                <li><strong class="text-[var(--forest-night)]">Inventar heute:</strong> Etwa <strong>300.000 dieser hochradioaktiven Brennelementkugeln</strong> lagern derzeit noch in Jülich, verteilt auf <strong>152 Castor-Behälter</strong> vom Typ THTR/AVR. Der Reaktorbehälter selbst wurde aufwendig mit Porenleichtbeton verfüllt und aus dem Gebäude gehoben.</li>
+                            </ul>
+                        </div>
+                        
+                        <div class="study-panel p-6 rounded-xl">
+                            <h3 class="text-xl font-bold text-[var(--forest-night)] mb-3 text-[var(--ember)]">Transport und Kontroverse</h3>
+                            <ul class="space-y-3 text-[#40503f]">
+                                <li><strong class="text-[var(--forest-night)]">Aktueller Status:</strong> Die Transporte nach Ahaus haben noch nicht begonnen, die Genehmigungsverfahren laufen noch.</li>
+                                <li><strong class="text-[var(--forest-night)]">Behörden:</strong> Zuständig für die Transporte ist die JEN (Jülicher Entsorgungsgesellschaft für Nuklearanlagen). Die Genehmigungen für Transport und Einlagerung prüft das BASE (Bundesamt für die Sicherheit der nuklearen Entsorgung).</li>
+                                <li><strong class="text-[var(--forest-night)]">Warum der Transport?</strong> Dem Jülicher Zwischenlager fehlt der aktuelle Nachweis gegen terroristische Flugzeugabstürze. Die Errichtung eines neuen Lagers in Jülich wird als zu langwierig und teuer eingestuft, daher soll in das bestehende Lager in Ahaus transportiert werden.</li>
+                                <li><strong class="text-[var(--forest-night)]">Kritik & Protest:</strong> Umweltverbände (BUND), die "Aktionsbündnisse Münsterland" und lokale Initiativen kritisieren die Transporte scharf. Hauptkritikpunkte: Gefährdung auf der Transportstrecke, Verschiebung des Problems (Ahaus ist auch kein Endlager) und die grundsätzliche Frage des Fehlens eines Endlagers in Deutschland.</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="sophienhoehe" class="tab-content">
+            <div class="max-w-6xl mx-auto">
+                <h2 class="section-title fern-accent text-3xl font-bold mb-6 border-b-4 inline-block pb-2">Die Sophienhöhe: Künstliche Natur</h2>
+                <p class="text-lg text-[#56604f] mb-8">In diesem Bereich betrachten wir das größte topografische Paradoxon der Region: Einen Wald, der als Meisterwerk der Rekultivierung gilt, jedoch buchstäblich aus dem Abraum der landschaftlichen Zerstörung von Nebenan aufgeschüttet wurde.</p>
+
+                <div class="grid grid-cols-1 lg:grid-cols-3 gap-8">
+                    <div class="lg:col-span-1 space-y-6">
+                        <div class="study-panel p-6 rounded-xl">
+                            <h3 class="text-xl font-bold text-[var(--fern)] mb-2">Fakten & Entstehung</h3>
+                            <ul class="text-sm text-[#40503f] space-y-2">
+                                <li><strong>Beginn:</strong> Aufschüttung ab 1978 mit Abraum (Löß, Sand, Kies) aus dem Tagebau Hambach.</li>
+                                <li><strong>Höhe:</strong> Überragt die umgebende Bördenlandschaft um ca. 200 Meter (Höchster Punkt 301,8 m ü. NHN).</li>
+                                <li><strong>Fläche:</strong> Etwa 13 Quadratkilometer künstliches Gebirge.</li>
+                                <li><strong>Bedeutung:</strong> Dient als Schutzwall vor Lärm/Staub des Tagebaus und primäres Rekultivierungsobjekt.</li>
+                            </ul>
+                        </div>
+                        
+                        <div class="forest-card-soft p-6 rounded-xl border border-[rgba(63,122,79,0.28)]">
+                            <h3 class="text-xl font-bold text-[var(--forest-deep)] mb-2">Erkundung & Tourismus</h3>
+                            <p class="text-sm text-[#40503f] mb-3">Die Höhe ist vollständig bewaldet und bietet ein dichtes Netz aus etwa 120 km Wander- und Reitwegen.</p>
+                            <ul class="text-sm text-[#40503f] space-y-2 list-disc pl-4">
+                                <li><strong>Radfahren:</strong> Ja, bestens für (Mountain-)Bikes geeignet, allerdings mit teils starken Steigungen.</li>
+                                <li><strong>Hotspots:</strong> Römerturm (Aussicht), Goldene Aue (Seenlandschaft oben), keltisches Baumhoroskop.</li>
+                                <li><strong>Werbung:</strong> Rhein-Erft Tourismus vermarktet sie intensiv als "Naturerlebnisraum" und Paradebeispiel für nachhaltige Neugestaltung.</li>
+                            </ul>
+                        </div>
+                    </div>
+
+                    <div class="lg:col-span-2 study-panel p-6 rounded-xl flex flex-col">
+                        <h3 class="text-xl font-bold text-[var(--forest-night)] mb-4 text-center">Topografischer Vergleich: Die verschobene Landschaft</h3>
+                        <div class="chart-container flex-grow">
+                            <canvas id="sophienChart"></canvas>
+                        </div>
+                        <p class="text-xs text-[#6d725f] mt-4 text-center">Interaktives Balkendiagramm: Kontrastiert das künstlich geschaffene Relief. Links die Normalhöhe, in der Mitte die Spitze der Sophienhöhe, rechts die aktuelle Tiefe des benachbarten Tagebaus Hambach.</p>
+                        
+                        <div class="mt-6 pt-6 border-t border-[rgba(91,70,50,0.16)]">
+                            <h4 class="font-bold text-[var(--forest-night)] mb-2">Die Kritik der Umweltschützer</h4>
+                            <p class="text-sm text-[#40503f]">Trotz der ökologischen Vielfalt auf dem Berg betonen Kritiker (wie der BUND), dass die Sophienhöhe den unwiederbringlichen Verlust jahrhundertealter, komplexer Ökosysteme (Bürgewald/Hambacher Forst) nicht kompensieren kann. Es handelt sich um ein geplantes, statisches Konstrukt, das mit enormem energetischen Aufwand erschaffen wurde. Wenn der See geflutet ist, wird die Sophienhöhe eine gewaltige, bewaldete Steilküste am zweitgrößten See Deutschlands bilden – ein bizarres, menschengemachtes Idyll.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="synthese" class="tab-content">
+            <div class="max-w-6xl mx-auto">
+                <h2 class="section-title text-3xl font-bold mb-6 border-b-4 inline-block pb-2">Synthese, Zeitverlauf & Daten</h2>
+                <p class="text-lg text-[#56604f] mb-8">Wie hängen Kohle und Atom zusammen? Hier finden Sie den chronologischen Verlauf des Strukturwandels und eine interaktive Datenbank der zentralen Fakten und offenen Fragen, die diese Transformationslandschaft prägen.</p>
+
+                <div class="grid grid-cols-1 lg:grid-cols-3 gap-8 mb-12">
+                    <div class="lg:col-span-1 study-panel p-6 rounded-xl">
+                        <h3 class="text-xl font-bold text-[var(--forest-night)] mb-6">Chronologie des Revierumbaus</h3>
+                        <div class="relative border-l border-[rgba(91,70,50,0.18)] ml-3 space-y-6" id="timeline-container">
+                            <!-- Timeline injected via JS -->
+                        </div>
+                    </div>
+                    
+                    <div class="lg:col-span-2">
+                        <div class="study-panel p-6 rounded-xl">
+                            <h3 class="text-xl font-bold text-[var(--forest-night)] mb-4">Verknüpfende Analyse</h3>
+                            <div class="prose max-w-none text-sm text-[#40503f] space-y-4">
+                                <p><strong>Gemeinsame Geschichte:</strong> Hambacher See, Sophienhöhe und AVR Jülich erzählen von einer Epoche des grenzenlosen Fortschrittsglaubens. Die Region war das Kraftzentrum Westdeutschlands – angetrieben von Großbaggern und Atomforschern, die Landschaft und Materie nach Belieben zu beherrschen glaubten.</p>
+                                <p><strong>Hinterbliebene Landschaften:</strong> Was bleibt, sind Extreme. Ein tiefer Krater, der mangels Masse mit fremdem Wasser (Rhein) gefüllt werden muss. Ein künstlicher Berg, der als "Natur" wahrgenommen wird. Und strahlende Kugeln, für die es weltweit keinen sicheren Ort gibt. Es ist eine Landschaft, die Reparaturarbeiten in geologischen Zeiträumen erfordert.</p>
+                                <p><strong>Widersprüche:</strong> Die Region oszilliert zwischen radikaler Zerstörung und aufwendiger Renaturierung. Ein Radfahrer auf der Sophienhöhe genießt die Stille der "Natur", blickt in das infernalische Loch des Tagebaus und überquert bei der Anreise die Baustelle einer Megapipeline, während wenige Kilometer weiter Castoren transportbereit gemacht werden. Erholung und technische Altlast bilden eine untrennbare Symbiose.</p>
+                            </div>
+                        </div>
+
+                        <div class="mt-8 study-panel p-6 rounded-xl">
+                            <div class="flex flex-col sm:flex-row sm:justify-between sm:items-center gap-3 mb-4">
+                                <h3 class="text-xl font-bold text-[var(--forest-night)]">Fakten, Stände & Offene Fragen</h3>
+                                <input type="text" id="tableSearch" placeholder="Tabelle durchsuchen..." class="px-3 py-1 border rounded-md text-sm focus:outline-none">
+                            </div>
+                            <div class="overflow-x-auto">
+                                <table class="min-w-full divide-y divide-[rgba(91,70,50,0.16)] text-sm" id="dataTable">
+                                    <thead>
+                                        <tr>
+                                            <th class="px-4 py-3 text-left font-medium text-[#66705e] uppercase tracking-wider">Thema</th>
+                                            <th class="px-4 py-3 text-left font-medium text-[#66705e] uppercase tracking-wider">Zentrale Tatsache</th>
+                                            <th class="px-4 py-3 text-left font-medium text-[#66705e] uppercase tracking-wider">Aktueller Stand</th>
+                                            <th class="px-4 py-3 text-left font-medium text-[#66705e] uppercase tracking-wider">Offene Frage</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody class="bg-[rgba(251,247,237,0.72)] divide-y divide-[rgba(91,70,50,0.14)]" id="tableBody">
+                                        <!-- Table rows injected via JS -->
+                                    </tbody>
+                                </table>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="exkursion" class="tab-content">
+            <div class="max-w-6xl mx-auto">
+                <h2 class="section-title text-3xl font-bold mb-6 border-b-4 inline-block pb-2">Annäherung: Exkursion & Erzählung</h2>
+                <p class="text-lg text-[#56604f] mb-8">Für die direkte, physische Erfahrung dieser Transformationslandschaft bieten sich spezifische Orte an. Für die literarische oder journalistische Verarbeitung stellen wir anschließend erzählerische Leitmotive bereit.</p>
+
+                <h3 class="text-2xl font-bold text-[var(--forest-night)] mb-4">Orte für eine topografische Recherche</h3>
+                <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4 mb-12">
+                    <div class="quiet-link-card study-panel p-4 rounded-lg">
+                        <div class="text-2xl mb-2 text-[var(--fern)]">&#9976;</div>
+                        <h4 class="font-bold text-[var(--forest-night)]">Sophienhöhe: Römerturm</h4>
+                        <p class="text-xs text-[#56604f] mt-1">Höchster Punkt. Bietet den direkten Kontrastblick in die Tiefe des benachbarten Tagebaus. Zeigt die Künstlichkeit des Berges.</p>
+                    </div>
+                    <div class="quiet-link-card study-panel p-4 rounded-lg">
+                        <div class="text-2xl mb-2 text-[var(--water)]">&#10145;</div>
+                        <h4 class="font-bold text-[var(--forest-night)]">:terra nova Speedway</h4>
+                        <p class="text-xs text-[#56604f] mt-1">Radfahrt entlang der Kante. Unbedingt die Sperrungen / Umleitungen durch den Bau der Wasserleitung als Ausdruck der ständigen Bauarbeiten an der Landschaft erfahren.</p>
+                    </div>
+                    <div class="quiet-link-card study-panel p-4 rounded-lg">
+                        <div class="text-2xl mb-2 text-[var(--bark)]">&#128301;</div>
+                        <h4 class="font-bold text-[var(--forest-night)]">Tagebau Hambach: Forum</h4>
+                        <p class="text-xs text-[#56604f] mt-1">Aussichtspunkt bei Elsdorf. Hier lässt sich die gewaltige Dimension der zukünftigen Wasserfläche (bis zu 400m tief) erahnen.</p>
+                    </div>
+                    <div class="quiet-link-card study-panel p-4 rounded-lg">
+                        <div class="text-2xl mb-2 text-[var(--ember)]">&#9888;</div>
+                        <h4 class="font-bold text-[var(--forest-night)]">FZ Jülich (Außenbereich)</h4>
+                        <p class="text-xs text-[#56604f] mt-1">Annäherung an den Forschungszaun. Ort des ehemaligen AVR. Visueller Kontrast von Hightech-Forschung und der ungelösten Lagerfrage.</p>
+                    </div>
+                </div>
+
+                <h3 class="text-2xl font-bold text-[var(--forest-night)] mb-4 mt-8">Erzählerische Leitmotive für Essays</h3>
+                <div class="space-y-4">
+                    <div class="motif-card border-l-4 border-[var(--forest-night)] p-4">
+                        <h4 class="font-bold text-lg text-[var(--forest-night)]">1. Die parkende Zukunft</h4>
+                        <p class="text-[#40503f] mt-1 italic">Ein Zwischenlager wie in Jülich (oder Ahaus) löst kein Problem, es hält nur die Zeit an. Die Brennelementkugeln, einst strahlendes Versprechen einer modernen Energie-Ära, sind zu tickenden Altlasten geworden. Man verlagert sie geografisch, weil man sie historisch noch nicht entsorgen kann. Die Zukunft steht hier in 152 Behältern auf Standby.</p>
+                    </div>
+                    <div class="motif-card border-l-4 border-[var(--water)] p-4">
+                        <h4 class="font-bold text-lg text-[var(--forest-night)]">2. Die unsichtbare Ader der Erlösung</h4>
+                        <p class="text-[#40503f] mt-1 italic">Die Wasserleitung von Dormagen ist kein simples Rohr, sie ist die lebenserhaltende Transfusion für eine geschundene Region. Ohne den stetigen, künstlichen Puls des fremden Rheinwassers würde das Revier austrocknen oder zusammenstürzen. Die gesperrten Radwege zeigen: Hier wird die Landschaft operiert, bevor sie geheilt erscheinen kann.</p>
+                    </div>
+                    <div class="motif-card border-l-4 border-[var(--fern)] p-4">
+                        <h4 class="font-bold text-lg text-[var(--forest-night)]">3. Das falsche Gebirge</h4>
+                        <p class="text-[#40503f] mt-1 italic">Die Sophienhöhe ist die Definition von Hybris und Pragmatismus. Man hat die Erde nicht einfach entfernt, man hat sie vertikal gestapelt, um das eigene Loch zu verbergen. Es ist ein Wald, auf dem Rehe durch eine Landschaft laufen, die auf den Millimeter genau am Reißbrett von Ingenieuren geplant wurde. Eine Kulisse der Natur.</p>
+                    </div>
+                    <div class="motif-card border-l-4 border-[var(--stone-deep)] p-4">
+                        <h4 class="font-bold text-lg text-[var(--forest-night)]">4. Das Versprechen des Wassers</h4>
+                        <p class="text-[#40503f] mt-1 italic">Vierzig Jahre Flutungszeit. Ein Mensch, der heute am Rand des Tagebaus steht, wird vielleicht nie den endgültigen See sehen. Der Hambacher See ist ein Gewässer der kommenden Generationen. Er verlangt von den heutigen Bewohnern einen massiven Vorrat an Vorstellungskraft, um in Staub und Maschinen bereits Wellen und Segelboote zu erkennen.</p>
+                    </div>
+                    <div class="motif-card border-l-4 border-[var(--ember)] p-4">
+                        <h4 class="font-bold text-lg text-[var(--forest-night)]">5. Geometrie des Hinterlasses</h4>
+                        <p class="text-[#40503f] mt-1 italic">Die Tennisball-großen Graphitkugeln des Reaktors, die exakten Schaufelrad-Radien des Baggers, die perfekten Rohre der Wasserleitung: Der Mensch zwingt der Geologie hier seine geometrische Ordnung auf. Auch am Ende, wenn aus Industrie wieder 'Natur' wird, bleibt alles kalkuliert, bemessen und eingefriedet.</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+    </main>
+
+    <footer class="text-[#c9c0a8] py-8 mt-12">
+        <div class="max-w-7xl mx-auto px-4 text-center">
+            <p class="text-sm">Interaktive Recherche: Strukturwandel, Energiegeschichte & Landschaftsumbau im Rheinischen Revier.</p>
+        </div>
+    </footer>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            
+            const navButtons = document.querySelectorAll('.nav-btn');
+            const tabContents = document.querySelectorAll('.tab-content');
+
+            navButtons.forEach(btn => {
+                btn.addEventListener('click', () => {
+                    const target = btn.getAttribute('data-target');
+                    
+                    navButtons.forEach(b => b.classList.remove('active'));
+                    document.querySelectorAll(`.nav-btn[data-target="${target}"]`).forEach(b => b.classList.add('active'));
+                    
+                    tabContents.forEach(tab => {
+                        if(tab.id === target) {
+                            tab.classList.add('active');
+                        } else {
+                            tab.classList.remove('active');
+                        }
+                    });
+                });
+            });
+
+            
+            const ctxHambach = document.getElementById('hambachChart').getContext('2d');
+            new Chart(ctxHambach, {
+                type: 'line',
+                data: {
+                    labels: ['2030', '2040', '2050', '2060', '2070'],
+                    datasets: [{
+                        label: 'Wasservolumen (Mrd. m³)',
+                        data: [0, 1.2, 2.5, 3.8, 4.3],
+                        borderColor: '#2b6f73',
+                        backgroundColor: 'rgba(43, 111, 115, 0.18)',
+                        pointBackgroundColor: '#b88a3b',
+                        pointBorderColor: '#f5efdf',
+                        pointBorderWidth: 2,
+                        fill: true,
+                        tension: 0.4
+                    }]
+                },
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: false,
+                    plugins: {
+                        legend: {
+                            position: 'bottom',
+                            labels: {
+                                color: '#40503f',
+                                font: { family: "'Segoe UI', Tahoma, Geneva, Verdana, sans-serif" }
+                            }
+                        },
+                        tooltip: { mode: 'index', intersect: false }
+                    },
+                    scales: {
+                        x: {
+                            ticks: { color: '#56604f' },
+                            grid: { color: 'rgba(91, 70, 50, 0.09)' }
+                        },
+                        y: {
+                            beginAtZero: true,
+                            title: {
+                                display: true,
+                                text: 'Mrd. Kubikmeter',
+                                color: '#40503f'
+                            },
+                            ticks: { color: '#56604f' },
+                            grid: { color: 'rgba(91, 70, 50, 0.10)' }
+                        }
+                    }
+                }
+            });
+
+            
+            const ctxJuelich = document.getElementById('juelichChart').getContext('2d');
+            new Chart(ctxJuelich, {
+                type: 'doughnut',
+                data: {
+                    labels: ['Castoren in Jülich', 'In Transportvorbereitung', 'In Ahaus angekommen'],
+                    datasets: [{
+                        data: [152, 0, 0],
+                        backgroundColor: ['#b46d28', '#d7b56d', '#d9d1bf'],
+                        borderColor: '#f5efdf',
+                        borderWidth: 2
+                    }]
+                },
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: false,
+                    plugins: {
+                        legend: {
+                            position: 'bottom',
+                            labels: {
+                                color: '#40503f',
+                                font: { family: "'Segoe UI', Tahoma, Geneva, Verdana, sans-serif" }
+                            }
+                        },
+                        tooltip: {
+                            callbacks: {
+                                label: function(context) {
+                                    let label = context.label || '';
+                                    if (label) { label += ': '; }
+                                    if (context.parsed !== null) { label += context.parsed + ' Behälter'; }
+                                    return label;
+                                }
+                            }
+                        }
+                    }
+                }
+            });
+
+            
+            const ctxSophien = document.getElementById('sophienChart').getContext('2d');
+            new Chart(ctxSophien, {
+                type: 'bar',
+                data: {
+                    labels: ['Jülicher Börde (Normalnull)', 'Sophienhöhe (Gipfel)', 'Tagebau Hambach (Sohle)'],
+                    datasets: [{
+                        label: 'Höhe in Metern (ü. NHN)',
+                        data: [100, 301.8, -299],
+                        backgroundColor: ['#8c8574', '#3f7a4f', '#17251b'],
+                        borderColor: ['#f5efdf', '#f5efdf', '#f5efdf'],
+                        borderWidth: 1
+                    }]
+                },
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: false,
+                    plugins: {
+                        legend: { display: false }
+                    },
+                    scales: {
+                        x: {
+                            ticks: { color: '#56604f' },
+                            grid: { color: 'rgba(91, 70, 50, 0.06)' }
+                        },
+                        y: {
+                            title: {
+                                display: true,
+                                text: 'Höhe in Metern',
+                                color: '#40503f'
+                            },
+                            ticks: { color: '#56604f' },
+                            grid: { color: 'rgba(91, 70, 50, 0.10)' }
+                        }
+                    }
+                }
+            });
+
+            
+            const timelineData = [
+                { year: '1967', event: 'AVR Jülich geht ans Netz (Kugelhaufenreaktor).' },
+                { year: '1978', event: 'Beginn Aufschüttung der Sophienhöhe mit Abraum aus Hambach.' },
+                { year: '1988', event: 'Stilllegung des AVR Jülich.' },
+                { year: '2023', event: 'Start Bau der Rheinwassertransportleitung (RWTL).' },
+                { year: '2025/26', event: 'Geplante Castor-Transporte Jülich -> Ahaus (umstritten).' },
+                { year: '2030', event: 'Geplanter Start der Flutung des Tagebaus Hambach.' },
+                { year: '2070', event: 'Erwarteter Abschluss der Flutung zum Hambacher See.' }
+            ];
+
+            const tlContainer = document.getElementById('timeline-container');
+            timelineData.forEach(item => {
+                const div = document.createElement('div');
+                div.className = 'timeline-item relative pl-6 pb-4';
+                div.innerHTML = `<span class="font-bold text-[var(--forest-night)]">${item.year}:</span> <span class="text-[#56604f]">${item.event}</span>`;
+                tlContainer.appendChild(div);
+            });
+            const line = document.createElement('div');
+            line.className = 'timeline-line';
+            tlContainer.appendChild(line);
+
+            
+            const tableData = [
+                { thema: 'Hambach', fact: 'Geplante Seefläche ca. 4.000 Hektar', status: 'Planung fixiert, Leitung im Bau', offeneFrage: 'Hydrologische Langzeitfolgen für Grundwasser?', source: 'RWE / Land NRW' },
+                { thema: 'Hambach / Verkehr', fact: ':terra nova Speedway gesperrt', status: 'Partiell gesperrt wg. RWTL-Bau (seit Mitte 2023)', offeneFrage: 'Wann exakte durchgehende Wiedereröffnung?', source: 'Kommunen Elsdorf/Bergheim' },
+                { thema: 'AVR Jülich', fact: '152 Castoren (300.000 Kugeln)', status: 'Lagern in Jülich, Transport nach Ahaus beantragt', offeneFrage: 'Gibt es je ein bundesweites Endlager?', source: 'JEN / BASE' },
+                { thema: 'Sophienhöhe', fact: '301,8m ü. NHN künstlicher Berg', status: 'Weitgehend rekultiviert, touristisch beworben', offeneFrage: 'Stabilität der Böschung bei künftiger Seeflutung?', source: 'Rhein-Erft Tourismus' }
+            ];
+
+            const tbody = document.getElementById('tableBody');
+            const renderTable = (data) => {
+                tbody.innerHTML = '';
+                data.forEach(row => {
+                    const tr = document.createElement('tr');
+                    tr.className = 'hover:bg-[rgba(102,134,90,0.08)] transition-colors';
+                    tr.innerHTML = `
+                        <td class="px-4 py-3 whitespace-nowrap text-[var(--forest-night)] font-medium">${row.thema}</td>
+                        <td class="px-4 py-3 text-[#56604f]">${row.fact}</td>
+                        <td class="px-4 py-3 text-[#56604f]">${row.status}</td>
+                        <td class="px-4 py-3 text-[var(--ember)] italic">${row.offeneFrage}</td>
+                    `;
+                    tbody.appendChild(tr);
+                });
+            };
+            
+            renderTable(tableData);
+
+            document.getElementById('tableSearch').addEventListener('keyup', (e) => {
+                const term = e.target.value.toLowerCase();
+                const filtered = tableData.filter(row => 
+                    row.thema.toLowerCase().includes(term) || 
+                    row.fact.toLowerCase().includes(term) ||
+                    row.status.toLowerCase().includes(term) ||
+                    row.offeneFrage.toLowerCase().includes(term)
+                );
+                renderTable(filtered);
+            });
+        });
+    </script>
+</body>
+</html>
