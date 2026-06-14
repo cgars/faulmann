@@ -1,0 +1,807 @@
+Ich habe den bereitgestellten Text als Grundlage verwendet und daraus eine vollständige HTML-Seite im Stil einer ruhigen Walduniversität gestaltet. 
+
+```html
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Walduniversität · Hejo, spann den Wagen an</title>
+  <style>
+    :root {
+      --forest-900: #102119;
+      --forest-800: #173427;
+      --forest-700: #214534;
+      --moss-600: #536b3f;
+      --moss-500: #6f8650;
+      --fern-300: #a9b88b;
+      --bark-700: #4a3828;
+      --bark-500: #735a3d;
+      --stone-300: #c7c3b5;
+      --paper-100: #f4eddc;
+      --paper-200: #eadfc8;
+      --paper-300: #dccbae;
+      --gold-300: #c7a45a;
+      --gold-200: #d8bd78;
+      --ink: #263129;
+      --muted: #5d685f;
+      --shadow: rgba(16, 33, 25, 0.24);
+      --soft-shadow: rgba(16, 33, 25, 0.12);
+      --radius-lg: 28px;
+      --radius-md: 18px;
+      --radius-sm: 12px;
+      --max-width: 1160px;
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    html {
+      scroll-behavior: smooth;
+    }
+
+    body {
+      margin: 0;
+      color: var(--ink);
+      font-family: Georgia, "Times New Roman", serif;
+      line-height: 1.75;
+      background:
+        radial-gradient(circle at top left, rgba(199, 164, 90, 0.18), transparent 34rem),
+        radial-gradient(circle at top right, rgba(83, 107, 63, 0.2), transparent 38rem),
+        linear-gradient(135deg, #102119 0%, #173427 22%, #eadfc8 22%, #f4eddc 100%);
+      background-attachment: fixed;
+    }
+
+    body::before {
+      content: "";
+      position: fixed;
+      inset: 0;
+      pointer-events: none;
+      z-index: -1;
+      background-image:
+        linear-gradient(rgba(16, 33, 25, 0.04) 1px, transparent 1px),
+        linear-gradient(90deg, rgba(16, 33, 25, 0.035) 1px, transparent 1px);
+      background-size: 34px 34px;
+      mix-blend-mode: multiply;
+    }
+
+    a {
+      color: #315f45;
+      text-decoration: none;
+      border-bottom: 1px solid rgba(49, 95, 69, 0.28);
+      transition: color 0.2s ease, border-color 0.2s ease;
+    }
+
+    a:hover,
+    a:focus {
+      color: #183b29;
+      border-color: var(--gold-300);
+    }
+
+    .page-shell {
+      width: min(100% - 32px, var(--max-width));
+      margin: 0 auto;
+    }
+
+    .hero {
+      margin: 32px auto 26px;
+      padding: clamp(32px, 6vw, 72px);
+      border-radius: var(--radius-lg);
+      color: var(--paper-100);
+      background:
+        linear-gradient(145deg, rgba(16, 33, 25, 0.96), rgba(33, 69, 52, 0.92)),
+        radial-gradient(circle at 85% 12%, rgba(216, 189, 120, 0.2), transparent 24rem);
+      box-shadow: 0 30px 80px var(--shadow);
+      position: relative;
+      overflow: hidden;
+    }
+
+    .hero::before {
+      content: "";
+      position: absolute;
+      inset: 18px;
+      border: 1px solid rgba(216, 189, 120, 0.28);
+      border-radius: calc(var(--radius-lg) - 10px);
+      pointer-events: none;
+    }
+
+    .hero::after {
+      content: "";
+      position: absolute;
+      right: -12%;
+      bottom: -30%;
+      width: 46%;
+      aspect-ratio: 1;
+      border-radius: 999px;
+      background: radial-gradient(circle, rgba(216, 189, 120, 0.22), transparent 68%);
+      pointer-events: none;
+    }
+
+    .kicker {
+      margin: 0 0 18px;
+      color: var(--gold-200);
+      font-family: "Trebuchet MS", Arial, sans-serif;
+      font-size: 0.82rem;
+      font-weight: 700;
+      letter-spacing: 0.18em;
+      text-transform: uppercase;
+    }
+
+    h1,
+    h2,
+    h3 {
+      line-height: 1.18;
+      font-weight: 600;
+      color: var(--forest-900);
+      text-wrap: balance;
+    }
+
+    .hero h1 {
+      max-width: 900px;
+      margin: 0;
+      color: var(--paper-100);
+      font-size: clamp(2.35rem, 6vw, 5.6rem);
+      letter-spacing: -0.05em;
+    }
+
+    .hero .subtitle {
+      max-width: 790px;
+      margin: 24px 0 0;
+      color: rgba(244, 237, 220, 0.86);
+      font-size: clamp(1.05rem, 1.5vw, 1.32rem);
+    }
+
+    .layout {
+      display: grid;
+      grid-template-columns: 280px minmax(0, 1fr);
+      gap: 28px;
+      align-items: start;
+      padding-bottom: 64px;
+    }
+
+    .toc {
+      position: sticky;
+      top: 20px;
+      padding: 20px;
+      border: 1px solid rgba(74, 56, 40, 0.15);
+      border-radius: var(--radius-md);
+      background:
+        linear-gradient(180deg, rgba(244, 237, 220, 0.94), rgba(234, 223, 200, 0.94)),
+        radial-gradient(circle at 0 0, rgba(199, 164, 90, 0.14), transparent 12rem);
+      box-shadow: 0 18px 40px var(--soft-shadow);
+      backdrop-filter: blur(10px);
+    }
+
+    .toc-title {
+      margin: 0 0 12px;
+      color: var(--bark-700);
+      font-family: "Trebuchet MS", Arial, sans-serif;
+      font-size: 0.78rem;
+      font-weight: 800;
+      letter-spacing: 0.14em;
+      text-transform: uppercase;
+    }
+
+    .toc nav {
+      display: grid;
+      gap: 7px;
+    }
+
+    .toc a {
+      display: block;
+      padding: 8px 10px;
+      border: 0;
+      border-radius: 10px;
+      color: #314236;
+      font-family: "Trebuchet MS", Arial, sans-serif;
+      font-size: 0.92rem;
+      line-height: 1.35;
+    }
+
+    .toc a:hover,
+    .toc a:focus {
+      color: var(--forest-900);
+      background: rgba(83, 107, 63, 0.12);
+      outline: none;
+    }
+
+    main {
+      min-width: 0;
+    }
+
+    .paper {
+      padding: clamp(24px, 4vw, 52px);
+      border: 1px solid rgba(74, 56, 40, 0.14);
+      border-radius: var(--radius-lg);
+      background:
+        linear-gradient(180deg, rgba(244, 237, 220, 0.97), rgba(238, 228, 207, 0.97)),
+        radial-gradient(circle at 100% 0, rgba(169, 184, 139, 0.16), transparent 28rem);
+      box-shadow: 0 24px 70px var(--soft-shadow);
+    }
+
+    section {
+      scroll-margin-top: 24px;
+    }
+
+    section + section {
+      margin-top: 54px;
+      padding-top: 42px;
+      border-top: 1px solid rgba(74, 56, 40, 0.16);
+    }
+
+    h2 {
+      margin: 0 0 20px;
+      font-size: clamp(1.75rem, 3vw, 2.7rem);
+      letter-spacing: -0.035em;
+    }
+
+    h3 {
+      margin: 34px 0 14px;
+      color: var(--forest-800);
+      font-size: clamp(1.25rem, 2vw, 1.65rem);
+      letter-spacing: -0.02em;
+    }
+
+    p {
+      margin: 0 0 1.1em;
+      font-size: clamp(1.02rem, 1.2vw, 1.12rem);
+    }
+
+    .lead {
+      padding: 24px;
+      border-left: 5px solid var(--gold-300);
+      border-radius: 0 var(--radius-md) var(--radius-md) 0;
+      background: rgba(255, 250, 237, 0.55);
+      box-shadow: inset 0 0 0 1px rgba(199, 164, 90, 0.16);
+      font-size: clamp(1.06rem, 1.4vw, 1.2rem);
+    }
+
+    .quote {
+      margin: 22px 0;
+      padding: 20px 22px;
+      border-radius: var(--radius-md);
+      color: #243027;
+      background:
+        linear-gradient(135deg, rgba(216, 189, 120, 0.18), rgba(169, 184, 139, 0.14));
+      border: 1px solid rgba(199, 164, 90, 0.25);
+      font-size: 1.08rem;
+      font-style: italic;
+    }
+
+    .semantic-list {
+      margin: 18px 0 24px;
+      padding: 0;
+      list-style: none;
+      display: grid;
+      gap: 12px;
+    }
+
+    .semantic-list li {
+      padding: 14px 16px;
+      border-radius: var(--radius-sm);
+      background: rgba(255, 250, 237, 0.6);
+      border: 1px solid rgba(83, 107, 63, 0.16);
+      box-shadow: 0 8px 18px rgba(16, 33, 25, 0.05);
+    }
+
+    .table-wrap {
+      margin: 26px 0 32px;
+      overflow-x: auto;
+      border-radius: var(--radius-md);
+      box-shadow: 0 16px 42px rgba(16, 33, 25, 0.1);
+      border: 1px solid rgba(74, 56, 40, 0.16);
+      background: rgba(255, 250, 237, 0.72);
+    }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      min-width: 760px;
+      font-family: "Trebuchet MS", Arial, sans-serif;
+      font-size: 0.94rem;
+      line-height: 1.45;
+    }
+
+    caption {
+      padding: 16px 18px;
+      text-align: left;
+      color: var(--bark-700);
+      font-weight: 800;
+      letter-spacing: 0.04em;
+      background: rgba(199, 164, 90, 0.13);
+    }
+
+    th,
+    td {
+      padding: 14px 16px;
+      vertical-align: top;
+      border-bottom: 1px solid rgba(74, 56, 40, 0.12);
+    }
+
+    th {
+      color: var(--paper-100);
+      background: var(--forest-800);
+      text-align: left;
+      font-weight: 700;
+    }
+
+    tr:nth-child(even) td {
+      background: rgba(169, 184, 139, 0.09);
+    }
+
+    .closing {
+      margin-top: 48px;
+      padding: 26px;
+      border-radius: var(--radius-md);
+      color: var(--paper-100);
+      background:
+        linear-gradient(135deg, rgba(16, 33, 25, 0.96), rgba(33, 69, 52, 0.92));
+      box-shadow: 0 22px 54px var(--soft-shadow);
+    }
+
+    .closing h2 {
+      color: var(--paper-100);
+    }
+
+    .closing p {
+      color: rgba(244, 237, 220, 0.88);
+    }
+
+    .progress {
+      position: fixed;
+      left: 0;
+      top: 0;
+      z-index: 20;
+      height: 4px;
+      width: 0%;
+      background: linear-gradient(90deg, var(--gold-300), var(--fern-300));
+      box-shadow: 0 0 12px rgba(216, 189, 120, 0.55);
+    }
+
+    .back-to-top {
+      position: fixed;
+      right: 18px;
+      bottom: 18px;
+      z-index: 15;
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      width: 46px;
+      height: 46px;
+      border: 1px solid rgba(216, 189, 120, 0.3);
+      border-radius: 50%;
+      color: var(--paper-100);
+      background: rgba(16, 33, 25, 0.88);
+      box-shadow: 0 14px 30px rgba(16, 33, 25, 0.28);
+      cursor: pointer;
+      opacity: 0;
+      transform: translateY(10px);
+      transition: opacity 0.2s ease, transform 0.2s ease;
+    }
+
+    .back-to-top.is-visible {
+      opacity: 1;
+      transform: translateY(0);
+    }
+
+    @media (max-width: 900px) {
+      .layout {
+        grid-template-columns: 1fr;
+      }
+
+      .toc {
+        position: relative;
+        top: 0;
+      }
+
+      .toc nav {
+        grid-template-columns: repeat(auto-fit, minmax(190px, 1fr));
+      }
+    }
+
+    @media (max-width: 560px) {
+      body {
+        background:
+          linear-gradient(180deg, #102119 0%, #173427 280px, #f4eddc 280px, #f4eddc 100%);
+      }
+
+      .page-shell {
+        width: min(100% - 20px, var(--max-width));
+      }
+
+      .hero,
+      .paper {
+        border-radius: 20px;
+      }
+
+      .hero::before {
+        display: none;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="progress" id="readingProgress" aria-hidden="true"></div>
+
+  <header class="hero page-shell" id="top">
+    <p class="kicker">Archiv der Walduniversität · Seminar für Liedgeschichte und politische Semantik</p>
+    <h1>Historische Semantik, Überlieferungsgeschichte und politische Transformation des Kanons „Hejo, spann den Wagen an“</h1>
+    <p class="subtitle">
+      Eine quellenkritische, kulturhistorische und musikwissenschaftliche Untersuchung eines Liedes, dessen Melodie und Texte über Jahrhunderte hinweg soziale Not, kollektive Arbeit, ideologische Vereinnahmung und politischen Widerstand berührt haben.
+    </p>
+  </header>
+
+  <div class="layout page-shell">
+    <aside class="toc" aria-label="Inhaltsverzeichnis">
+      <p class="toc-title">Inhaltsverzeichnis</p>
+      <nav>
+        <a href="#einleitung">Einleitung</a>
+        <a href="#herkunft">1. Herkunft und musikalische Überlieferung</a>
+        <a href="#deutscher-text">2. Die Genese des deutschen Textes</a>
+        <a href="#erntesymbolik">3. Analyse der Erntesymbolik</a>
+        <a href="#politische-deutbarkeit">4. Politische Deutbarkeit</a>
+        <a href="#protestlied">5. Transformation zum Protestlied</a>
+        <a href="#pruefstein">6. Prüfstein der interpretativen These</a>
+        <a href="#fazit">7. Fazit zur politischen Anschlussfähigkeit</a>
+      </nav>
+    </aside>
+
+    <main class="paper">
+      <section id="einleitung">
+        <p class="lead">
+          Die kulturhistorische und musikwissenschaftliche Analyse europäischer Volks- und Gebrauchslieder offenbart in der Regel hochkomplexe Aneignungs- und Transformationsprozesse. Lieder sind selten statische Artefakte; sie fungieren vielmehr als kulturelle Projektionsflächen, deren Melodien und Texte über Jahrhunderte hinweg ihre soziopolitische Funktion verändern, sich anpassen und mit neuen Bedeutungen aufgeladen werden.
+        </p>
+        <p>
+          Ein herausragendes und in seiner Breitenwirkung kaum zu überschätzendes Paradigma für derartige musikalische und textliche Metamorphosen stellt der im deutschsprachigen Raum weit verbreitete Kanon „Hejo, spann den Wagen an“ dar. Was im kollektiven Gedächtnis der Gegenwart primär als harmloses, jahreszeitlich gebundenes Kinder- und Erntelied verankert ist, entpuppt sich bei genauerer quellenkritischer Betrachtung als ein musikalisches Konstrukt mit einer überaus vielschichtigen Geschichte. Diese reicht von frühneuzeitlichen englischen Bettelgesängen über die gezielte ideologische Indienstnahme in den nationalsozialistischen Arbeitsdiensten bis hin zur Etablierung als zentrale Hymne der westdeutschen Anti-Atomkraft-Bewegung der 1970er Jahre.
+        </p>
+        <p>
+          Die vorliegende Untersuchung widmet sich der systematischen Erschließung der Herkunft, der Textgeschichte und der politischen Anschlussfähigkeit dieses Liedgutes. Im analytischen Fokus steht dabei die Prüfung der These, ob das unbestreitbare politische Protestpotential des Liedes, das seit den 1970er Jahren unter der Textvariante „Wehrt euch, leistet Widerstand“ manifest wurde, dem musikalischen Werk lediglich nachträglich von außen aufgepfropft wurde, oder ob dieses Potential bereits in der semantischen Grundstruktur und der spezifischen Erntesymbolik des Textes inkorporiert ist. Um diese Frage zu beantworten, wird die Untersuchung strikt zwischen belegbarer Liedgeschichte, plausibler kulturhistorischer Deutung und interpretatorischen Schlüssen trennen und auf bestehende Unsicherheiten in der Überlieferung hinweisen.
+        </p>
+      </section>
+
+      <section id="herkunft">
+        <h2>1. Herkunft und musikalische Überlieferung</h2>
+        <p>
+          Die methodische Entflechtung der Historie von „Hejo, spann den Wagen an“ erfordert zwingend eine chronologische und inhaltliche Trennung zwischen der Genese der Melodie und der Entstehung des heute bekannten deutschen Textes. Die musikalische Basis des Kanons ist nachweislich mehrere Jahrhunderte älter als seine landwirtschaftlich geprägte deutsche Lyrik und weist in ihren Ursprüngen gänzlich andere inhaltliche und soziale Kontexte auf.
+        </p>
+
+        <h3>1.1 Die englischen Wurzeln: Heischebräuche, Armut und Polyphonie im 16. Jahrhundert</h3>
+        <p>
+          Die frühesten Belege der Melodie verweisen nach England und sind im Kontext frühneuzeitlicher Heischebräuche zu verorten. Bräuche wie das Wassailing oder Caroling besaßen in den ländlichen und urbanen Gesellschaften der Frühen Neuzeit eine ausgeprägte soziale Ausgleichsfunktion: Sängergruppen, häufig aus den ärmeren, landlosen oder temporär arbeitslosen Bevölkerungsschichten stammend, zogen von Haus zu Haus – insbesondere in der dunklen Jahreszeit oder an Feiertagen –, um im Austausch für ihren Gesang milde Gaben in Form von Nahrung, wärmenden Getränken oder Geld zu erbitten. Diese musikalische Praxis etablierte eine frühe Form der sozial-musikalischen Interaktion, die bereits auf existenzielle Grundbedürfnisse und die Überwindung von Mangel referenzierte. Das Singen war hier kein ästhetischer Selbstzweck, sondern eine ökonomische Notwendigkeit.
+        </p>
+        <p>
+          Die schriftliche Fixierung der Melodie setzt nachweislich in der zweiten Hälfte des 16. Jahrhunderts ein. Die älteste bekannte und datierte Quelle ist eine handschriftliche Pergamentrolle aus dem Jahr 1580, die von dem englischen Kopisten und Musiker Thomas Lant angefertigt wurde. Dieses bemerkenswerte Dokument, das in der Rowe Music Library (einem Teil der King’s College Library in Cambridge) aufbewahrt wird, enthält eine Sammlung von 150 sogenannten „Catches“ – der englischen Bezeichnung für weltliche Rundgesänge oder Kanons. Die musikalische Struktur des Kanons zielte laut zeitgenössischen musiktheoretischen Einschätzungen bereits in dieser Epoche darauf ab, ein intensives Gemeinschaftsgefühl zu stiften und eine temporäre, klangliche Gleichheit zwischen Individuen unterschiedlicher sozialer Ränge herzustellen. Jeder Sänger, unabhängig von seinem Status, übernahm exakt dieselbe musikalische Linie, wodurch soziale Hierarchien für die Dauer des Gesangs aufgehoben schienen.
+        </p>
+        <p>
+          Eine breitere kulturelle und städtische Rezeption erfuhr die Melodie zu Beginn des 17. Jahrhunderts im Kontext des Theaters. Im Jahr 1607 integrierten die Dramatiker Francis Beaumont und John Fletcher den Kanon in den vierten Akt ihres satirischen Theaterstücks The Knight of the Burning Pestle, welches 1613 im Druck erschien. Die eigentliche musiktheoretische und publikatorische Kodifizierung erfolgte jedoch im Jahr 1609 durch den englischen Sänger, Musiktheoretiker und Renaissance-Komponisten Thomas Ravenscroft. In seiner bedeutenden Sammlung Pammelia, der ersten gedruckten Sammlung von Rundgesängen in England, veröffentlichte er den Notensatz unter dem Titel „Hey Ho, Nobody Home“. Ravenscroft notierte das Werk als fünfstimmigen Kanon in einer Moll-Tonart, was ihm eine inhärente klangliche Schwere, Ernsthaftigkeit und Melancholie verlieh.
+        </p>
+        <p>Der originale englische Text von Ravenscroft illustriert eindrücklich die thematische Verknüpfung mit den Heischebräuchen und thematisiert sozioökonomische Deprivation in direkter Sprache:</p>
+        <div class="quote">
+          „Hey ho, nobody home / Meat nor drink nor money have I none / Fill the pot Eadie“.
+        </div>
+        <p>
+          Der Sänger beklagt die Abwesenheit von Nahrung (Fleisch), Trinken und Geld. Die Aufforderung, den Topf zu füllen, ist der direkte Appell an den Hausherrn. Spätere Editionen fügten oftmals einen optimistischen, fast trotzigen Resilienz-Vers hinzu: „Yet will I be merry, yet will I be merry“ (Dennoch werde ich fröhlich sein). Belegbar ist somit, dass bereits in dieser musikalischen Urform der Umgang mit existenzieller Notwendigkeit, der Schmerz des Ressourcenmangels und der unbedingte Ruf nach Sättigung verhandelt wurden – Motive der existentiellen Sicherung, die in der späteren deutschen Erntesymbolik in agrarisch abgewandelter Form wiederkehren sollten.
+        </p>
+
+        <h3>1.2 Transnationale Adaptionen und inhaltliche Zensurprozesse</h3>
+        <p>
+          Im weiteren Verlauf der Frühen Neuzeit überschritt die Melodie linguistische, konfessionelle und geografische Grenzen. Ein markanter Beleg für diesen frühen Kulturtransfer ist die Adaption durch den niederländischen Komponisten Dirck Janszoon Sweelinck. In einer 1644 in Amsterdam publizierten erweiterten Ausgabe des Livre septieme erschien der Kanon unter dem Titel „Hola, niemant in huis“. Es ist musiktheoretisch bemerkenswert, dass Sweelinck das Werk in seiner Publikation zu einem dreistimmigen Kanon in einer Dur-Tonart modifizierte, was den affektiven Gehalt der Melodie signifikant aufhellte und veränderte. In der historischen Liedforschung des 20. Jahrhunderts führte diese Publikation temporär zu Fehlannahmen: Der renommierte Liedforscher Otto Holzapfel deklarierte diese niederländische Dur-Version irrtümlich als Vorlage für das englische Original – eine These, die durch die Entdeckung und Datierung der englischen Manuskripte (wie der Lant-Rolle von 1580) mittlerweile zweifelsfrei widerlegt ist.
+        </p>
+        <p>
+          Die weitere englischsprachige Textgeschichte im 18. und 19. Jahrhundert ist geprägt von inhaltlichen Mutationen, die stark vom jeweiligen sozialen Milieu der Sänger abhingen, sowie von späteren gesellschaftlichen Zensurprozessen. Um 1762 publizierte der Londoner Catch Club or Merry Companions eine Variante mit dem Titel „Nose, nose, nose, nose“. Hierbei handelte es sich um ein humoristisches, derbes und stark maskulin konnotiertes Trinklied, das die roten „Schnapsnasen“ als physiologische Folge exzessiven Alkoholkonsums besang. Das Lied war somit aus dem prekären Milieu der Bettler in das bürgerlich-bohemistische Milieu städtischer Trinkgesellschaften gewandert.
+        </p>
+        <p>
+          Mit dem Aufkommen puritanischerer gesellschaftlicher Strömungen im viktorianischen Zeitalter unterlag das Lied jedoch einem systematischen Prozess der sogenannten Bowdlerization (Säuberung/Zensur literarischer Texte). Um den Catch für bürgerliche Schichten, den häuslichen Hausmusikgebrauch und insbesondere die Jugend tauglich zu machen, tilgte man die Verweise auf Alkoholismus. Zuerst ersetzte man das Wort „Nose“ durch „Rose“ (als unschuldige Blume), später personifizierte man es zum weiblichen Vornamen „Rose“. Auch das Wort „red“ (rot, bezogen auf die Nase) wich dem phonetisch und metrisch ähnlichen „wed“ (verheiratet). Das Resultat war die vollkommen harmlose, bis heute im englischen Sprachraum bekannte Standardform:
+        </p>
+        <div class="quote">
+          „Rose, Rose, Rose, Rose / Will I ever see thee wed / I will marry at thy will, sire / At thy will“.
+        </div>
+        <p>
+          Diese historische Episode verdeutlicht eindringlich die immense semantische Flexibilität der Melodie. Die musikalische Hülle erwies sich als derart robust, dass sie ohne Strukturverlust Texte aufnehmen konnte, die von Hungersnot über Trunkenheit bis hin zu bürgerlichen Heiratsfantasien reichten.
+        </p>
+
+        <div class="table-wrap">
+          <table>
+            <caption>Chronologische Spur der Überlieferung</caption>
+            <thead>
+              <tr>
+                <th>Datierung</th>
+                <th>Quelle / Publikation</th>
+                <th>Titel / Textanfang</th>
+                <th>Musikalische Struktur</th>
+                <th>Inhaltlicher Kontext</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>1580</td>
+                <td>Thomas Lant (Manuskript)</td>
+                <td>Unspezifisch</td>
+                <td>Kanon / Catch</td>
+                <td>Sammlung von 150 Catches, Manuskript</td>
+              </tr>
+              <tr>
+                <td>1607</td>
+                <td>Beaumont / Fletcher</td>
+                <td>The Knight of the Burning Pestle</td>
+                <td>Theatergesang</td>
+                <td>Teil eines satirischen Dramas</td>
+              </tr>
+              <tr>
+                <td>1609</td>
+                <td>Thomas Ravenscroft</td>
+                <td>Hey Ho, Nobody Home</td>
+                <td>5-stimmig, Moll</td>
+                <td>Heischelied über Armut und Hunger</td>
+              </tr>
+              <tr>
+                <td>1644</td>
+                <td>Dirck Janszoon Sweelinck</td>
+                <td>Hola, niemant in huis</td>
+                <td>3-stimmig, Dur</td>
+                <td>Niederländische Adaption</td>
+              </tr>
+              <tr>
+                <td>1762</td>
+                <td>Catch Club, London</td>
+                <td>Nose, nose, nose, nose</td>
+                <td>Catch</td>
+                <td>Städtisches Trinklied über Alkoholkonsum</td>
+              </tr>
+              <tr>
+                <td>19. Jh.</td>
+                <td>Mündliche Überlieferung</td>
+                <td>Rose, Rose, Rose, Rose</td>
+                <td>Kanon</td>
+                <td>Zensierte, jugendfreie und bürgerliche Variante</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+      </section>
+
+      <section id="deutscher-text">
+        <h2>2. Die Genese des deutschen Textes „Hejo, spann den Wagen an“</h2>
+        <p>
+          Die Historie des deutschen Textes bildet einen scharfen methodischen und inhaltlichen Kontrast zur langen englischen Überlieferung. Während das Lied in Deutschland heute gemeinhin als „traditionelles“, altes Volkslied rezipiert wird und von Laien oft in vorindustrielle, romantische Epochen projiziert wird, lassen sich für eine angebliche Entstehung im 19. Jahrhundert oder gar früher keinerlei belastbare schriftliche Belege finden. Weder die großen Volksliedsammlungen der Romantik (wie Des Knaben Wunderhorn) noch die späteren systematischen Erfassungen des späten 19. Jahrhunderts verzeichnen diesen Text. Die Verschmelzung der melancholischen englischen Renaissance-Melodie mit dem agrarischen deutschen Text ist nach heutigem Forschungsstand ein Phänomen des 20. Jahrhunderts, genauer gesagt der späten 1930er Jahre.
+        </p>
+
+        <h3>2.1 Erstbelege im Kontext des Nationalsozialismus und des Reichsarbeitsdienstes</h3>
+        <p>
+          Aus belegbarer, quellengestützter Sicht taucht der deutsche Text „Hejo, spann den Wagen an“ erstmals in der Zeit des Nationalsozialismus auf. Der Erstdruck datiert auf das Jahr 1938 und findet sich in spezifischen politisch-pädagogischen Publikationen, namentlich in dem Buch Lieder der Arbeitsmaiden (herausgegeben von der Reichsleitung des Reichsarbeitsdienstes, Arbeitsdienst für die weibliche Jugend) sowie im selben Jahr in den Liedern für Frauengruppen. Der Textdichter oder Übersetzer des deutschen Liedtextes ist bis heute unbekannt, was eine gezielte staatliche Auftragsproduktion oder eine anonyme Einreichung aus den Reihen des Arbeitsdienstes plausibel erscheinen lässt.
+        </p>
+        <p>
+          Flankiert wurde diese Erstpublikation in Liederbüchern durch eine sofortige mediale Verbreitung: Im Jahr 1938 sendete der Reichssender Leipzig mehrfach einen Chorbeitrag unter exakt diesem Liedtitel, versehen mit dem programmatischen Zusatz „Bei den Arbeitsmaiden in Wulferstedt“.
+        </p>
+        <p>
+          Um die Bedeutung dieses Erstbelegs einordnen zu können, muss der Kontext des Reichsarbeitsdienstes (RAD) betrachtet werden. Der RAD war eine zentrale, paramilitärisch organisierte Institution der NS-Diktatur. Junge Männer und Frauen wurden zu einer kasernierten, halbjährigen Zwangsarbeit im landwirtschaftlichen Sektor, im Infrastrukturausbau und in der Hauswirtschaft herangezogen. Die ideologische Stilisierung dieser Jugendlichen als „Soldaten der Arbeit“ und die Propagierung der „Fröhlichen Arbeitsmaiden“ bedingten die Schaffung eines spezifischen Liedguts. Der Gesang diente der Rhythmisierung der harten körperlichen Arbeit, der Formung eines einheitlichen „Volkskörpers“ und der ideologischen Ausrichtung.
+        </p>
+        <p>
+          In der pädagogischen Begleitliteratur des Arbeitsdienstes wurde explizit auf die Unterordnung des Einzelnen unter das Kollektiv hingewiesen: Der Leistungswert einer Mannschaft sei höher als die Summe der einzelnen Arbeitsmänner oder -maiden. Vor diesem ideologischen Hintergrund verliert der Kanon „Hejo, spann den Wagen an“ seine angebliche volksliedhafte, harmlose Unschuld. Die Szenerie des heraufziehenden Unwetters und der zwingenden Notwendigkeit, den Wagen anzuspannen und die Ernte in Sicherheit zu bringen, korrespondierte perfekt mit der NS-Ideologie der unbedingten Einsatzbereitschaft, der Eile, des Gehorsams und der Aufopferung für die nationale „Volksgemeinschaft“. Der Kampf gegen die Naturkräfte (Wind und Regen) wurde zur Metapher für den nationalen Überlebenskampf.
+        </p>
+
+        <h3>2.2 Rezeption in der bündischen Jugend und pädagogische Etablierung nach 1945</h3>
+        <p>
+          Ungeachtet dieser hochgradig ideologisierten Entstehungs- oder zumindest Erstpublikationsgeschichte fand das Lied rasch Eingang in andere soziale Milieus. Die Übertragung in breitere gesellschaftliche Schichten geschah unter anderem über die Strukturen der bündischen Jugend. Die Nachfolgeorganisationen des Wandervogels, die bereits zu Beginn des 20. Jahrhunderts im Rahmen der Lebensreformbewegung nach Alternativen zu bürgerlichen Wertvorstellungen suchten und dabei alte Volkslieder als Grundlage neuen gemeinschaftlichen Erlebens wiederentdeckt hatten, adaptierten dieses „neue“ Liedgut in den späten 1930er und 1940er Jahren. Zwar wurden bestimmte bündische Schriften und freigeistige Liederbücher im NS-Staat zensiert oder verboten, doch die scheinbar rein agrarische Symbolik von „Hejo, spann den Wagen an“ bot den Zensurbehörden keinerlei Anlass für restriktive Maßnahmen.
+        </p>
+        <p>
+          Nach dem Zusammenbruch des Nationalsozialismus 1945 erfuhr das Lied eine bemerkenswerte Rezeptionsgeschichte: Es wurde durch bloße pädagogische Affirmation faktisch entnazifiziert. Die unbelastete Natur- und Erntethematik sorgte dafür, dass das Lied nicht auf den Indizes der Alliierten landete, sondern nahtlos in die musikalische Früherziehung der jungen Bundesrepublik und der DDR übernommen wurde.
+        </p>
+        <p>
+          Es wurde zu einem unverrückbaren Bestandteil der Schulmusik, der Jugendchor-Arbeit und von Programmen wie dem JEKISS-Projekt (Jedem Kind seine Stimme). Die Reformen der musikalischen Erziehung – die teilweise noch auf die Ideen des Reformpädagogen Leo Kestenberg aus dem Jahr 1922 zurückgingen und Musik für alle Schüler zugänglich machen sollten – nutzten Kanons exzessiv. Kanons boten den Vorteil leichter Erlernbarkeit, erforderten keine instrumentale Begleitung und garantierten ein schnelles polyphones Erfolgserlebnis für Laienchöre. Die endgültige Zementierung als vermeintlich unpolitisches Herbst- und Volkslied erfolgte durch die Aufnahme in millionenfach gedruckte Fahrten- und Gebrauchsliederbücher. So ist das Lied seit 2001 auch in der legendären Mundorgel vertreten. Generationen von Schülern haben das Lied in diesen pädagogischen Kontexten kollektiv eingeübt, ohne jemals von der englischen Bettel-Vergangenheit oder der NS-Arbeitsdienst-Geschichte zu ahnen.
+        </p>
+      </section>
+
+      <section id="erntesymbolik">
+        <h2>3. Strukturelle und soziologische Analyse der Erntesymbolik</h2>
+        <p>
+          Um die Kernfrage zu beantworten, ob das Lied von Beginn an politische und soziale Bedeutungsräume eröffnet, muss die Lyrik nicht nur historisch, sondern auch strukturell und semiotisch detailliert dekonstruiert werden. Der deutsche Text beschreibt eine hochgradig verdichtete, fast dramatische Szene auf einem Feld. Aus kulturhistorischer Sicht ist es bemerkenswert, dass nicht der primäre, langwierige Akt der Landwirtschaft – das Säen, Pflegen oder das anfängliche Mähen des Getreides – im Zentrum steht. Vielmehr fokussiert der Text ausschließlich auf den sekundären, hochgradig prekären logistischen Akt der Sicherung.
+        </p>
+
+        <h3>3.1 Die bedrohte Ernte: Akteure und Güter</h3>
+        <p>
+          Der Text konstituiert sich aus drei zentralen semantischen Handlungselementen, die eine zwingende chronologische Abfolge bilden:
+        </p>
+        <ul class="semantic-list">
+          <li>Der Imperativ zur Mobilisierung: „Hejo [He ho], spann[t] den Wagen an“</li>
+          <li>Die Benennung der äußeren Bedrohung: „Denn der Wind treibt Regen übers Land“</li>
+          <li>Die Sicherung des Wertes: „Hol[t] die goldnen [vollen] Garben“.</li>
+        </ul>
+        <p>
+          Die Akteure bleiben im Text vollkommen gesichtslos, anonym und kollektiv. Es gibt kein lyrisches Ich, sondern nur pluralistische Imperative, die sich an eine handelnde Gemeinschaft richten („spann den Wagen an“, „holt“). Es geht um körperliche Arbeit, die ohne explizite hierarchische Differenzierung, jedoch mit absoluter Dringlichkeit ausgeführt werden muss.
+        </p>
+        <p>
+          Das zu rettende Gut sind die „goldnen Garben“. In der vorindustriellen Landwirtschaft war das Binden von Garben (Bündel aus frisch gemähtem Getreide) ein essenzieller Arbeitsschritt, um das Korn zum Trocknen aufzustellen, bevor es in die Scheune gefahren wurde. Diese Garben besitzen einen immensen agrarsoziologischen und existenziellen Wert. Sie repräsentieren den Lebensmittelvorrat, das konzentrierte Resultat monatelanger Arbeit und schlichtweg das Überleben der bäuerlichen Gemeinschaft während der bevorstehenden Wintermonate. Das zugewiesene Attribut „golden“ unterstreicht dabei nicht nur die farbliche Reife des Weizens, sondern den ultimativen Kostbarkeitscharakter der Nahrung, der in Krisenzeiten monetäres Gold an Wert übersteigt.
+        </p>
+
+        <h3>3.2 Die Antagonisten: Wind, Wetter und die Zeit</h3>
+        <p>
+          Der eigentliche Antagonist im Lied ist nicht menschlicher, politischer oder militärischer Natur, sondern rein atmosphärisch: der aufkommende Wind und der herannahende Regen. Diese meteorologischen Entitäten fungieren in der Literatur und Volkskultur seit jeher als Chiffren für äußere, unkontrollierbare Gewalten, als das unberechenbare Schicksal, das den Erfolg menschlichen Strebens in kürzester Zeit zu vernichten droht. Nasses Getreide verfault und führt zu Hungersnöten.
+        </p>
+        <p>
+          Gegen diese Naturgewalt steht der „Wagen“. Der Wagen ist ein technologisches Hilfsmittel, ein Artefakt menschlicher Zivilisation und Ingenieurskunst. Das Anspannen (von Zugtieren wie Pferden oder Ochsen) erfordert Koordination. Der Wagen wird zum Vehikel der Rettung, und die oft implizit gedachte, aber im Text nicht einmal erwähnte „Scheune“ bildet den architektonischen Schutzraum, in den das Gut überführt werden muss.
+        </p>
+        <p>
+          Die soziale Vorstellung, die hinter dieser dichten Szenerie steht, berührt fundamentale Ängste der Conditio humana: Die Erkenntnis, dass der schlichte Erfolg von Arbeit („Etwas ist gewachsen und geerntet“) nicht per se die Existenz sichert. Das Geschaffene ist solange vulnerabel, bis es durch einen finalen, koordinierten Kraftakt vor dem drohenden Ruin bewahrt wird. Das Lied evoziert somit ein Gefühl permanenter existenzieller Alarmbereitschaft und propagiert die Unterordnung individueller Bedürfnisse unter das Überleben der Gruppe.
+        </p>
+
+        <h3>3.3 Musikalischer Isomorphismus: Der Kanon als akustisches Abbild der Arbeit</h3>
+        <p>
+          Die inhaltliche Dringlichkeit und das Thema der Gemeinschaftsarbeit werden durch die musikalische Form des Kanons kongenial verstärkt. Die Wahl der Form ist hierbei nicht zufällig. Ein Kanon repräsentiert kompositorisch exakt das, was auf dem Feld physisch geschieht: Das rhythmische, ineinandergreifende, harmonische und absolut synchrone Arbeiten der Gemeinschaft. Jede neu einsetzende Stimme fügt sich strukturell in die Melodielinie der vorherigen ein, vergleichbar mit den Handgriffen der Landarbeiter, die in einer Kette Garbe um Garbe auf den Wagen werfen.
+        </p>
+        <p>
+          Der zyklische Charakter des Kanons – das endlose Wiederholen ohne einen natürlichen musikalischen Endpunkt – spiegelt visuell und akustisch das rotierende Rad des Erntewagens und die endlose Repetitivität manueller Arbeit wider. Die Beibehaltung der alten Moll-Tonart, die Ravenscroft bereits 1609 wählte, konterkariert zudem jegliche unbeschwerte „Lustig-ist-das-Bauernleben“-Folklore. Sie legt einen Schleier von Melancholie, Ernsthaftigkeit und harter Notwendigkeit über den Gesang. Das Lied klingt nicht nach einem fröhlichen Erntefest, sondern nach einem Wettlauf gegen den Untergang.
+        </p>
+      </section>
+
+      <section id="politische-deutbarkeit">
+        <h2>4. Die politische Deutbarkeit der Agrarsymbolik im historischen Kontext</h2>
+        <p>
+          Ausgehend von dieser strukturellen Analyse stellt sich die zwingende Frage nach der politischen Deutbarkeit. Im Bereich der kulturhistorischen Interpretation muss anerkannt werden, dass Agrarsymbolik in der politischen Ikonografie historisch stets doppelt codiert gewesen ist. Metaphern von Aussaat, Wachstum, Unkraut jäten und Ernteeinholen dienten in unterschiedlichsten politischen Systemen als machtvolle Narrative.
+        </p>
+        <p>
+          Historische Beispiele belegen dies eindrücklich: Die Bauernkriege des 16. Jahrhunderts bedienten sich landwirtschaftlicher Werkzeuge (Dreschflegel, Sense) als Symbole des Aufstands gegen den Adel. In der marxistisch-leninistischen Ikonografie der Sowjetunion wurde die Weizengarbe in das Staatswappen integriert, um den Reichtum der Kolchosen und den Triumph der Arbeiter-und-Bauern-Klasse zu visualisieren. Der Nationalsozialismus wiederum pervertierte die Agrarsymbolik in seiner „Blut und Boden“-Ideologie, in der der Bauer als Quell der rassischen Erneuerung stilisiert wurde – ein Kontext, aus dem heraus das Lied 1938 publiziert wurde.
+        </p>
+        <p>
+          Die Vorstellung, dass eine externe Bedrohung das eigene, hart erarbeitete Gut vernichten will, ist der argumentative Nukleus nahezu jeder politischen Mobilisierungskampagne. Der ideologische Schritt von einer meteorologischen Bedrohung (Regen/Sturm) zu einer politischen Bedrohung (ein feindlicher Staat, ein drohender Krieg, eine gefährliche Technologie) erfordert kognitiv lediglich eine minimale semantische Verschiebung. Das Lied bot durch seinen Text eine formale und inhaltliche Leerstelle, ein archaisches Grundmotiv der Gefahrenabwehr, das für völlig entgegengesetzte ideologische Zwecke instrumentalisiert werden konnte. Die Prämisse „Etwas ist gewachsen, aber noch nicht gesichert“ lässt sich politisch übersetzen in: „Wir haben eine Demokratie aufgebaut, aber wir müssen sie gegen Faschisten verteidigen“ oder „Wir haben ein friedliches Land, aber wir müssen es gegen Atomraketen sichern“.
+        </p>
+      </section>
+
+      <section id="protestlied">
+        <h2>5. Transformation zum Protestlied: „Wehrt euch, leistet Widerstand“</h2>
+        <p>
+          Die entscheidende Zäsur in der Rezeptionsgeschichte des Liedes, die seine latente politische Anschlussfähigkeit offenlegte, ereignete sich in der Bundesrepublik Deutschland in der zweiten Hälfte der 1970er Jahre. Eine heranwachsende Generation, die „Hejo, spann den Wagen an“ in den 1950er und 1960er Jahren flächendeckend im schulischen Musikunterricht, in den Kirchenchören und in Pfadfindergruppen als harmloses Naturidyll erlernt hatte, sah sich nun mit neuen gesellschaftlichen, technologischen und ökologischen Konfliktlinien konfrontiert. Mit der Formierung der neuen sozialen Bewegungen etablierte sich der zivile Ungehorsam als legitimes Mittel der außerparlamentarischen politischen Auseinandersetzung.
+        </p>
+
+        <h3>5.1 Die Anti-Atomkraft-Bewegung und die Geburt des Brokdorf-Kanons</h3>
+        <p>
+          Die Initialzündung für die massenhafte politische Umdeutung des Liedes fiel in die Phase der sich radikalisierenden Anti-Atomkraft-Bewegung. In den teils gewaltsamen Auseinandersetzungen um geplante Kernkraftwerke und Wiederaufbereitungsanlagen in Wyhl am Kaiserstuhl (1975), Grohnde (1977), Gorleben im Wendland und Wackersdorf in Bayern (ab 1982) formierte sich eine beispiellose, heterogene gesellschaftliche Opposition. Hier demonstrierten hunderttausende Bürger: Konservative Weinbauern, Naturschützer, Familien mit Kindern trafen auf radikalisierte Studenten der 68er-Generation und militante K-Gruppen. Der Staat reagierte auf diese Bauplatzbesetzungen oftmals hilflos und rüstete seine Polizei massiv auf; die Areale wurden mit Wasserwerfern, Reizgas und gefährlichem Nato-Draht gesichert, in dem sich Demonstranten schwere Wunden rissen.
+        </p>
+        <p>
+          In diesem hochbrisanten, fast bürgerkriegsähnlichen Klima der Jahre 1976 und 1977, insbesondere während der massiven Demonstrationen rund um das geplante AKW Brokdorf in den schleswig-holsteinischen Elbmarschen, mutierte das Lied zum sogenannten „Brokdorf-Kanon“. Die Demonstranten, die in Friesennerzen und Gummistiefeln über die nassen Wiesen und Schleichwege entlang der Wassergräben (Wettern) marschierten, um die Bauzäune zu erreichen, sangen auf die bekannte englische Moll-Melodie einen neuen, explizit politischen Text:
+        </p>
+        <div class="quote">
+          „Wehrt euch, leistet Widerstand, / gegen das Atomkraftwerk [oder: die Atomkraft] im Land! / Schließt euch fest zusammen, schließt euch fest zusammen!“.
+        </div>
+        <p>
+          Eine alternative Zeile am Ende lautete: „Haltet fest zusammen...“.
+        </p>
+        <p>
+          Dieser Text wurde in rasender Geschwindigkeit zum zentralen Kampfruf, zum Pazifismus-Song und zum Erweckungserlebnis der gesamten westdeutschen Umwelt- und Protestbewegung. Die Urheberschaft dieses neuen Textes ist nicht abschließend geklärt. Manuskripte oder Dokumente, wer die Zeilen zuerst auf die Melodie legte (ob Liedermacher wie Walter Mossmann oder anonyme Demonstranten), existieren nicht; es muss als kollektives, situatives Erzeugnis der damaligen Demonstrationskultur gewertet werden.
+        </p>
+        <p>
+          Die Wirkmacht dieser neuen Protestfolklore blieb auch politischen Analytikern nicht verborgen. Henning Eichberg, ein Soziologe, Vordenker des Ethnopluralismus und Mitbegründer der frühen Grünen (der später ins rechtsextreme Spektrum abdriftete), notierte bereits 1978 in seinem Buch „Nationale Identität“ aufmerksam das Erstarken einer neuen Gesangskultur. Er lobte die Abkehr vom amerikanischen Pop und beobachtete: „Zum Leitmotiv neuerer Demonstrationen wurde ein Vers nach der Melodie ‚Hejo, spann den Wagen an‘: ‚Wehrt euch, leistet Widerstand gegen das Atomwerk hier im Land...‘“. Diese zeitgenössische Quelle belegt die flächendeckende Etablierung der Variante bereits vor 1978.
+        </p>
+
+        <h3>5.2 Adaptionen in Friedens-, Zivilgesellschafts- und Anti-Faschismus-Bewegungen</h3>
+        <p>
+          Die textliche Flexibilität und die musikalische Robustheit des Kanons erlaubten es in den folgenden Jahrzehnten, ihn mühelos an wechselnde politische Großkonflikte der Bundesrepublik zu adaptieren. Er entwickelte sich gewissermaßen zum akustischen Schweizer Taschenmesser der bundesdeutschen Protestkultur, wobei stets das Grundmuster – die Benennung einer Bedrohung im Land und der Aufruf zum Zusammenhalt – erhalten blieb:
+        </p>
+        <ul class="semantic-list">
+          <li>Friedensbewegung (1983): Während der massiven Proteste gegen den NATO-Doppelbeschluss und die Stationierung amerikanischer Pershing-II-Mittelstreckenraketen in Mutlangen sangen Blockierer im Angesicht der anrückenden Polizei vor den Kasernentoren: „Gegen die Raketen hier im Land, schließt euch fest zusammen...“.</li>
+          <li>Stuttgart 21 (2010): In den bürgerlichen Protesten gegen das milliardenschwere, hochumstrittene unterirdische Bahnhofsprojekt in Baden-Württemberg wurde der Text entsprechend modifiziert zu: „gegen das Milliardengrab im Land“.</li>
+          <li>Anti-Faschismus und Anti-Rechts-Proteste (2020er Jahre): Auf aktuellen Kundgebungen gegen einen gesellschaftlichen Rechtsruck und Rechtsextremismus wird der Kanon von Demonstranten, teilweise in Chor-Stärke, unter der Parole intoniert: „Wehrt euch, leistet Widerstand / gegen den Faschismus hier im Land / auf die Barrikaden, auf die Barrikaden“ oder auch „gegen den Rassismus“.</li>
+        </ul>
+
+        <div class="table-wrap">
+          <table>
+            <caption>Politische Varianten und Kontexte</caption>
+            <thead>
+              <tr>
+                <th>Epoche/Jahr</th>
+                <th>Bewegung / Anlass</th>
+                <th>Textvariante (Auszug)</th>
+                <th>Ort/Kontext</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>Ab 1976</td>
+                <td>Anti-Atomkraft-Bewegung</td>
+                <td>„gegen das Atomkraftwerk im Land“</td>
+                <td>Brokdorf, Wyhl, Grohnde, Gorleben</td>
+              </tr>
+              <tr>
+                <td>1983</td>
+                <td>Friedensbewegung</td>
+                <td>„gegen die Raketen hier im Land“</td>
+                <td>Mutlangen, Protest gegen NATO-Doppelbeschluss</td>
+              </tr>
+              <tr>
+                <td>2010</td>
+                <td>Zivilgesellschaft</td>
+                <td>„gegen das Milliardengrab im Land“</td>
+                <td>Stuttgart 21</td>
+              </tr>
+              <tr>
+                <td>2020er</td>
+                <td>Anti-Faschismus</td>
+                <td>„gegen den Faschismus hier im Land“</td>
+                <td>Demonstrationen gegen Rechts</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+
+        <p>
+          Darüber hinaus wird die musikalische Substanz von Gruppen wie dem Schweizer Netzwerk „StimmVolk“ genutzt, um bei „Friedens-Singen“ im öffentlichen Raum (z.B. auf dem Münsterplatz in Bern) pazifistische Botschaften und das Gefühl der „Zusammenarbeit“ und des „gemeinsamen Ziels“ zu transportieren. Häufig wird hierbei die Verwandtschaft zum französischen Kanon Vent frais, vent du matin betont, um die musikalische Verbundenheit über Sprachgrenzen hinweg zu zelebrieren.
+        </p>
+
+        <h3>5.3 Die formale Disposition als Katalysator des Protests</h3>
+        <p>
+          Dass ausgerechnet dieses alte, von NS-Arbeitsdiensten geprägte Lied zu einer Hymne des progressiven Widerstands wurde, ist kein musikgeschichtlicher Zufall. Es resultiert aus seiner spezifischen formalen und psychologischen Struktur. Ein Kanon eignet sich aus mehreren Gründen idealtypisch für politische Straßenproteste:
+        </p>
+        <ul class="semantic-list">
+          <li>Niedrige Eintrittsbarriere und kollektives Gedächtnis: Die Melodie war durch die beschriebene flächendeckende schulische Sozialisation der Nachkriegszeit bei nahezu allen Demonstranten als latentes, unbewusst abrufbares Wissen vorhanden. Es bedurfte auf der Straße keines Chorbuchs, keiner verteilten Notenblätter und keines musikalischen Vorwissens, um spontan in den Gesang einzustimmen. Die Einfachheit garantierte maximale Partizipation.</li>
+          <li>Demokratische Akustik: Ein Kanon kommt strukturell ohne einen singenden Anführer, ohne Frontsänger oder dirigentische Hierarchie aus. Jede einsetzende Gruppe ist musikalisch gleichwertig. Dies spiegelte das basisdemokratische, antiautoritäre Selbstverständnis der Umwelt- und Friedensbewegung der 1970er und 1980er Jahre exakt wider. Der Gesang ordnete die Masse, ohne sie zu dominieren.</li>
+          <li>Endlos-Schleife und Resilienzbildung: Der zyklische Charakter des Kanons ermöglicht ein stundenlanges Singen ohne Unterbrechung. Bei sogenannten „Sitzblockaden“, bei denen Demonstranten auf Straßen ausharrten, bis sie einzeln von der Polizei weggetragen wurden (wie eindrücklich in Erfahrungsberichten aus Mutlangen geschildert), wirkte der repetitive Rhythmus kontemplativ, angstlösend und stark gruppenbildend. Er schuf einen akustischen Schutzraum, eine polyphone Mauer gegen die anrückende Staatsgewalt. Das Singen half, die physische Anspannung und die Angst vor Polizeigewalt zu regulieren.</li>
+          <li>Klangliche Ernsthaftigkeit: Im Gegensatz zu fröhlichen, marschartigen Arbeiterliedern verlieh die alte Moll-Tonart dem Protest den notwendigen habituellen Ernst. Wenn der Staat seine Bürger mit Wasserwerfern bedroht, bietet sich eine melancholisch-dringliche Melodie weitaus eher als emotionales Ventil an als ein heiterer Dur-Akkord.</li>
+        </ul>
+      </section>
+
+      <section id="pruefstein">
+        <h2>6. Prüfstein der interpretativen These</h2>
+        <p>
+          Die methodische Ausgangsfrage der Untersuchung verlangte die Überprüfung der These: Das Protestpotential von „Hejo, spann den Wagen an“ wird dem Lied nicht nachträglich aufgepfropft, sondern liegt bereits in seiner Grundsituation – eine gemeinsam erarbeitete Ernte ist durch äußere Umstände bedroht und muss rechtzeitig gerettet werden.
+        </p>
+        <p>
+          Die historisch-strukturelle Herleitung und die semiotische Analyse verifizieren diese interpretative These in vollem Umfang. Die Aneignung des Liedes durch die Anti-Atomkraft-Bewegung und spätere zivilgesellschaftliche Akteure war kein willkürlicher Akt der musikalischen Zweckentfremdung. Sie basierte vielmehr auf einer perfekten strukturellen Analogie, einem tiefgehenden Isomorphismus zwischen der agrarischen Erzählung des Ursprungstextes und der politischen Realität der Demonstranten.
+        </p>
+        <p>
+          Die narrativen Elemente lassen sich in der kulturhistorischen Deutung fast deckungsgleich übereinanderlegen:
+        </p>
+        <p>
+          In der agrarischen Ernte-Szenerie verkörpern die „goldnen Garben“ die Lebensgrundlage und das hart erarbeitete Resultat menschlichen Bemühens. In der politischen Szenerie der 1970er Jahre standen diese Garben metaphorisch für die unversehrte Natur, die bäuerliche Heimat (wie etwa die fruchtbaren Böden in Wyhl oder der Elbmarsch bei Brokdorf) oder im weiteren Sinne für demokratische Grundrechte.
+        </p>
+        <p>
+          Der „Wind“, der bedrohlich den „Regen übers Land“ treibt, fand seine direkte Entsprechung in der technokratischen Bedrohung durch Nuklearanlagen, der Angst vor radioaktivem Strahlungs-Fallout oder der als übermächtig und blind empfundenen Staatsgewalt. Beides sind dunkle, am Horizont aufziehende Wolken, die sich über das Land legen und irreversible, existenzzerstörende Schäden anrichten können.
+        </p>
+        <p>
+          Der verzweifelte Ruf „Hejo, spann den Wagen an!“ ist der ultimative landwirtschaftliche Imperativ zur sofortigen Logistik und Organisation. In der radikalen Protest-Variante wurde daraus organisch der semantisch gleichgerichtete Aufruf: „Wehrt euch, leistet Widerstand!“. Der hölzerne Wagen als technisches Instrument der Rettung verwandelte sich in das menschliche Schutzschild, in das Festhalten der Demonstranten umeinander („Haltet fest zusammen“).
+        </p>
+        <p>
+          Die historische Tatsache, dass eine frühe englische Vorform („Hey ho, nobody home“) im 17. Jahrhundert bereits materielle Entbehrung, Hunger und Armut verhandelte, und dass die erste nachweisbare deutsche Textfassung zutiefst in das totalitäre, kollektivistische Arbeitskorsett des nationalsozialistischen Arbeitsdienstes eingebettet war, untermauert die eigene Interpretation, dass dieses musikalische Gefäß stets von existenziellen Reibungen umgeben war. Es war nie ein harmloses Lied über fallendes Laub. Das Protestpotential war von exakt dem Moment an evident, in dem der deutsche Text die Idee einer drohenden Vernichtung existentieller Ressourcen durch höhere Mächte in Kombination mit dem Zwang zu radikaler, kollektiver Solidarität lyrisch verdichtete.
+        </p>
+      </section>
+
+      <section id="fazit" class="closing">
+        <h2>7. Fazit zur politischen Anschlussfähigkeit</h2>
+        <p>
+          Die lange und verschlungene Biografie des Kanons „Hejo, spann den Wagen an“ liefert ein herausragendes Beispiel für die radikale Aneignung, Zensur und Umcodierung kultureller Güter in Europa. Die quellenkritische Spurensuche führt von einer englischen Pergamentrolle des Jahres 1580, die Lieder für den polyphonen Zeitvertreib sammelte, über derbe Londoner Catch-Clubs im 18. Jahrhundert bis hin zur massiven ideologischen Indienstnahme durch den Reichsarbeitsdienst in den 1930er Jahren. Dass sich exakt dieses Lied, gefiltert durch den pädagogischen Musikunterricht der Nachkriegszeit, in den 1970er Jahren zum zentralen Leitmotiv des linken, pazifistischen und ökologischen Widerstands in der Bundesrepublik Deutschland entwickelte („Wehrt euch, leistet Widerstand“), illustriert die anhaltende Macht musikalischer und lyrischer Archaisik.
+        </p>
+        <p>
+          Die Analyse zeigt, dass agrarische Metaphorik der Erntesicherung im Volkslied niemals rein deskriptiv zu verstehen ist. Sie transportiert in ihrer Tiefenstruktur unweigerlich Parameter der Solidarität, der Arbeitsethik, der archaischen Angst vor Verlust und des unbedingten, kollektiven Handlungsimperativs. Gerade weil die Szene der bedrohten Ernte eine so essenzielle, leicht verständliche Bedrohungskonstellation darstellt, ließ sie sich an den Bauzäunen in Brokdorf, vor den Kasernen in Mutlangen oder im Schlosspark in Stuttgart nahtlos in einen modernen politischen Imperativ übersetzen. Der Kanon fungierte hierbei nicht als bloßes, leeres Vehikel für nachträglich aufgebrachte, fremde Botschaften. Er agierte als akustischer Katalysator, dessen repetitive, vielstimmige Form den Widerstand nicht nur abstrakt benannte, sondern durch den physischen Akt des gemeinsamen Singens auf der Straße im Angesicht der Bedrohung überhaupt erst generierte und stabilisierte.
+        </p>
+      </section>
+    </main>
+  </div>
+
+  <button class="back-to-top" id="backToTop" type="button" aria-label="Zurück zum Seitenanfang">↑</button>
+
+  <script>
+    (function () {
+      const progress = document.getElementById("readingProgress");
+      const backToTop = document.getElementById("backToTop");
+
+      function updateReadingState() {
+        const scrollTop = window.scrollY || document.documentElement.scrollTop;
+        const documentHeight = document.documentElement.scrollHeight - window.innerHeight;
+        const ratio = documentHeight > 0 ? Math.min(scrollTop / documentHeight, 1) : 0;
+
+        progress.style.width = `${ratio * 100}%`;
+        backToTop.classList.toggle("is-visible", scrollTop > 520);
+      }
+
+      backToTop.addEventListener("click", function () {
+        window.scrollTo({ top: 0, behavior: "smooth" });
+      });
+
+      window.addEventListener("scroll", updateReadingState, { passive: true });
+      window.addEventListener("resize", updateReadingState);
+      updateReadingState();
+    })();
+  </script>
+</body>
+</html>
+```
