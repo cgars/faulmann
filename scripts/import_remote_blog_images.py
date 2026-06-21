@@ -5,15 +5,16 @@ Import remote blog images referenced in Jekyll posts into this repository.
 Usage:
   python scripts/import_remote_blog_images.py --dry-run
   python scripts/import_remote_blog_images.py
+  python scripts/import_remote_blog_images.py --max-posts 10 --log-level DEBUG
 """
 
 from __future__ import annotations
 
 import argparse
+import logging
 import mimetypes
 import os
 import re
-import sys
 import urllib.parse
 import urllib.request
 from dataclasses import dataclass
@@ -64,12 +65,22 @@ class UrlImportResult:
 
 
 class RemoteImageImporter:
-    def __init__(self, repo_root: Path, dry_run: bool = False, timeout: int = 15) -> None:
+    """Import externally hosted images into repository-local post assets."""
+
+    def __init__(
+        self,
+        repo_root: Path,
+        dry_run: bool = False,
+        timeout: int = 15,
+        max_posts: Optional[int] = None,
+    ) -> None:
         self.repo_root = repo_root
         self.posts_dir = repo_root / "_posts"
         self.assets_root = repo_root / "assets" / "img" / "posts"
         self.dry_run = dry_run
         self.timeout = timeout
+        self.max_posts = max_posts
+        self.logger = logging.getLogger(__name__)
 
         self.url_to_path: Dict[str, str] = {}
         self.failed_urls: Dict[str, str] = {}
@@ -82,13 +93,18 @@ class RemoteImageImporter:
         self.files_written = 0
 
     def run(self) -> int:
+        """Process posts and rewrite supported remote image references."""
         if not self.posts_dir.exists():
-            print(f"Error: posts directory does not exist: {self.posts_dir}", file=sys.stderr)
+            self.logger.error("posts directory does not exist: %s", self.posts_dir)
             return 1
 
         posts = sorted(
             p for p in self.posts_dir.iterdir() if p.is_file() and p.suffix.lower() in {".md", ".markdown"}
         )
+        if self.max_posts is not None:
+            posts = posts[: self.max_posts]
+
+        self.logger.info("processing %s post(s)", len(posts))
         for post_path in posts:
             self.posts_scanned += 1
             self._process_post(post_path)
@@ -109,11 +125,11 @@ class RemoteImageImporter:
         if updated_text != original_text:
             self.posts_changed += 1
             if self.dry_run:
-                print(f"DRY-RUN: would update {post_path}")
+                self.logger.info("DRY-RUN: would update %s", post_path)
             else:
                 self._write_text_preserve_newlines(post_path, updated_text)
                 self.files_written += 1
-                print(f"Updated {post_path}")
+                self.logger.info("updated %s", post_path)
 
     def _replace_front_matter_urls(self, text: str, slug: str, post_path: Path) -> str:
         if not text:
@@ -162,7 +178,7 @@ class RemoteImageImporter:
             local_web_path = f"/assets/img/posts/{slug}/{final_name}"
             self.url_to_path[url] = local_web_path
             self.planned_urls.add(url)
-            print(f"DRY-RUN: would download {url} -> {local_web_path} (ext={ext})")
+            self.logger.info("DRY-RUN: would download %s -> %s (ext=%s)", url, local_web_path, ext)
             return UrlImportResult(local_web_path=local_web_path, downloaded=False)
 
         try:
@@ -177,13 +193,13 @@ class RemoteImageImporter:
         except Exception as exc:  # noqa: BLE001
             warning = f"failed download for {url} in {post_path.name}: {exc}"
             self.failed_urls[url] = warning
-            print(f"WARNING: {warning}")
+            self.logger.warning("%s", warning)
             return UrlImportResult(local_web_path=None, downloaded=False, warning=warning)
 
         if not data:
             warning = f"empty response for {url} in {post_path.name}"
             self.failed_urls[url] = warning
-            print(f"WARNING: {warning}")
+            self.logger.warning("%s", warning)
             return UrlImportResult(local_web_path=None, downloaded=False, warning=warning)
 
         base_name, ext, final_name = self._build_filename_plan(final_url, slug, content_type)
@@ -197,7 +213,7 @@ class RemoteImageImporter:
                 f"content-type={normalized_content_type or 'unknown'}"
             )
             self.failed_urls[url] = warning
-            print(f"WARNING: {warning}")
+            self.logger.warning("%s", warning)
             return UrlImportResult(local_web_path=None, downloaded=False, warning=warning)
 
         target_dir = self.assets_root / slug
@@ -208,7 +224,7 @@ class RemoteImageImporter:
         local_web_path = f"/assets/img/posts/{slug}/{final_name}"
         self.url_to_path[url] = local_web_path
         self.downloaded_urls.add(url)
-        print(f"Downloaded {url} -> {local_web_path} ({base_name}{ext})")
+        self.logger.info("downloaded %s -> %s (%s%s)", url, local_web_path, base_name, ext)
         return UrlImportResult(local_web_path=local_web_path, downloaded=True)
 
     def _build_filename_plan(self, url: str, slug: str, content_type: Optional[str]) -> Tuple[str, str, str]:
@@ -307,23 +323,24 @@ class RemoteImageImporter:
             fh.write(content)
 
     def _print_summary(self) -> None:
-        print("")
-        print("Summary")
-        print(f"- posts scanned: {self.posts_scanned}")
-        print(f"- posts changed: {self.posts_changed}")
+        self.logger.info("")
+        self.logger.info("Summary")
+        self.logger.info("- posts scanned: %s", self.posts_scanned)
+        self.logger.info("- posts changed: %s", self.posts_changed)
         if self.dry_run:
-            print(f"- urls to download: {len(self.planned_urls)}")
+            self.logger.info("- urls to download: %s", len(self.planned_urls))
         else:
-            print(f"- images downloaded: {len(self.downloaded_urls)}")
-            print(f"- files updated: {self.files_written}")
-        print(f"- failed urls: {len(self.failed_urls)}")
+            self.logger.info("- images downloaded: %s", len(self.downloaded_urls))
+            self.logger.info("- files updated: %s", self.files_written)
+        self.logger.info("- failed urls: %s", len(self.failed_urls))
         if self.failed_urls:
-            print("Failed URL details:")
+            self.logger.info("Failed URL details:")
             for warning in self.failed_urls.values():
-                print(f"  - {warning}")
+                self.logger.info("  - %s", warning)
 
 
 def parse_args() -> argparse.Namespace:
+    """Define and parse command line arguments for the importer."""
     parser = argparse.ArgumentParser(description="Import remote blog images into local assets")
     parser.add_argument(
         "--dry-run",
@@ -336,13 +353,34 @@ def parse_args() -> argparse.Namespace:
         default=15,
         help="HTTP request timeout in seconds (default: 15)",
     )
+    parser.add_argument(
+        "--max-posts",
+        type=int,
+        default=None,
+        help="Maximum number of posts to process (default: all posts)",
+    )
+    parser.add_argument(
+        "--log-level",
+        default="INFO",
+        choices=["DEBUG", "INFO", "WARNING", "ERROR"],
+        help="Logging verbosity level (default: INFO)",
+    )
     return parser.parse_args()
 
 
 def main() -> int:
+    """Parse CLI options, configure logging, and run the importer."""
     args = parse_args()
+    if args.max_posts is not None and args.max_posts < 1:
+        raise SystemExit("--max-posts must be a positive integer")
+    logging.basicConfig(level=getattr(logging, args.log_level), format="%(levelname)s: %(message)s")
     repo_root = Path(__file__).resolve().parents[1]
-    importer = RemoteImageImporter(repo_root=repo_root, dry_run=args.dry_run, timeout=args.timeout)
+    importer = RemoteImageImporter(
+        repo_root=repo_root,
+        dry_run=args.dry_run,
+        timeout=args.timeout,
+        max_posts=args.max_posts,
+    )
     return importer.run()
 
 
