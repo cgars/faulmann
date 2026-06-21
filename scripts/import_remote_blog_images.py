@@ -115,23 +115,27 @@ class RemoteImageImporter:
     def _process_post(self, post_path: Path) -> None:
         original_text = self._read_text_preserve_newlines(post_path)
         slug = post_path.stem
+        planned_rewrites: List[Tuple[str, str]] = []
 
         front_matter, body = self._split_front_matter(original_text)
 
-        updated_front_matter = self._replace_front_matter_urls(front_matter, slug, post_path)
-        updated_body = self._replace_body_urls(body, slug, post_path)
+        updated_front_matter = self._replace_front_matter_urls(front_matter, slug, post_path, planned_rewrites)
+        updated_body = self._replace_body_urls(body, slug, post_path, planned_rewrites)
         updated_text = updated_front_matter + updated_body
 
         if updated_text != original_text:
             self.posts_changed += 1
             if self.dry_run:
                 self.logger.info("DRY-RUN: would update %s", post_path)
+                self._log_dry_run_rewrites(post_path, planned_rewrites)
             else:
                 self._write_text_preserve_newlines(post_path, updated_text)
                 self.files_written += 1
                 self.logger.info("updated %s", post_path)
 
-    def _replace_front_matter_urls(self, text: str, slug: str, post_path: Path) -> str:
+    def _replace_front_matter_urls(
+        self, text: str, slug: str, post_path: Path, planned_rewrites: List[Tuple[str, str]]
+    ) -> str:
         if not text:
             return text
 
@@ -140,6 +144,8 @@ class RemoteImageImporter:
             result = self._import_url(remote_url, slug, post_path)
             if not result.local_web_path:
                 return match.group(0)
+            if self.dry_run:
+                planned_rewrites.append((remote_url, result.local_web_path))
             return (
                 f"{match.group('prefix')}{match.group('quote')}"
                 f"{result.local_web_path}{match.group('quote')}{match.group('suffix')}"
@@ -147,7 +153,9 @@ class RemoteImageImporter:
 
         return IMAGE_FIELD_PATTERN.sub(replacer, text)
 
-    def _replace_body_urls(self, text: str, slug: str, post_path: Path) -> str:
+    def _replace_body_urls(
+        self, text: str, slug: str, post_path: Path, planned_rewrites: List[Tuple[str, str]]
+    ) -> str:
         if not text:
             return text
 
@@ -156,6 +164,8 @@ class RemoteImageImporter:
             result = self._import_url(remote_url, slug, post_path)
             if not result.local_web_path:
                 return match.group(0)
+            if self.dry_run:
+                planned_rewrites.append((remote_url, result.local_web_path))
             return match.group(0).replace(remote_url, result.local_web_path, 1)
 
         text = MARKDOWN_IMAGE_PATTERN.sub(replace_url_in_match, text)
@@ -336,6 +346,15 @@ class RemoteImageImporter:
             self.logger.info("Failed URL details:")
             for warning in self.failed_urls.values():
                 self.logger.info("  - %s", warning)
+
+    def _log_dry_run_rewrites(self, post_path: Path, rewrites: List[Tuple[str, str]]) -> None:
+        seen: Set[Tuple[str, str]] = set()
+        for remote_url, local_web_path in rewrites:
+            replacement = (remote_url, local_web_path)
+            if replacement in seen:
+                continue
+            seen.add(replacement)
+            self.logger.info("DRY-RUN: %s replace %s -> %s", post_path.name, remote_url, local_web_path)
 
 
 def parse_args() -> argparse.Namespace:
