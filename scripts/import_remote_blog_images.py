@@ -323,7 +323,6 @@ class RemoteImageImporter:
             fh.write(content)
 
     def _print_summary(self) -> None:
-        self.logger.info("")
         self.logger.info("Summary")
         self.logger.info("- posts scanned: %s", self.posts_scanned)
         self.logger.info("- posts changed: %s", self.posts_changed)
@@ -341,6 +340,12 @@ class RemoteImageImporter:
 
 def parse_args() -> argparse.Namespace:
     """Define and parse command line arguments for the importer."""
+    def positive_int(value: str) -> int:
+        parsed = int(value)
+        if parsed <= 0:
+            raise argparse.ArgumentTypeError("must be greater than 0")
+        return parsed
+
     parser = argparse.ArgumentParser(description="Import remote blog images into local assets")
     parser.add_argument(
         "--dry-run",
@@ -355,7 +360,7 @@ def parse_args() -> argparse.Namespace:
     )
     parser.add_argument(
         "--max-posts",
-        type=int,
+        type=positive_int,
         default=None,
         help="Maximum number of posts to process (default: all posts)",
     )
@@ -371,8 +376,6 @@ def parse_args() -> argparse.Namespace:
 def main() -> int:
     """Parse CLI options, configure logging, and run the importer."""
     args = parse_args()
-    if args.max_posts is not None and args.max_posts <= 0:
-        raise SystemExit("Error: --max-posts must be greater than 0")
     logging.basicConfig(level=getattr(logging, args.log_level), format="%(levelname)s: %(message)s")
     repo_root = Path(__file__).resolve().parents[1]
     importer = RemoteImageImporter(
