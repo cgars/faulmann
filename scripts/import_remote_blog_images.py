@@ -371,7 +371,7 @@ def parse_args() -> argparse.Namespace:
 def main() -> int:
     """Parse CLI options, configure logging, and run the importer."""
     args = parse_args()
-    if args.max_posts is not None and args.max_posts < 1:
+    if args.max_posts is not None and args.max_posts <= 0:
         raise SystemExit("--max-posts must be a positive integer")
     logging.basicConfig(level=getattr(logging, args.log_level), format="%(levelname)s: %(message)s")
     repo_root = Path(__file__).resolve().parents[1]
