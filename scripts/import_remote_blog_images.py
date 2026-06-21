@@ -372,7 +372,7 @@ def main() -> int:
     """Parse CLI options, configure logging, and run the importer."""
     args = parse_args()
     if args.max_posts is not None and args.max_posts <= 0:
-        raise SystemExit("Error: --max-posts must be a positive integer")
+        raise SystemExit("Error: --max-posts must be greater than 0")
     logging.basicConfig(level=getattr(logging, args.log_level), format="%(levelname)s: %(message)s")
     repo_root = Path(__file__).resolve().parents[1]
     importer = RemoteImageImporter(
