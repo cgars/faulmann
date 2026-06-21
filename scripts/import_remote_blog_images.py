@@ -115,7 +115,9 @@ class RemoteImageImporter:
     def _process_post(self, post_path: Path) -> None:
         original_text = self._read_text_preserve_newlines(post_path)
         slug = post_path.stem
-        planned_rewrites: Optional[List[Tuple[str, str]]] = [] if self.dry_run else None
+        planned_rewrites: Optional[List[Tuple[str, str]]] = None
+        if self.dry_run:
+            planned_rewrites = []
 
         front_matter, body = self._split_front_matter(original_text)
 
