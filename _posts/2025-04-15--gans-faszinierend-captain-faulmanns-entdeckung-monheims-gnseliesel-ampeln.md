@@ -12,7 +12,7 @@ created_raw: "2025-04-15T19:49:12Z"
 updated_raw: "2025-04-16T06:37:55Z"
 excerpt_separator: "<!--more-->"
 ---
-![](https://pixelfed.social/storage/m/_v2/607467830790472239/6ac28a0f2-92b4f8/MRh1Jss0Kzob/Sj6TVCfpLfjTmJ1PGlhaKKxxjyw5VDl6F87AkhPF.png)
+![](/assets/img/posts/2025-04-15--gans-faszinierend-captain-faulmanns-entdeckung-monheims-gnseliesel-ampeln/Sj6TVCfpLfjTmJ1PGlhaKKxxjyw5VDl6F87AkhPF.png)
 
 **Manchmal sind es die kleinen Dinge am Wegesrand, die eine Tour unvergesslich machen.**  
 Letztes Wochenende war ich mit dem Rad unterwegs, eine schöne Strecke von Essen runter nach Rath – ordentlich Dampf gemacht, trotz kleiner Verspätung.

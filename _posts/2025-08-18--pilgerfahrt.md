@@ -21,7 +21,7 @@ html,body        {height: 100%;}
 
 # Captain Faulmanns Pilgerfahrt – Vom Dom zum Papsthügel und zurück  
 
-![](https://pixelfed.social/storage/m/_v2/607467830790472239/33cc9b949-339791/WyZzfHBaPfaB/ziucMkacq0eDAxbhJShJs52Kpq4qBHhDNk0lObF0.png)
+![](/assets/img/posts/2025-08-18--pilgerfahrt/ziucMkacq0eDAxbhJShJs52Kpq4qBHhDNk0lObF0.png)
 
 Es beginnt, wie so oft, in Rath. Der erste Weg führt ihn hinein in die große Stadt, hin zum Kölner Dom. Auf der Hohenzollernbrücke lässt es sich nicht mehr leugnen: Es ist **Gamescom-Wochenende**. Die Innenstadt rüstet sich: bald wird sie brummen, Musik dröhnen, Schlangen werden sich vor den Messehallen bilden. Schon jetzt zwingen Sperrungen zu Umleitungen. Köln im Festivalmodus – Faulmann denkt mit einem Schmunzeln, nicht ohne Ironie: 
 
@@ -43,11 +43,11 @@ Bei Porta lockt ein Trödelmarkt, und hunderte strömen dorthin. Auch das ist ei
 
 Allmählich wird es beschaulicher und ein Abstecher in den **Rosmarpark** bringt Stille. Auf dem „Dach von Frechen“ entdeckt Faulmann einen knorrigen, überwucherten Baum, dessen Silhouette fast an Godzilla erinnert.  
 
-![](https://pixelfed.social/storage/m/_v2/607467830790472239/33cc9b949-339791/C6fSDut1gmIe/MCetuVHu8Uu66MoZX1XZAWmT5Cm4sfOKlkAESYJZ.jpg)
+![](/assets/img/posts/2025-08-18--pilgerfahrt/MCetuVHu8Uu66MoZX1XZAWmT5Cm4sfOKlkAESYJZ.jpg)
 
 Dann erreicht er die **Grube Carl**: ein ganzer Industriekomplex, in dem ab 1869 Braunkohle gefördert, aufbereitet und schließlich zu Briketts verarbeitet wurde. Neben der Brikettfabrik standen hier Maschinenhäuser, Schächte und Gleisanschlüsse – ein eigener Kosmos der Arbeit, der das Rheinland prägte. Bis 1995 liefen die Pressen, Millionen Tonnen wurden produziert. Heute ist das alte Trocken- und Pressenhaus saniert und zu Wohnungen umgebaut. Backstein, Geschichte, neu belebt. Was früher von Maschinen erfüllt war, ist nun Lebensraum für Menschen – Geschichte in Mauern, die weiterlebt.  
 
-![](https://pixelfed.social/storage/m/_v2/607467830790472239/33cc9b949-339791/CcPADV3myfEG/DWR2FXN1UGdvRh8AaQmbSe3fQvRg2zI2ckh1lxho.jpg)
+![](/assets/img/posts/2025-08-18--pilgerfahrt/DWR2FXN1UGdvRh8AaQmbSe3fQvRg2zI2ckh1lxho.jpg)
 
 Auf dem nächsten Stück des Wegs huscht ein Fuchs vorbei. Erst flüchtet er, doch nach ein paar Metern bleibt er stehen und blickt aus der Deckung zurück – aufmerksam, ruhig, lauernd. Kein Pilger, kein Wächter, eher ein Wesen des Ortes, das Faulmann für einen Augenblick mustert. Im Blick des Fuchses liegt kein Fragen, nur ein Spiegeln. Für den Bären ist es ein stilles Bild: Erinnerung und Zukunft bestehen nicht nur aus Mauern und Menschen, sondern auch aus diesen flüchtigen Begegnungen. 
 
@@ -68,7 +68,7 @@ Und Faulmann hört die Worte nachhallen:
 
 Dem kann sich Faulmann – zumindest kontextfrei – zustimmen. Große Freude lässt sich nicht festhalten, sie will geteilt werden. Muss sie vielleicht sogar. Man kann es als Auftrag verstehen.  
 
-![](https://pixelfed.social/storage/m/_v2/607467830790472239/33cc9b949-339791/NsWY9l5CFWu1/JvVP82eSE6jbihalk5JXkz1TZCX8DmzMIw0ro1FU.jpg)
+![](/assets/img/posts/2025-08-18--pilgerfahrt/JvVP82eSE6jbihalk5JXkz1TZCX8DmzMIw0ro1FU.jpg)
 
 Und er erinnert sich, wie er damals – im zweiten Semester – zum ersten Mal im Leben wirklich lernen musste. Eine neue Erfahrung, die ihn forderte, aber auch prägte. Der junge Faulmann ließ sich damals nur allzu gerne durch die Bilder und Berichte vom Weltjugendtag ablenken. Zwischen Büchern und Klausuren war das bunte Treiben auf dem Marienfeld wie ein Fenster in eine andere Welt.  
 
@@ -95,7 +95,7 @@ Vom Hügel rollt er zum **Erft-Radweg**. Vertraut und schön, aber diesmal von e
 
 Bei **Fietzecks Weitsicht** hält er diesmal an – zum ersten Mal. Jahrelang vorbeigeradelt, jetzt endlich Zeit. 
 
-![](https://pixelfed.social/storage/m/_v2/607467830790472239/33cc9b949-339791/OYz7iYKgZGSh/WBkZLiQK1uFTbGWAOCuoqHp76EOcxeKm6QPiQ5ji.jpg)
+![](/assets/img/posts/2025-08-18--pilgerfahrt/WBkZLiQK1uFTbGWAOCuoqHp76EOcxeKm6QPiQ5ji.jpg)
 
 > Der Blick zeigt, dass Weitsicht Geduld braucht.  
 

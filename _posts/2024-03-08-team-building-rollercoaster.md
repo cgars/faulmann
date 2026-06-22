@@ -12,7 +12,7 @@ created_raw: "2024-03-08T06:54:43Z"
 updated_raw: "2024-12-12T09:30:54Z"
 excerpt_separator: "<!--more-->"
 ---
-![Team Building Rollercoaster](https://pxscdn.com/public/m/_v2/607467830790472239/062ac74bd-fb82c6/ey8tr2HsobTe/mH5th6qOAasMwGJg8vV2NzR7TUsMxLRx5qK2FfeG.jpg)
+![Team Building Rollercoaster](/assets/img/posts/2024-03-08-team-building-rollercoaster/mH5th6qOAasMwGJg8vV2NzR7TUsMxLRx5qK2FfeG.jpg)
 
 Torpedo Tech, guided by the visionary leadership of Alex Mercer, stood out as a beacon of ambition and ingenuity. Initially captivated by maritime marvels, the company was poised to embark on a new venture that promised to test the limits of its sky-high aspirations while navigating the challenges of organizational change.
 

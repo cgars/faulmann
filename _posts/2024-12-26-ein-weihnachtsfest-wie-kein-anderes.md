@@ -12,7 +12,7 @@ created_raw: "2024-12-26T10:24:36Z"
 updated_raw: "2025-02-20T09:17:50Z"
 excerpt_separator: "<!--more-->"
 ---
-![Ein Weihnachtsfest wie kein anderes](https://pxscdn.com/public/m/_v2/607467830790472239/758e75a50-ddd61a/sJWPaHtXqlFV/oPIDapz6LBn9emUUoQbcGLbRqMZndUiuNB8vWpoz.jpg)
+![Ein Weihnachtsfest wie kein anderes](/assets/img/posts/2024-12-26-ein-weihnachtsfest-wie-kein-anderes/oPIDapz6LBn9emUUoQbcGLbRqMZndUiuNB8vWpoz.jpg)
 
 
 Es war der Abend meines Geburtstags – oder vielleicht war es auch Weihnachten. Vielleicht sind das sogar dieselben Tage. Wer kann das schon genau sagen? Jedenfalls begann der Abend mit einer Überraschung, die ihresgleichen suchte: Eine hohe, elegante Gestalt mit fließendem silbernem Haar erschien in meinem Wohnzimmer, eine funkelnde Gitarre in den Händen, gekleidet in ein glitzerndes Kleid und Cowboy-Stiefel. „Ich spiele nur für besondere Anlässe,“ sagte sie mit einem geheimnisvollen Lächeln und begann eine Melodie, die den Raum füllte, als ob selbst die Sterne draußen zuhören würden. Ihre Stimme trug eine unbändige Freude, und die Melodie weckte in mir eine unstillbare Sehnsucht nach neuen Wegen und Möglichkeiten.

@@ -6,7 +6,7 @@ date: 2026-03-27
 tags: [faulmann, ai, gesellschaft, aufmerksamkeit, philosophie]
 ---
 
-![Bär und Maulwurf im Zwielicht](https://pixelfed.social/storage/m/_v2/607467830790472239/a1431798c-70628a/e13kcYYcMbvf/AhT1oT2eAZAfS4NPu5wJIkxXB5TOjGS1xpGWLEQw.png)
+![Bär und Maulwurf im Zwielicht](/assets/img/posts/2026-03-27-attention/AhT1oT2eAZAfS4NPu5wJIkxXB5TOjGS1xpGWLEQw.png)
 
 Faulmann und Mummrich saßen am Waldtisch.  
 Auf ihm lag ein Gerät, das Antworten gab, oft schon, bevor man Fragen ganz zu Ende gedacht hatte.
@@ -46,7 +46,7 @@ Und irgendwo zwischen diesen Antworten begann sich eine andere Frage aufzudräng
 
 Diesmal [antwortete das Gerät nicht sofort](/reports/attention.html).  
 Dann setzte es umso entschiedener an.
-![](https://pixelfed.social/storage/m/_v2/607467830790472239/a1431798c-70628a/JXPTyoO0nqys/ORTz0F63PTiSx3NFKxDkDd0AfacQYWDlAwtasSGx.png)
+![](/assets/img/posts/2026-03-27-attention/ORTz0F63PTiSx3NFKxDkDd0AfacQYWDlAwtasSGx.png)
 
 Es ist eine kleine Ironie, dass ausgerechnet die Publikation, die den aktuellen KI-Schub maßgeblich geprägt hat, "Attention Is All You Need" titelt.
 

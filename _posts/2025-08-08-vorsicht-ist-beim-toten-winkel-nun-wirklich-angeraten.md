@@ -12,7 +12,7 @@ created_raw: "2025-08-08T17:01:26Z"
 updated_raw: "2025-08-10T13:41:41Z"
 excerpt_separator: "<!--more-->"
 ---
-![](https://pixelfed.social/storage/m/_v2/607467830790472239/33cc9b949-339791/72jRrLJAqU5N/uvNxsK9H80FVDlwYYiP2aZwTYZOzfIh7ZKRdvgvD.png)
+![](/assets/img/posts/2025-08-08-vorsicht-ist-beim-toten-winkel-nun-wirklich-angeraten/uvNxsK9H80FVDlwYYiP2aZwTYZOzfIh7ZKRdvgvD.png)
 
 _Ein nicht nur sprachhistorischer Seitenblick auf die dunklen Ecken unseres Sichtfelds_
 

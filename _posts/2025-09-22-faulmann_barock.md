@@ -7,7 +7,7 @@ teaser: "Ein Wochenende zwischen Duisburger Hafenkränen, Zwiebelmetaphern und b
 teaser_en: "A weekend between Duisburg’s cranes, onion layers and Cologne’s Baroque masters: Faulmann reads the landscape like a palimpsest and finds today’s crises mirrored in Rubens and Rembrandt."
 ---
 
-![Cover](https://pixelfed.social/storage/m/_v2/607467830790472239/9c67e908a-279c2f/4j7jgMtd0SYU/eWEPWsT6fN2rPQvqjjyMotTIsky1nGyOsE3RkAC3.png)
+![Cover](/assets/img/posts/2025-09-22-faulmann_barock/eWEPWsT6fN2rPQvqjjyMotTIsky1nGyOsE3RkAC3.png)
 
 ## Samstag: Captain Faulmanns Tour de Niederrhein
 
@@ -29,7 +29,7 @@ Noch ein Stück weiter traf er auf die Orte Aldekerk und Nieukerk – fast wie e
 
 In Straelen weiteten sich die Felder zu einem Meer aus Blumen und Gewächshäusern. Offizieller Wohlstand, geboren aus einer Idee: die Gemüseversteigerung von 1914. Und dazu entdeckte Faulmann zwischendrin eine kleine Überraschung:  
 
-![Kilter AX-1](https://pixelfed.social/storage/m/_v2/607467830790472239/9c67e908a-279c2f/fgaDYWbrNr4j/frTlLZbJagIoxMngR57s9mOIlQPkAsjnvV8Mjcfc.jpg)  
+![Kilter AX-1](/assets/img/posts/2025-09-22-faulmann_barock/frTlLZbJagIoxMngR57s9mOIlQPkAsjnvV8Mjcfc.jpg)  
 
 Ein flacher Roboter, der leise seine Bahnen zog, jedes Unkraut erkannte und mit einem Tropfen bekämpfte. Kein Science-Fiction, sondern Realität – der AX-1 im Einsatz. *„Präzise leise und klaglos,“* dachte Faulmann. Für ihn war es, als würde hier das nächste Kapitel des Niederrheins beginnen: mit Stahl, Erde und einem Hauch von Zukunft.  
 

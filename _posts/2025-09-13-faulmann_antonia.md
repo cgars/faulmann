@@ -5,7 +5,7 @@ tags: [Faulmann, Köln, Museum, Ursula, Zoo, Fahrradtour, Star Wars]
 layout: post
 
 ---
-![](https://pixelfed.social/storage/m/_v2/607467830790472239/9c67e908a-279c2f/72m07wmd7DBI/LvdLruf5wrFUUJcU5MSdUdDaq26bsraeED52zDdw.png)
+![](/assets/img/posts/2025-09-13-faulmann_antonia/LvdLruf5wrFUUJcU5MSdUdDaq26bsraeED52zDdw.png)
 
 Ein grauer Regentag in Köln.  
 Captain Faulmann hätte sich eigentlich nochmal im Bärenfell einrollen können – das Lagerfeuer mit Freunden gestern war lang, warm und voller Geschichten. Doch, nach einem Kaffee in der Bärenhöhle  schnappt er sich das Paule-Rad und rollt zum Rautenstrauch-Museum, um die Mittelalter-Abteilung zu Ende zu sehen.  
@@ -13,12 +13,12 @@ Captain Faulmann hätte sich eigentlich nochmal im Bärenfell einrollen können 
 Im Hauptsaal hängen sie: die großen Altäre, dicht bevölkert mit Heiligen und Symbolen.  
 Und da entdeckt er sie: **Antonia.**  
 
-![](https://pixelfed.social/storage/m/_v2/607467830790472239/9c67e908a-279c2f/HrdZV1fThZph/kU6jC92ZXyMa6cmH35TlliXgsh2gSCWoYPKrwGl6.jpg)
+![](/assets/img/posts/2025-09-13-faulmann_antonia/kU6jC92ZXyMa6cmH35TlliXgsh2gSCWoYPKrwGl6.jpg)
 
 Nicht die Heiligenscheine oder Gewänder fesseln ihn, sondern das Detail am Saum: Ein kleiner Dämon lugt hervor, listig wie ein gezeichneter Scherz am Rand einer ernsten Szene.  
 **Doch ikonografisch gesehen ist das kein Witz: die Dämonen zu ihren Füßen stehen sinnbildlich dafür, dass Antonia sie überwunden hat – die dunklen Mächte sind gebannt, klein und machtlos, weil sie standhaft blieb.**  
 
-![](https://pixelfed.social/storage/m/_v2/607467830790472239/9c67e908a-279c2f/TWAxo8axd8KY/OWf5FnLeHLYtO5gx99sEP6x1E8vh9waWodWqvLeO.jpg)
+![](/assets/img/posts/2025-09-13-faulmann_antonia/OWf5FnLeHLYtO5gx99sEP6x1E8vh9waWodWqvLeO.jpg)
 
 Der Bär forscht nach:  
 Antonia war eine Dominikanerin aus Florenz im 15. Jahrhundert. Sie predigte streng, lebte in Buße und fastete hart. Ihre Legende erzählt, dass Dämonen sie bedrängten, an ihr zerrten, sie einschüchtern wollten. Doch Antonia blieb standhaft. Keine Versuchung, kein Dunkel bekam sie klein. Ihr Glaube war stärker als die Stimmen der Finsternis.  

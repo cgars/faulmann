@@ -12,7 +12,7 @@ created_raw: "2024-03-08T10:21:18Z"
 updated_raw: "2024-03-08T10:42:11Z"
 excerpt_separator: "<!--more-->"
 ---
-![The Gilded Fin or a trip through memory lane](https://pxscdn.com/public/m/_v2/607467830790472239/062ac74bd-fb82c6/93gys0MR79PM/ErB3EOqcm6jxsyOmaTEiMaABJCKbBQRGUcrIbbc8.jpg)
+![The Gilded Fin or a trip through memory lane](/assets/img/posts/2024-03-08-the-gilded-fin-or-a-trip-down-memory-lane/ErB3EOqcm6jxsyOmaTEiMaABJCKbBQRGUcrIbbc8.jpg)
 
 Tucked away on a quaint little street known to locals as "Memory Lane," there stood an eccentric restaurant that had become the talk of the town. This wasn't just any dining establishment; it was "The Gilded Fin," renowned for its unique staff—goldfish, elegantly swimming in their customized water-filled tanks, doubling as waitstaff and bartenders.
 

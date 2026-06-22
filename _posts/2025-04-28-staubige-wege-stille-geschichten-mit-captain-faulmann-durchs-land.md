@@ -12,7 +12,7 @@ created_raw: "2025-04-28T11:11:53Z"
 updated_raw: "2025-07-27T16:20:08Z"
 excerpt_separator: "<!--more-->"
 ---
-![](https://pixelfed.social/storage/m/_v2/607467830790472239/6ac28a0f2-92b4f8/z7YKQBenz4h4/4jyOKLw7p7TrW9T1CCzQkZts2V4NT5rpzXUGqPHQ.png)
+![](/assets/img/posts/2025-04-28-staubige-wege-stille-geschichten-mit-captain-faulmann-durchs-land/4jyOKLw7p7TrW9T1CCzQkZts2V4NT5rpzXUGqPHQ.png)
 
 ## Prolog: Kaffee, Ticketdrama und Airport-Charme
 
@@ -82,7 +82,7 @@ Gegen 11:30 Uhr erreiche ich ein uraltes Wegkreuz, überschattet von einer mäch
 Ich lasse mich an einem hölzernen Tisch nieder, flankiert von wettergegerbten Bänken. Während ich einen Riegel kaue und einen Schluck Wasser nehme, schweift mein Blick hinauf ins dichte Blätterdach.
 
 War dies vielleicht einst eine Gerichtslinde?
-![](https://pixelfed.social/storage/m/_v2/607467830790472239/208209554-471e9e/5xm0GOU1NvXu/ZrsaJ2VCqvrr3x38roS4XaomRRhqnTkGBj04sjSj.jpg)
+![](/assets/img/posts/2025-04-28-staubige-wege-stille-geschichten-mit-captain-faulmann-durchs-land/ZrsaJ2VCqvrr3x38roS4XaomRRhqnTkGBj04sjSj.jpg)
 
 In Gedanken sehe ich sie vor mir: Männer mit wettergegerbten Gesichtern, Schwerter an der Seite, Umhänge aus grobem Tuch. Auf einfachen Holzbänken sitzen sie im Schatten der Linde, beraten über Streit und Schuld, während Frauen mit Kindern am Wegrand warten. Kein Gerichtssaal, keine großen Reden – nur die sogenannte Weisheit der Alten und das fragwürdige Gesetz der Gemeinschaft.
 
@@ -219,7 +219,7 @@ Heute erinnern nur noch verwitterte Bilder an Bushaltestellen und vergessene Tra
 
 An einigen Stellen erzählen bunte Graffiti an Bushaltestellen noch von dieser Zeit – wie stille, farbige Echos der Vergangenheit.
 
-![](https://pixelfed.social/storage/m/_v2/607467830790472239/208209554-471e9e/XroUpUHXAfC5/9KX0QyN6Mjl63IJSBbXNZFvU45tS8HeNC4XJoskA.jpg)
+![](/assets/img/posts/2025-04-28-staubige-wege-stille-geschichten-mit-captain-faulmann-durchs-land/9KX0QyN6Mjl63IJSBbXNZFvU45tS8HeNC4XJoskA.jpg)
 ---
 
 ## 🌿 Hinauf nach Heisterschoß – und zur Wahnbachtalsperre
@@ -242,7 +242,7 @@ Langsam, das Rad sicher an der Seite, geht es hinab durch den Wald – ein klein
 Und dann öffnet sich der Wald – und vor mir liegt die Wahnbachtalvorsperre.
 Ein stiller Ort, schwerer zu erreichen und dadurch viel seltener besucht als die große Staumauer, die etwa fünf Kilometer südwestlich liegt.
 
-![](https://pixelfed.social/storage/m/_v2/607467830790472239/208209554-471e9e/1zrVdYWDWtAS/jz8uFp2aBIX9eFxrZNq1wjxebK1uZRzWWO7z5p5f.jpg)
+![](/assets/img/posts/2025-04-28-staubige-wege-stille-geschichten-mit-captain-faulmann-durchs-land/jz8uFp2aBIX9eFxrZNq1wjxebK1uZRzWWO7z5p5f.jpg)
 
 Erbaut zwischen 1955 und 1957, dient diese Talsperre der Trinkwasserversorgung von über 780.000 Menschen in der Region Bonn und dem Rhein-Sieg-Kreis.
 Ein stilles, kraftvolles Bauwerk – und zugleich ein Ort von überraschender Schönheit.
@@ -252,7 +252,7 @@ Zahlreiche Wander- und Radwege durchziehen die Gegend, allen voran der beliebte 
 
 Captain Faulmann atmet tief durch, blickt über das weite Wasser – und spürt, dass jeder Tritt, jeder Schweißtropfen diesen Moment wert war.
 
-![](https://pixelfed.social/storage/m/_v2/607467830790472239/208209554-471e9e/WRcLpRPbCNQM/Ce0EH8FUhSVjuXFob3gSuqwnyVfFWzEFXebTzdqz.jpg)
+![](/assets/img/posts/2025-04-28-staubige-wege-stille-geschichten-mit-captain-faulmann-durchs-land/Ce0EH8FUhSVjuXFob3gSuqwnyVfFWzEFXebTzdqz.jpg)
 
 ---
 
@@ -267,7 +267,7 @@ Das Licht fällt in flirrenden Flecken auf den Boden, der nach feuchtem Laub und
 
 Captain Faulmann schiebt Troni, sein treues Rad, sicher durch Wurzeln und Senken, nimmt sich Zeit, den Moment zu genießen.
 
-![](https://pixelfed.social/storage/m/_v2/607467830790472239/208209554-471e9e/NBcxw6PPin39/EnwTVNZ1VVB3f3AibEgQjCIBqqLXRa0fR7eyPtox.jpg)
+![](/assets/img/posts/2025-04-28-staubige-wege-stille-geschichten-mit-captain-faulmann-durchs-land/EnwTVNZ1VVB3f3AibEgQjCIBqqLXRa0fR7eyPtox.jpg)
 
 Bald schon, wartet der Lohn: Der Wald lichtet sich wieder, die Wege werden freundlicher.
 

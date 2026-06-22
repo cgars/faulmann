@@ -8,13 +8,13 @@ teaser: "Ein Bär im weißen Vorraum, ein Auto wie ein Gebet aus Chrom und Gesch
 teaser_en: "A bear in a white hall, a car like a prayer in chrome and speed – and an exhibition revealing how the machine became modernity."
 ---
 
-![](https://pixelfed.social/storage/m/_v2/607467830790472239/0c2c69eb8-6377a8/z1KfsQGYIzxJ/pt630bxd9q1EgwI5wV4n9BgbZEt87TH3GlYPzhMx.png)
+![](/assets/img/posts/2025-10-19-faulmann_mak/pt630bxd9q1EgwI5wV4n9BgbZEt87TH3GlYPzhMx.png)
 
 Der Morgen am Flughafen war kurz und stürmisch. Der Geruch von warmem Öl und Kerosin lag in der Luft. Ein schneller Kaffee auf der Aussichtsplattform. Hier kann man sonst auch mal Stunden verbringen, den Fliegern beim Starten und Landen zusehen – den Planespottern beim Klicken und Prahlen –, aber dafür stürmt es heute zu sehr. Daher schnell in die S-Bahn Richtung Innenstadt. Der Kapitän – das Klapprad neben sich, die Gedanken noch irgendwo zwischen Startbahn und Schlaf – fährt zum MAK, dem Museum für Angewandte Kunst. Dort will er sich die Ausstellung zu Kunst und Design ansehen – und findet sich, ganz unerwartet, in einem anderen Zukunftsversprechen wieder.
 
 Es ist still. Nur der Boden hallt leise unter den Sohlen. Im weiten weißen Vorraum steht er allein – der **Mercedes-Benz 300 SL**, Gullwing, Flügeltürer, Ikone. Seine Linien sind glatt wie gespannte Muskeln, sein Chrom spiegelt das Licht der Halle. Faulmann bleibt stehen, fast andächtig. „Ein Tier aus Metall“, denkt er. „Geboren aus Geschwindigkeit und Sehnsucht.“ Auf dem Schild daneben liest er: *„Sensation der Straße“*, *„Designlegende des 20. Jahrhunderts“*. Und tatsächlich – das Ding hat etwas Lebendiges. Nicht nur, weil es glänzt, sondern weil es etwas erzählt: von Träumen, Technik und dem menschlichen Willen, Schönheit in Bewegung zu übersetzen. Der Bär tritt einen Schritt zurück. Hinter diesem Auto, ahnt er, beginnt etwas Neues – eine Geschichte, in der das Nützliche plötzlich schön sein darf und das Schöne sich mit Schrauben befestigen lässt.
 
-![Mercedes-Benz 300 SL By Oleg Yunakov](https://pixelfed.social/storage/m/_v2/607467830790472239/0c2c69eb8-6377a8/yapCaX1iGTL0/C643cz3dTitU6RUjQz8SRPlcY9iIo6hlOea1DDe5.jpg)
+![Mercedes-Benz 300 SL By Oleg Yunakov](/assets/img/posts/2025-10-19-faulmann_mak/C643cz3dTitU6RUjQz8SRPlcY9iIo6hlOea1DDe5.jpg)
 
 ---
 

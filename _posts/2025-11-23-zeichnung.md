@@ -5,19 +5,19 @@ date: 2025-11-26
 categories: faulmann museum zeichnung köln
 ---
 
-![](https://pixelfed.social/storage/m/_v2/607467830790472239/3dc769ff5-aadbb1/03MatHkEYx7X/S7JK2bOnQFXRTYYuqMG5QfzobN6EulylAVli3XRj.png)
+![](/assets/img/posts/2025-11-23-zeichnung/S7JK2bOnQFXRTYYuqMG5QfzobN6EulylAVli3XRj.png)
 
 **Eigentlich war Faulmann nur zum Kaffeetrinken in die Stadt gekommen.** Ein bisschen schreiben, ein bisschen schauen, mehr nicht. Er hatte sich gerade in die Lobby des Wallraf gesetzt – dieser kleine, sichere Hafen zwischen Treiben und Stille –, als ihm die großen Plakate zur [**„Expedition Zeichnung“**](https://www.wallraf.museum/ausstellungen/aktuell/2025-11-14-expedition-zeichnung/information/) ins Auge sprangen. **Schnell war der Plan geändert, Dauerkarte der Kölner Museen gezückt, und ehe er sich’s versah, stand er schon im Aufzug nach oben** – ganz so, als hätte der Baukörper selbst ihm zugeflüstert: *„Komm, Bär, heute lohnt sich’s.“*
 
 **Und wie es sich lohnte.** Schon sehr früh blieb Faulmann schmunzelnd vor einem kuriosen Vogelchor stehen. Ein Kauz thront dort wichtigtuerisch vor einem Buch, während eine Vogelschar ihm **brav im Kanon nachzwitschert**. Was wie eine gezeichnete Kakophonie wirkt, entpuppt sich als feinsinnige Satire auf **blinden Gehorsam** und **naive Nachahmung**: Einer gibt den Ton an, die anderen folgen – Hauptsache, es klingt irgendwie gelehrt. Faulmann denkt unwillkürlich an heutige Echokammern.
 
-![](https://pixelfed.social/storage/m/_v2/607467830790472239/3dc769ff5-aadbb1/AGocuD2eJ9s6/Lo8v0WR1a4VzBDAAAQBzOCTgj1YyV1iHYjme7P88.jpg)
+![](/assets/img/posts/2025-11-23-zeichnung/Lo8v0WR1a4VzBDAAAQBzOCTgj1YyV1iHYjme7P88.jpg)
 
 Nur **ein paar Schritte weiter wird’s noch raffinierter: ein Fall von doppelter Täuschung!** Zuerst glaubt man, ein **Holzschnitt von Albrecht Dürer** sei hier falsch einsortiert. Doch das Blatt ist gar kein Holzschnitt – sondern eine **Zeichnung von Johannes Wierix**, der die Linien eines Holzstocks mit schwärzester Tusche akribisch nachahmte. Und die Vorlage, der er vertraute? Die war selbst schon eine Täuschung: ein Holzschnitt, der ywar ein **Dürer-Monogramm „AD“** trägt, obwohl es sehr wahrscheinlich tatsächlich von **Hans Baldung Grien** stammt.
 
 Ein **Doppelfehler deluxe** also: Der eine täuscht mit „AD“ (oder ist’s am Ende nur ein vermeintliches Qualitätssiegel?), der Wierix jedenfalls kopiert die Täuschung und signiert vielleicht absichtlich klein – und beide wären fast durchgegangen. *Ein Kauz, der einem Kauz nachsingt?* Faulmann ist begeistert: kunsthistorische Ironie als Endlosschleife.
 
-![](https://pixelfed.social/storage/m/_v2/607467830790472239/3dc769ff5-aadbb1/yhX9gghTuaYQ/2n6tBaQ1ymUMeuiSDVuhi13hSESz4rG1AFjni2Kx.jpg)
+![](/assets/img/posts/2025-11-23-zeichnung/2n6tBaQ1ymUMeuiSDVuhi13hSESz4rG1AFjni2Kx.jpg)
 
 Und gerade bei Baldung muss der Bär innehalten. **Schließlich kommt er aus Freiburg**, und im dortigen **Münster steht der berühmte Hochaltar**, den Baldung selbst geschaffen hat. Dass derselbe Baldung im Museum hier plötzlich unter falscher Flagge segelt, macht die Sache für Faulmann nur noch köstlicher.
 

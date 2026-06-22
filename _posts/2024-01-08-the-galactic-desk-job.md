@@ -12,7 +12,7 @@ created_raw: "2024-01-08T17:31:42Z"
 updated_raw: "2024-02-09T08:17:59Z"
 excerpt_separator: "<!--more-->"
 ---
-![The Galactic Desk Job](https://pxscdn.com/public/m/_v2/607467830790472239/7c649620b-69b6c5/oYVY1AVDQgBd/u77G1aBJSYyoCgLgfYPW9rxDYgXCYCaMhUruh9dL.jpg)
+![The Galactic Desk Job](/assets/img/posts/2024-01-08-the-galactic-desk-job/u77G1aBJSYyoCgLgfYPW9rxDYgXCYCaMhUruh9dL.jpg)
 
 In the not-too-distant future, where space travel was as commonplace as taking a bus, there lived an astronaut named Max Starblazer. Max, known for his interstellar expeditions, found himself grounded due to the newest corporate policy at the Universal Exploration Co.: 
 

@@ -12,7 +12,7 @@ created_raw: "2025-08-18T13:16:29Z"
 updated_raw: "2025-08-18T14:01:29Z"
 excerpt_separator: "<!--more-->"
 ---
-![](https://pixelfed.social/storage/m/_v2/607467830790472239/33cc9b949-339791/UaFeZwcvcRCu/Un89p435Xz9ITnM65XtYSYq8FY9FLpJub7A6qnnj.png)
+![](/assets/img/posts/2025-08-18--ausschlussist-am-lagerfeuer-ausgeschlossen/Un89p435Xz9ITnM65XtYSYq8FY9FLpJub7A6qnnj.png)
 
 Manchmal beschließen Ausschüsse Ausschlüsse, und am Ende bleibt niemand mehr übrig, der noch etwas zu beschließen hätte.  
 Doch im Wald, am Feuer, gilt eine andere Ordnung: Hier zählt Tee mehr als Protokoll, Glut mehr als Geschäftsordnung.  

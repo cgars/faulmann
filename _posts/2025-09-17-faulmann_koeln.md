@@ -7,7 +7,7 @@ teaser: "Köln ist ein Knäuel aus Katholizismus, Karneval, CSD, Einwanderung un
 teaser_en: "Cologne is a tangle of Catholic roots, carnival, pride, migration and ‘Klüngel’ (the city’s infamous network of favors) — full of cracks, potholes and cheerful naivety. And perhaps it is exactly this mix that makes the city so lovable: unser Jeföhl."
 
 ---
-![](https://pxscdn.com/public/m/_v2/607467830790472239/9c67e908a-279c2f/bWny7GmTc2Dd/RJKfCwHXjs0PVe2dnLyKDFJdcSBqZ4amtdx70zWY.png)
+![](/assets/img/posts/2025-09-17-faulmann_koeln/RJKfCwHXjs0PVe2dnLyKDFJdcSBqZ4amtdx70zWY.png)
 
 In der Museumslobby nippt Faulmann an seinem Kaffee. Durch die großen Scheiben sieht er das Gewimmel: Menschen mit Einkaufstüten, ein Paar, das den Dom im Hintergrund fotografiert, und drinnen im Shop Karnevalskappen neben Postkarten vom CSD. Köln macht da keinen Unterschied – alles steht einfach nebeneinander im Regal.  
 

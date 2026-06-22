@@ -12,7 +12,7 @@ created_raw: "2025-02-16T22:46:05Z"
 updated_raw: "2025-02-19T19:25:42Z"
 excerpt_separator: "<!--more-->"
 ---
-![The Great Conflict is Elsewhere – And We Were Never Asked](https://pxscdn.com/public/m/_v2/607467830790472239/758e75a50-ddd61a/dul6xJ9FfB0o/o3WIFZbQnrolV3c0UTippD6wwEa1riAk79RcDvnY.jpg)
+![The Great Conflict is Elsewhere – And We Were Never Asked](/assets/img/posts/2025-02-16-the-great-conflict-is-elsewhere-and-we-were-never-asked/o3WIFZbQnrolV3c0UTippD6wwEa1riAk79RcDvnY.jpg)
 
 
 Recently, I took to the streets again, filled with an urgency I had rarely felt before. The chants, the banners, the sheer energy—it felt like history was calling. This was it—fascism was no longer an abstract fear from history; it was real, tangible, and unfolding before us. The weight of history pressed upon my shoulders, and yet, for the first time, I felt light, as if I had finally found my place in it. This was the moment my generation had been waiting for. The historical question that had echoed for decades
@@ -45,7 +45,7 @@ Or, to put it differently: Welcome to the feeling our grandfathers' neighbours m
 > Only this time, we know the ending. And yet, we can do nothing to rewrite it. 
 
 
-![The Great Conflict is Elsewhere – And We Were Never Asked](https://pxscdn.com/public/m/_v2/607467830790472239/758e75a50-ddd61a/QQ6X00fItQE7/AQtDC8AV2eXccezUPfOtIXE0WUSK1Cv8XZfZNR45.jpg)
+![The Great Conflict is Elsewhere – And We Were Never Asked](/assets/img/posts/2025-02-16-the-great-conflict-is-elsewhere-and-we-were-never-asked/AQtDC8AV2eXccezUPfOtIXE0WUSK1Cv8XZfZNR45.jpg)
 
 
 Seems oddly fitting in the end—my grandfather’s father’s karma has finally caught up with me.

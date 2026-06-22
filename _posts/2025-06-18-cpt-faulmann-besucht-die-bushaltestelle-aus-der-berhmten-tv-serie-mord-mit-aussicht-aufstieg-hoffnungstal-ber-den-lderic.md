@@ -12,7 +12,7 @@ created_raw: "2025-06-18T15:09:02Z"
 updated_raw: "2025-07-27T16:14:09Z"
 excerpt_separator: "<!--more-->"
 ---
-![](https://pixelfed.social/storage/m/_v2/607467830790472239/7a53dd069-05894d/zkLo0m1wqjDW/r83fbfaYBuY2vYcKMmJINEqQoHt1i5DvXSJvP8Sd.png)
+![](/assets/img/posts/2025-06-18-cpt-faulmann-besucht-die-bushaltestelle-aus-der-berhmten-tv-serie-mord-mit-aussicht-aufstieg-hoffnungstal-ber-den-lderic/r83fbfaYBuY2vYcKMmJINEqQoHt1i5DvXSJvP8Sd.png)
 Captain Faulmann, stets auf der Suche nach den kleinen, feinen Abenteuern jenseits ausgetretener Pfade, hatte sich diesmal ein ganz besonderes Ziel vorgenommen: die legendäre Bushaltestelle aus der Kultserie "Mord mit Aussicht". Ein Muss für jeden Fan – und für jeden, der das bergische Land mal von seiner skurrilsten Seite erleben möchte.
 <div class="wrapper">
     <div class="h_iframe">
@@ -36,7 +36,7 @@ Der Höhepunkt der Tour war die Überquerung des Lüderich. Einst ein Zentrum de
 
 **Etappe 3: Die Bushaltestelle – Acker, Forst und Mord mit Aussicht 🕵️‍♀️**
 
-![](https://pixelfed.social/storage/m/_v2/607467830790472239/4f692c7f1-e20d1b/ol8ktX5lVbqU/yae5IwC2sapSC8VcAo86ikfXf9QNWfziz5j7hZJr.jpg)
+![](/assets/img/posts/2025-06-18-cpt-faulmann-besucht-die-bushaltestelle-aus-der-berhmten-tv-serie-mord-mit-aussicht-aufstieg-hoffnungstal-ber-den-lderic/yae5IwC2sapSC8VcAo86ikfXf9QNWfziz5j7hZJr.jpg)
 Und dann war sie da: die Bushaltestelle! Eingebettet in eine unscheinbare Kurve, umgeben von Acker und Forst. Jeder "Mord mit Aussicht"-Fan erkennt sie sofort. Ein Hauch von Hengasch lag in der Luft, und ich konnte fast Kommissar Haas, Dietmar Schäffer und Sophie Haas vor mir sehen, wie sie hier auf den Bus warteten – oder auf den nächsten kuriosen Fall. Ich stieg vom Rad, machte ein Erinnerungsfoto (natürlich mit stoischem Captain-Faulmann-Blick; netterweise hat es sogar zwei Schilder, eines stimmigerweise mit "Hengasch", eines mit dem echten Namen der Haltestelle) und schmunzelte. Manchmal sind es die kleinen Dinge, die uns am meisten erfreuen.
 
 **Was Captain Faulmann sonst noch auffiel 🧭**

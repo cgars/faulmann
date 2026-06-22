@@ -13,7 +13,7 @@ updated_raw: "2025-08-04T15:12:01Z"
 excerpt_separator: "<!--more-->"
 ---
 *Ein Gespräch bei Tee, Moos und einem melancholischen Dachs*
-![](https://pixelfed.social/storage/m/_v2/607467830790472239/33cc9b949-339791/U61DYfy19dx8/OwrVsnvjXXMS8XUKIb268Hhvl4DMD4XiDXMH1mrR.png)
+![](/assets/img/posts/2025-08-04-was-wir-wussten-bevor-wir-vergaen/OwrVsnvjXXMS8XUKIb268Hhvl4DMD4XiDXMH1mrR.png)
 
 Es war ein später Nachmittag im Altmond des August.  Die Sonne hing träge im Geäst, als hätte sie selbst genug vom Glühen.  In der Mulde unter der alten Linde brannte eine kleine Laterne mit trübem Licht.  Captain Faulmann hatte sich auf ein Kissen drapiert, das fast so alt war wie der Bäar selbst.  Meister Mummrich, Wächter des verborgenen Wissens, saß wie stets im Schatten – halb verborgen, halb bereit.
 
