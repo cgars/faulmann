@@ -7,7 +7,7 @@ teaser: "Ein nasser Feiertag, eine verspätete U-Bahn und ein Stadtmodell, das z
 teaser_en: "A rainy holiday, a delayed subway and a city model that turns into a meditation on mills, markets and the flow of power – Faulmann at the Cologne City Museum."
 ---
 
-![](https://pixelfed.social/storage/m/_v2/607467830790472239/0c2c69eb8-6377a8/g3nudrtWuVX6/d9xeNEwbZJ8VczZBktcNyjbJJ8nJcNQgh55CoIzk.png)
+![](/assets/img/posts/2025-10-05-faulmann_statdmuseum/d9xeNEwbZJ8VczZBktcNyjbJJ8nJcNQgh55CoIzk.png)
 
 Es war das Einheitswochenende – aber eines von der nassen Sorte. Zwei Tage lang hatte es geregnet, gestürmt oder beides zugleich. Der Kapitän – in diesem Fall mehr Heimwerker als Entdecker – verbrachte die Zeit mit kleineren Reparaturen, dem Sortieren von Werkzeug und dem Versuch, ein loses Küchenbrett zu überreden, endlich zu halten.
 
@@ -23,7 +23,7 @@ Das Museum ist seit ein paar Monaten fest beheimatet im ehemaligen **Modehaus Sa
 
 Gleich im ersten Stock blieb er stehen: ein monumentales **Stadtmodell von Alt-Köln**, gebaut nach dem berühmten **Mercator-Plan** von Arnold Mercator, dem Sohn des großen Kartographen. Ein Stadtbild in isometrischer Perspektive, exakt vermessen und doch voll künstlerischer Wärme – der erste 3-D-Blick auf Köln, lange bevor Computer solche Ansichten errechneten. *Sim Cologne 1571*, murmelte Faulmann und lächelte.
 
-![Mercator-Plan der Stadt Koeln, SLUB/Deutsche Photothek](https://pxscdn.com/public/m/_v2/607467830790472239/0c2c69eb8-6377a8/g3bjHSiDIdBd/Axeoq1Pobv1Ykt3WCzFMuBOdNaf5ySZE1KcaBD66.png)
+![Mercator-Plan der Stadt Koeln, SLUB/Deutsche Photothek](/assets/img/posts/2025-10-05-faulmann_statdmuseum/Axeoq1Pobv1Ykt3WCzFMuBOdNaf5ySZE1KcaBD66.png)
 
 Das Original war nur eine flache Karte, aber so genau, dass sie sich fast wie dreidimensional erleben ließ. Hier jedoch war sie in echtes miniature 3D gegossen – ein miniaturisiertes Abbild der Stadt um 1570, mit Mauern, Türmen, Kirchen und Gassen, ein Architekturmodell Kölns, das man von oben betrachten kann wie ein Gott mit Kaffeetasse – nur, weil Museum, ohne Kaffeetasse.  
 
@@ -49,7 +49,7 @@ Faulmann lächelte. *Vielleicht war der Rhein sogar die erste Blockchain – nur
 
 Ein halbstockwerk darüber fand Faulmann ein Echo auf die Mühlen: **Wilhelm Kleinenbroichs** *„Eintreibung der Mahl- und Schlachtsteuer“* (1847). Ein anderer Strom, diesmal aus Geld und Ungleichheit. Im Vordergrund eine Familie, die ihr Brot versteuern muss; im Hintergrund ziehen **wohlhabende Bürger und Adlige** vorbei – unbehelligt, selbstverständlich.  
 
-![Titel: Eintreibung der Mahl- und Schlachtsteuer, Künstler: Wilhelm Kleinenbroich Jahr: 1847 Ort: Kölnisches Stadtmuseum (Köln)](https://pixelfed.social/storage/m/_v2/607467830790472239/0c2c69eb8-6377a8/yPjwIaZzDPGU/KEhJmoQQ3h8fg1HSp5tGwAV0f3nX92X9JU4CH50S.jpg)
+![Titel: Eintreibung der Mahl- und Schlachtsteuer, Künstler: Wilhelm Kleinenbroich Jahr: 1847 Ort: Kölnisches Stadtmuseum (Köln)](/assets/img/posts/2025-10-05-faulmann_statdmuseum/KEhJmoQQ3h8fg1HSp5tGwAV0f3nX92X9JU4CH50S.jpg)
 
 Im 19. Jahrhundert, sagt einem das Bild, stand Köln nicht nur am Rhein, sondern auch an einer unsichtbaren Grenze: **am Tor zwischen Hunger und Würde**. Die **Mahl- und Schlachtsteuer** machte aus einem Laib Brot und einem Stück Fleisch kleine Luxusgüter des Alltags. Sie wurde da erhoben, wo man sie nicht übersehen konnte: **an den Stadttoren**, in Waagen, Listen und Blicken. Wer hineinwollte mit Mehl, musste zahlen; wer ein Tier schlachten ließ, ebenso. Und als wäre das nicht Hohn genug, war Wildbret von der Steuer ausgenommen – das Fleisch der Reichen, frei von Abgaben, während der arme Mann sein Brot mitbezahlte. Selbst die Ungleichheit hatte damals ihre Speisekarte, dachte Faulmann. Es war eine Steuer, die nicht auf Taler zielte, sondern auf Mägen.  
 

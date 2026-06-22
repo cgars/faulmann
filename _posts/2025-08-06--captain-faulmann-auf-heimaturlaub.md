@@ -12,7 +12,7 @@ created_raw: "2025-08-06T13:34:10Z"
 updated_raw: "2025-08-08T05:54:43Z"
 excerpt_separator: "<!--more-->"
 ---
-![](https://pixelfed.social/storage/m/_v2/607467830790472239/33cc9b949-339791/23BcwwkvlROO/HTjPK1xsaKyrtS0VPPXD6SokMUYcWjelncRh128y.png)
+![](/assets/img/posts/2025-08-06--captain-faulmann-auf-heimaturlaub/HTjPK1xsaKyrtS0VPPXD6SokMUYcWjelncRh128y.png)
 
 **Mit Klapprad, Übernachtung und Rheinromantik durch Freiburg**
 
@@ -35,7 +35,7 @@ Sein zusammengefaltetes Klapprad lag wie ein stiller Zen-Meister in der Gepäcka
 Erste Station des Tages: das ehemalige Güterbahnhofsareal. Früher Industriebrache und Autoverschiebung, seit kurzem ein Ort urbaner Leichtigkeit.
 Im **Urban Eight** wurde Faulmann freundlich mit einem erfrischenden Sonntagslächeln begrüßt – so herzlich, dass selbst die famose 'Stulle' mit Kräuterrührei, karamellisiertem Ziegenkäse und Walnüssen kaum mithalten konnte. Außerdem gab es Kaffee – und Erinnerungen. Beim Blick auf das bunte Treiben wurde Faulmann  klar: *Ich bin zurück.*
 
-![](https://pixelfed.social/storage/m/_v2/607467830790472239/33cc9b949-339791/1uvgehfBl9BT/A5ZZO7mq7tz1XuzupsZNszVW92AjTFETtFJJBo9s.jpg)
+![](/assets/img/posts/2025-08-06--captain-faulmann-auf-heimaturlaub/A5ZZO7mq7tz1XuzupsZNszVW92AjTFETtFJJBo9s.jpg)
 
 ### 💦 Bächle & Münster – Freiburgs Herz
 
@@ -58,7 +58,7 @@ Weiter zum **Flugplatzberg**, einst „alter Müllberg“, heute ein Aussichtspu
 Von hier oben liegt Freiburg ausgebreitet wie ein offenes Buch.
 Damals gemieden, heute geliebt – ein klassischer Fall von: *Wird mit dem Alter besser.*
 
-![](https://pixelfed.social/storage/m/_v2/607467830790472239/33cc9b949-339791/suKQQH7AFgBm/NSvLWbzRa5ulYpK9zlHwGaAeziuZzlynQySU9GqU.jpg)
+![](/assets/img/posts/2025-08-06--captain-faulmann-auf-heimaturlaub/NSvLWbzRa5ulYpK9zlHwGaAeziuZzlynQySU9GqU.jpg)
 
 Übrigens: Auch **Papst Benedikt XVI.** war bei seinem Besuch 2011 hier oben – und wer damals Zeitung las, erinnert sich noch gut an die mühsamen Versuche, das Gelände „papsttauglich“ zu machen.
 Besonders delikat: die streng geschützten **Grashüpfer**, denen man mit Flatterband, Schonrasen und ökologischem Fingerspitzengefühl aus dem Weg zu hüpfen versuchte.
@@ -86,7 +86,7 @@ Am **Roten Felsen**  soll schon Felix Mendelssohn gestanden haben – inspiriert
 Faulmann stand auch dort – zwar ohne Notenblatt, aber mit Weitblick.
 Das neue **Belvedere** bot eine kleine Plattform fürs große Gefühl: Vergangenheit, Musikgeschichte, Aussicht – alles in einem Atemzug.
 
-![](https://pixelfed.social/storage/m/_v2/607467830790472239/33cc9b949-339791/atXk37ld6XIt/i4W0h08QirGpQYyySzPkNEGwUyzyAchf02YONtZK.jpg)
+![](/assets/img/posts/2025-08-06--captain-faulmann-auf-heimaturlaub/i4W0h08QirGpQYyySzPkNEGwUyzyAchf02YONtZK.jpg)
 
 ### 🍺 Seepark – Sonnenuntergang, Enten & Erinnerung
 

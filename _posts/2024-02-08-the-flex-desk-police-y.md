@@ -12,7 +12,7 @@ created_raw: "2024-02-08T08:23:03Z"
 updated_raw: "2024-02-08T14:13:46Z"
 excerpt_separator: "<!--more-->"
 ---
-![The Flex Desk Police](https://pxscdn.com/public/m/_v2/607467830790472239/7c649620b-69b6c5/vmOB38DPjEYf/vVAncyLWFESkDWrfoPSvWj6Oe1fP0tJrKAUJTsaQ.jpg)
+![The Flex Desk Police](/assets/img/posts/2024-02-08-the-flex-desk-police-y/vVAncyLWFESkDWrfoPSvWj6Oe1fP0tJrKAUJTsaQ.jpg)
 
 Recently, on a sun-drenched tropical island, I found myself sipping a cool drink under the shade of a palm tree, a world away from the hustle and bustle of city life. It was here, amidst the serene beauty of this secluded paradise, that I stumbled upon a story so improbable, it could only be true. The protagonist of this tale was none other than Michael, a man whose name I had heard whispered in the corridors of legal circles and coffee shops alike, often shrouded in a mix of myth and legend.
 

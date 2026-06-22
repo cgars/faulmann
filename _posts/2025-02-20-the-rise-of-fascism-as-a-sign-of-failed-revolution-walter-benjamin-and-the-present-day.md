@@ -45,7 +45,7 @@ This was **exactly what happened in Germany** after World War I. The failure of 
 
 Today, we see echoes of this pattern in the U.S. and Europe.
 
-![Key Points](https://pixelfed.social/storage/m/_v2/607467830790472239/758e75a50-ddd61a/O41BCZXVSCOr/yzEM4iAHunfQS9ATnniU4rufgO2vurZ4cM0VObec.jpg)
+![Key Points](/assets/img/posts/2025-02-20-the-rise-of-fascism-as-a-sign-of-failed-revolution-walter-benjamin-and-the-present-day/yzEM4iAHunfQS9ATnniU4rufgO2vurZ4cM0VObec.jpg)
 
 ---
 

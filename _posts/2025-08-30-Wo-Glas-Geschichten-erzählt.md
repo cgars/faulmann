@@ -13,17 +13,17 @@ updated_raw: "2025-08-18T14:01:29Z"
 ---
 ### Captain Faulmann im Museum Schnütgen zwischen Wunderlegenden und Gegenwart  
 
-![](https://pixelfed.social/storage/m/_v2/607467830790472239/9c67e908a-279c2f/DcyQuVYYEmwY/Kx6RjXWxDkMbglKigQ3omBHl7aEMdYqqiLlcIhvq.png)
+![](/assets/img/posts/2025-08-30-Wo-Glas-Geschichten-erzählt/Kx6RjXWxDkMbglKigQ3omBHl7aEMdYqqiLlcIhvq.png)
 
 Samstagnachmittag über Köln: Das Wetter war launisch, mal ein paar Tropfen, mal ein Schauer – doch immer wieder brach auch die Sonne hervor und legte goldene Streifen auf die Straßen. Für Faulmann war klar: kein langer Weg auf zwei Rädern, sondern ein Abstecher dorthin, wo Wärme und Geschichten warten – ins **Museum Schnütgen**.  
 
 Zwischen Madonnen, Heiligenfiguren und Reliquiaren blieb er plötzlich stehen. Ein Glasfenster, das in den Sonnenmomenten dieses wechselhaften Tages wie eine Flamme leuchtete, zog ihn in seinen Bann. Es zeigte den **Heiligen Bernhard von Clairvaux**, der einen Lästerer wiedererweckte – und eine Inschrift behauptete, dieses Wunder sei in **Freiburg** geschehen.  
 
-![](https://pixelfed.social/storage/m/_v2/607467830790472239/9c67e908a-279c2f/F7QH7W2LA9BU/ODBDs6IGhjN7T6jcjecoPpSRY1Hi3mS5EsAkHSGw.jpg)
+![](/assets/img/posts/2025-08-30-Wo-Glas-Geschichten-erzählt/ODBDs6IGhjN7T6jcjecoPpSRY1Hi3mS5EsAkHSGw.jpg)
 
 Faulmann runzelte die Stirn. Er kennt Freiburgs Geschichte von früher her ziemlich gut – und wenn es eine bekannte Wunderlegende mit Bernhard von Clairvaux in Freiburg gäbe, wäre ihm die sicher bekannt. Glücklicherweise war er gerade **in einem Museum**: statt auf dem Handy herumzuwischen, konnte er gleich die Kataloge und Infotafeln durchstöbern – ein echtes Rechercheparadies, zumal er mit seinen Bärenpfoten ohnehin kein Smartphone bedienen kann.  
 
-![](https://pixelfed.social/storage/m/_v2/607467830790472239/9c67e908a-279c2f/uUhKxC8oj120/YTn5fMLjQC585weCkCEm9BikGhsYN0xqnpAjmQ2Y.jpg)
+![](/assets/img/posts/2025-08-30-Wo-Glas-Geschichten-erzählt/YTn5fMLjQC585weCkCEm9BikGhsYN0xqnpAjmQ2Y.jpg)
 
 Die Lösung fand er bald: Das Fenster, das vor ihm leuchtete, **stammt aus dem berühmten Bernhard-Zyklus der Abtei Altenberg**. Diese Abtei war Faulmann natürlich wohlvertraut – oft hatte er auf seinen Radtouren dort Halt gemacht, den Blick hinab ins Dhünntal genossen, das Zwitschern der Vögel im Kreuzgang gehört oder einfach den alten Mauern gelauscht, die von Jahrhunderten erzählten. Im frühen 16. Jahrhundert hatten die Mönche von Altenberg den Kreuzgang ihres Klosters mit einem monumentalen Glasmalerei-Programm ausgestattet, das die Stationen im Leben des Heiligen Bernhard darstellte.  
 

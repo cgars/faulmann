@@ -12,7 +12,7 @@ created_raw: "2025-08-16T16:12:06Z"
 updated_raw: "2025-08-16T20:16:08Z"
 excerpt_separator: "<!--more-->"
 ---
-![](https://pixelfed.social/storage/m/_v2/607467830790472239/33cc9b949-339791/YmnnYapBJnvX/4GANPcqvONSQNMCCpdDDtmSG5RTTYivJPn0sZhdd.png)
+![](/assets/img/posts/2025-08-16--am-lagerfeuer-wenn-die-langeweile-gste-bringt/4GANPcqvONSQNMCCpdDDtmSG5RTTYivJPn0sZhdd.png)
 
 ## Prolog  
 

@@ -14,7 +14,7 @@ excerpt_separator: "<!--more-->"
 ---
 *Einmal quer durchs Revier, bitte – mit Hügeln, Höhen und einer Portion Ruhrpott-Romantik.*
 
-![](https://pixelfed.social/storage/m/_v2/607467830790472239/208209554-471e9e/NXxGcj7KkDbH/DL5tNlNRsqWR0tpKOunBi3jRe1iWmMJtQLd4y3Wc.png)
+![](/assets/img/posts/2025-05-04-captain-faulmann-radelt-schon-wieder-von-essen-nach-rath/DL5tNlNRsqWR0tpKOunBi3jRe1iWmMJtQLd4y3Wc.png)
 ---
 
 ## Prolog: Abfahrt in Essen – und keine Zeit für Kohle
@@ -88,7 +88,7 @@ Captain Faulmann kreuzt die Wupper und folgt dem **Marscheider Bachtal** immer s
 
 Dann erreicht Captain Faulmann den Bahnhof von **Lennep** – und hier geht’s auf die nächste Bahntrasse: die **Balkantrasse**! Ihre tiefer liegenden Abschnitte kennt er schon, aber hier oben war er noch nicht. Und dass sie einen **Schutzlöwen** hat, wusste Captain Faulmann auch nicht. Er macht ein Foto und rollt weiter.
 
-![](https://pixelfed.social/storage/m/_v2/607467830790472239/7a53dd069-05894d/9RfYXKY8U1bW/oHpikNrXMtjEQCgkGGoklU81uVBf7x4n9ShC5kxD.jpg)
+![](/assets/img/posts/2025-05-04-captain-faulmann-radelt-schon-wieder-von-essen-nach-rath/oHpikNrXMtjEQCgkGGoklU81uVBf7x4n9ShC5kxD.jpg)
 
 Bei **Bergisch Born** trennen sich dann die Wege: Die **Balkantrasse** führt nach Süden, während Captain Faulmann dem **Wuppertaler Bahnradweg** weiter nach Osten folgt – durch grüne Tunnel, über alte Gleisbette, mit dem Gefühl, dass hier schon lange Züge Geschichten geschrieben haben.
 

@@ -12,7 +12,7 @@ created_raw: "2024-04-04T13:58:07Z"
 updated_raw: "2024-04-05T06:49:56Z"
 excerpt_separator: "<!--more-->"
 ---
-![the only scaling property in IT is problems.](https://pxscdn.com/public/m/_v2/607467830790472239/c6a394f69-21cf85/4fVTzsw9hgr5/cjyKvI6IqLO5qtaPg9ZGUF6Yx1FuYNYxl7iIWnI2.jpg)
+![the only scaling property in IT is problems.](/assets/img/posts/2024-04-04-the-only-thing-that-scales-in-it-are-problems/cjyKvI6IqLO5qtaPg9ZGUF6Yx1FuYNYxl7iIWnI2.jpg)
 
 In the heart of Silicon Valley, nestled among coffee shops buzzing with the sound of startups pitching their next big idea, was a small but ambitious tech company, CodeBlaze. They had just secured a hefty investment to scale up their operations. The CEO, a visionary with grand plans but little patience for the minutiae of IT infrastructure, declared it was time to "go big or go home."
 

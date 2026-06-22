@@ -12,7 +12,7 @@ created_raw: "2024-06-21T04:54:16Z"
 updated_raw: "2024-06-24T12:05:32Z"
 excerpt_separator: "<!--more-->"
 ---
-![Merlinicus Unseen: Dragon Dilemma](https://pxscdn.com/public/m/_v2/607467830790472239/530d83cd3-f15549/CDNbXDcQVrik/ACgCbKCWhzLxmXxQYFsRZboApLEO8ePEApUKPqRs.jpg)
+![Merlinicus Unseen: Dragon Dilemma](/assets/img/posts/2024-06-21-the-tale-of-the-simple-ai-in-the-arboretum/ACgCbKCWhzLxmXxQYFsRZboApLEO8ePEApUKPqRs.jpg)
 
 An elegant device designed to capture real and live outside sunlight data and create the perfect day-night cycle for the plants it nurtured was at the heart of a fully indoor arboretum. This garden thrived, a lush oasis of green in an otherwise sterile environment. 
 

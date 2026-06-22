@@ -5,7 +5,7 @@ categories: [faulmann, popart, museum]
 date: 2025-12-07
 ---
 
-![](https://pixelfed.social/storage/m/_v2/607467830790472239/c19ce1b25-2f8843/6GqHBaEVxT5g/p43znkthN398Hwf29ckZihroIZgKQj2w0MynNV9A.png)
+![](/assets/img/posts/2025-12-09-reflections/p43znkthN398Hwf29ckZihroIZgKQj2w0MynNV9A.png)
 
 Beim zweiten Besuch ist ein Museum nicht mehr dasselbe. Faulmann hatte sich vorgenommen, sich einfach in aller Ruhe in die große Halle zu setzen, wo zwei der großen Hauptwerke hingen und außerdem eine audiogesteuerte Installation. Draußen hing der Tag schwer über Köln. Winterlicht, halb Müdigkeit, halb Erwartung.
 
@@ -15,7 +15,7 @@ Schritte, Flüstern, das leise Knacken eines Rucksacks: Die Geräusche mischten 
 
 ## Axle
 
-![](https://pixelfed.social/storage/m/_v2/607467830790472239/c19ce1b25-2f8843/r99D8sy2dKq5/velPfoNoFbGd2ZwY2ojMzyb6ypEntaV2rOQbOa4t.jpg)
+![](/assets/img/posts/2025-12-09-reflections/velPfoNoFbGd2ZwY2ojMzyb6ypEntaV2rOQbOa4t.jpg)
 Im Gegenüber das gewaltige **Axle**. Rauschenberg, 1964 – ein Jahr, das die Kunstgeschichte wie ein umgeschlagenes Kalenderblatt veränderte. In diesem Moment rückte New York ins Zentrum der Avantgarde, und Axle trägt diese Verlagerung in sich wie ein unsichtbares Erdbeben.[^1]
 
 Das Werk entstand, als Rauschenberg sich von seinen wilden *Combines* löste und in die Welt der Siebdrucke eintauchte. Diese Technik, ursprünglich für Werbegrafik gedacht, erlaubte eine Geschwindigkeit, die zur visuellen Kultur der frühen 60er passte: Fernsehen, Zeitungsbilder, politische Ikonen, technologische Träume. Doch Rauschenberg verwendete sie nicht, um Dinge zu glätten wie Warhol – sondern um sie übereinanderzuschieben, zu stören, um Zeit selbst in Schichten zu legen.[^2]
@@ -26,7 +26,7 @@ Die berühmte Theorie des „Flatbed Picture Plane“ wird an Axle besonders sic
 
 ## Map
 
-![](https://pixelfed.social/storage/m/_v2/607467830790472239/c19ce1b25-2f8843/GIa9ZQuQHaML/E7FktjKeEDSfDpmliOeiUUTqOzsACaEsv4q3z45I.jpg)
+![](/assets/img/posts/2025-12-09-reflections/E7FktjKeEDSfDpmliOeiUUTqOzsACaEsv4q3z45I.jpg)
 Rechts daneben die **Map** – Johns’ Gegenstück, stiller, aber nicht weniger tief. Auch hier entsteht Eindruck statt Abbild: Kontinente tauchen auf, verschwimmen, zergehen im Wachs. Die Dymaxion-Projektion von Buckminster Fuller, auf der das Werk basiert, wollte eine gerechtere Weltkarte schaffen, frei von kolonialen Verzerrungen [^4]
 
 Für die Expo 67 war diese Klarheit gedacht – zu klar, fand Johns. Also nahm er das fertige Werk zurück und begann, es über Jahre in grauer Enkaustik zu übermalen. Schicht um Schicht löste sich die Geometrie auf. Grenzen verloren ihre Geste, Ozeane wurden weich, Kontinente sanken unter die Oberfläche, wie Erinnerungen, die in den Schlaf gleiten. Map ist dadurch keine Landkarte mehr, sondern eine Welt, die beschlossen hat, lieber Gefühl zu sein als Geometrie.

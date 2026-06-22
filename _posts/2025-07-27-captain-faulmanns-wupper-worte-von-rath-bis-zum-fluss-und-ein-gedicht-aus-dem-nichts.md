@@ -12,7 +12,7 @@ created_raw: "2025-07-27T11:35:33Z"
 updated_raw: "2025-07-27T20:34:58Z"
 excerpt_separator: "<!--more-->"
 ---
-![](https://pxscdn.com/public/m/_v2/607467830790472239/7a53dd069-05894d/ooJXQxQeBCRP/aVKuyVn4kE1W6PYuPnIkgIQyqqrpIiRpplfTJGhW.png)
+![](/assets/img/posts/2025-07-27-captain-faulmanns-wupper-worte-von-rath-bis-zum-fluss-und-ein-gedicht-aus-dem-nichts/aVKuyVn4kE1W6PYuPnIkgIQyqqrpIiRpplfTJGhW.png)
 
 Manchmal ist es nur die schlichte Fahrt von A nach B – ein leises Innehalten, ein Moment, in dem die Seele zu singen beginnt. Heute war so ein Tag.
 
@@ -32,7 +32,7 @@ Und dann, kurz bevor ich die Wupper erreichte, geschah es. Ich fuhr einen Hang h
 > dem Duft von Wiesen, den der Wind mir ruft.
 
 
-![](https://pixelfed.social/storage/m/_v2/607467830790472239/7a53dd069-05894d/kufToJjg88kv/OoQIDrdykIpGh1aDVjhgZeUE7pASasDD9rYOMoCP.jpg)
+![](/assets/img/posts/2025-07-27-captain-faulmanns-wupper-worte-von-rath-bis-zum-fluss-und-ein-gedicht-aus-dem-nichts/OoQIDrdykIpGh1aDVjhgZeUE7pASasDD9rYOMoCP.jpg)
 
 ## Faulmanns Fazit
 > **„πάντα ῥεῖ – alles fließt.“**  

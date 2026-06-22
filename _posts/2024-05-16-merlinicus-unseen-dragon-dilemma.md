@@ -12,7 +12,7 @@ created_raw: "2024-05-16T09:22:05Z"
 updated_raw: "2024-05-17T08:52:41Z"
 excerpt_separator: "<!--more-->"
 ---
-![Merlinicus Unseen: Dragon Dilemma](https://pxscdn.com/public/m/_v2/607467830790472239/7321b8e85-c3df53/EG136qEvlMdp/Xs3hYWbrgGC12q22EbVkyGT0Z1PqhppwZd9rv1vn.jpg)
+![Merlinicus Unseen: Dragon Dilemma](/assets/img/posts/2024-05-16-merlinicus-unseen-dragon-dilemma/Xs3hYWbrgGC12q22EbVkyGT0Z1PqhppwZd9rv1vn.jpg)
  
 In the holy kingdom of Aldora, there lay the grand castle of King Alaric. The castle's stony exterior masked a bustling interior filled with courtiers, knights, and an array of advisors dedicated to the realm's prosperity. However, amidst this sea of diligent workers, there was one character whose eccentricity had earned him a dubious reputation: Sir Egbert the Indecisive.
 

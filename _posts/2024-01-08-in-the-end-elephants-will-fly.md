@@ -12,7 +12,7 @@ created_raw: "2024-01-08T20:51:02Z"
 updated_raw: "2024-02-09T08:13:29Z"
 excerpt_separator: "<!--more-->"
 ---
-![In the end, elephants will fly.](https://pxscdn.com/public/m/_v2/607467830790472239/7c649620b-69b6c5/snwAq5b5Mrzi/DGO2saAotCnr8qdvL9mvlyDTK4deNvBdytldPVwc.png)
+![In the end, elephants will fly.](/assets/img/posts/2024-01-08-in-the-end-elephants-will-fly/DGO2saAotCnr8qdvL9mvlyDTK4deNvBdytldPVwc.png)
 
 Dear, recently I applied to be an animal caretaker for elephants at the local zoo. While I feel comfortable as an animal caretaker, what specifically drove me towards this job was that they were also looking for somebody with ample experience in aeronautics and physics. Well, that job seems to be for me, or so I thought. The application process went well, and they were impressed with my resume. I'll start tomorrow.
  
