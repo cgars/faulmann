@@ -5,6 +5,7 @@ subtitle: "Ein positiver Business Case für Schnittlauch"
 date: 2026-06-26
 tags: [faulmann, dachsbert, mummrich, garten, ki, llm, technik, bewaesserung]
 ---
+![](assets/img/posts/bewaesserung.png)
 
 Dachsbert hatte eine Bewässerungssteuerung bestellt.
 
