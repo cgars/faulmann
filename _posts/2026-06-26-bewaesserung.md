@@ -15,7 +15,7 @@ Sie lag auf dem Gartentisch, zwischen einer halbleeren Tasse Kaffee, drei Tonsch
 
 Faulmann nickte vorsichtig. Bei Dingen, die kostenlos waren, nickte er immer vorsichtig. Es war eine alte Gewohnheit. Kostenlos war selten ein Preis. Meistens war es nur eine noch nicht ausgesprochene Form von später.
 
-Seit der [Sache mit dem gehackten Chatbot](#) war Faulmann in dieser Frage empfindlich geworden. Nicht klüger. Nur langsamer im Nicken.
+Seit der [Sache mit dem gehackten Chatbot](2026-04-02-prompt.md) war Faulmann in dieser Frage empfindlich geworden. Nicht klüger. Nur langsamer im Nicken.
 
 "Natürlich kostenlos", sagte Dachsbert.
 
