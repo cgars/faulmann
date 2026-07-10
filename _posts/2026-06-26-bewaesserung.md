@@ -1,19 +1,19 @@
 ---
+
 layout: post
 title: "Die Gießkanne mit Weltanschluss"
 subtitle: "Ein positiver Business Case für Schnittlauch"
 date: 2026-06-26
 tags: [faulmann, dachsbert, mummrich, garten, ki, llm, technik, bewaesserung]
 ---
+
 ![](/assets/img/posts/bewaesserung.png)
 
-Dachsbert hatte eine Bewässerungssteuerung bestellt.
-
-Sie lag auf dem Gartentisch, zwischen einer halbleeren Tasse Kaffee, drei Tonscherben und einem Schraubendreher, der aussah, als habe er schon bessere Schrauben gesehen.
+Dachsbert hatte eine Bewässerungssteuerung bestellt. Sie lag auf dem Gartentisch, zwischen einer halbleeren Tasse Kaffee, drei Tonscherben und einem Schraubendreher, der aussah, als habe er schon bessere Tage gesehen.
 
 "Kostenlos", sagte Dachsbert.
 
-Faulmann nickte vorsichtig. Bei Dingen, die kostenlos waren, nickte er immer vorsichtig. Es war eine alte Gewohnheit. Kostenlos war selten ein Preis. Meistens war es nur eine noch nicht ausgesprochene Form von später.
+Faulmann nickte vorsichtig. Bei Dingen, die kostenlos waren, nickte er mittlerweile vorsichtig. Es war eine neue Gewohnheit. Kostenlos war selten ein Preis. Meistens war es nur eine noch nicht ausgesprochene Form von erwartbaren Kopfschmerzen.
 
 Seit der [Sache mit dem gehackten Chatbot](2026-04-02-prompt.md) war Faulmann in dieser Frage empfindlich geworden. Nicht klüger. Nur langsamer im Nicken.
 
@@ -21,9 +21,7 @@ Seit der [Sache mit dem gehackten Chatbot](2026-04-02-prompt.md) war Faulmann in
 
 "Natürlich", sagte Faulmann.
 
-Die Kiste war klein, weiß und glatt. Sie hatte keine sichtbare Meinung. Das machte sie verdächtig. Auf der Packung stand etwas von intelligenter Gartenpflege, präziser Feuchtigkeitssteuerung und nachhaltiger Ressourcennutzung.
-
-Dachsbert hatte die Anleitung gelesen. Das war bei ihm nie ein gutes Zeichen. Dachsbert las Anleitungen nicht, um Dinge zu verstehen. Er las sie, um herauszufinden, an welcher Stelle das Ding anfing, ihn zu beleidigen.
+Die Kiste war klein, weiß und glatt. Sie hatte keine sichtbare Meinung. Das machte sie verdächtig. Auf der Packung stand etwas von intelligenter Gartenpflege, präziser Feuchtigkeitssteuerung und nachhaltiger Ressourcennutzung. Dachsbert hatte die Anleitung gelesen. Das war bei ihm nie ein gutes Zeichen. Dachsbert las Anleitungen nicht, um Dinge zu verstehen. Er las sie, um herauszufinden, an welcher Stelle Sie anfing, ihn zu beleidigen.
 
 "Sie braucht Internet", sagte er.
 
@@ -43,9 +41,7 @@ Dachsbert legte die Anleitung auf den Tisch.
 
 "Sie muss mit einem Sprachmodell sprechen."
 
-Faulmann schwieg.
-
-Im Garten war es sehr still. Eine Amsel landete auf dem Zaun, sah die Kiste an und flog wieder weg. Man konnte es ihr nicht verübeln.
+Faulmann schwieg. Im Garten war es sehr still. Eine Amsel landete auf dem Zaun, sah die Kiste an und flog wieder weg. Man konnte es ihr nicht verübeln.
 
 "Die Kiste", sagte Dachsbert, "fragt also irgendwo im Internet nach, ob die Petersilie Durst hat."
 
@@ -63,13 +59,11 @@ Dachsbert sah ihn an.
 
 Das war schwer zu widerlegen.
 
-Später saß Dachsbert in der Laube und fragte die andere Kiste. Die andere Kiste war der kleine graue Rechner, auf dem er inzwischen alles fragte, was früher in den Zuständigkeitsbereich von Nachbarn, Bibliotheken oder unklugen Selbstversuchen gefallen war.
+Später saß Dachsbert in der Laube und befragte die andere Kiste. Die andere Kiste war der kleine graue Rechner, auf dem er inzwischen alles fragte, was früher in den Zuständigkeitsbereich von Nachbarn, Bibliotheken oder unklugen Selbstversuchen gefallen war.
 
 "Kann man das auch lokal machen?", fragte er.
 
-Die Kiste antwortete lange.
-
-Dachsbert las mit wachsender Verärgerung.
+Die Kiste antwortete lange. Dachsbert las mit wachsender Verärgerung.
 
 "Sie sagt, ich brauche eine gute Grafikkarte."
 
@@ -85,17 +79,11 @@ Die Kiste empfahl außerdem Arbeitsspeicher, ein Modell, ein paar Installationss
 
 "Ich habe doch keinen Rechner für so etwas", sagte Dachsbert.
 
-Faulmann sagte nichts.
+Faulmann sagte nichts. Das war sein Fehler.
 
-Das war sein Fehler.
+Am nächsten Nachmittag bemerkte Faulmann, dass sein Flugsimulator-Rechner nicht mehr unter dem Schreibtisch stand. Er bemerkte es nicht sofort. Zuerst bemerkte er nur eine ungewohnte Leere. Dann ein Kabel, das nirgendwohin führte. Dann den Staubumriss auf dem Boden. Es ist erstaunlich, wie vorwurfsvoll Staub sein kann, wenn etwas fehlt.
 
-Am nächsten Nachmittag bemerkte Faulmann, dass sein Flugsimulator-Rechner nicht mehr unter dem Schreibtisch stand.
-
-Er bemerkte es nicht sofort. Zuerst bemerkte er nur eine ungewohnte Leere. Dann ein Kabel, das nirgendwohin führte. Dann den Staubumriss auf dem Boden. Es ist erstaunlich, wie vorwurfsvoll Staub sein kann, wenn etwas fehlt.
-
-Im Garten stand der Rechner auf zwei Ziegelsteinen neben der Regentonne.
-
-Dachsbert hatte ihn mit der Bewässerungssteuerung verbunden. Außerdem mit einem alten Monitor, einer Mehrfachsteckdose, einem Netzwerkkabel, drei Adaptern und einem Gerät, dessen Zweck Faulmann nicht kannte, das aber sehr beschäftigt blinkte.
+Im Garten stand der Rechner auf zwei Ziegelsteinen neben der Regentonne. Dachsbert hatte ihn mit der Bewässerungssteuerung verbunden. Außerdem mit einem alten Monitor, einer Mehrfachsteckdose, einem Netzwerkkabel, drei Adaptern und einem Gerät, dessen Zweck Faulmann nicht kannte, das aber sehr beschäftigt blinkte.
 
 Faulmann blieb stehen.
 
@@ -155,13 +143,13 @@ Dachsbert nickte.
 
 "Warum?"
 
-Dachsbert kratzte sich wieder am Kopf. Dort musste inzwischen einiges liegen.
+Dachsbert kratzte sich wieder am Kopf. Dort musste inzwischen einiges Jucken.
 
 "Mir ist eingefallen, dass es nur um Bewässerung geht."
 
 "Das war vorher auch schon der Fall."
 
-"Ja", sagte Dachsbert. "Aber nicht in der richtigen Größe."
+"Ja", sagte Dachsbert. "Aber es war nicht in der richtigen Größe."
 
 "Die Bewässerung?"
 
@@ -205,7 +193,7 @@ Dachsbert erklärte, dass Modelle groß sein konnten, aber nicht mussten. Dass m
 
 "Das stimmt."
 
-"Außerdem warst du manchmal unterwegs."
+"Außerdem bist du manchmal unterwegs."
 
 Faulmann dachte an seine Flugsimulatorflüge, bei denen er in schlechtem Wetter über virtuelle Alpen geflogen war, während im wirklichen Garten die Bohnen etwas näher am existenziellen Rand standen, als Bohnen das vermutlich mochten.
 
@@ -221,13 +209,11 @@ Dachsbert nahm sie mit großer Selbstverständlichkeit entgegen.
 
 "Da liegt Internet?"
 
-"Da lag etwas", sagte Mummrich. "Ich würde es nicht gleich Internet nennen. Es war eher ein Versprechen."
+"Da lag etwas", sagte Mummrich. "Ich würde es nicht gleich Internet nennen."
 
 Faulmann sagte nichts. Im Garten wurden Dinge möglich, für die es in Mietverträgen keine Worte gab.
 
-Dachsbert schloss die Leitung an.
-
-Die kleine weiße Steuerung blinkte. Erst vorsichtig. Dann selbstbewusster. Dann in einem Rhythmus, der vermutlich laut Bedienungsanleitung "bereit" bedeutete, aber genauso gut "ich habe eure Schwächen verstanden" heißen konnte.
+Dachsbert schloss die Leitung an. Die kleine weiße Steuerung blinkte. Erst vorsichtig. Dann selbstbewusster. Dann in einem Rhythmus, der vermutlich laut Bedienungsanleitung "bereit" bedeutete, aber genauso gut "ich habe eure Schwächen verstanden" heißen konnte.
 
 "Und jetzt?", fragte Faulmann.
 
@@ -237,9 +223,7 @@ Die kleine weiße Steuerung blinkte. Erst vorsichtig. Dann selbstbewusster. Dann
 
 "Ja", sagte Dachsbert. "Aber jetzt benutzt sie es weniger dumm."
 
-Faulmann ließ diesen Satz eine Weile im Garten stehen.
-
-Er war nicht falsch. Das machte ihn nicht angenehmer.
+Faulmann ließ diesen Satz eine Weile im Garten stehen. Er war nicht falsch. Das machte ihn nicht angenehmer.
 
 "Billiger", sagte Dachsbert.
 
@@ -247,19 +231,13 @@ Er war nicht falsch. Das machte ihn nicht angenehmer.
 
 "Und der Garten ist gut bewässert", sagte Dachsbert.
 
-Die Steuerung klickte.
-
-Ein dünner Wasserstrahl begann neben den Tomaten zu laufen. Nicht viel. Gerade genug, dass die Erde dunkler wurde.
+Die Steuerung klickte. Ein dünner Wasserstrahl begann neben den Tomaten zu laufen. Nicht viel. Gerade genug, dass die Erde dunkler wurde.
 
 Faulmann betrachtete die Tomaten. Sie sahen nicht beeindruckt aus. Pflanzen haben dafür keinen guten Gesichtsausdruck. Vielleicht ist das ihr größter Vorteil.
 
 "Ich bin beeindruckt", sagte Faulmann.
 
-Dachsbert nickte, als habe er damit gerechnet, aber nicht darauf bestanden.
-
-Eine Weile hörten sie dem Wasser zu.
-
-Es war ein kleines Geräusch. Fast nichts. Die Art Geräusch, die man erst bemerkt, wenn die großen Geräte aufgehört haben, etwas zu wollen.
+Dachsbert nickte, als habe er damit gerechnet, aber nicht darauf bestanden. Eine Weile hörten sie dem Wasser zu. Es war ein kleines Geräusch. Fast nichts. Die Art Geräusch, die man erst bemerkt, wenn die großen Geräte aufgehört haben, etwas zu wollen.
 
 Dann sagte Dachsbert: "Das eigentlich Lustige ist ja, dass ich wahrscheinlich auch einfach hätte warten können."
 
@@ -273,9 +251,7 @@ Faulmann sah zu ihm.
 
 "Nein. Der ganze Unsinn darum herum."
 
-Mummrich hob den Kopf.
-
-Dachsbert legte die Gießkanne ab und dachte kurz nach. Das tat er selten sichtbar. Meistens geschah es bei ihm unter der Oberfläche, wie bei Wurzeln oder alten Kabeln.
+Mummrich hob den Kopf. Dachsbert legte die Gießkanne ab und dachte kurz nach. Das tat er selten sichtbar. Meistens geschah es bei ihm unter der Oberfläche, wie bei Wurzeln oder alten Kabeln.
 
 "Das Modell wird ja nicht kleiner", sagte er. "Also nicht dieses Modell. Das bleibt, wie es ist. Aber die neuen Modelle werden dauernd größer. Und sobald die groß genug sind, sieht das, was gestern noch groß war, plötzlich klein aus."
 
@@ -283,21 +259,7 @@ Dachsbert legte die Gießkanne ab und dachte kurz nach. Das tat er selten sichtb
 
 "Genau", sagte Dachsbert. "Faulmanns Flugsimulator-Rechner ist ja auch schon klein."
 
-Faulmann sah zu ihm.
-
-"Klein?"
-
-"Im Vergleich."
-
-"Mit was?"
-
-"Mit dem, worauf die großen Modelle laufen."
-
-Faulmann sagte nichts. Es war unangenehm, wenn ein Rechner, der unter dem Schreibtisch schon wie ein Möbelstück wirkte, plötzlich als bescheidene Zwischenlösung galt.
-
-"Und relativ kleine Modelle sind billiger", sagte Dachsbert. "Was heute noch zu teuer ist, ist in ein paar Monaten vielleicht schon Gartengerät."
-
-Faulmann sah zur Bewässerungssteuerung.
+Faulmann sah zur Bewässerungssteuerung. Er ahnte das er das noch eine weile hören würde.
 
 "Der Garten muss also warten, bis die Rechenzentren seine Petersilie ökonomisch eingeholt haben."
 
@@ -321,8 +283,5 @@ Dachsbert nahm sie schließlich doch in die Hand.
 
 Er stand auf, ging zum Beet und goss die Tomaten.
 
-Die Steuerung klickte beleidigt.
+Die Steuerung klickte beleidigt. Oder vielleicht klang sie nur so. Faulmann war sich nicht sicher. Bei neuen Geräten war das schwer zu unterscheiden.
 
-Oder vielleicht klang sie nur so.
-
-Faulmann war sich nicht sicher. Bei neuen Geräten war das schwer zu unterscheiden.
