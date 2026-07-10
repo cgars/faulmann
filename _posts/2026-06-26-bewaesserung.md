@@ -3,7 +3,7 @@ layout: post
 title: "Die Gießkanne mit Weltanschluss"
 subtitle: "Ein positiver Business Case für Schnittlauch"
 date: 2026-06-26
-tags: [faulmann, dachsbert, mummrich, garten, ki, llm, technik, bewaesserung]
+tags: [faulmann, dachsbert, mummrich, garten, ai, llm, technik, bewaesserung]
 ---
 
 ![](/assets/img/posts/bewaesserung.png)
