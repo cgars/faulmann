@@ -1,5 +1,4 @@
 ---
-
 layout: post
 title: "Die Gießkanne mit Weltanschluss"
 subtitle: "Ein positiver Business Case für Schnittlauch"
@@ -21,7 +20,7 @@ Seit der [Sache mit dem gehackten Chatbot](2026-04-02-prompt.md) war Faulmann in
 
 "Natürlich", sagte Faulmann.
 
-Die Kiste war klein, weiß und glatt. Sie hatte keine sichtbare Meinung. Das machte sie verdächtig. Auf der Packung stand etwas von intelligenter Gartenpflege, präziser Feuchtigkeitssteuerung und nachhaltiger Ressourcennutzung. Dachsbert hatte die Anleitung gelesen. Das war bei ihm nie ein gutes Zeichen. Dachsbert las Anleitungen nicht, um Dinge zu verstehen. Er las sie, um herauszufinden, an welcher Stelle Sie anfing, ihn zu beleidigen.
+Die Kiste war klein, weiß und glatt. Sie hatte keine sichtbare Meinung. Das machte sie verdächtig. Auf der Packung stand etwas von intelligenter Gartenpflege, präziser Feuchtigkeitssteuerung und nachhaltiger Ressourcennutzung. Dachsbert hatte die Anleitung gelesen. Das war bei ihm nie ein gutes Zeichen. Dachsbert las Anleitungen nicht, um Dinge zu verstehen. Er las sie, um herauszufinden, an welcher Stelle sie anfing, ihn zu beleidigen.
 
 "Sie braucht Internet", sagte er.
 
@@ -143,7 +142,7 @@ Dachsbert nickte.
 
 "Warum?"
 
-Dachsbert kratzte sich wieder am Kopf. Dort musste inzwischen einiges Jucken.
+Dachsbert kratzte sich wieder am Kopf. Dort musste inzwischen einiges jucken.
 
 "Mir ist eingefallen, dass es nur um Bewässerung geht."
 
@@ -209,7 +208,7 @@ Dachsbert nahm sie mit großer Selbstverständlichkeit entgegen.
 
 "Da liegt Internet?"
 
-"Da lag etwas", sagte Mummrich. "Ich würde es nicht gleich Internet nennen."
+"Da lag etwas", sagte Mummrich. "Ich würde es nicht gleich Internet nennen. Es war eher ein Versprechen."
 
 Faulmann sagte nichts. Im Garten wurden Dinge möglich, für die es in Mietverträgen keine Worte gab.
 
@@ -259,7 +258,7 @@ Mummrich hob den Kopf. Dachsbert legte die Gießkanne ab und dachte kurz nach. D
 
 "Genau", sagte Dachsbert. "Faulmanns Flugsimulator-Rechner ist ja auch schon klein."
 
-Faulmann sah zur Bewässerungssteuerung. Er ahnte das er das noch eine weile hören würde.
+Faulmann sah zur Bewässerungssteuerung. Er ahnte, dass er das noch eine Weile hören würde.
 
 "Der Garten muss also warten, bis die Rechenzentren seine Petersilie ökonomisch eingeholt haben."
 
@@ -284,4 +283,3 @@ Dachsbert nahm sie schließlich doch in die Hand.
 Er stand auf, ging zum Beet und goss die Tomaten.
 
 Die Steuerung klickte beleidigt. Oder vielleicht klang sie nur so. Faulmann war sich nicht sicher. Bei neuen Geräten war das schwer zu unterscheiden.
-
