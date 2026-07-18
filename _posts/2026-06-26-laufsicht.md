@@ -10,7 +10,7 @@ Am Donnerstag las Dachsbert die Zeitung seines Nachbarn.
 
 Das tat er häufiger. Die Zeitung kam am Donnerstagvormittag, der Nachbar jedoch erst am Abend. Dazwischen lag ein ruhiges Zeitfenster, das Dachsbert für eine nachbarschaftlich nicht vollständig ausgeschöpfte Ressource hielt.
 
-Er nahm die Zeitung nicht einfach mit. Dachsbert war ja kein Dieb. Er las sie auf der schönen Terrasse des Nachbarn. Er eignete sich lediglich ihren Inhalt an.
+Er nahm die Zeitung nicht einfach mit. Dachsbert war ja kein Dieb. Er las sie auf der schönen Terrasse des Nachbarn und eignete sich lediglich ihren Inhalt an.
 
 Bei Regen wurde diese Unterscheidung vor allem juristisch interessant.
 
