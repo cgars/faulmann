@@ -5,7 +5,7 @@ subtitle: "Eine Fernsehsache mit Dachsbert"
 date: 2026-07-22
 tags: [faulmann, dachsbert, liora, mummrich, musik, fernsehen, kunstfreiheit, angst, demokratie]
 ---
-
+![](/assets/img/posts/2026-06-26-laufsicht/faulmann-lied-unter-aufsicht-cover.jpg)
 Am Donnerstag las Dachsbert die Zeitung seines Nachbarn.
 
 Das tat er häufiger. Die Zeitung kam am Donnerstagvormittag, der Nachbar jedoch erst am Abend. Dazwischen lag ein ruhiges Zeitfenster, das Dachsbert für eine nachbarschaftlich nicht vollständig ausgeschöpfte Ressource hielt.
