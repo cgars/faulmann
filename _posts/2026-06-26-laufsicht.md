@@ -18,13 +18,13 @@ An diesem Donnerstag blieb Dachsbert länger als gewöhnlich im Kulturteil häng
 
 Der Musiker hieß Daniel.
 
-Daniels lebten gefährlich. Das wusste man spätestens seit der Löwengrube. Schon damals hatten die zuständigen Stellen Schwierigkeiten gehabt, angemessen mit ihnen umzugehen.
+Daniels waren gefährlich. Das wusste man spätestens seit der Löwengrube. Schon damals hatten die zuständigen Stellen Schwierigkeiten gehabt, angemessen mit ihnen umzugehen.
 
 In diesem Fall gab es keine Löwen. Es gab eine Senderleitung, einige Programmbestimmungen und eine kurzfristige Ausladung.
 
-Das Lied handelte von der Angst vor erstarkenden Rechtsextremen. Es wollte Menschen ermutigen, sich zusammenzutun, Veranstaltungen zu organisieren, rechte Strukturen zu untersuchen und sich nicht darauf zu verlassen, dass andere die Sache schon regeln würden.
+Das Lied handelte von der Angst vor erstarkenden Faschismus. Es wollte Menschen ermutigen, sich zusammenzutun, Veranstaltungen zu organisieren, Strukturen zu untersuchen und sich nicht darauf zu verlassen, dass andere die Sache schon regeln würden.
 
-An einigen Stellen wurde das Lied undeutlicher. Es sprach von zu erwartenden Auseinandersetzungen, ließ mögliche Gegenwehr im Halbdunkel stehen und grüßte am Ende Personen, die mit schweren Angriffen auf Rechtsextreme in Verbindung gebracht wurden.
+An einigen Stellen wurde das Lied undeutlicher. Es sprach von zu erwartenden Auseinandersetzungen, ließ mögliche Gegenwehr im Halbdunkel stehen und grüßte am Ende Personen, die mit schweren Angriffen auf Angehörige der äußersten Rechten in Verbindung gebracht wurden.
 
 Das große Fernsehhaus war zu der Auffassung gelangt, das Lied könne als Aufruf zur Gewalt verstanden werden. Die Redaktion der betroffenen Sendung sah das anders.
 
@@ -42,13 +42,7 @@ Er steckte in einem Karton, der so groß war, dass Dachsbert hinter ihm vollstä
 
 "Der Fernseher und die Lieferung."
 
-Liora betrachtete das Versandetikett. Neben dem Preis von 0,00 Euro befand sich ein kleiner QR-Code.
-
-"Und was hast du dafür angegeben?"
-
-"Nur das Übliche."
-
-Mummrich klopfte von unten gegen den Karton. Er war während des Gesprächs hineingekrochen, um die Anschlüsse zu untersuchen.
+Mummrich klopfte von innen gegen den Karton. Er war während des Gesprächs hineingekrochen, um die Anschlüsse zu untersuchen.
 
 "Wenn etwas kostenlos ist", sagte er aus dem Verpackungsmaterial, "gehört meistens etwas anderes zum Lieferumfang."
 
@@ -64,7 +58,7 @@ Dachsbert hörte ihm nicht zu. Er brauchte den Fernseher für Dienstag.
 
 "Genau das", sagte Dachsbert.
 
-Liora hatte das Lied inzwischen ebenfalls gehört. Über weite Strecken sei es vorsichtig, beinahe fürsorglich. Es spreche zu Menschen, die sich allein und ungeschützt fühlten. Es erkläre ihnen, dass sie nicht allein bleiben müssten.
+Liora wusste direkt was gemeint war und hatte das Lied wohl bereits gehört. Über weite Strecken sei es vorsichtig, beinahe fürsorglich. Es spreche zu Menschen, die sich allein und ungeschützt fühlten. Es erkläre ihnen, dass sie nicht allein bleiben müssten.
 
 "Das hat man früher gesellschaftliches Engagement genannt", sagte Dachsbert.
 
@@ -82,7 +76,7 @@ Auf der Hülle war ein Wolf.[^biermann]
 
 Mummrich legte die Platte auf. Sie knackte einige Male, bevor eine Stimme zu hören war.
 
-"Du, lass dich nicht verhärten"[^ermutigung], sagte Mummrich leise mit.
+"Du, lass dich nicht verhärten"[^ermutigung], sagte Mummrich leise mit und hielt die Platte kurz an.
 
 Dachsbert wartete.
 
@@ -92,7 +86,7 @@ Dachsbert wartete.
 
 "Das ist alles?"
 
-"Für manche Zeiten ist das ziemlich viel", sagte Liora. "Der Wolf hatt das Lied damals für seinen Freund Peter Huchel gedichtet. Huchel durfte nicht veröffentlichen und nicht ausreisen. Er wurde überwacht und in seinem Haus weitgehend von der Außenwelt abgeschnitten. Wolf selbst durfte zu dieser Zeit ebenfalls nicht mehr auftreten oder publizieren.
+"Für manche Zeiten ist das ziemlich viel", sagte Liora die offebar auch hier bestens bescheid wusste. "Der Wolf hatt das Lied damals für einen Freund gedichtet. Der durfte nicht veröffentlichen und nicht ausreisen. Er wurde überwacht und in seinem Haus weitgehend von der Außenwelt abgeschnitten. Wolf selbst durfte zu dieser Zeit ebenfalls nicht mehr auftreten oder publizieren.
 
 "Also auch ein Lied, das nicht gesungen werden durfte?", fragte Dachsbert.
 
@@ -100,7 +94,7 @@ Dachsbert wartete.
 
 Liora drehte die Hülle um.
 
-"Das ist wirklich nicht dasselbe", sagte sie. "Damals wurde ein Künstler über Jahre aus der Öffentlichkeit entfernt. Hier fehlt ein einzelner Auftritt. Das neue Lied kann jeder hören."
+"Das ist wirklich nicht dasselbe", sagte sie. "Damals wurde ein Künstler über Jahre aus der Öffentlichkeit entfernt. Hier fehlt ein einzelner Auftritt. Das neue Lied kann jeder hören der will."
 
 "Ich habe nicht gesagt, dass es dasselbe ist."
 
@@ -168,7 +162,7 @@ Mummrich nahm die Platte vom Teller."Leute aus einem westlichen Fernsehhaus habe
 
 "Bestimmt", sagte Faulmann.
 
-"Aber vielleicht nicht anstelle der Kunst."
+"Aber vielleicht besser nicht anstelle der Kunst."
 
 Faulmann steckte den Stecker noch nicht ein. Offenbar war es leichter, über Mut zu sprechen, wenn er zuvor in eine Pressemappe gelegt worden war. Das war nicht nichts. Aber es war etwas anderes.
 
