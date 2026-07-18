@@ -152,19 +152,19 @@ Mummrich nahm die Platte vom Teller."Leute aus einem westlichen Fernsehhaus habe
 
 "Manchmal."
 
-"Und heute erklärt es, warum etwas nicht gezeigt wird?"
+„Und heute erklärt es, warum etwas nicht gezeigt wird?“
 
-Mummrich stellte die Platte zurück.
+„Das ist ein ziemlich wilder Vergleich“, sagte Liora.
 
-"Das ist auch ein wenig ein wilder Vergleich", sagte Liora.
+„Ja“, sagte Mummrich. „Aber ein kleines Geschmäckle hat es schon.“
 
-"Ja", sagte Mummrich. "Aber es hat schon ein g'schmäckle wie man bei uns sagt. Das Lied verschwindet nicht vollständig. Es wechselt ohne gefragt zu werden seine Form. Es darf Gegenstand einer Sendung sein, aber nicht als Auftritt. Man darf darüber sprechen, warum es problematisch ist, aber es darf nihct problematisch sein"
+„Das Lied wird ja nicht verschwiegen“, sagte Dachsbert.
 
-"Nichtmal unter Aufsicht", sagte Liora.
+„Nein“, sagte Mummrich. „Nur umsortiert. Aus einem Lied wird ein Gegenstand.“
 
-Dachsbert setzte den Fernseher auf den Tisch.
+„Über den man sprechen kann“, sagte Liora. „Solange er nicht singt.“
 
-"Vielleicht braucht Kunst manchmal eine Einordnung", sagte er.
+„Nicht einmal unter Aufsicht“, sagte Dachsbert und setzte den Fernseher auf den Tisch. "Vielleicht braucht Kunst manchmal eine Einordnung", sagte er.
 
 "Bestimmt", sagte Faulmann.
 
@@ -172,11 +172,11 @@ Dachsbert setzte den Fernseher auf den Tisch.
 
 Faulmann steckte den Stecker noch nicht ein. Offenbar war es leichter, über Mut zu sprechen, wenn er zuvor in eine Pressemappe gelegt worden war. Das war nicht nichts. Aber es war etwas anderes.
 
-"Nun gut, liebe Leute“, sagte Dachsbert. "Trinkt aus, wir müssen gehen. Ich habe den Eindruck, auch andernorts werden wir heute noch ermutigt.[^hosen] Es liegt etwas in der Luft.“
-
-Neben der Fernbedienung lag ein Buch mit dem Titel "Überwachung für Anfänger".
+Neben der Fernbedienung lag ein Buch mit dem Titel „Überwachung für Anfänger“.
 
 Dachsbert behauptete, es habe kostenlos beigelegen.
+
+„Nun gut, liebe Leute“, sagte Dachsbert. „Trinkt aus, wir müssen gehen. Ich habe den Eindruck, auch andernorts werden wir heute noch ermutigt.[^hosen] Es liegt etwas in der Luft.“
 
 ## Der Platz, an dem das Lied fehlte
 
