@@ -68,39 +68,99 @@ Liora hatte das Lied inzwischen ebenfalls gehört. Über weite Strecken sei es v
 
 "Das hat man früher gesellschaftliches Engagement genannt", sagte Dachsbert.
 
-"Manches davon", sagte Liora.
+"Manches davon", sagte Liora. 
 
-"Es sagt nicht ausdrücklich, dass jemand angegriffen werden soll."
+"Eine Ermutigung also"[^ermutigung], sagte Faulmann.
+
+Mummrich ließ das Anschlusskabel fallen und ging zum Plattenschrank. Nach kurzem Suchen kam er mit einer abgenutzten Hülle zurück.
+
+"Eine Ermutigung haben wir schon."
+
+Auf der Hülle war ein Wolf.[^biermann]
+
+"Der Name klingt immerhin zuständig", sagte Dachsbert.
+
+Mummrich legte die Platte auf. Sie knackte einige Male, bevor eine Stimme zu hören war.
+
+"Du, lass dich nicht verhärten"[^ermutigung], sagte Mummrich leise mit.
+
+Dachsbert wartete.
+
+"Und dann?"
+
+"Dann geht es darum, sich nicht verbittern, erschrecken und verbrauchen zu lassen."
+
+"Das ist alles?"
+
+"Für manche Zeiten ist das ziemlich viel", sagte Liora. "Der Wolf hatt das Lied damals für seinen Freund Peter Huchel gedichtet. Huchel durfte nicht veröffentlichen und nicht ausreisen. Er wurde überwacht und in seinem Haus weitgehend von der Außenwelt abgeschnitten. Wolf selbst durfte zu dieser Zeit ebenfalls nicht mehr auftreten oder publizieren.
+
+"Also auch ein Lied, das nicht gesungen werden durfte?", fragte Dachsbert.
+
+"Der Sänger durfte gar nicht singen", sagte Mummrich. "Das war gründlicher."
+
+Liora drehte die Hülle um.
+
+"Das ist wirklich nicht dasselbe", sagte sie. "Damals wurde ein Künstler über Jahre aus der Öffentlichkeit entfernt. Hier fehlt ein einzelner Auftritt. Das neue Lied kann jeder hören."
+
+"Ich habe nicht gesagt, dass es dasselbe ist."
+
+"Du warst kurz davor."
+
+Dachsbert nahm das hin.
+
+"Aber die Lieder wollen etwas Ähnliches", sagte Faulmann. "Sie wollen verhindern, dass die Angst das letzte Wort bekommt."
+
+"Das ältere Lied verlangt allerdings, dass man dabei nicht hart wird", sagte Liora.
+
+"Vielleicht war damals genug Härte vorhanden", sagte Dachsbert.
+
+"Das ist was dran."
+
+Das neue Lied wollte nicht nur trösten. Es wollte organisieren, recherchieren und vorbereiten. Dachsbert gefiel das. Trost fand er brauchbar, hielt ihn aber nicht in allen Fällen für eine ausreichende Infrastruktur.
+
+"Es sagt nicht ausdrücklich, dass jemand angegriffen werden soll", sagte er.
 
 "Nein", sagte Liora. "Aber es möchte auch nicht, dass die Andeutung überhört wird."
 
-Faulmann fand es auffällig, wie schnell Andeutungen ihre Beschaffenheit wechselten. Das Fernsehhaus behandelte sie beinahe wie eine konkrete Anweisung. Einige Verteidiger des Liedes behandelten sie dagegen wie eine beiläufige Verzierung.
+"Vielleicht braucht Ermutigung irgendwann Zähne."
 
-Dabei konnte man den Schluss verantwortungslos finden, ohne das ganze Lied zu einem Gewaltaufruf zu erklären. Und man konnte die Ausladung falsch finden, ohne jede Entscheidung über einen Sendeplatz gleich ein Verbot zu nennen.
+"Vielleicht", sagte Liora. "Aber dann sollte sie noch wissen, was sie damit tut."
 
-"Vielleicht ist der Schluss des Liedes schlecht", sagte Faulmann. "Und die Ausladung trotzdem falsch."
+Die Platte drehte sich weiter.
+
+"Das ältere Lied erinnert an etwas", sagte Faulmann. "Man muss sich nicht nur gegen das wehren, was andere tun. Manchmal auch gegen das, was ihr Druck aus einem selbst macht."
+
+Dachsbert sah auf den Plattenteller.
+
+"Das hätte man nach dem neuen Lied besprechen können."
+
+"Das war vielleicht der ursprüngliche Plan", sagte Liora.
+
+Faulmann fand es weiterhin möglich, den Schluss des neuen Liedes verantwortungslos zu finden, ohne das ganze Lied zu einem Gewaltaufruf zu erklären. Ebenso konnte man die Ausladung falsch finden, ohne jede Entscheidung über einen Sendeplatz gleich ein Verbot zu nennen.
+
+"Vielleicht ist der Schluss des Liedes schlecht", sagte er. "Und die Ausladung trotzdem falsch."
 
 "Das ist sehr unpraktisch", sagte Dachsbert.
 
 "Zwei Dinge können gleichzeitig wahr sein", sagte Liora.
 
-"Das ist meistens der Grund, warum man einen größeren Fernseher braucht", sagte Mummrich.
+"Das ist der Grund, warum es einen größeren Fernseher braucht", sagte Dachsbert selbstbewust.
 
-Das Fernsehhaus hatte inzwischen angekündigt, das Lied an anderer Stelle ausführlich zu untersuchen. Ein Kulturmagazin sollte es erklären und einordnen. Auch die ursprüngliche Sendung durfte sich kritisch mit der Ausladung beschäftigen.
+Mummrich nahm die Platte vom Teller."Leute aus einem westlichen Fernsehhaus haben den Wolf damals heimlich in seiner Wohnung gefilmt", sagte er. "Weil er öffentlich nirgends auftreten durfte."
 
-"Also kommt das Lied doch?", fragte Mummrich.
+"Damals wollte das Fernsehen zeigen, was nicht gezeigt werden durfte?", fragte Dachsbert.
 
-"Nein", sagte Liora. "Es wird besprochen."
+"Manchmal."
 
-"Das ist doch fast dasselbe."
+"Und heute erklärt es, warum etwas nicht gezeigt wird?"
 
-"Nein."
+Mummrich stellte die Platte zurück.
 
-"Dann ist es Fernsehen", sagte Mummrich.
+"Das ist auch ein wenig ein wilder Vergleich", sagte Liora.
 
-Das Lied verschwand also nicht vollständig. Es wechselte nur seine Form. Es durfte Gegenstand einer Sendung sein, aber nicht ihr Auftritt. Man durfte darüber sprechen, warum es problematisch war, bevor es selbst problematisch werden konnte.
+"Ja", sagte Mummrich. "Aber es hat schon ein g'schmäckle wie man bei uns sagt. Das Lied verschwindet nicht vollständig. Es wechselt ohne gefragt zu werden seine Form. Es darf Gegenstand einer Sendung sein, aber nicht als Auftritt. Man darf darüber sprechen, warum es problematisch ist, aber es darf nihct problematisch sein"
 
-"Unter Aufsicht", sagte Liora.
+"Nichtmal unter Aufsicht", sagte Liora.
 
 Dachsbert setzte den Fernseher auf den Tisch.
 
@@ -108,11 +168,11 @@ Dachsbert setzte den Fernseher auf den Tisch.
 
 "Bestimmt", sagte Faulmann.
 
-"Aber vielleicht nicht immer anstelle der Kunst."
+"Aber vielleicht nicht anstelle der Kunst."
 
 Faulmann steckte den Stecker noch nicht ein. Offenbar war es leichter, über Mut zu sprechen, wenn er zuvor in eine Pressemappe gelegt worden war. Das war nicht nichts. Aber es war etwas anderes.
 
-Bis Dienstag blieb der Bildschirm schwarz. Darin spiegelten sich das Fenster, ein Stück Faulwald und vier Tiere, die auf den Platz warteten, an dem ein Lied fehlen sollte.
+"Nun gut, liebe Leute“, sagte Dachsbert. "Trinkt aus, wir müssen gehen. Ich habe den Eindruck, auch andernorts werden wir heute noch ermutigt.[^hosen] Es liegt etwas in der Luft.“
 
 Neben der Fernbedienung lag ein Buch mit dem Titel "Überwachung für Anfänger".
 
@@ -130,3 +190,9 @@ DIESEN ABSCHNITT NACH DER SENDUNG ERGÄNZEN:
 - Was tut Dachsbert während der Sendung?
 - Schlussszene erst danach schreiben. Vielleicht läuft der Fernseher nach dem Abspann weiter und niemand schaltet ihn sofort aus.
 -->
+
+[^biermann]: Wolf Biermann erhielt 1965 in der DDR ein vollständiges Publikations- und Auftrittsverbot. Das Ministerium für Staatssicherheit überwachte anschließend seine Post, sein Telefon, seine Wohnung und seine persönlichen Kontakte. Während des Verbots wurde er von einem westdeutschen Fernsehmagazin heimlich in seiner Wohnung gefilmt. Nach einem Konzert in Köln wurde Biermann 1976 aus der DDR ausgebürgert. Siehe [Deutsches Historisches Museum](https://www.dhm.de/ausstellungen/wolf-biermann-ein-lyriker-und-liedermacher-in-deutschland/more-story/) und [Bundeszentrale für politische Bildung](https://www.bpb.de/themen/deutschlandarchiv/343310/einer-der-anfaenge-vom-ende-der-ddr-die-biermann-ausbuergerung-1976/).
+
+[^ermutigung]: Biermann schrieb "Ermutigung" nach eigener Erinnerung im Frühjahr 1966 für seinen Freund Peter Huchel. Huchel lebte damals unter Überwachung und war mit einem Publikations- und Ausreiseverbot belegt. Das 1968 veröffentlichte Lied richtet sich gegen Verhärtung, Verbitterung, Angst und Resignation und wurde später zu einem gemeinschaftlich gesungenen Lied auf beiden Seiten der deutschen Grenze. Siehe Ute Elena Hamm, ["Ermutigung (Du, lass dich nicht verhärten)"](https://songlexikon.de/songs/ermutigung-du-lass-dich-nicht-verharten/)
+
+[^hosen]: Am 29. Mai 2026 veröffentlichten Die Toten Hosen auf dem Bonus-Coveralbum *Alles muss raus!* eine gemeinsam mit Wolf Biermann eingespielte Fassung von „Ermutigung“. Das Bonusalbum erschien zusammen mit *Trink aus, wir müssen gehen!*. Am Sonnabend, dem 18. Juli 2026 – dem Tag dieser Szene – spielte die Band im Kölner RheinEnergieSTADION im Rahmen der gleichnamigen Tour. Siehe [Die Toten Hosen](https://shop.dietotenhosen.de/index.php/n.157-Trink-aus_-wir-muessen-gehen/l.1959-Limitierte-_-nummerierte-Deluxe-Dreifach-Vinyl-Edition_-_Trink-aus_-wir-muessen-gehen_-_-Bonusalbum-_Alles-muss-raus/) und [RheinEnergieSTADION](https://www.rheinenergiestadion.de/die-toten-hosen-26/).
