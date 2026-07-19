@@ -2,7 +2,7 @@
 layout: post
 title: "Faulmann und das Lied unter Aufsicht"
 subtitle: "Eine Fernsehsache mit Dachsbert"
-date: 2026-07-22
+date: 2026-07-18
 tags: [faulmann, dachsbert, liora, mummrich, musik, fernsehen, kunstfreiheit, angst, demokratie]
 ---
 ![](/assets/img/posts/2026-06-26-laufsicht/faulmann-lied-unter-aufsicht-cover.jpg)
