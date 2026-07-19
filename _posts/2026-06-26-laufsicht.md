@@ -138,7 +138,7 @@ Faulmann fand es weiterhin möglich, den Schluss des neuen Liedes verantwortungs
 
 "Zwei Dinge können gleichzeitig wahr sein", sagte Liora.
 
-"Das ist der Grund, warum es einen größeren Fernseher braucht", sagte Dachsbert selbstbewust.
+"Das ist der Grund, warum es einen größeren Fernseher braucht", sagte Dachsbert selbstbewusst.
 
 Mummrich nahm die Platte vom Teller. "Leute aus einem westlichen Fernsehhaus haben den Wolf damals heimlich in seiner Wohnung gefilmt", sagte er. "Weil er öffentlich nirgends auftreten durfte."
 
