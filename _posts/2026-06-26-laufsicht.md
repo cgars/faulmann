@@ -86,7 +86,7 @@ Dachsbert wartete.
 
 "Das ist alles?"
 
-"Für manche Zeiten ist das ziemlich viel", sagte Liora die offebar auch hier bestens bescheid wusste. "Der Wolf hatt das Lied damals für einen Freund gedichtet. Der durfte nicht veröffentlichen und nicht ausreisen. Er wurde überwacht und in seinem Haus weitgehend von der Außenwelt abgeschnitten. Wolf selbst durfte zu dieser Zeit ebenfalls nicht mehr auftreten oder publizieren."
+"Für manche Zeiten ist das ziemlich viel", sagte Liora, die offenbar auch hier bestens Bescheid wusste. "Der Wolf hat das Lied damals für einen Freund gedichtet. Der durfte nicht veröffentlichen und nicht ausreisen. Er wurde überwacht und in seinem Haus weitgehend von der Außenwelt abgeschnitten. Wolf selbst durfte zu dieser Zeit ebenfalls nicht mehr auftreten oder publizieren."
 
 "Also auch ein Lied, das nicht gesungen werden durfte?", fragte Dachsbert.
 
