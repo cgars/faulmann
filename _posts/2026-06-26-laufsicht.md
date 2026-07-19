@@ -170,7 +170,7 @@ Neben der Fernbedienung lag ein Buch mit dem Titel „Überwachung für Anfänge
 
 Dachsbert behauptete, es habe kostenlos beigelegen.
 
-„Nun gut, liebe Leute“, sagte Dachsbert schlieslich. „Trinkt aus, wir müssen gehen. Ich habe den Eindruck, auch andernorts werden wir heute noch ermutigt.[^hosen] Es liegt etwas in der Luft.“
+„Nun gut, liebe Leute“, sagte Dachsbert schließlich. „Trinkt aus, wir müssen gehen. Ich habe den Eindruck, auch andernorts werden wir heute noch ermutigt.[^hosen] Es liegt etwas in der Luft.“
 
 ## Der Platz, an dem das Lied fehlte
 
