@@ -22,7 +22,7 @@ Daniels waren gefährlich. Das wusste man spätestens seit der Löwengrube. Scho
 
 In diesem Fall gab es keine Löwen. Es gab eine Senderleitung, einige Programmbestimmungen und eine kurzfristige Ausladung.
 
-Das Lied handelte von der Angst vor erstarkenden Faschismus. Es wollte Menschen ermutigen, sich zusammenzutun, Veranstaltungen zu organisieren, Strukturen zu untersuchen und sich nicht darauf zu verlassen, dass andere die Sache schon regeln würden.
+Das Lied handelte von der Angst vor erstarkendem Faschismus. Es wollte Menschen ermutigen, sich zusammenzutun, Veranstaltungen zu organisieren, Strukturen zu untersuchen und sich nicht darauf zu verlassen, dass andere die Sache schon regeln würden.
 
 An einigen Stellen wurde das Lied undeutlicher. Es sprach von zu erwartenden Auseinandersetzungen, ließ mögliche Gegenwehr im Halbdunkel stehen und grüßte am Ende Personen, die mit schweren Angriffen auf Angehörige der äußersten Rechten in Verbindung gebracht wurden.
 
@@ -42,7 +42,7 @@ Er steckte in einem Karton, der so groß war, dass Dachsbert hinter ihm vollstä
 
 "Der Fernseher und die Lieferung."
 
-Mummrich klopfte von innen gegen den Karton. Er war während des Gesprächs hineingekrochen, um die Anschlüsse zu untersuchen.
+Mummrich klopfte gegen den Karton und begann hineinzukriechen, um die Anschlüsse zu untersuchen.
 
 "Wenn etwas kostenlos ist", sagte er aus dem Verpackungsmaterial, "gehört meistens etwas anderes zum Lieferumfang."
 
@@ -64,9 +64,9 @@ Liora wusste direkt was gemeint war und hatte das Lied wohl bereits gehört. Üb
 
 "Manches davon", sagte Liora. 
 
-"Eine Ermutigung also"[^ermutigung], sagte Faulmann.
+"Eine Ermutigung also", sagte Faulmann.
 
-Mummrich ließ das Anschlusskabel fallen und ging zum Plattenschrank. Nach kurzem Suchen kam er mit einer abgenutzten Hülle zurück.
+Mummrich kahm wieder aus dem Karton und ging zum Plattenschrank. Nach kurzem Suchen kam er mit einer abgenutzten Hülle zurück.
 
 "Eine Ermutigung haben wir schon."
 
@@ -86,7 +86,7 @@ Dachsbert wartete.
 
 "Das ist alles?"
 
-"Für manche Zeiten ist das ziemlich viel", sagte Liora die offebar auch hier bestens bescheid wusste. "Der Wolf hatt das Lied damals für einen Freund gedichtet. Der durfte nicht veröffentlichen und nicht ausreisen. Er wurde überwacht und in seinem Haus weitgehend von der Außenwelt abgeschnitten. Wolf selbst durfte zu dieser Zeit ebenfalls nicht mehr auftreten oder publizieren.
+"Für manche Zeiten ist das ziemlich viel", sagte Liora die offebar auch hier bestens bescheid wusste. "Der Wolf hatt das Lied damals für einen Freund gedichtet. Der durfte nicht veröffentlichen und nicht ausreisen. Er wurde überwacht und in seinem Haus weitgehend von der Außenwelt abgeschnitten. Wolf selbst durfte zu dieser Zeit ebenfalls nicht mehr auftreten oder publizieren."
 
 "Also auch ein Lied, das nicht gesungen werden durfte?", fragte Dachsbert.
 
@@ -126,7 +126,7 @@ Die Platte drehte sich weiter.
 
 Dachsbert sah auf den Plattenteller.
 
-"Das hätte man nach dem neuen Lied besprechen können."
+"Das hätte man nach dem neuen Lied besprechen können." 
 
 "Das war vielleicht der ursprüngliche Plan", sagte Liora.
 
@@ -152,7 +152,7 @@ Mummrich nahm die Platte vom Teller."Leute aus einem westlichen Fernsehhaus habe
 
 „Ja“, sagte Mummrich. „Aber ein kleines Geschmäckle hat es schon.“
 
-„Das Lied wird ja nicht verschwiegen“, sagte Dachsbert.
+„Das Lied wird ja nicht verschwiegen“, sagte Liora.
 
 „Nein“, sagte Mummrich. „Nur umsortiert. Aus einem Lied wird ein Gegenstand.“
 
@@ -170,7 +170,7 @@ Neben der Fernbedienung lag ein Buch mit dem Titel „Überwachung für Anfänge
 
 Dachsbert behauptete, es habe kostenlos beigelegen.
 
-„Nun gut, liebe Leute“, sagte Dachsbert. „Trinkt aus, wir müssen gehen. Ich habe den Eindruck, auch andernorts werden wir heute noch ermutigt.[^hosen] Es liegt etwas in der Luft.“
+„Nun gut, liebe Leute“, sagte Dachsbert schlieslich. „Trinkt aus, wir müssen gehen. Ich habe den Eindruck, auch andernorts werden wir heute noch ermutigt.[^hosen] Es liegt etwas in der Luft.“
 
 ## Der Platz, an dem das Lied fehlte
 
@@ -189,4 +189,4 @@ DIESEN ABSCHNITT NACH DER SENDUNG ERGÄNZEN:
 
 [^ermutigung]: Biermann schrieb "Ermutigung" nach eigener Erinnerung im Frühjahr 1966 für seinen Freund Peter Huchel. Huchel lebte damals unter Überwachung und war mit einem Publikations- und Ausreiseverbot belegt. Das 1968 veröffentlichte Lied richtet sich gegen Verhärtung, Verbitterung, Angst und Resignation und wurde später zu einem gemeinschaftlich gesungenen Lied auf beiden Seiten der deutschen Grenze. Siehe Ute Elena Hamm, ["Ermutigung (Du, lass dich nicht verhärten)"](https://songlexikon.de/songs/ermutigung-du-lass-dich-nicht-verharten/)
 
-[^hosen]: Am 29. Mai 2026 veröffentlichten Die Toten Hosen auf dem Bonus-Coveralbum *Alles muss raus!* eine gemeinsam mit Wolf Biermann eingespielte Fassung von „Ermutigung“. Das Bonusalbum erschien zusammen mit *Trink aus, wir müssen gehen!*. Am Sonnabend, dem 18. Juli 2026 – dem Tag dieser Szene – spielte die Band im Kölner RheinEnergieSTADION im Rahmen der gleichnamigen Tour. Siehe [Die Toten Hosen](https://shop.dietotenhosen.de/index.php/n.157-Trink-aus_-wir-muessen-gehen/l.1959-Limitierte-_-nummerierte-Deluxe-Dreifach-Vinyl-Edition_-_Trink-aus_-wir-muessen-gehen_-_-Bonusalbum-_Alles-muss-raus/) und [RheinEnergieSTADION](https://www.rheinenergiestadion.de/die-toten-hosen-26/).
+[^hosen]: Am 29. Mai 2026 veröffentlichten Die Toten Hosen auf dem Bonus-Coveralbum *Alles muss raus!* eine gemeinsam mit Wolf Biermann eingespielte Fassung von „Ermutigung“. Das Bonusalbum erschien zusammen mit *Trink aus, wir müssen gehen!*. Am Sonnabend, dem 18. Juli 2026 – dem Tag dieser Szene – spielte die Band im Kölner RheinEnergieSTADION im Rahmen der gleichnamigen Tour. Siehe [Die Toten Hosen](https://shop.dietotenhosen.de/index.php/n.157-Trink-aus_-wir-muessen-gehen/l.1959-Limitierte-_-nummerierte-Deluxe-Dreifach-Vinyl-Edition_-_Trink-aus_-wir-muessen-gehen_-_-Bonusalbum-_Alles-muss-raus/) 
