@@ -66,7 +66,7 @@ Liora wusste direkt was gemeint war und hatte das Lied wohl bereits gehört. Üb
 
 "Eine Ermutigung also", sagte Faulmann.
 
-Mummrich kahm wieder aus dem Karton und ging zum Plattenschrank. Nach kurzem Suchen kam er mit einer abgenutzten Hülle zurück.
+Mummrich kam wieder aus dem Karton und ging zum Plattenschrank. Nach kurzem Suchen kam er mit einer abgenutzten Hülle zurück.
 
 "Eine Ermutigung haben wir schon."
 
