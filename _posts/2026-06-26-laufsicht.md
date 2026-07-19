@@ -62,7 +62,7 @@ Liora wusste direkt was gemeint war und hatte das Lied wohl bereits gehört. Üb
 
 "Das hat man früher gesellschaftliches Engagement genannt", sagte Dachsbert.
 
-"Manches davon", sagte Liora. 
+"Manches davon", sagte Liora.
 
 "Eine Ermutigung also", sagte Faulmann.
 
