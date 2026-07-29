@@ -6,6 +6,8 @@ date: 2026-07-29
 tags: [faulmann, bruchstedt, digitalisierung, technologie, management, powerpoint, markttag]
 ---
 
+![](assets/img/posts/der-markt-geht-in-betrieb-cover.jpg)
+
 Der Markt in Bruchstedt begann um sieben Uhr. Das jedenfalls stand auf einem Schild am Ortseingang, neben den Wappen der beiden Partnergemeinden und einer inzwischen etwas blassen Auszeichnung für zukunftsfähige Dorfentwicklung.
 
 Faulmann, Liora, Mummrich und Dachsbert waren kurz nach halb sieben da. Sie hatten den frühen Bus genommen, der in Bruchstedt nur hielt, wenn jemand dem Fahrer rechtzeitig Bescheid sagte. Das war nicht ganz dasselbe wie eine Bedarfshaltestelle, funktionierte aber ähnlich. Von dort gingen sie am alten Bahnhofsgebäude vorbei zum Marktplatz.
