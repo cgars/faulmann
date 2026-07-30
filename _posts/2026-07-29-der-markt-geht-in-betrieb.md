@@ -97,11 +97,11 @@ Der Mann sah auf seine Tabelle. "Biologisch vermutlich nicht."
 
 "Beim Standplatz schon."
 
-Der Mann machte eine Notiz. Er schrieb mit großer Sorgfalt und einer auffallend kleinen Handschrift. "Konrad Ziffer", sagte er dann und reichte Dachsbert die Hand. "Beauftragter für Lagebilder und Bestandsübersichten."
+Der Mann machte eine Notiz. Er schrieb mit großer Sorgfalt und einer auffallend kleinen Handschrift. "Janus Ziffer", sagte er dann und reichte Dachsbert die Hand. "Beauftragter für Lagebilder und Bestandsübersichten."
 
 Dachsbert stellte sich und die anderen vor. "Wie ist die Lage?", fragte er.
 
-Konrad sah auf das Klemmbrett. "Um sechs Uhr zweiundvierzig befanden sich zwölf Fahrzeuge im Zufahrtsbereich. Das sind vierundvierzig Prozent mehr als im Vergleichsmonat."
+Janus sah auf das Klemmbrett. "Um sechs Uhr zweiundvierzig befanden sich zwölf Fahrzeuge im Zufahrtsbereich. Das sind vierundvierzig Prozent mehr als im Vergleichsmonat."
 
 "Wie viele sind hineingefahren?"
 
@@ -109,13 +109,13 @@ Konrad sah auf das Klemmbrett. "Um sechs Uhr zweiundvierzig befanden sich zwölf
 
 "Und wie viele müssten hinein?"
 
-Konrad blätterte eine Seite um. "Das ist eine andere Kennzahl."
+Janus blätterte eine Seite um. "Das ist eine andere Kennzahl."
 
 Am Pavillon hatte sich der drehende Kreis auf dem Bildschirm inzwischen nicht verändert. Der Mann mit dem Gerät ging einige Schritte in Richtung Rathaus. Dort blieb er stehen, sah auf das Display und ging noch drei Schritte weiter.
 
 "Wir haben unter den Kastanien kaum Empfang", sagte der Marktmeister.
 
-"Das war bekannt", sagte Konrad.
+"Das war bekannt", sagte Janus.
 
 "Warum steht das neue System dann unter den Kastanien?"
 
@@ -123,17 +123,17 @@ Am Pavillon hatte sich der drehende Kreis auf dem Bildschirm inzwischen nicht ve
 
 Dachsbert nickte langsam. Die Antwort war nicht falsch.
 
-Eine Frau kam vom Rathaus herüber. Sie ging schnell, ohne den Eindruck zu erwecken, in Eile zu sein. Unter dem Arm trug sie eine dünne Mappe. An einem Band um ihren Hals hing ein Ausweis, auf dem in großer Schrift ihr Name stand: **Beate Rahmen**.
+Eine Frau kam vom Rathaus herüber. Sie ging schnell, ohne den Eindruck zu erwecken, in Eile zu sein. Unter dem Arm trug sie eine dünne Mappe. An einem Band um ihren Hals hing ein Ausweis, auf dem in großer Schrift ihr Name stand: **Ariadne Zielke**.
 
 "Wir sollten jetzt nicht in Einzelprobleme springen", sagte sie, noch bevor sie den Pavillon erreicht hatte.
 
 Der Marktmeister sah zum Stecker des Kühlwagens, dann zu den wartenden Fahrzeugen. "Wir möchten gern in den Markt springen", sagte er.
 
-Beate lächelte kurz. Es war ein geduldiges Lächeln, das vermutlich für solche Bemerkungen vorgesehen war. "Natürlich. Aber bevor wir vorschnell in eine Lösung gehen, müssen wir das Problem sauber einordnen."
+Ariadne lächelte kurz. Es war ein geduldiges Lächeln, das vermutlich für solche Bemerkungen vorgesehen war. "Natürlich. Aber bevor wir vorschnell in eine Lösung gehen, müssen wir das Problem sauber einordnen."
 
 "Die Leute kommen nicht durchs Tor", sagte Liora.
 
-Beate sah sie an. "Genau. Das ist das sichtbare Symptom."
+Ariadne sah sie an. "Genau. Das ist das sichtbare Symptom."
 
 "Und das unsichtbare?"
 
@@ -141,9 +141,9 @@ Beate sah sie an. "Genau. Das ist das sichtbare Symptom."
 
 "Das Tor ist offen", sagte Mummrich.
 
-Beate wandte sich Konrad zu. "Wie weit liegen wir hinter dem Plan?"
+Ariadne wandte sich Janus zu. "Wie weit liegen wir hinter dem Plan?"
 
-Konrad prüfte seine Tabelle. "Das hängt davon ab, ob wir die Hühner als einzelne Marktteilnehmende betrachten."
+Janus prüfte seine Tabelle. "Das hängt davon ab, ob wir die Hühner als einzelne Marktteilnehmende betrachten."
 
 Der Mann mit dem Gerät hob es noch etwas höher. Der Bildschirm unter dem Pavillon wechselte von dem drehenden Kreis zu einer Meldung. Einer der Männer in den Westen las sie vor.
 
@@ -171,7 +171,7 @@ Um Viertel vor sieben reichte die Schlange bis zur Umgehungsstraße. Um zehn vor
 
 Der Marktmeister schloss kurz die Augen.
 
-Konrad trat zu ihnen. "Wir verzeichnen aktuell eine rechnerische Auslastung des Marktes von einhundertdrei Prozent."
+Janus trat zu ihnen. "Wir verzeichnen aktuell eine rechnerische Auslastung des Marktes von einhundertdrei Prozent."
 
 "Er ist fast leer", sagte die Fischhändlerin.
 
@@ -179,7 +179,7 @@ Konrad trat zu ihnen. "Wir verzeichnen aktuell eine rechnerische Auslastung des 
 
 Auf der Straße hupte es wieder. Weiter hinten antwortete jemand. Für einige Augenblicke entstand eine kleine Folge von Huptönen, die offenbar keine abgestimmte Bedeutung hatte, aber die Stimmung recht genau wiedergab.
 
-Beate stellte ihre Mappe auf den Tisch und öffnete sie. Darin lagen Ausdrucke einer Präsentation. Auf der ersten Seite waren vier blaue Kästen zu sehen, die durch Pfeile miteinander verbunden waren.
+Ariadne stellte ihre Mappe auf den Tisch und öffnete sie. Darin lagen Ausdrucke einer Präsentation. Auf der ersten Seite waren vier blaue Kästen zu sehen, die durch Pfeile miteinander verbunden waren.
 
 "Das ist unser Zielbild", sagte sie.
 
@@ -189,7 +189,7 @@ Der Marktmeister betrachtete die Kästen. "Wo ist das Tor?"
 
 "Und wo bin ich?"
 
-Beate deutete auf einen schmalen grauen Streifen am unteren Rand. "Operative Unterstützung."
+Ariadne deutete auf einen schmalen grauen Streifen am unteren Rand. "Operative Unterstützung."
 
 "Ah", sagte der Marktmeister. Er ging zur Fischhändlerin und half ihr, das Kabel über den Platz zu ziehen.
 
@@ -207,25 +207,25 @@ Faulmann, Liora, Mummrich und Dachsbert setzten sich auf den Rand des Brunnens.
 
 Gegen Viertel nach sieben erschien der Bürgermeister. Sein Wagen hatte sich auf der Umgehungsstraße in die Reihe gestellt, weil er aus der Gegenrichtung nicht erkannt hatte, dass es sich um den Marktverkehr handelte. Nun kam er zu Fuß und wollte wissen, wer die Zufahrt blockiert habe.
 
-Beate nahm ihn ein Stück beiseite. "Wir sehen hier sehr deutlich die Grenzen der bisherigen technischen Grundlage", sagte sie.
+Ariadne nahm ihn ein Stück beiseite. "Wir sehen hier sehr deutlich die Grenzen der bisherigen technischen Grundlage", sagte sie.
 
 "Ich dachte, die ist neu."
 
 "Ja. Aber offenbar nicht zukunftsfähig."
 
-Konrad kam mit seinem Klemmbrett hinzu. "Die durchschnittliche Einlasszeit ist gegenüber dem bisherigen Verfahren um zweihundertvierundachtzig Prozent gestiegen."
+Janus kam mit seinem Klemmbrett hinzu. "Die durchschnittliche Einlasszeit ist gegenüber dem bisherigen Verfahren um zweihundertvierundachtzig Prozent gestiegen."
 
 "Das klingt nicht gut", sagte der Bürgermeister.
 
-"Es ist vor allem sehr deutlich", sagte Konrad.
+"Es ist vor allem sehr deutlich", sagte Janus.
 
 Der Bürgermeister blickte zur Umgehungsstraße. Ein Lastwagen versuchte dort gerade, an der Schlange vorbeizukommen. Der Hühnerhändler war ausgestiegen und erklärte einem Busfahrer, dass er die Käfige nicht weiter an den Straßenrand stellen könne, weil die Hühner auf Abgase empfindlich reagierten. Ob das stimmte, ließ sich in diesem Augenblick nicht klären.
 
 "War das nicht getestet?", fragte der Bürgermeister.
 
-"Ausführlich", sagte Beate.
+"Ausführlich", sagte Ariadne.
 
-"Mit dreihundertsiebzehn vollständig durchgespielten Standzuweisungen", ergänzte Konrad.
+"Mit dreihundertsiebzehn vollständig durchgespielten Standzuweisungen", ergänzte Janus.
 
 Der Marktmeister kam zurück. "Mit Händlern?", fragte er.
 
@@ -235,29 +235,29 @@ Der Marktmeister sah zum Tor. Dann sah er zu den Fahrzeugen. Einer der Fahrer ve
 
 "Vielleicht", sagte der Marktmeister, "hätte man den Markt einmal damit machen sollen."
 
-Beate zog die Stirn leicht zusammen. "Ein Produktivtest wäre vor dem Produktivstart begrifflich schwierig gewesen."
+Ariadne zog die Stirn leicht zusammen. "Ein Produktivtest wäre vor dem Produktivstart begrifflich schwierig gewesen."
 
 "Wir hätten alle kommen können", sagte die Fischhändlerin. "Wir kommen jeden Monat."
 
-Der Bürgermeister blickte von Beate zu Konrad und schließlich auf die leeren Stände. Aus Richtung der Umgehungsstraße war nun ein Traktor zu hören.
+Der Bürgermeister blickte von Ariadne zu Janus und schließlich auf die leeren Stände. Aus Richtung der Umgehungsstraße war nun ein Traktor zu hören.
 
 "Wir brauchen eine andere Technik", sagte er.
 
-Beate nickte. "Das wäre auch meine Einordnung."
+Ariadne nickte. "Das wäre auch meine Einordnung."
 
 "Was brauchen wir dafür?"
 
-Beate öffnete ihre Mappe wieder. "Zunächst ein gemeinsames Zielbild."
+Ariadne öffnete ihre Mappe wieder. "Zunächst ein gemeinsames Zielbild."
 
 Der Marktmeister ging zum Seitentor. Es war mit einer Kette verschlossen. Aus seiner Tasche holte er einen Schlüsselbund, probierte zwei Schlüssel aus und öffnete beim dritten die Kette.
 
 "Fisch zuerst!", rief er. "Danach Gemüse. Die Hühner bleiben noch fünf Minuten stehen."
 
-"Sechs", sagte Konrad. "Der Gemüsehändler benötigt im Mittel sechs Minuten bis zu seinem Stand."
+"Sechs", sagte Janus. "Der Gemüsehändler benötigt im Mittel sechs Minuten bis zu seinem Stand."
 
 Der Marktmeister winkte den ersten Wagen hinein.
 
-Niemand im Rathaus bemerkte in diesem Augenblick, dass der Markt damit langsam begann. Beate und der Bürgermeister waren bereits auf dem Weg zu einer ersten Lagebesprechung über seine grundlegende Neuausrichtung.
+Niemand im Rathaus bemerkte in diesem Augenblick, dass der Markt damit langsam begann. Ariadne und der Bürgermeister waren bereits auf dem Weg zu einer ersten Lagebesprechung über seine grundlegende Neuausrichtung.
 
 Gegen acht Uhr waren die meisten Fahrzeuge durch das Seitentor auf den Platz gelangt. Dort standen sie allerdings in einer Reihenfolge, die das digitale System nicht kannte. Zwei Händler hatten ihre Plätze getauscht. Die Fischhändlerin bezog Strom über ein Kabel aus dem Keller des Rathauses. Der Gemüsehändler stand neben dem Brunnen, obwohl ihm das System einen Platz vor der Apotheke zugewiesen hatte.
 
@@ -271,23 +271,23 @@ Am folgenden Dienstag fand die erste ausführliche Besprechung statt. Dienstags 
 
 Im kleinen Sitzungssaal des Rathauses standen zwölf Stühle um einen Tisch, an den vernünftigerweise acht gepasst hätten. An der Wand hing eine Leinwand. Sie war größer als das Fenster.
 
-Beate schloss ihren Rechner an. Auf der Leinwand erschien zunächst ein Bild des Bruchstedter Marktplatzes. Es war im Sommer aufgenommen worden. Alle Stände waren aufgebaut, die Sonne schien, und niemand wartete vor einem Tor. Darüber stand:
+Ariadne schloss ihren Rechner an. Auf der Leinwand erschien zunächst ein Bild des Bruchstedter Marktplatzes. Es war im Sommer aufgenommen worden. Alle Stände waren aufgebaut, die Sonne schien, und niemand wartete vor einem Tor. Darüber stand:
 
 **TRANSFORMATION DES KOMMUNALEN MARKTWESENS**
 
 "Das Bild ist vom alten Markt", sagte der Marktmeister.
 
-"Es dient nur der Einordnung", sagte Beate.
+"Es dient nur der Einordnung", sagte Ariadne.
 
-Faulmann, Liora, Mummrich und Dachsbert waren ebenfalls eingeladen worden. Beate führte sie in der Teilnehmerliste als Vertreter der Kundenseite. Mummrich hatte eingewandt, dass sie bislang nichts gekauft hätten und daher streng genommen nur die Warteseite vertreten könnten. Dachsbert hatte darauf hingewiesen, dass eine Sitzung über einen Markt vielleicht klären könne, wann dieser eigentlich beginne. Das hatte Mummrich nicht überzeugt. Er war trotzdem mitgegangen.
+Faulmann, Liora, Mummrich und Dachsbert waren ebenfalls eingeladen worden. Ariadne führte sie in der Teilnehmerliste als Vertreter der Kundenseite. Mummrich hatte eingewandt, dass sie bislang nichts gekauft hätten und daher streng genommen nur die Warteseite vertreten könnten. Dachsbert hatte darauf hingewiesen, dass eine Sitzung über einen Markt vielleicht klären könne, wann dieser eigentlich beginne. Das hatte Mummrich nicht überzeugt. Er war trotzdem mitgegangen.
 
-Auch Konrad war da. Er hatte seine Zahlen auf drei Blätter verteilt und jedes Blatt mit Uhrzeit und Versionsstand versehen.
+Auch Janus war da. Er hatte seine Zahlen auf drei Blätter verteilt und jedes Blatt mit Uhrzeit und Versionsstand versehen.
 
-Beate wechselte zur nächsten Folie. Links befand sich ein roter Kasten mit der Aufschrift **IST**. Rechts befand sich ein grüner Kasten mit der Aufschrift **ZIEL**. Dazwischen führte ein breiter Pfeil nach rechts.
+Ariadne wechselte zur nächsten Folie. Links befand sich ein roter Kasten mit der Aufschrift **IST**. Rechts befand sich ein grüner Kasten mit der Aufschrift **ZIEL**. Dazwischen führte ein breiter Pfeil nach rechts.
 
 "Die Richtung stimmt", sagte der Bürgermeister.
 
-Beate nickte.
+Ariadne nickte.
 
 Im roten Kasten standen mehrere Begriffe:
 
@@ -298,7 +298,7 @@ Im roten Kasten standen mehrere Begriffe:
 
 Der Marktmeister hob die Hand. "Wo steht, dass die Händler nicht durchs Tor kamen?"
 
-Beate sah zur Folie. "Das ist in der begrenzten Skalierbarkeit enthalten."
+Ariadne sah zur Folie. "Das ist in der begrenzten Skalierbarkeit enthalten."
 
 "Und der fehlende Strom?"
 
@@ -306,7 +306,7 @@ Beate sah zur Folie. "Das ist in der begrenzten Skalierbarkeit enthalten."
 
 "Zwischen was und was?"
 
-Beate betrachtete den Punkt einen Augenblick länger. "Zwischen Anmeldung und Leistungserbringung."
+Ariadne betrachtete den Punkt einen Augenblick länger. "Zwischen Anmeldung und Leistungserbringung."
 
 Im grünen Kasten stand:
 
@@ -314,15 +314,15 @@ Im grünen Kasten stand:
 
 Darunter waren mehrere kleinere Kästen angeordnet. Sie trugen Namen wie **Vendor Onboarding**, **Stand Allocation**, **Access Management** und **Service Enablement**. Der Marktmeister kam nicht darin vor. Das Tor ebenfalls nicht.
 
-"Das Zielbild wurde bereits im vergangenen Jahr abgestimmt", sagte Beate.
+"Das Zielbild wurde bereits im vergangenen Jahr abgestimmt", sagte Ariadne.
 
 "Mit wem?", fragte Liora.
 
-Beate wechselte auf eine Folie mit vielen Namen in sehr kleiner Schrift. "Mit allen relevanten Beteiligten."
+Ariadne wechselte auf eine Folie mit vielen Namen in sehr kleiner Schrift. "Mit allen relevanten Beteiligten."
 
 Der Marktmeister beugte sich vor. "Ich stehe da nicht."
 
-Konrad schlug in seinen Unterlagen nach. "Du warst zu den ersten drei Abstimmungsterminen eingeladen."
+Janus schlug in seinen Unterlagen nach. "Du warst zu den ersten drei Abstimmungsterminen eingeladen."
 
 "Die waren mittwochs."
 
@@ -330,7 +330,7 @@ Konrad schlug in seinen Unterlagen nach. "Du warst zu den ersten drei Abstimmung
 
 "Mittwochs ist Markt."
 
-Konrad blätterte eine Seite zurück. "Das erklärt vermutlich auch die geringe operative Beteiligung."
+Janus blätterte eine Seite zurück. "Das erklärt vermutlich auch die geringe operative Beteiligung."
 
 "Ich war operativ beteiligt."
 
@@ -338,15 +338,15 @@ Konrad blätterte eine Seite zurück. "Das erklärt vermutlich auch die geringe 
 
 "Am Markt."
 
-Beate wartete einen Augenblick. "Für die nächste Phase sollten wir die Verfügbarkeit der Fachseite verbindlicher einplanen."
+Ariadne wartete einen Augenblick. "Für die nächste Phase sollten wir die Verfügbarkeit der Fachseite verbindlicher einplanen."
 
 Der Bürgermeister hatte inzwischen auf die Uhr gesehen. "Die Frage ist doch", sagte er, "wie wir das jetzt schnell lösen."
 
-Beate wechselte zu einer Folie mit drei Säulen. Über jeder Säule stand der Name einer technischen Plattform. Die erste war diejenige, die am vergangenen Mittwoch eingeführt worden war. Sie erhielt in fast allen Zeilen gelbe oder rote Punkte.
+Ariadne wechselte zu einer Folie mit drei Säulen. Über jeder Säule stand der Name einer technischen Plattform. Die erste war diejenige, die am vergangenen Mittwoch eingeführt worden war. Sie erhielt in fast allen Zeilen gelbe oder rote Punkte.
 
 "Die war am vergangenen Mittwoch im Einsatz", sagte der Marktmeister.
 
-"Das ändert nichts an den strukturellen Grenzen", sagte Beate.
+"Das ändert nichts an den strukturellen Grenzen", sagte Ariadne.
 
 "Am Dienstag hatte sie die noch nicht?"
 
@@ -354,21 +354,21 @@ Beate wechselte zu einer Folie mit drei Säulen. Über jeder Säule stand der Na
 
 Dachsbert legte die Pfoten auf den Tisch. "Das ist bei Grenzen gelegentlich der Augenblick, in dem man sie bemerkt."
 
-Beate klickte weiter. Die zweite Plattform besaß mehr grüne Punkte. Die dritte bestand fast nur aus grünen Punkten und war deutlich teurer.
+Ariadne klickte weiter. Die zweite Plattform besaß mehr grüne Punkte. Die dritte bestand fast nur aus grünen Punkten und war deutlich teurer.
 
-"Nach einer ersten Marktsondierung", sagte Beate, "würde ich einen Wechsel auf eine modernere technische Grundlage empfehlen."
+"Nach einer ersten Marktsondierung", sagte Ariadne, "würde ich einen Wechsel auf eine modernere technische Grundlage empfehlen."
 
 "Wie lange haben Sie sondiert?", fragte Faulmann.
 
 "Seit vergangenem Mittwoch um sieben Uhr vierundzwanzig."
 
-Konrad sah auf sein Blatt. "Sieben Uhr zweiundzwanzig."
+Janus sah auf sein Blatt. "Sieben Uhr zweiundzwanzig."
 
-"Danke, Konrad."
+"Danke, Janus."
 
 "Und woher wissen Sie, dass die andere Technik den Markt besser kann?", fragte Liora.
 
-Beate zog die Schultern kaum merklich zurück. "Sie unterstützt moderne Betriebsmodelle."
+Ariadne zog die Schultern kaum merklich zurück. "Sie unterstützt moderne Betriebsmodelle."
 
 "Unser Betriebsmodell ist, dass um sieben alle drin sind", sagte der Marktmeister.
 
@@ -382,19 +382,19 @@ Als sie das Rathaus verließen, war der Platz leer. Die weißen Linien der Stän
 
 Der Marktmeister blieb auf der Treppe stehen. "Morgen früh um halb fünf bin ich wieder hier", sagte er.
 
-Beate nickte. "Dann sollten wir die heutige Zielrichtung bis dahin zunächst konsolidieren."
+Ariadne nickte. "Dann sollten wir die heutige Zielrichtung bis dahin zunächst konsolidieren."
 
 ---
 
-In derselben Woche beschloss der Gemeinderat grundsätzlich den Technologiewechsel. Die Entscheidung fiel einstimmig. Der Bürgermeister sprach von notwendiger Entschlossenheit. Beate sprach von einer grundlegenden Neuausrichtung. Konrad hatte errechnet, dass jede weitere Minute durchschnittlicher Einlassverzögerung zu einem theoretischen Verlust von 0,73 Kundenkontakten pro Stand führte.
+In derselben Woche beschloss der Gemeinderat grundsätzlich den Technologiewechsel. Die Entscheidung fiel einstimmig. Der Bürgermeister sprach von notwendiger Entschlossenheit. Ariadne sprach von einer grundlegenden Neuausrichtung. Janus hatte errechnet, dass jede weitere Minute durchschnittlicher Einlassverzögerung zu einem theoretischen Verlust von 0,73 Kundenkontakten pro Stand führte.
 
 Der Marktmeister fragte, wie man einen theoretischen Kundenkontakt erkenne.
 
-Konrad sagte, dass dies für die Berechnung nicht erforderlich sei.
+Janus sagte, dass dies für die Berechnung nicht erforderlich sei.
 
-Die vorgesehene neue Plattform war teurer als die alte. Das erwies sich als hilfreich. Wegen der Kosten musste regelmäßig über sie gesprochen werden. Der Bürgermeister ließ sich jeden Dienstag über den Fortschritt informieren. Zwei Mitglieder des Gemeinderates traten dem Lenkungskreis bei. Beate erhielt ein Budget. Konrad erhielt Zugriff auf eine weitere Datenquelle.
+Die vorgesehene neue Plattform war teurer als die alte. Das erwies sich als hilfreich. Wegen der Kosten musste regelmäßig über sie gesprochen werden. Der Bürgermeister ließ sich jeden Dienstag über den Fortschritt informieren. Zwei Mitglieder des Gemeinderates traten dem Lenkungskreis bei. Ariadne erhielt ein Budget. Janus erhielt Zugriff auf eine weitere Datenquelle.
 
-In den folgenden Wochen wurde das alte System offiziell weiterbetrieben. Praktisch lag der Ordner des Marktmeisters wieder auf dem Tisch am Tor. Beate verglich Angebote. Der Bürgermeister fragte dienstags nach dem Fortschritt. Mittwochs kamen die Händler durch das Seitentor. Beides galt als Übergangslösung.
+In den folgenden Wochen wurde das alte System offiziell weiterbetrieben. Praktisch lag der Ordner des Marktmeisters wieder auf dem Tisch am Tor. Ariadne verglich Angebote. Der Bürgermeister fragte dienstags nach dem Fortschritt. Mittwochs kamen die Händler durch das Seitentor. Beides galt als Übergangslösung.
 
 Knapp zwei Monate nach dem gescheiterten Start wurde die neue Plattform über einen bestehenden Rahmenvertrag beauftragt. Zum ersten Mal kam nun auch der technische Dienstleister nach Bruchstedt. Bisher hatte man ihm Formulare geschickt. Am letzten Mittwoch des Monats standen zwei seiner Mitarbeiter morgens um halb sechs unter den Kastanien und sahen zu, wie der Marktmeister die ersten Fahrzeuge einwies.
 
@@ -428,7 +428,7 @@ Der Marktmeister schickte die Käsefrau auf einen anderen Platz.
 
 Der Mitarbeiter sah zu seinem Kollegen.
 
-Am Nachmittag wurde eine Funktion für kurzfristige Platzänderungen in die Planung aufgenommen. Beate bezeichnete dies in der folgenden Sitzung als Ergebnis einer vertieften Anforderungsanalyse.
+Am Nachmittag wurde eine Funktion für kurzfristige Platzänderungen in die Planung aufgenommen. Ariadne bezeichnete dies in der folgenden Sitzung als Ergebnis einer vertieften Anforderungsanalyse.
 
 In den nächsten fünf Wochen richtete der Dienstleister eine erste Fassung ein. Sie entschied zunächst nichts. An sechs aufeinanderfolgenden Markttagen lief sie neben dem wirklichen Markt her und verglich ihre Standzuweisungen mit dem, was der Marktmeister tatsächlich tat. Wenn beides voneinander abwich, galt bis auf Weiteres der Marktmeister. In den Unterlagen hieß das Schattenbetrieb.
 
@@ -440,33 +440,33 @@ Beim dritten Mal brachte jemand ein langes Kabel mit. Beim vierten Mal konnte da
 
 Die Frau vom Seitentor kam nun ebenfalls zu den Probeläufen. Sie hieß Frau Wessel und öffnete das Tor seit vierundzwanzig Jahren, wenn die eigentliche Einfahrt versperrt war, ein Händler zu spät kam oder ein Fahrzeug nicht um die Kastanie herumkam. Am Morgen des gescheiterten Starts hatte sie ihre Schwester zu einem Arzttermin begleitet. Ihr Fehlen war in keiner Risikoübersicht aufgefallen, weil das Seitentor im vorgesehenen Ablauf nicht vorkam.
 
-"Nach welchen Regeln entscheiden Sie das?", fragte Beate.
+"Nach welchen Regeln entscheiden Sie das?", fragte Ariadne.
 
 Frau Wessel dachte nach. "Man sieht es."
 
-Beate wartete. "Was genau?"
+Ariadne wartete. "Was genau?"
 
 "Ob es anders nicht geht."
 
-Beate schrieb: **Situative Entscheidungslogik derzeit nicht dokumentiert.**
+Ariadne schrieb: **Situative Entscheidungslogik derzeit nicht dokumentiert.**
 
 In diesen Wochen wurde vieles verändert. Niemand setzte sich hin und beschrieb vollständig, was der Markt können musste. Stattdessen kam morgens ein Fahrzeug, für das eine Annahme nicht stimmte. Jemand sah es. Jemand rief etwas über den Platz. Einer der Mitarbeiter änderte am Nachmittag eine Eingabemaske. Beim nächsten Versuch ging an einer anderen Stelle etwas schief.
 
 Das System lernte den Markt nicht kennen. Es wurde ihm nur oft genug ausgesetzt.
 
-Auch Konrad saß nun am Tor. Er notierte nicht mehr nur, wann ein Vorgang im System abgeschlossen war. Der Marktmeister hatte ihn darauf hingewiesen, dass ein Händler damit noch lange nicht an seinem Stand sein müsse.
+Auch Janus saß nun am Tor. Er notierte nicht mehr nur, wann ein Vorgang im System abgeschlossen war. Der Marktmeister hatte ihn darauf hingewiesen, dass ein Händler damit noch lange nicht an seinem Stand sein müsse.
 
-Also führte Konrad eine zweite Zeit ein: **betriebsbereit am Stand**.
+Also führte Janus eine zweite Zeit ein: **betriebsbereit am Stand**.
 
 Dabei stellte er fest, dass die digitale Freigabe nur einen kleinen Teil des Einlasses ausmachte. Viel Zeit ging beim Rangieren verloren, beim Öffnen von Pollern, beim Verlegen von Kabeln und bei kurzen Gesprächen, in denen geklärt wurde, was anders war als angekündigt.
 
-Konrad erfasste alles. Er maß die Zeit zwischen Tor und Stand. Er unterschied Anhänger nach Länge, Fahrzeuge nach Wendekreis und Händler danach, ob sie beim ersten Zuruf reagierten. Für Letzteres schuf er drei Kategorien, die der Marktmeister für unnötig hielt, bis sich zeigte, dass der Hühnerhändler tatsächlich fast immer zweimal gerufen werden musste.
+Janus erfasste alles. Er maß die Zeit zwischen Tor und Stand. Er unterschied Anhänger nach Länge, Fahrzeuge nach Wendekreis und Händler danach, ob sie beim ersten Zuruf reagierten. Für Letzteres schuf er drei Kategorien, die der Marktmeister für unnötig hielt, bis sich zeigte, dass der Hühnerhändler tatsächlich fast immer zweimal gerufen werden musste.
 
-"Die Datenlage ist ziemlich eindeutig", sagte Konrad.
+"Die Datenlage ist ziemlich eindeutig", sagte Janus.
 
 "Er hört schlecht", sagte Frau Wessel.
 
-Konrad ergänzte eine Spalte.
+Janus ergänzte eine Spalte.
 
 Seine Zahlen halfen. Sie zeigten, dass es wenig brachte, die Prüfung am Tor um zwölf Sekunden zu beschleunigen, solange drei Fahrzeuge gleichzeitig rückwärts auf den Platz mussten. Danach wurden die Ankunftszeiten etwas anders verteilt.
 
@@ -478,11 +478,11 @@ Der Marktmeister nannte es: "Der Fisch kommt jetzt zehn Minuten früher."
 
 Beides meinte ungefähr dasselbe. Nur eines davon konnte auf eine Folie.
 
-Beate ordnete unterdessen jede Änderung einem Handlungsfeld zu. Dadurch gingen die Änderungen nicht verloren. Sie gab ihnen Namen, setzte Termine dahinter und fragte in den Sitzungen nach, ob sie erledigt waren.
+Ariadne ordnete unterdessen jede Änderung einem Handlungsfeld zu. Dadurch gingen die Änderungen nicht verloren. Sie gab ihnen Namen, setzte Termine dahinter und fragte in den Sitzungen nach, ob sie erledigt waren.
 
 Auch das half.
 
-Es half allerdings auf eine andere Weise, als Beate glaubte. Sie meinte, das Zielbild werde nun schrittweise umgesetzt. Tatsächlich hielten ihre Listen nur lange genug Aufmerksamkeit auf dem Markt, damit die Wirklichkeit regelmäßig widersprechen konnte.
+Es half allerdings auf eine andere Weise, als Ariadne glaubte. Sie meinte, das Zielbild werde nun schrittweise umgesetzt. Tatsächlich hielten ihre Listen nur lange genug Aufmerksamkeit auf dem Markt, damit die Wirklichkeit regelmäßig widersprechen konnte.
 
 Der Rückstau war kleiner geworden. Dann wurde er wieder größer. Die Fischhändlerin bekam Strom. Beim nächsten Versuch fiel die Sicherung aus. Die Käsehändlerin gelangte auf ihren Stand, erhielt aber zwei Rechnungen. Frau Wessel öffnete das Seitentor. Ein Mitarbeiter baute dafür später einen Knopf in das System ein.
 
@@ -494,13 +494,13 @@ Frau Wessel nannte ihn "Seitentor".
 
 Knapp fünf Monate nach dem ersten gescheiterten Markttag fand am Dienstagabend vor der Einführung der neuen Plattform die abschließende Sitzung statt. Auf der Leinwand war das Zielbild zu sehen. Fast alle Kästen waren grün.
 
-Beate stand neben der Leinwand. Konrad saß am Tisch und prüfte ein letztes Mal die Zahlen.
+Ariadne stand neben der Leinwand. Janus saß am Tisch und prüfte ein letztes Mal die Zahlen.
 
-"Wir haben damit eine weitgehend durchgängige digitale Standzuweisung erreicht", sagte Beate. "Die neue Plattform ermöglicht erstmals ein skalierbares und personenunabhängiges Betriebsmodell."
+"Wir haben damit eine weitgehend durchgängige digitale Standzuweisung erreicht", sagte Ariadne. "Die neue Plattform ermöglicht erstmals ein skalierbares und personenunabhängiges Betriebsmodell."
 
 Der Marktmeister hob den Kopf. "Warum sitze ich dann seit fast fünf Monaten jeden Dienstag in diesen Sitzungen und stehe jeden Mittwoch um halb fünf am Tor?"
 
-Beate zeigte auf einen Kasten am unteren Rand. "Die operative Begleitung war für die Übergangsphase notwendig."
+Ariadne zeigte auf einen Kasten am unteren Rand. "Die operative Begleitung war für die Übergangsphase notwendig."
 
 "Und Frau Wessel?"
 
@@ -508,21 +508,21 @@ Beate zeigte auf einen Kasten am unteren Rand. "Die operative Begleitung war fü
 
 "Sie öffnet morgen das Seitentor."
 
-Beate sah zur Folie. "Im Zielbild sollte der Ablauf grundsätzlich nicht von einzelnen Personen abhängen."
+Ariadne sah zur Folie. "Im Zielbild sollte der Ablauf grundsätzlich nicht von einzelnen Personen abhängen."
 
 Der Bürgermeister nickte. "Der Marktmeister ist hier auch noch sehr prominent dargestellt."
 
-Beate betrachtete den Kasten. "Das ist ein berechtigter Hinweis." Sie zog ihn mit der Maus etwas weiter nach unten. Dann färbte sie ihn grau.
+Ariadne betrachtete den Kasten. "Das ist ein berechtigter Hinweis." Sie zog ihn mit der Maus etwas weiter nach unten. Dann färbte sie ihn grau.
 
 "Sehr gut", sagte der Bürgermeister. "Dann hätten wir das geklärt."
 
 Dachsbert betrachtete die Leinwand. "Was genau muss der Markt morgen eigentlich leisten?", fragte er.
 
-Beate klickte auf die Überschrift. "Ein skalierbares End-to-End-Marktplatzmanagement."
+Ariadne klickte auf die Überschrift. "Ein skalierbares End-to-End-Marktplatzmanagement."
 
 "Und woran merken wir, ob er das leistet?"
 
-Konrad antwortete. "Wir haben zweiundvierzig technische und fachliche Abnahmekriterien."
+Janus antwortete. "Wir haben zweiundvierzig technische und fachliche Abnahmekriterien."
 
 "Ich meinte morgen früh."
 
@@ -530,7 +530,7 @@ Der Marktmeister sah zum Fenster hinaus. Auf dem Platz waren die weißen Linien 
 
 Im Raum wurde es kurz still.
 
-Beate setzte auf der Folie ein Häkchen neben **Go-live readiness confirmed**.
+Ariadne setzte auf der Folie ein Häkchen neben **Go-live readiness confirmed**.
 
 ---
 
@@ -538,27 +538,27 @@ Am nächsten Morgen regnete es.
 
 Um fünf Uhr sieben kam der Bäcker. Das System erkannte ihn. Um fünf Uhr dreizehn kam die Fischhändlerin. Ihr Platz war frei, der Stromanschluss funktionierte, und das Kabel lag bereits unter einer Gummimatte.
 
-Der Gemüsehändler hatte einen anderen Anhänger dabei. Konrad vermerkte die Abweichung. Der Marktmeister schickte ihn über das Seitentor. Einer der technischen Mitarbeiter sah die Meldung auf seinem Bildschirm und änderte die Fahrzeuglänge.
+Der Gemüsehändler hatte einen anderen Anhänger dabei. Janus vermerkte die Abweichung. Der Marktmeister schickte ihn über das Seitentor. Einer der technischen Mitarbeiter sah die Meldung auf seinem Bildschirm und änderte die Fahrzeuglänge.
 
 Um sechs Uhr zweiundzwanzig kam ein Händler, der überhaupt nicht angemeldet war. Er verkaufte Honig und behauptete, mit dem Bürgermeister gesprochen zu haben.
 
 Der Bürgermeister war nicht da.
 
-Beate suchte in ihren Unterlagen nach dem Verfahren für spontane Zulassungen. Der Marktmeister betrachtete den Wagen, die Gläser und die noch freie Fläche neben dem Brunnen.
+Ariadne suchte in ihren Unterlagen nach dem Verfahren für spontane Zulassungen. Der Marktmeister betrachtete den Wagen, die Gläser und die noch freie Fläche neben dem Brunnen.
 
 "Stell dich dort hin", sagte er. "Aber nicht vor den Hydranten."
 
 Der Mitarbeiter legte einen Vorgang an.
 
-Um sechs Uhr siebenunddreißig blockierte der Hühnerhändler die Einfahrt, weil sich die Verriegelung eines Käfigs gelöst hatte. Frau Wessel hielt die übrigen Fahrzeuge am Seitentor zurück. Liora half ihm mit dem Verschluss. Mummrich zählte die Hühner, ohne Konrad das Ergebnis mitzuteilen.
+Um sechs Uhr siebenunddreißig blockierte der Hühnerhändler die Einfahrt, weil sich die Verriegelung eines Käfigs gelöst hatte. Frau Wessel hielt die übrigen Fahrzeuge am Seitentor zurück. Liora half ihm mit dem Verschluss. Mummrich zählte die Hühner, ohne Janus das Ergebnis mitzuteilen.
 
 Um sechs Uhr einundvierzig fiel die Verbindung aus.
 
 Das System arbeitete weiter.
 
-Um sechs Uhr siebenundvierzig fuhr der letzte angemeldete Händler auf den Platz. Es war der Töpfer. Er brauchte länger als Konrad vorgesehen hatte, weil zwei Kisten an der falschen Seite seines Wagens standen.
+Um sechs Uhr siebenundvierzig fuhr der letzte angemeldete Händler auf den Platz. Es war der Töpfer. Er brauchte länger als Janus vorgesehen hatte, weil zwei Kisten an der falschen Seite seines Wagens standen.
 
-Um sechs Uhr sechsundfünfzig meldete Konrad den letzten Stand als betriebsbereit.
+Um sechs Uhr sechsundfünfzig meldete Janus den letzten Stand als betriebsbereit.
 
 Um sieben Uhr läutete die Kirchenglocke.
 
@@ -568,15 +568,15 @@ Die ersten Kunden kamen aus den Seitenstraßen.
 
 Niemand blieb vor dem Tor stehen.
 
-Konrad sah auf seine Uhr und schrieb die Zeit auf. Dann zog er unter seine Tabelle eine saubere Linie.
+Janus sah auf seine Uhr und schrieb die Zeit auf. Dann zog er unter seine Tabelle eine saubere Linie.
 
 "Sechs Uhr sechsundfünfzig", sagte er. "Vier Minuten vor Betriebsbeginn."
 
-"Sehr gut", sagte Beate.
+"Sehr gut", sagte Ariadne.
 
 Sie machte ein Foto vom gefüllten Marktplatz. Darauf waren die Stände, die Kunden und die Kastanien zu sehen. Das Seitentor lag außerhalb des Bildes.
 
-Später saßen Faulmann, Liora, Mummrich und Dachsbert am Brunnen. Zwischen ihnen lagen Brot, Äpfel und der Ziegenkäse, wegen dessen sie ursprünglich nach Bruchstedt gekommen waren. Hinter ihnen erklärte Beate dem Bürgermeister, der erfolgreiche Marktbeginn bestätige die technologische Neuausrichtung.
+Später saßen Faulmann, Liora, Mummrich und Dachsbert am Brunnen. Zwischen ihnen lagen Brot, Äpfel und der Ziegenkäse, wegen dessen sie ursprünglich nach Bruchstedt gekommen waren. Hinter ihnen erklärte Ariadne dem Bürgermeister, der erfolgreiche Marktbeginn bestätige die technologische Neuausrichtung.
 
 "Hat die neue Technik es nun gelöst?", fragte Mummrich.
 
@@ -604,7 +604,7 @@ Der Marktmeister kam gegen Mittag zum Brunnen. Frau Wessel brachte ihm eine Tass
 
 "Und wann haben sie herausgefunden, was das System können muss?", fragte Dachsbert.
 
-Beate, die hinter ihnen vorbeiging, blieb stehen. "Das war von Anfang an im Zielbild beschrieben."
+Ariadne, die hinter ihnen vorbeiging, blieb stehen. "Das war von Anfang an im Zielbild beschrieben."
 
 "Was stand darin?"
 
@@ -616,7 +616,7 @@ Der Marktmeister trank einen Schluck Kaffee. "Dass um sieben alle drin sind."
 
 "Das steht jetzt sicher auch irgendwo", sagte Faulmann.
 
-Konrad, der gerade seine Unterlagen sortierte, blickte auf. "Nicht in dieser Form."
+Janus, der gerade seine Unterlagen sortierte, blickte auf. "Nicht in dieser Form."
 
 Er machte eine Notiz.
 
@@ -630,7 +630,7 @@ Frau Wessel stellte ihre Tasse ab. "Ich auch nicht."
 
 "Ich bin eingeladen."
 
-Vom Rathaus her kam Beate über den Platz. Unter dem Arm trug sie die ausgedruckte Abschlusspräsentation. Alle Kästen auf dem Deckblatt waren grün.
+Vom Rathaus her kam Ariadne über den Platz. Unter dem Arm trug sie die ausgedruckte Abschlusspräsentation. Alle Kästen auf dem Deckblatt waren grün.
 
 Der Marktmeister und Frau Wessel sahen ihr entgegen.
 
