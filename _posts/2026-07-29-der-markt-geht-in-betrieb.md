@@ -20,7 +20,7 @@ Bruchstedt lag näher an der Stadt als der Faulwald, aber noch weit genug von ih
 
 "Nein. Aber es gibt einen Arbeitskreis."
 
-Sie waren wegen des Käses gekommen. Jeden letzten Samstag im Monat brachte eine Frau aus dem Nachbardorf einen weichen Ziegenkäse nach Bruchstedt, den Mummrich im Frühjahr probiert und seitdem bei mehreren Gelegenheiten erwähnt hatte. Faulmann wollte außerdem Brot kaufen. Liora hatte auf Äpfel gehofft. Dachsbert plante nichts Bestimmtes, was bei ihm meist bedeutete, dass er mit einer Tasche voller Dinge zurückkehrte.
+Sie waren wegen des Käses gekommen. An jedem Mittwoch fand in Bruchstedt Markt statt. Am letzten Mittwoch des Monats brachte außerdem eine Frau aus dem Nachbardorf einen weichen Ziegenkäse, den Mummrich im Frühjahr probiert und seitdem bei mehreren Gelegenheiten erwähnt hatte. Faulmann wollte außerdem Brot kaufen. Liora hatte auf Äpfel gehofft. Dachsbert plante nichts Bestimmtes, was bei ihm meist bedeutete, dass er mit einer Tasche voller Dinge zurückkehrte.
 
 Vor dem Marktplatz standen sieben Lieferwagen, vier Anhänger und ein kleiner Lastwagen mit offener Ladefläche. Dahinter wartete ein Mann mit mehreren Käfigen voller Hühner. Die Hühner hatten die Lage offenbar bereits besprochen und waren zu keinem einheitlichen Ergebnis gekommen.
 
@@ -257,9 +257,17 @@ Der Marktmeister ging zum Seitentor. Es war mit einer Kette verschlossen. Aus se
 
 Der Marktmeister winkte den ersten Wagen hinein.
 
-Niemand im Rathaus bemerkte in diesem Augenblick, dass der Markt damit langsam begann. Beate und der Bürgermeister waren bereits auf dem Weg zur ersten Besprechung über seine grundlegende Neuausrichtung.
+Niemand im Rathaus bemerkte in diesem Augenblick, dass der Markt damit langsam begann. Beate und der Bürgermeister waren bereits auf dem Weg zu einer ersten Lagebesprechung über seine grundlegende Neuausrichtung.
+
+Gegen acht Uhr waren die meisten Fahrzeuge durch das Seitentor auf den Platz gelangt. Dort standen sie allerdings in einer Reihenfolge, die das digitale System nicht kannte. Zwei Händler hatten ihre Plätze getauscht. Die Fischhändlerin bezog Strom über ein Kabel aus dem Keller des Rathauses. Der Gemüsehändler stand neben dem Brunnen, obwohl ihm das System einen Platz vor der Apotheke zugewiesen hatte.
+
+Der Markt funktionierte nun.
+
+Er sah nur nicht so aus wie in den Unterlagen.
 
 ---
+
+Am folgenden Dienstag fand die erste ausführliche Besprechung statt. Dienstags hatte der Bürgermeister Zeit. Dass der Marktmeister ebenfalls teilnehmen konnte, wurde später als erste Verbesserung der operativen Einbindung vermerkt.
 
 Im kleinen Sitzungssaal des Rathauses standen zwölf Stühle um einen Tisch, an den vernünftigerweise acht gepasst hätten. An der Wand hing eine Leinwand. Sie war größer als das Fenster.
 
@@ -271,7 +279,7 @@ Beate schloss ihren Rechner an. Auf der Leinwand erschien zunächst ein Bild des
 
 "Es dient nur der Einordnung", sagte Beate.
 
-Faulmann, Liora, Mummrich und Dachsbert waren mitgekommen. Mummrich hatte eingewandt, dass sich der Ziegenkäse vermutlich inzwischen vor dem Ortseingang befand. Dachsbert hatte darauf hingewiesen, dass man in einer Sitzung über einen Markt vielleicht erfahren könne, wann dieser beginne. Das hatte Mummrich nicht überzeugt. Er war trotzdem mitgegangen.
+Faulmann, Liora, Mummrich und Dachsbert waren ebenfalls eingeladen worden. Beate führte sie in der Teilnehmerliste als Vertreter der Kundenseite. Mummrich hatte eingewandt, dass sie bislang nichts gekauft hätten und daher streng genommen nur die Warteseite vertreten könnten. Dachsbert hatte darauf hingewiesen, dass eine Sitzung über einen Markt vielleicht klären könne, wann dieser eigentlich beginne. Das hatte Mummrich nicht überzeugt. Er war trotzdem mitgegangen.
 
 Auch Konrad war da. Er hatte seine Zahlen auf drei Blätter verteilt und jedes Blatt mit Uhrzeit und Versionsstand versehen.
 
@@ -300,8 +308,6 @@ Beate sah zur Folie. "Das ist in der begrenzten Skalierbarkeit enthalten."
 
 Beate betrachtete den Punkt einen Augenblick länger. "Zwischen Anmeldung und Leistungserbringung."
 
-Die Fischhändlerin, die ebenfalls mitgekommen war, schob ihren Stuhl etwas zurück. Von draußen war Hupen zu hören.
-
 Im grünen Kasten stand:
 
 **Skalierbares End-to-End-Marktplatzmanagement**
@@ -316,27 +322,35 @@ Beate wechselte auf eine Folie mit vielen Namen in sehr kleiner Schrift. "Mit al
 
 Der Marktmeister beugte sich vor. "Ich stehe da nicht."
 
-"Du warst in der operativen Arbeitsgruppe."
+Konrad schlug in seinen Unterlagen nach. "Du warst zu den ersten drei Abstimmungsterminen eingeladen."
 
-"War ich da?"
+"Die waren mittwochs."
 
-Konrad schlug in seinen Unterlagen nach. "Du warst für den dritten Termin eingeladen."
+"Ja."
 
-"Da war Markt."
+"Mittwochs ist Markt."
 
-Konrad machte eine kleine Notiz.
+Konrad blätterte eine Seite zurück. "Das erklärt vermutlich auch die geringe operative Beteiligung."
+
+"Ich war operativ beteiligt."
+
+"Nicht an den Sitzungen."
+
+"Am Markt."
+
+Beate wartete einen Augenblick. "Für die nächste Phase sollten wir die Verfügbarkeit der Fachseite verbindlicher einplanen."
 
 Der Bürgermeister hatte inzwischen auf die Uhr gesehen. "Die Frage ist doch", sagte er, "wie wir das jetzt schnell lösen."
 
-Beate wechselte zu einer Folie mit drei Säulen. Über jeder Säule stand der Name einer technischen Plattform. Die erste war diejenige, die an diesem Morgen eingeführt worden war. Sie erhielt in fast allen Zeilen gelbe oder rote Punkte.
+Beate wechselte zu einer Folie mit drei Säulen. Über jeder Säule stand der Name einer technischen Plattform. Die erste war diejenige, die am vergangenen Mittwoch eingeführt worden war. Sie erhielt in fast allen Zeilen gelbe oder rote Punkte.
 
-"Die ist seit heute im Einsatz", sagte der Marktmeister.
+"Die war am vergangenen Mittwoch im Einsatz", sagte der Marktmeister.
 
 "Das ändert nichts an den strukturellen Grenzen", sagte Beate.
 
-"Gestern hatte sie die noch nicht?"
+"Am Dienstag hatte sie die noch nicht?"
 
-"Gestern war sie noch nicht in Betrieb."
+"Am Dienstag war sie noch nicht in Betrieb."
 
 Dachsbert legte die Pfoten auf den Tisch. "Das ist bei Grenzen gelegentlich der Augenblick, in dem man sie bemerkt."
 
@@ -346,7 +360,7 @@ Beate klickte weiter. Die zweite Plattform besaß mehr grüne Punkte. Die dritte
 
 "Wie lange haben Sie sondiert?", fragte Faulmann.
 
-"Seit heute Morgen um sieben Uhr vierundzwanzig."
+"Seit vergangenem Mittwoch um sieben Uhr vierundzwanzig."
 
 Konrad sah auf sein Blatt. "Sieben Uhr zweiundzwanzig."
 
@@ -364,29 +378,25 @@ Beate zog die Schultern kaum merklich zurück. "Sie unterstützt moderne Betrieb
 
 "Genau."
 
-Von draußen kam die Fischhändlerin herein. "Der Käse ist jetzt auf dem Platz", sagte sie. "Die Hühner stehen noch an der Feuerwehr."
+Als sie das Rathaus verließen, war der Platz leer. Die weißen Linien der Stände waren noch zu sehen. Neben dem Brunnen lag ein kurzes Stück Kabel, das am Mittwoch niemand wieder in den Keller gebracht hatte.
 
-Mummrich erhob sich. "Wir sollten den Markt unterstützen."
+Der Marktmeister blieb auf der Treppe stehen. "Morgen früh um halb fünf bin ich wieder hier", sagte er.
 
-Faulmann, Liora und Dachsbert gingen mit ihm. Der Marktmeister blieb noch einen Augenblick sitzen, blickte auf das grüne Zielbild und folgte ihnen dann ebenfalls.
-
-Als sie das Rathaus verließen, war es kurz nach acht. Die meisten Fahrzeuge waren inzwischen durch das Seitentor auf den Platz gelangt. Dort standen sie allerdings in einer Reihenfolge, die das digitale System nicht kannte. Zwei Händler hatten ihre Plätze getauscht. Die Fischhändlerin bezog Strom über ein Kabel aus dem Keller des Rathauses. Der Gemüsehändler stand neben dem Brunnen, obwohl ihm das System einen Platz vor der Apotheke zugewiesen hatte.
-
-Der Markt funktionierte nun.
-
-Er sah nur nicht so aus wie in den Unterlagen.
+Beate nickte. "Dann sollten wir die heutige Zielrichtung bis dahin zunächst konsolidieren."
 
 ---
 
-In der folgenden Woche beschloss der Gemeinderat den Technologiewechsel. Die Entscheidung fiel einstimmig. Der Bürgermeister sprach von notwendiger Entschlossenheit. Beate sprach von einer grundlegenden Neuausrichtung. Konrad hatte errechnet, dass jede weitere Minute durchschnittlicher Einlassverzögerung zu einem theoretischen Verlust von 0,73 Kundenkontakten pro Stand führte.
+In derselben Woche beschloss der Gemeinderat grundsätzlich den Technologiewechsel. Die Entscheidung fiel einstimmig. Der Bürgermeister sprach von notwendiger Entschlossenheit. Beate sprach von einer grundlegenden Neuausrichtung. Konrad hatte errechnet, dass jede weitere Minute durchschnittlicher Einlassverzögerung zu einem theoretischen Verlust von 0,73 Kundenkontakten pro Stand führte.
 
 Der Marktmeister fragte, wie man einen theoretischen Kundenkontakt erkenne.
 
 Konrad sagte, dass dies für die Berechnung nicht erforderlich sei.
 
-Die neue Plattform war teurer als die alte. Das erwies sich als hilfreich. Wegen der Kosten musste regelmäßig über sie gesprochen werden. Der Bürgermeister ließ sich jeden Dienstag über den Fortschritt informieren. Zwei Mitglieder des Gemeinderates traten dem Lenkungskreis bei. Beate erhielt ein Budget. Konrad erhielt Zugriff auf eine weitere Datenquelle.
+Die vorgesehene neue Plattform war teurer als die alte. Das erwies sich als hilfreich. Wegen der Kosten musste regelmäßig über sie gesprochen werden. Der Bürgermeister ließ sich jeden Dienstag über den Fortschritt informieren. Zwei Mitglieder des Gemeinderates traten dem Lenkungskreis bei. Beate erhielt ein Budget. Konrad erhielt Zugriff auf eine weitere Datenquelle.
 
-Zum ersten Mal kam auch der technische Dienstleister nach Bruchstedt. Bisher hatte man ihm Formulare geschickt. Nun standen zwei seiner Mitarbeiter morgens um halb sechs unter den Kastanien und sahen zu, wie der Marktmeister die ersten Fahrzeuge einwies.
+In den folgenden Wochen wurde das alte System offiziell weiterbetrieben. Praktisch lag der Ordner des Marktmeisters wieder auf dem Tisch am Tor. Beate verglich Angebote. Der Bürgermeister fragte dienstags nach dem Fortschritt. Mittwochs kamen die Händler durch das Seitentor. Beides galt als Übergangslösung.
+
+Knapp zwei Monate nach dem gescheiterten Start wurde die neue Plattform über einen bestehenden Rahmenvertrag beauftragt. Zum ersten Mal kam nun auch der technische Dienstleister nach Bruchstedt. Bisher hatte man ihm Formulare geschickt. Am letzten Mittwoch des Monats standen zwei seiner Mitarbeiter morgens um halb sechs unter den Kastanien und sahen zu, wie der Marktmeister die ersten Fahrzeuge einwies.
 
 "Warum fährt der da hinein?", fragte einer von ihnen, als der Bäcker am vorgesehenen Kontrollpunkt vorbeifuhr.
 
@@ -404,7 +414,7 @@ Kurze Zeit später kam die Frau mit dem Ziegenkäse. Ihr Anhänger war länger a
 
 "Der Käse ist aber richtig", sagte Mummrich.
 
-Er war gemeinsam mit Faulmann, Liora und Dachsbert noch einmal nach Bruchstedt gekommen. Offiziell, weil der erste Marktbesuch beim Käsekauf gewisse Lücken hinterlassen hatte. Dachsbert führte außerdem an, es sei wissenschaftlich nicht haltbar, den Bruchstedter Fortschritt nur an einem Samstag zu beobachten.
+Er war gemeinsam mit Faulmann, Liora und Dachsbert noch einmal nach Bruchstedt gekommen. Offiziell, weil der erste Marktbesuch beim Käsekauf gewisse Lücken hinterlassen hatte. Dachsbert führte außerdem an, es sei wissenschaftlich nicht haltbar, den Bruchstedter Fortschritt nur an einem Mittwoch zu beobachten.
 
 Der Marktmeister schickte die Käsefrau auf einen anderen Platz.
 
@@ -420,13 +430,15 @@ Der Mitarbeiter sah zu seinem Kollegen.
 
 Am Nachmittag wurde eine Funktion für kurzfristige Platzänderungen in die Planung aufgenommen. Beate bezeichnete dies in der folgenden Sitzung als Ergebnis einer vertieften Anforderungsanalyse.
 
+In den nächsten fünf Wochen richtete der Dienstleister eine erste Fassung ein. Sie entschied zunächst nichts. An sechs aufeinanderfolgenden Markttagen lief sie neben dem wirklichen Markt her und verglich ihre Standzuweisungen mit dem, was der Marktmeister tatsächlich tat. Wenn beides voneinander abwich, galt bis auf Weiteres der Marktmeister. In den Unterlagen hieß das Schattenbetrieb.
+
 Beim nächsten Probelauf stellte sich heraus, dass bekannte Händler jedes Mal dieselben sechs Bestätigungen anklicken mussten. Der Marktmeister übersprang sie, indem er sein eigenes Kennwort eingab und alle Vorgänge selbst freigab. Daraufhin erhielt das neue System eine vereinfachte Prüfung für bekannte Händler.
 
 Später bemerkte man, dass die Mobilfunkverbindung unter den Kastanien nicht besser wurde, wenn man sie in der Projektplanung als Risiko mit mittlerer Eintrittswahrscheinlichkeit führte. Einer der Mitarbeiter setzte sich mit seinem Rechner auf die Mauer neben der Kirche. Dort funktionierte die Verbindung. Der Marktmeister lief zwischen ihm und dem Tor hin und her.
 
 Beim dritten Mal brachte jemand ein langes Kabel mit. Beim vierten Mal konnte das System einen Teil der Daten ohne Verbindung speichern.
 
-Die Frau vom Seitentor kam nun ebenfalls zu den Probeläufen. Sie hieß Frau Wessel und öffnete das Tor seit vierundzwanzig Jahren, wenn die eigentliche Einfahrt versperrt war, ein Händler zu spät kam oder ein Fahrzeug nicht um die Kastanie herumkam.
+Die Frau vom Seitentor kam nun ebenfalls zu den Probeläufen. Sie hieß Frau Wessel und öffnete das Tor seit vierundzwanzig Jahren, wenn die eigentliche Einfahrt versperrt war, ein Händler zu spät kam oder ein Fahrzeug nicht um die Kastanie herumkam. Am Morgen des gescheiterten Starts hatte sie ihre Schwester zu einem Arzttermin begleitet. Ihr Fehlen war in keiner Risikoübersicht aufgefallen, weil das Seitentor im vorgesehenen Ablauf nicht vorkam.
 
 "Nach welchen Regeln entscheiden Sie das?", fragte Beate.
 
@@ -438,7 +450,7 @@ Beate wartete. "Was genau?"
 
 Beate schrieb: **Situative Entscheidungslogik derzeit nicht dokumentiert.**
 
-In den folgenden Wochen wurde vieles verändert. Niemand setzte sich hin und beschrieb vollständig, was der Markt können musste. Stattdessen kam morgens ein Fahrzeug, für das eine Annahme nicht stimmte. Jemand sah es. Jemand rief etwas über den Platz. Einer der Mitarbeiter änderte am Nachmittag eine Eingabemaske. Beim nächsten Versuch ging an einer anderen Stelle etwas schief.
+In diesen Wochen wurde vieles verändert. Niemand setzte sich hin und beschrieb vollständig, was der Markt können musste. Stattdessen kam morgens ein Fahrzeug, für das eine Annahme nicht stimmte. Jemand sah es. Jemand rief etwas über den Platz. Einer der Mitarbeiter änderte am Nachmittag eine Eingabemaske. Beim nächsten Versuch ging an einer anderen Stelle etwas schief.
 
 Das System lernte den Markt nicht kennen. Es wurde ihm nur oft genug ausgesetzt.
 
@@ -480,13 +492,13 @@ Frau Wessel nannte ihn "Seitentor".
 
 ---
 
-Am Abend vor der Einführung der neuen Plattform fand im Rathaus die abschließende Sitzung statt. Auf der Leinwand war das Zielbild zu sehen. Fast alle Kästen waren grün.
+Knapp fünf Monate nach dem ersten gescheiterten Markttag fand am Dienstagabend vor der Einführung der neuen Plattform die abschließende Sitzung statt. Auf der Leinwand war das Zielbild zu sehen. Fast alle Kästen waren grün.
 
 Beate stand neben der Leinwand. Konrad saß am Tisch und prüfte ein letztes Mal die Zahlen.
 
 "Wir haben damit eine weitgehend durchgängige digitale Standzuweisung erreicht", sagte Beate. "Die neue Plattform ermöglicht erstmals ein skalierbares und personenunabhängiges Betriebsmodell."
 
-Der Marktmeister hob den Kopf. "Warum bin ich dann seit sechs Wochen jeden Samstag um halb fünf hier?"
+Der Marktmeister hob den Kopf. "Warum sitze ich dann seit fast fünf Monaten jeden Dienstag in diesen Sitzungen und stehe jeden Mittwoch um halb fünf am Tor?"
 
 Beate zeigte auf einen Kasten am unteren Rand. "Die operative Begleitung war für die Übergangsphase notwendig."
 
@@ -540,11 +552,13 @@ Der Mitarbeiter legte einen Vorgang an.
 
 Um sechs Uhr siebenunddreißig blockierte der Hühnerhändler die Einfahrt, weil sich die Verriegelung eines Käfigs gelöst hatte. Frau Wessel hielt die übrigen Fahrzeuge am Seitentor zurück. Liora half ihm mit dem Verschluss. Mummrich zählte die Hühner, ohne Konrad das Ergebnis mitzuteilen.
 
-Um sechs Uhr neunundvierzig fiel die Verbindung aus.
+Um sechs Uhr einundvierzig fiel die Verbindung aus.
 
 Das System arbeitete weiter.
 
-Um sechs Uhr sechsundfünfzig fuhr der letzte angemeldete Händler auf den Platz.
+Um sechs Uhr siebenundvierzig fuhr der letzte angemeldete Händler auf den Platz. Es war der Töpfer. Er brauchte länger als Konrad vorgesehen hatte, weil zwei Kisten an der falschen Seite seines Wagens standen.
+
+Um sechs Uhr sechsundfünfzig meldete Konrad den letzten Stand als betriebsbereit.
 
 Um sieben Uhr läutete die Kirchenglocke.
 
@@ -572,7 +586,7 @@ Dachsbert sah zum Tor. Dort wies der Marktmeister einen verspäteten Lieferwagen
 
 "Was gehört noch dazu?", fragte Liora.
 
-"Dass seit Wochen jemand hinsieht."
+"Dass seit Monaten jemand hinsieht."
 
 Faulmann schnitt ein Stück Käse ab.
 
