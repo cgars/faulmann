@@ -157,7 +157,7 @@ Hinter ihnen hupte jemand. Ein weiterer Lieferwagen war angekommen und stand nun
 
 Der Fahrer nickte. Das genügte ihm zunächst als Erklärung.
 
-Um Viertel vor sieben reichte die Schlange bis zur Umgehungsstraße. Um zehn vor sieben kam die Fischhändlerin. Sie fuhr, ohne zu fragen, an allen anderen vorbei, stieg am Tor aus und ging zum Marktmeister.
+Um Viertel vor sieben reichte die Schlange bis zur Umgehungsstraße. Um zehn vor sieben kam die Fischhändlerin. Sie fuhr, ohne zu fragen, an allen anderen vorbei, stieg am Tor aus, schaute kurz auf ihr Mobiltelefon und ging zum Marktmeister.
 
 "Mein Platz ist belegt."
 
@@ -167,7 +167,7 @@ Um Viertel vor sieben reichte die Schlange bis zur Umgehungsstraße. Um zehn vor
 
 "Von wem?"
 
-"Von mir. Aber ich komme nicht drauf."
+"Von mir. Aber ich bin ja offensichtlich  nicht drauf."
 
 Der Marktmeister schloss kurz die Augen.
 
