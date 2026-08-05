@@ -43,7 +43,7 @@ Jemand hatte darunter mit Kugelschreiber geschrieben:
 
 Sie gingen an der Reihe der Fahrzeuge entlang. In einem Lieferwagen saß ein Gemüsehändler hinter dem Lenkrad und aß bereits eine seiner eigenen Gurken. Vor ihm lehnte eine Frau aus dem Fenster und rief zum Pavillon hinüber, sie brauche wie immer den Platz neben dem Brunnen.
 
-"Der ist Ihnen nicht zugewiesen", rief einer der Männer in den Westen zurück.
+"Der ist Ihnen nicht zugewiesen", rief einer der Männer zurück.
 
 "Der ist mir seit neunzehn Jahren zugewiesen."
 
@@ -53,7 +53,7 @@ Sie gingen an der Reihe der Fahrzeuge entlang. In einem Lieferwagen saß ein Gem
 
 Der Mann blickte auf seinen Bildschirm. Er schien dort nach einer Antwort zu suchen, fand aber nur weitere Informationen.
 
-Neben dem Pavillon stand der Marktmeister. Er trug keine gelbe Weste. Seine Jacke war an den Schultern dunkel vom Regen, obwohl es seit einer Weile nicht mehr regnete.
+Neben dem Pavillon stand der Marktmeister. Er trug eine gelbe Weste, wie ein eigentlich nicht notwendiger Abzeichen seiner Marktmacht und seine Jacke war an den Schultern trotzallem merklich dunkel vom abgezognene Regen.
 
 "Was ist passiert?", fragte Faulmann.
 
@@ -77,7 +77,7 @@ Unter dem Pavillon ertönte ein kurzer Signalton. Einer der Bildschirme zeigte n
 
 "Es lädt", sagte der Mann mit dem Gerät in der Luft.
 
-Der Marktmeister wandte sich Faulmann zu. "Früher hatte ich einen Ordner", sagte er. "Darin stand, wer wohin kommt. Wenn jemand anders kam als angekündigt, habe ich ihn trotzdem irgendwo hingestellt. Das war nicht digital."
+Der Marktmeister wandte sich Faulmann zu. "Früher hatte ich einen Ordner", sagte er. "Darin stand, wer wohin kommt. Wenn jemand anders kam als angekündigt, habe ich ihn trotzdem irgendwo hingestellt. Das war nicht digital sondern mit Fingerspitzengefühl."
 
 "War es schlimm?", fragte Mummrich.
 
