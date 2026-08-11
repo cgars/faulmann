@@ -229,6 +229,24 @@ In diesem Speicher waren einmal Vorräte aufgehoben worden. Getreide, Saatgut, D
 
 Nun wurde vor allem der Speicher aufgehoben.
 
+Ein Stück weiter stand noch eine Windmühle. Diesmal eine Kappenwindmühle aus Cantrup.
+
+Nach der Bockwindmühle aus Spiel war das beinahe die Fortsetzung eines technischen Gesprächs.
+
+Dort hatte sich das ganze Mühlenhaus nach dem Wind richten müssen. Hier blieb der Bau stehen; nur die Kappe mit den Flügeln wurde gedreht. Das erlaubte größere, schwerere Mühlen und entsprechend größere Flügel.[^kappenmuehle]
+
+Cpt. Faulmann sah hinauf.
+
+Die Mühle stammte von 1780. Ihr erster Rohbau hatte auf einer Landwehr stehen sollen - also genau dort, wo Grundstücksgrenzen ihre Neigung zu längeren Diskussionen entfalten. Der Nachbar ließ ihn kurzerhand abreißen.[^kappenmuehle]
+
+Cpt. Faulmann erinnerte sich an die alte Meinungsverschiedenheit über Grundstücksgrenzen, die ihm am Morgen noch als fehlende Zutat eines echten Dorfes eingefallen war.
+
+Sie hatte offenbar nur auf ihren Auftritt gewartet.
+
+Am späteren Standort lief die Mühle lange weiter und wurde im 19. Jahrhundert mit industriell gefertigten Gusseisenteilen modernisiert.
+
+Auch das Alte hatte gelegentlich Ersatzteile bekommen.
+
 Ein paar Häuser weiter standen in einer Küche Tisch, Stühle, Herd und Töpfe bereit.
 
 Es sah aus, als sei die Arbeit nur kurz unterbrochen worden.
@@ -365,11 +383,13 @@ Dort fand sie das Museum.
 
 Heute waren sie wieder eingebaut.[^watteler]
 
-Cpt. Faulmann sah sie sich an.
+Im Schankraum war erstaunlich viel im Original erhalten geblieben: Theke, Schränke, Tische, Stühle, Gläser, Geschirr, Bilder, sogar Bierdeckel und Knobelbecher. Unter einer späteren Vertäfelung hatte man außerdem Reste einer älteren Tapete gefunden und sie danach originalgetreu nachdrucken lassen.[^watteler]
 
-Manchmal restaurierte ein Museum also einen Zustand, den das Gebäude selbst zwischenzeitlich längst aufgegeben hatte.
+Cpt. Faulmann betrachtete einen der erhaltenen Reste.
 
-Auch Häuser konnten offenbar mehrere Erinnerungen an sich besitzen.
+Ein Haus erinnerte sich nicht an einen einzigen Zustand.
+
+Es trug sie übereinander.
 
 Ein Stück weiter stand das Quelle-Fertighaus.[^marktplatz]
 
@@ -390,6 +410,16 @@ Bei zweiunddreißig Grad stellte sich ohnehin zunächst eine andere Frage.
 Ob das Ding Schatten hatte.
 
 Daneben erzählte der Bungalow Kahlenbusch eine weniger geradlinige Geschichte. Er war als Gaststätte und geplantes Hotel gedacht, blieb zeitweise Bauruine und wurde schließlich selbst Museumsexponat. Anders als die meisten Häuser hier musste er dafür nicht einmal umziehen: Er steht noch an seinem ursprünglichen Standort.[^marktplatz]
+
+Vor der Haustür standen drei Gartenzwerge.
+
+In den sechziger Jahren gehörten sie noch erstaunlich selbstverständlich in solche Vorgärten. Wenig später würde Cpt. Faulmann eine Ausstellung über Kitsch besuchen.
+
+Die Übergänge waren offenbar fließend.
+
+Innen warteten niedrige Decken, eher kleine Fenster und eine Wohnzimmereinrichtung im sogenannten Neo-Chippendale. Die in den 1980er-Jahren eingebauten Kunststofffenster hatte das Museum bewusst belassen.[^marktplatz]
+
+Nicht alles, was später hinzugekommen war, musste aus der Geschichte wieder hinaus.
 
 Auch die Moderne hatte ihre Ruinen produziert.
 
@@ -551,11 +581,13 @@ Mehr ließ sich in diesem Augenblick nicht verlangen.
 
 [^luerrip]: Der Speicher aus Lürrip hatte einen besonders gründlichen Weg ins Museum. Er stammt aus dem 15. Jahrhundert, wurde später aber so vollständig in einen jüngeren Hof eingebaut, dass seine Eigenständigkeit praktisch verschwand. Erst beim Abbau dieses späteren Gebäudes kam der ältere Bau wieder zum Vorschein. Man hatte also nicht nur ein Haus abgetragen, sondern dabei gewissermaßen noch eines gefunden. Siehe LVR-Freilichtmuseum Kommern, Newsletter 04/2024, ["Der verschwundene Hof"](https://kommern.lvr.de/de/presse/newsletter/newsletter_16704.html).
 
+[^kappenmuehle]: Die Kappenwindmühle aus Cantrup stammt von 1780 und zeigt ziemlich anschaulich, weshalb die sogenannte Holländerwindmühle die ältere Bockwindmühle vielerorts verdrängte. Statt den gesamten Mühlenkörper zu bewegen, musste nur noch die Kappe mit den Flügeln nach dem Wind gedreht werden. Dadurch konnten Mühlen größer und schwerer werden. In Cantrup geschah das noch von Hand über den Sterz; spätere Mühlen überließen diese Arbeit einer Windrose. Bemerkenswert ist auch ihr etwas ruppiger erster Bauversuch: Die Mühle sollte auf einer Landwehr stehen, der Nachbar hielt die Grundstücksgrenze offenbar für anders verlaufend und ließ den Rohbau kurzerhand abreißen. Am späteren Standort blieb sie lange in Betrieb und erhielt im 19. Jahrhundert industriell gefertigte Gusseisenteile. Grundlage ist der Objekttext des LVR-Freilichtmuseums zur Kappenwindmühle aus Cantrup.
+
 [^milchbar]: Die 1955 in Brühl eröffnete Milchbar blieb nicht lange das, was ihr Name versprach. Zunächst war sie ein alkoholfreier Treffpunkt mit Milchmixgetränken und jener freundlich amerikanischen Zukunft, die die fünfziger Jahre gern in geschwungene Formen und helle Farben packten. Später wurde daraus eine Kneipe und zeitweise eine Rockerkneipe; Bier, Whiskey, Motorräder und Schallplatten legten sich über die ursprüngliche Ausstattung, ohne sie ganz zu beseitigen. Gerade diese Schichten hat das Museum nicht auf einen einzigen vermeintlich "richtigen" Zustand zurückgesetzt. Siehe LVR-Freilichtmuseum Kommern, ["Milchshake und Rock 'n' Roll in Buchform"](https://kommern.lvr.de/de/presse/meldung/meldung_15296.html).
 
-[^watteler]: Die Gastwirtschaft Watteler trägt ihre Umbauten beinahe wie Jahresringe. Nach den schweren Kriegsschäden kehrte die Familie zurück und begann mit geliehenen Karren und Ochsen den Wiederaufbau; neue Steine wurden aus Köln geholt und von Frau Watteler und den Kindern passend zugerichtet. Später kamen ein neuer Saal, Veränderungen am Eingang und die bunten Fenster im Schankraum hinzu. Diese Fenster wurden irgendwann wieder entfernt und auf dem Dachboden abgelegt. Dort fand sie das Museum und baute sie erneut ein. Restaurierung bedeutete hier also nicht, den letzten Zustand des Hauses einzufrieren, sondern sich für einen früheren zu entscheiden. Siehe LVR-Freilichtmuseum Kommern, Objekttext zur Gaststätte Watteler und Newsletter 04/2024, ["Der verschwundene Hof"](https://kommern.lvr.de/de/presse/newsletter/newsletter_16704.html).
+[^watteler]: Die Gastwirtschaft Watteler trägt ihre Umbauten beinahe wie Jahresringe. Nach den schweren Kriegsschäden kehrte die Familie zurück und begann mit geliehenen Karren und Ochsen den Wiederaufbau; neue Steine wurden aus Köln geholt und von Frau Watteler und den Kindern passend zugerichtet. Später kamen ein neuer Saal, Veränderungen am Eingang und die bunten Fenster im Schankraum hinzu. In den 1970er-Jahren modernisierten Johannes und Gerti Watteler weiter: Theke und Schrank wurden ausgetauscht, Wand und Decke vertäfelt, Zentralheizung und eine neue Toilettenanlage eingebaut. Unter der Vertäfelung blieben Reste einer älteren Tapete erhalten, anhand derer das Museum sie später originalgetreu nachdrucken konnte. Zugleich blieb das bewegliche Inventar erstaunlich vollständig erhalten - bis hin zu Gläsern, Bierdeckeln und Knobelbechern. Ein Gastraum ist offenbar auch dann noch vollständig eingerichtet, wenn längst niemand mehr bestellt. Grundlage sind die Objekttexte des LVR-Freilichtmuseums zur Gastwirtschaft Watteler.
 
-[^marktplatz]: Der "Marktplatz Rheinland" zieht die Zeitlinie des Freilichtmuseums bewusst bis weit in die zweite Hälfte des 20. Jahrhunderts. Das Quelle-Fertighaus stammt aus der Welt des seriellen Wohnens der sechziger Jahre; der Bungalow Kahlenbusch erzählt dagegen von einer begonnenen Moderne, die zwischendurch zur Bauruine wurde. Eine Besonderheit ist seine Lage: Er ist das einzige Gebäude des Freigeländes, das für seine Musealisierung nicht versetzt werden musste. Das Museum kam gewissermaßen zu ihm. Siehe LVR-Freilichtmuseum Kommern, [Informationen zum Marktplatz Rheinland](https://kommern.lvr.de/de/ueber_das_museum/ueber_das_museum_1/ueber_das_museum_1.html).
+[^marktplatz]: Der "Marktplatz Rheinland" zieht die Zeitlinie des Freilichtmuseums bewusst bis weit in die zweite Hälfte des 20. Jahrhunderts. Das Quelle-Fertighaus stammt aus der Welt des seriellen Wohnens der sechziger Jahre. Der Bungalow Kahlenbusch ist ein typischer Vertreter jener neuen Siedlungen, die damals an den Rändern gewachsener Ortskerne entstanden. Seine L-Form mit dem leicht abknickenden Garagenflügel war zeittypisch; vor der Haustür stehen drei Gartenzwerge, die in jener Zeit noch deutlich weniger erklärungsbedürftig waren. Innen wartet eine Wohnzimmereinrichtung im sogenannten Neo-Chippendale. Selbst die in den 1980er-Jahren eingesetzten Kunststofffenster ließ das Museum bewusst bestehen, weil auch spätere Veränderungen zur Geschichte eines Hauses gehören. Eine weitere Besonderheit ist seine Lage: Der Bungalow war ursprünglich als kleines Hotel für Museumsgäste gedacht und steht noch immer dort, wo er gebaut wurde. Er ist das einzige Gebäude des Freigeländes, das für seine Musealisierung nicht versetzt werden musste. Das Museum kam gewissermaßen zu ihm. Siehe LVR-Freilichtmuseum Kommern, [Informationen zum Marktplatz Rheinland](https://kommern.lvr.de/de/ueber_das_museum/ueber_das_museum_1/ueber_das_museum_1.html) sowie die Objekttexte zum Bungalow Kahlenbusch.
 
 [^kitsch]: Die Sonderausstellung "Grässliche Glückseligkeit. Faszination Kitsch" läuft im Freilichtmuseum von Mai 2024 bis April 2027. Interessant ist weniger die Frage, ob ein einzelner Gegenstand nun "wirklich" kitschig sei, als die Tatsache, dass Kitsch immer auch von Nähe, Distanz und Zeit abhängt. Was einmal als rührselig, billig oder geschmacklos galt, kann später als Zeitzeugnis im Museum stehen. Nach einem Tag zwischen versetzten Bauernhäusern und einer ehemaligen Rockerkneipe war das keine ganz theoretische Frage mehr. Siehe LVR-Freilichtmuseum Kommern, ["Grässliche Glückseligkeit. Faszination Kitsch"](https://kommern.lvr.de/de/ausstellungen/faszination_kitsch/faszination_kitsch_1.html).
 
