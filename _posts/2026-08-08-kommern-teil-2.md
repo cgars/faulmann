@@ -25,549 +25,123 @@ Cpt. Faulmann dachte an den fertigen Laib in seinem Rucksack. Am Eingang hatte e
 
 Hier unten lagen frühere Zustände desselben Gedankens.
 
-Das Dorf hatte seinen Brotvorrat früher gemeinsam gebacken.[^backhaus] Nicht alle gleichzeitig - selbst historische Gemeinschaften kamen irgendwann auf die Vorteile eines Stundenplans. Alle paar Wochen war eine Familie an der Reihe und buk genügend Brot auf Vorrat, vorzugsweise solches, das diese Behandlung auch überstand.
+Das Dorf hatte seinen Brotvorrat früher gemeinsam gebacken.[^backhaus] Nicht alle gleichzeitig - selbst historische Gemeinschaften kamen irgendwann auf die Vorteile eines Stundenplans. Alle paar Wochen war eine Familie an der Reihe und buk genügend Brot auf Vorrat, vorzugsweise solches, das auch haltbar war.
 
-Roggenbrot etwa.
+Roggenbrot etwa. Sauerteig. Schwere Teige, große Mengen, viel Kneten. Wenn der Ofen heiß genug war, wurde die Glut herausgekehrt. Das Brot buk anschließend in der gespeicherten Wärme der Steine. Der Ofen tat also einen erheblichen Teil seiner Arbeit, nachdem das Feuer bereits verschwunden war. Cpt. Faulmann mochte fand das einen schönen Gedanken.
 
-Sauerteig.
+Über der Backstube war einst unterrichtet worden.[^backhaus] Brot unten, Bildung oben. Auch das war eine Form von Dorfgemeinschaft. Im Sommer fehlten viele Kinder, weil auf Feldern und Höfen genügend andere Dinge zu lernen waren. Im Winter kamen sie eher zur Schule und brachten gelegentlich gleich das Holz zum Heizen mit.[^bauernferien]. Die Schulpflicht hatte die Wirklichkeit offenbar nicht augenblicklich über ihre Einführung informiert.
 
-Schwere Teige, große Mengen, viel Kneten.
+Cpt. Faulmann ging noch einmal an den Broten vorbei. Wärme, Zeit und jemand, der wusste, wann man besser nicht mehr daran herumdrückte. Für Brot war das nachweislich eine brauchbare Kombination, vielleicht stimmt das eigentlich auch im Erdgeschoss. 
 
-Wenn der Ofen heiß genug war, wurde die Glut herausgekehrt. Das Brot buk anschließend in der gespeicherten Wärme der Steine.
+Als er wieder hinaustrat, hatte der Tag seine anfängliche Zurückhaltung weitgehend aufgegeben. Die Wege lagen hell zwischen den Häusern, und Schatten begann langsam, als eigenes landschaftliches Angebot hervorzutreten. Bei der Gastwirtschaft "Zur Post" blieb Cpt. Faulmann vor dem alten Postschalter stehen. Holz, kleine Öffnungen, Ablagen, Schubladen. Eine sorgfältig gebaute Grenze zwischen denen, die eine Nachricht aufgeben wollten, und denen, die dafür zuständig waren, dass sie irgendwann ankam.
 
-Der Ofen tat also einen erheblichen Teil seiner Arbeit, nachdem das Feuer bereits verschwunden war.
-
-Cpt. Faulmann mochte das.
-
-Über der Backstube war einst unterrichtet worden.[^backhaus]
-
-Brot unten, Bildung oben.
-
-Auch das war eine Form von Dorfgemeinschaft. Im Sommer fehlten viele Kinder, weil auf Feldern und Höfen genügend andere Dinge zu lernen waren. Im Winter kamen sie eher zur Schule und brachten gelegentlich gleich das Holz zum Heizen mit.
-
-Die Schulpflicht hatte die Wirklichkeit offenbar nicht augenblicklich über ihre Einführung informiert.
-
-Cpt. Faulmann ging noch einmal an den Broten vorbei.
-
-Wärme, Zeit und jemand, der wusste, wann man besser nicht mehr daran herumdrückte.
-
-Für Brot war das nachweislich eine brauchbare Kombination.
-
-Als er wieder hinaustrat, hatte der Tag seine anfängliche Zurückhaltung weitgehend aufgegeben.
-
-Die Wege lagen hell zwischen den Häusern, und Schatten begann langsam, als eigenes landschaftliches Angebot hervorzutreten.
-
-Bei der Gastwirtschaft "Zur Post" blieb Cpt. Faulmann vor dem alten Postschalter stehen.
-
-Holz, kleine Öffnungen, Ablagen, Schubladen.
-
-Eine sorgfältig gebaute Grenze zwischen denen, die eine Nachricht aufgeben wollten, und denen, die dafür zuständig waren, dass sie irgendwann ankam.
-
-Solche kleinen Postagenturen hatten sich im späten 19. Jahrhundert auf dem Land ausgebreitet. Oft betrieb sie der Gastwirt nebenher. Das eigentliche Postamt lag vielleicht im nächsten größeren Ort oder am Bahnhof.[^post]
-
-Ein Brief hatte damals Gewicht.
-
-Er lag in einer Tasche, wurde gestempelt, sortiert und weitergetragen. Eine Nachricht konnte mehrere Tage unterwegs sein und besaß trotzdem die Höflichkeit, nicht unterwegs noch dreimal ergänzt zu werden.
-
-Dafür musste man warten.
-
-Jede Zeit entwickelt ihre eigene Form der Ungeduld.
+Solche kleinen Postagenturen hatten sich im späten 19. Jahrhundert auf dem Land ausgebreitet. Oft betrieb sie der Gastwirt nebenher. Das eigentliche Postamt lag vielleicht im nächsten größeren Ort oder am Bahnhof.[^post] Ein Brief hatte damals Gewicht. Er lag in einer Tasche, wurde gestempelt, sortiert und weitergetragen. Eine Nachricht konnte mehrere Tage unterwegs sein und besaß trotzdem die Höflichkeit, nicht unterwegs noch dreimal ergänzt zu werden. Dafür musste man warten. Jede Zeit entwickelt ihre eigene Form der Ungeduld.
 
 Für einen Besuch der Gastwirtschaft war es noch früh. Außerdem lag der Geschmack des Honigs noch ziemlich gegenwärtig im Mund.
 
-Cpt. Faulmann ging weiter.
+Cpt. Faulmann ging also weiter. Der Weg führte durch einen Wald, der merklich kühler atmete als die offenen Flächen. Dahinter stand eine Bockwindmühle. Nicht erhöht auf freiem Feld, wie man es für eine Windmühle vielleicht erwartet hätte, sondern etwas tiefer und zwischen Bäumen. Für ihren ursprünglichen Standort in Spiel hätte das eine eher fragwürdige Entscheidung dargestellt. Dort hatte sie frei im Wind gestanden.[^bockmuehle] Hier im Freilichtmuseum musste sie sich mit den örtlichen Verhältnissen arrangieren. 
 
-Der Weg führte durch einen Wald, der merklich kühler atmete als die offenen Flächen.
+Immerhin waren die Segel an den Flügeln gesetzt. Auf der Plattform stand ein Mann. Mit etwas gutem Willen sah er aus wie ein Seebär auf einem hölzernen Schiff, das seit längerer Zeit beschlossen hatte, nicht mehr auszulaufen. Cpt. Faulmann blieb unten stehen. "Darf man an Bord?"Der Mann bejahte. Also enterte der Bär die lange Treppe.
 
-Dahinter stand eine Bockwindmühle.
+Oben zeigte sich rasch, dass diese Mühle mit einem Schiff zumindest eine Sache gemeinsam hatte: Man musste verstehen, wie sich das ganze Ding zum Wind verhielt. Bei einer Bockwindmühle wurde nämlich nicht lediglich eine Haube gedreht. Das gesamte Mühlenhaus wurde bewegt. Der hölzerne Kasten mit Mahlwerk, Wellen, Zahnrädern und allem, was darin arbeitete, ruhte auf einem mächtigen Gestell. Über einen langen Balken ließ sich das Gebäude nach dem Wind ausrichten.[^bockmuehle] Das Haus war nicht um die Maschine herumgebaut. Das Haus war die Maschine. 
 
-Nicht erhöht auf freiem Feld, wie man es für eine Windmühle vielleicht erwartet hätte, sondern etwas tiefer und zwischen Bäumen. Für ihren ursprünglichen Standort in Spiel hätte das eine eher fragwürdige Entscheidung dargestellt. Dort hatte sie frei im Wind gestanden.[^bockmuehle]
+Der Mühlenkapitän zeigte Cpt. Faulmann Balken, Wellen und Zahnräder. Er erklärte, welchen Weg das Korn nahm, wie die Kraft von den Flügeln ins Innere gelangte und wie aus Bewegung schließlich Mehl wurde. Seine Hände fanden die Stellen im Holz beinahe von selbst.
 
-Hier im Freilichtmuseum musste sie sich mit den örtlichen Verhältnissen arrangieren.
+Früher, erzählte er irgendwann, sei er Bäcker gewesen. Damit hatte das Gespräch ein Gebiet erreicht, auf dem Cpt. Faulmann nicht mehr nur höflicher Museumsbesucher war. Seit dem Eingang führte er ein Brot mit sich herum. Und Brotbacken gehörte zu jenen Beschäftigungen, bei denen er selbst gelegentlich glaubte, mehr zu wissen, als ein Teig anschließend bereit war zu bestätigen.
 
-Immerhin waren die Segel an den Flügeln gesetzt.
+Der ehemalige Bäcker sprach darüber, wie unterschiedlich Mehl Wasser aufnahm. Wie sich ein Teig unter den Händen veränderte. Wann er noch etwas brauchte. Und wann man ihn besser in Ruhe ließ.
 
-Auf der Plattform stand ein Mann.
+Manches konnte man messen. Anderes musste man fühlen. Das Wissen saß nicht nur in seinen Worten. Es bewegte seine Hände, obwohl dort gerade kein Teig lag. Er erzählte ruhig, ohne das Handwerk feierlich vor sich herzutragen. Nicht wie jemand, der eine verlorene Welt beschwor. Eher wie jemand, der lange darin gearbeitet hatte und deshalb wusste, dass auch früher Brote misslangen. Cpt. Faulmann hörte zu.
 
-Mit etwas gutem Willen sah er aus wie ein Seebär auf einem hölzernen Schiff, das seit längerer Zeit beschlossen hatte, nicht mehr auszulaufen.
+Die Flügel der Mühle standen still. Nach einer Weile wirkte sie trotzdem weniger unbewegt. Im Laden hatte ihm die Verkäuferin mit der weißen Schürze gezeigt, weshalb ein alter Schrank bald nicht mehr arbeiten durfte. Hier erklärte ein ehemaliger Bäcker, wie sich Mehl verhielt. Cpt. Faulmann sagte nichts dazu. Der Mann wusste schließlich selbst, wovon er sprach.
 
-Cpt. Faulmann blieb unten stehen.
+Die Sonne stand inzwischen hoch. Auf den offenen Flächen lag die Hitze wie ein zusätzliches Dach, allerdings ohne dessen wesentlichsten Vorteil.
 
-"Darf man an Bord?"
+Unter den Bäumen war es besser. Cpt. Faulmann begann, Wege nicht mehr nach ihrer Kürze, sondern nach ihrer Beschattung zu beurteilen. Das Freilichtmuseum half mit alten Bäumen, tiefen Dachüberständen und Bänken, die in jenem leichten Winkel standen, den Bänke mit längerer Berufserfahrung gelegentlich entwickeln.
 
-Der Mann bejahte.
+Cpt. Faulmann ging nun zunehmend langsamer. Das sah, mit etwas Wohlwollen, beinahe nach einer Haltung aus. Die alten Häuser hielten die Wärme merklich unterschiedlich zurück. Hinter kleinen Fenstern, Lehm und dicken Mauern war es manchmal überraschend kühl.
 
-Also enterte der Bär die lange Treppe.
+An diesem Tag war das angenehm. In früheren Wintern, bei wenig Licht, offenen Feuerstellen und Rauch im Haus, hatte sich derselbe Vorteil vermutlich weniger überzeugend angefühlt.
 
-Oben zeigte sich rasch, dass diese Mühle mit einem Schiff zumindest eine Sache gemeinsam hatte: Man musste verstehen, wie sich das ganze Ding zum Wind verhielt.
+Cpt. Faulmann ging nun durch Küchen, Kammern und Dielen. Auf Tischen standen Schüsseln. An Wänden hingen Pfannen und Werkzeuge. In Ecken warteten Geräte auf Arbeiten, die niemand mehr ausführen würde. Manche Räume wirkten dabei beinahe bewohnt. Nicht weil jemand darin war. Gerade weil niemand darin war. Ein eingerichteter Raum konnte Abwesenheit gründlicher zeigen als ein leerer.
 
-Bei einer Bockwindmühle wurde nämlich nicht lediglich eine Haube gedreht.
+In einem alten  Hallenhuuser lag die Küche nahe an der großen Diele. Wohnen, Stall, Vorräte und Arbeit waren unter demselben Dach zusammengerückt gewesen. Das Herdfeuer hatte gekocht, gewärmt und seinen Rauch anschließend großzügig dem übrigen Gebäude zur Verfügung gestellt.[^hallenhaus] Über ihm lagerten Vorräte. Der Rauch hielt manches davon trocken und Schädlinge fern. Bei den Bewohnern waren seine konservatorischen Eigenschaften weniger stark ausgprägt.
 
-Das gesamte Mühlenhaus wurde bewegt.
+Der Bär blieb an einer Herdstelle stehen. Ein Topf hätte hier früher über einem Feuer gehangen, ein Wendebaum hätte ihn aus der Flamme gedreht. Salz lagerte trocken in einem Kasten nahe der Wärme - teuer, wichtig und eines jener Dinge, die selbst ein weitgehend selbstversorgender Hof von irgendwoher bekommen musste.[^hallenhaus]. Man konnte damlas ohne just in time supply chain ziemlich autark leben. Für Salz blieb die Welt trotzdem größer als das eigene Grundstück.
 
-Der hölzerne Kasten mit Mahlwerk, Wellen, Zahnrädern und allem, was darin arbeitete, ruhte auf einem mächtigen Gestell. Über einen langen Balken ließ sich das Gebäude nach dem Wind ausrichten.[^bockmuehle]
+Dann öffnete sich die Landschaft wieder. Vom Bergischen Land führte der Weg hinunter zum Niederrhein. Die Höfe wurden größer, die Dächer breiter, zwischen den Gebäuden lag mehr Raum. Wasser und Wiesen veränderten den Ton der Landschaft. Hinter einem Flechtzaun und einer schmalen Wasserfläche stand der Speicher aus Lürrip. Er war alt informierte ein Schild. Sehr alt sogar. Seine ältesten Teile stammten aus dem 15. Jahrhundert. Später hatte man einen jüngeren Hof um ihn herumgebaut und den Speicher so vollständig in dessen Gebäude aufgenommen, dass er darin für Jahrhunderte beinahe verschwand.[^luerrip]
 
-Das Haus war nicht um die Maschine herumgebaut.
+Erst als dieser jüngere Hof abgebaut wurde, kam der ältere Bau wieder zum Vorschein. Ein Haus hatte ein anderes verborgen. Das jüngere war verschwunden. Das ältere stand nun im Freilichtmuseum und ließ sich betrachten.  In diesem Speicher waren einmal Vorräte aufgehoben worden. Getreide, Saatgut, Dinge, die trocken bleiben und einen Winter überstehen mussten. Nun wurde vor allem der Speicher aufgehoben...
 
-Das Haus war die Maschine.
+Ein Stück weiter stand noch eine Windmühle. Diesmal eine Kappenwindmühle aus Cantrup. Nach der Bockwindmühle aus Spiel war das beinahe die Fortsetzung eines technischen Gesprächs. Bei letzterer hatte sich das ganze Mühlenhaus nach dem Wind richten müssen. Hier blieb der Bau stehen; nur die Kappe mit den Flügeln wurde gedreht. Das erlaubte größere, schwerere Mühlen und entsprechend größere Flügel.[^kappenmuehle]
 
-Der Mann zeigte Cpt. Faulmann Balken, Wellen und Zahnräder. Er erklärte, welchen Weg das Korn nahm, wie die Kraft von den Flügeln ins Innere gelangte und wie aus Bewegung schließlich Mehl wurde.
+Cpt. Faulmann sah hinauf. Die Mühle stammte von 1780. Ihr erster Rohbau hatte auf einer Landwehr stehen sollen - also genau dort, wo Grundstücksgrenzen ihre Neigung zu längeren Diskussionen entfalten. Der Nachbar ließ ihn kurzerhand abreißen.[^kappenmuehle]
 
-Seine Hände fanden die Stellen im Holz beinahe von selbst.
+Cpt. Faulmann erinnerte sich an die alte Meinungsverschiedenheit über Grundstücksgrenzen, die ihm am Morgen noch als fehlende Zutat eines echten Dorfes eingefallen war. Sie hatte offenbar nur auf ihren Auftritt gewartet. Am späteren Standort lief die Mühle lange weiter und wurde im 19. Jahrhundert mit industriell gefertigten Gusseisenteilen modernisiert. Auch das Alte hatte gelegentlich Ersatzteile bekommen.
 
-Früher, erzählte er irgendwann, sei er Bäcker gewesen.
+Mittlerweile waren zweiunddreißig Grad erreicht. Vom Niederrhein führte der Weg wieder bergauf und der Bär lies in wenigen Minuten einige Jahrhunderte am Wegesrand liegen. Goethe und Schiller waren gekommen und gegangen, Napoleon hatte Europa neu sortiert, Preußen hatte Schulen und Postagenturen organisiert, ein Kaiserreich war gegründet und wieder verschwunden. Industrialisierung, Revolutionen, zwei Weltkriege und allerlei andere  Auseinandersetzungen hatten sich dazwischen ebenfalls noch unterbringen lassen.
 
-Damit hatte das Gespräch ein Gebiet erreicht, auf dem Cpt. Faulmann nicht mehr nur höflicher Museumsbesucher war.
+Das Freilichtmuseum erlaubte solche Abkürzungen. Man ging ein paar Schritte, und Dinge, für die Generationen Zeit gebraucht hatten, standen plötzlich nur noch einen Wegbogen voneinander entfernt und die Geschichte hatte inzwischen begonnen Kleingeld anzunehmen
 
-Seit dem Eingang führte er ein Brot mit sich herum.
+Vor einer  Milchbar warteten bereits eine Telefonzelle und einige Parkuhren. Dinge, die einmal auch für den Faulmann so selbstverständlich zum Straßenbild gehört hatten, dass vermutlich kaum jemand (auch nihct der FAulmann) auf die Idee gekommen wäre, sie eines Tages eigens aufzustellen, damit Menschen sie betrachten konnten.
 
-Und Brotbacken gehörte zu jenen Beschäftigungen, bei denen er selbst gelegentlich glaubte, mehr zu wissen, als ein Teig anschließend bereit war zu bestätigen.
+Die Telefonzelle versprach damals Verbindung, allerdings nur für Menschen mit Kleingeld. Die Parkuhr maß Zeit ebenfalls in Münzen. Die Moderne war offenbar bereits sehr früh der Ansicht gewesen, dass beides - Zeit und Kommunikation - vor allem eine Frage passender Stückelung sei.
 
-Der ehemalige Bäcker sprach darüber, wie unterschiedlich Mehl Wasser aufnahm.
+Wie auch immer. Nach all dem dunklen Holz, den Herdstellen, Speichern und Jahrhunderten erschien die Milchbar ausgesprochen blau und ausgesprochen gelb. Die fünfziger Jahre hatten offenbar angenommen, dass die Zukunft vor allem aus klaren Farben, Barhockern und gut gelaunten Fischen bestehen würde. Cpt. Faulmann trat ein. 
 
-Wie sich ein Teig unter den Händen veränderte.
+Die Bar war 1955 in Brühl eröffnet worden. Zunächst als moderner, alkoholfreier Treffpunkt für junge Leute.[^milchbar] Dabei blieb es nicht. Schon einige Jahre später begann der Raum eine bemerkenswerte zweite Karriere. Aus der Milchbar wurde eine Kneipe. Die hellen Farben bekamen Gesellschaft von dunkleren Tönen, an den Wänden hingen Schallplatten, vor der Tür standen Motorräder, und aus der Milch wurde irgendwann auch Bier.[^milchbar]. Die Jugend war geblieben. Nur ihre Getränke hatten sich verändert. Cpt. Faulmann mochte diese etwas unordentliche Biografie des Raumes die hier nonchalant nebeinander her existierte.
 
-Wann er noch etwas brauchte.
+Man hätte die Milchbar auch sauber auf 1955 zurückstellen können: Milchgetränke, Nachkriegsoptimismus, fertig. Aber so sauber hatte der Ort selbst seine Geschichte nicht geführt. Im Raum roch es noch nach Zigarettenrauch. Nicht stark. Nur so, dass er da war. Cpt. Faulmann sah zu den Schallplatten. Vielleicht saß der Rauch in den Wänden. Vielleicht im Holz. Vielleicht hatten ihn einige der Plattenhüllen aufgenommen und gemeinsam mit der Musik aufbewahrt. Schallplatten waren dafür gemacht, Vergangenes wiederzugeben. Es war nirgends festgelegt, dass es ausschließlich Töne sein mussten.
 
-Und wann man ihn besser in Ruhe ließ.
+Nach einer Weile trat Cpt. Faulmann wieder hinaus. Einen Eiskaffee gab es nicht in der Milchbar, sondern am Kiosk davor. Das war bei zweiunddreißig Grad gefühlt keine bedeutende historische Unstimmigkeit also bestellte einen.
 
-Manches konnte man messen.
+Die Frau am Kiosk empfahl ihm dazu einen bestimmten Platz im Schatten und erklärte den Weg dorthin ziemlich genau. Menschen, die Eiskaffee verkaufen, entwickeln vermutlich ein berufliches Verhältnis zur Sonne.
 
-Anderes musste man fühlen.
+Der Platz jedenfalls  war gut und der Bär setzte sich. Der Eiskaffee blieb dort in der Tat länger in Form. Cpt. Faulmann ebenfalls.
 
-Das Wissen saß nicht nur in seinen Worten. Es bewegte seine Hände, obwohl dort gerade kein Teig lag.
+Besucher gingen vorbei. Manche hielten Lagepläne in der Hand und sahen trotzdem suchend aus. Das Freilichtmuseum war groß genug, um sich mit guten Gründen zu verlaufen.
 
-Er erzählte ruhig, ohne das Handwerk feierlich vor sich herzutragen. Nicht wie jemand, der eine verlorene Welt beschwor.
+Ein Kind lief hinter einem Erwachsenen her und fragte, wann sie endlich bei den alten Häusern seien. Der Erwachsene sah sich um. Sie seien bereits seit einer Stunde dort. Das Kind nahm dies als unbefriedigende Auskunft hin.
 
-Eher wie jemand, der lange darin gearbeitet hatte und deshalb wusste, dass auch früher Brote misslangen.
+Nach dem Eiskaffee ging Cpt. Faulmann noch ein wenig über den Museumsplatz. Die Vergangenheit hatte inzwischen ihre Fachwerkbalken weitgehend abgelegt. Da stand eine Gastwirtschaft, deren Geschichte deutlich unordentlicher war, als ihre Fassade zunächst vermuten ließ. Das Haus war fast dreihundert Jahre alt. Später hatten Wilhelm und Alwine Watteler darin ihre Gastwirtschaft betrieben. Wilhelm war Metzger, weshalb dort nicht nur getrunken, sondern auch ordentlich Fleisch umgesetzt worden war.[^watteler]
 
-Cpt. Faulmann hörte zu.
+Dann kam der Krieg. Das Haus wurde schwer beschädigt, die Familie ging fort und kehrte danach wieder zurück. Für den Wiederaufbau lieh Wilhelm Watteler bei Bauern Karren und Ochsen. Aus Köln holte er neue Steine. Seine Frau und die Kinder machten sie passend.[^watteler] Ein Familienbetrieb konnte damals offenbar auch bedeuten, dass man gemeinsam ein Haus wieder zusammensetzte.
 
-Die Flügel der Mühle standen still.
+Danach wurde weitergebaut. Ein Saal kam hinzu. Der Eingang wurde verändert. Helle Fliesen zogen in den Flur ein, schwarze um die Fenster. Und irgendwann bekam der Schankraum bunte Fenster. Später wurden sie wieder ausgebaut und auf den Dachboden gelegt. Dort fand sie das Museum. Heute waren sie wieder eingebaut.[^watteler]
 
-Nach einer Weile wirkte sie trotzdem weniger unbewegt.
+Im Schankraum war erstaunlich viel im Original erhalten geblieben: Theke, Schränke, Tische, Stühle, Gläser, Geschirr, Bilder, sogar Bierdeckel und Knobelbecher. Unter einer späteren Vertäfelung hatte man außerdem Reste einer älteren Tapete gefunden und sie danach originalgetreu nachdrucken lassen.[^watteler] 
 
-Im Laden hatte ihm die Verkäuferin mit der weißen Schürze gezeigt, weshalb ein alter Schrank bald nicht mehr arbeiten durfte.
+Ein Stück weiter stand das Quelle-Fertighaus.[^marktplatz]. Nach all den Häusern, deren Balken Zimmerleute einzeln behauen hatten, war das beinahe eine kleine Provokation. Ein Haus aus dem Katalog. Man bestellte nicht mehr nur Salz, Stoff oder Zahnpasta. Nun konnte man sich auch das Wohnen liefern lassen.
 
-Hier erklärte ein ehemaliger Bäcker, wie sich Mehl verhielt.
+Cpt. Faulmann fand daran nichts grundsätzlich Verwerfliches. Wer schon einmal auf einen Handwerker gewartet hatte, konnte der industriellen Vorfertigung eine gewisse Logik nicht absprechen. Bei zweiunddreißig Grad stellte sich ohnehin zunächst eine andere Frage. Ob das Ding innen kühl war. War es aber nicht.
 
-Cpt. Faulmann sagte nichts dazu.
+Daneben erzählte der Bungalow Kahlenbusch eine weniger geradlinige Geschichte. Er war als Gaststätte und geplantes Hotel gedacht, blieb zeitweise Bauruine und wurde schließlich selbst Museumsexponat. Anders als die meisten Häuser hier musste er dafür nicht einmal umziehen: Er steht noch an seinem ursprünglichen Standort.[^marktplatz]. Vor der Haustür standen drei Gartenzwerge. In den sechziger Jahren gehörten sie noch erstaunlich selbstverständlich in solche Vorgärten. 
 
-Der Mann wusste schließlich selbst, wovon er sprach.
+Innen warteten niedrige Decken, eher kleine Fenster und eine Wohnzimmereinrichtung im sogenannten Neo-Chippendale. Die in den 1980er-Jahren eingebauten Kunststofffenster hatte das Museum bewusst belassen.[^marktplatz] Nicht alles, was später hinzugekommen war, musste aus der Geschichte wieder hinaus. Auch die Moderne hatte ihre Ruinen produziert. Sie brauchte dafür offenbar nicht einmal besonders viele Jahrhunderte.
 
-Die Sonne stand inzwischen hoch.
+Cpt. Faulmann sah innerlich noch einmal zurück. Bauernhaus, Postagentur, Mühle, Speicher, Milchbar, Fertighaus, Bungalow. Das Museum war längst nicht mehr nur eine Sammlung von Dingen, die "früher" gewesen waren. Das Früher rückte bedenklich nahe. 
 
-Auf den offenen Flächen lag die Hitze wie ein zusätzliches Dach, allerdings ohne dessen wesentlichsten Vorteil.
+Und dann erreichte Cpt. Faulmann die Sonderausstellung "Grässliche Glückseligkeit. Faszination Kitsch".[^kitsch] Sie rührte ihn mehr an, als er erwartet hatte. In den Räumen standen Dinge, die niedlich, feierlich, gerührt oder sehr von ihrer eigenen Bedeutung überzeugt waren. Porzellanfiguren, Bilder, Andenken und Gegenstände, denen man ansah, wie sie betrachtet werden wollten. Manche zeigten eine Welt, in der Trauer durchaus vorkommen durfte. Sie musste nur rechtzeitig von einem Sonnenuntergang angemessen beleuchtet werden. Der Bär musste kurz and Milan Kundera denken der Kitsch zu fürderst als die "absolute Verneinung der Scheiße" bezeichnete.[^kundera] 
 
-Unter den Bäumen war es besser.
+Cpt. Faulmann blieb vor einer besonders glücklichen Figur stehen. Dann betrachtete er seine eigene Lage. Ein sprechender, radelnder Bär mit Schiebermütze, der alte Häuser besuchte, warmes Brot mit sich führte und sich seit Stunden ungewöhnlich ausführlich für Honig interessierte, war in einer Ausstellung über Kitsch kein vollständig neutraler Beobachter. Cpt. Faulmann lebte schließlich selbst in einer Fabelwelt. Dort sprachen Bären, Füchse, Dachse und Maulwürfe miteinander. Sie tranken Tee, fuhren Rad und blieben an Dingen stehen, die andere vielleicht übersahen. Die Welt war oft freundlich gezeichnet. Bäume standen dort gewöhnlich an den richtigen Stellen, und selbst Regen erhielt mit etwas Abstand eine brauchbare Textur. Man konnte das tröstlich finden. Man konnte es auch verdächtig finden.
 
-Cpt. Faulmann begann, Wege nicht mehr nach ihrer Kürze, sondern nach ihrer Beschattung zu beurteilen.
+Cpt. Faulmann hatte an diesem Tag allerdings einen Schrank gesehen, dessen Reparaturwissen langsam verschwand. Er hatte ungebackene Brote in einer heißen Backstube liegen sehen. Er hatte alten Zigarettenrauch gerochen und einem ehemaligen Bäcker zugehört, dessen Hände noch wussten, was seine Worte nur beschreiben konnten. Auch sein Hemd war inzwischen deutlich von zweiunddreißig Grad berührt. Die Scheiße war also nicht vollständig negiert. Vielleicht hatte man ihr nur nicht jeden Platz überlassen.
 
-Das Freilichtmuseum half mit alten Bäumen, tiefen Dachüberständen und Bänken, die in jenem leichten Winkel standen, den Bänke mit längerer Berufserfahrung gelegentlich entwickeln.
+Cpt. Faulmann sah noch einmal zu der glücklichen Figur. Sie blieb bei ihrer Auffassung. Eine letzte Überraschung wartete im Museumsladen. Dort stand der Honig des Imkers im Regal. Dasselbe Etikett. Derselbe Sommerhonig. Vielleicht sogar dasselbe Glas, obwohl Cpt. Faulmann ihm keine persönlichen Eigenschaften zuschreiben wollte, die sich später nur schwer belegen ließen.
 
-Cpt. Faulmann ging langsamer.
+Er nahm es in die Hand. Hier konnte man mit Karte zahlen. Die Gegenwart hatte sich doch noch nützlich gemacht. Beim Bezahlen erzählte die Mitarbeiterin, dass an diesem Tag erstaunlich viele Besucher auch Met mitgenommen hätten. >Der Bär lies sich trotz des offensichtlichen tricks nich lumpen. Für einen Tag war damit ausreichend Bienenwirtschaft in der Tasche.
 
-Das sah, mit etwas Wohlwollen, beinahe nach einer Haltung aus.
+Am Ausgang holte Cpt. Faulmann sein Fahrrad. Der Sattel war warm geworden. Das Wasser in der Flasche hatte sich der Umgebung weitgehend angepasst. Und das Telefon zeigte nur noch so viel Strom, wie Geräte gewöhnlich anzeigen, kurz bevor sie beschließen, dass die weitere Reise Privatsache sei.
 
-Die alten Häuser hielten die Wärme unterschiedlich zurück. Hinter kleinen Fenstern, Lehm und dicken Mauern war es manchmal überraschend kühl.
+Cpt. Faulmann fuhr los. Die Navigation hielt zunächst durch. Der kleine Pfeil bewegte sich über die Karte und behauptete mit großer Sicherheit, Cpt. Faulmann befinde sich genau dort, wo er sich befand.
 
-An diesem Tag war das angenehm.
+Die Straßen lagen hell in der Nachmittagshitze. Schatten war seltener geworden, der Fahrtwind warm. Cpt. Faulmann fuhr ruhiger als am Morgen. Dann wurde der Bildschirm dunkel. D>er Bär drückte auf den Knopf.
 
-In früheren Wintern, bei wenig Licht, offenen Feuerstellen und Rauch im Haus, hatte sich derselbe Vorteil vermutlich weniger überzeugend angefühlt.
+Nichts. Das Telefon hatte seine Arbeit eingestellt. Die Gegend nicht. Vor ihm lag eine Abzweigung. Ein Schild zeigte zu einem Ort, dessen Name ihm bekannt vorkam, ohne dass daraus bereits eine Richtung geworden wäre. Cpt. Faulmann sah nach links. Dann nach rechts. Früher waren Menschen durch diese Landschaft gefahren, ohne dass ein kleiner Pfeil ihnen fortwährend bestätigte, wo sie waren.
 
-Cpt. Faulmann ging durch Küchen, Kammern und Dielen.
+Sie hatten Schilder gelesen, Kirchtürme betrachtet und gelegentlich jemanden gefragt. Vermutlich waren sie auch falsch abgebogen. Die Vergangenheit war in dieser Hinsicht weniger romantisch, als ihre Landkarten heute wirkten.
 
-Auf Tischen standen Schüsseln. An Wänden hingen Pfannen und Werkzeuge. In Ecken warteten Geräte auf Arbeiten, die niemand mehr ausführen würde.
-
-Manche Räume wirkten dabei beinahe bewohnt.
-
-Nicht weil jemand darin war.
-
-Gerade weil niemand darin war.
-
-Ein eingerichteter Raum konnte Abwesenheit gründlicher zeigen als ein leerer.
-
-In einem der Hallenhäuser lag die Küche nahe an der großen Diele. Wohnen, Stall, Vorräte und Arbeit waren unter demselben Dach zusammengerückt gewesen. Das Herdfeuer hatte gekocht, gewärmt und seinen Rauch anschließend großzügig dem übrigen Gebäude zur Verfügung gestellt.[^hallenhaus]
-
-Über ihm lagerten Vorräte.
-
-Der Rauch hielt manches davon trocken und Schädlinge fern.
-
-Bei den Bewohnern waren seine konservatorischen Eigenschaften weniger eindeutig.
-
-Cpt. Faulmann blieb an einer Herdstelle stehen.
-
-Ein Topf hätte über dem Feuer gehangen, ein Wendebaum hätte ihn aus der Flamme gedreht. Salz lag trocken in einem Kasten nahe der Wärme - teuer, wichtig und eines jener Dinge, die selbst ein weitgehend selbstversorgender Hof von irgendwoher bekommen musste.[^hallenhaus]
-
-Man konnte ziemlich autark leben.
-
-Für Salz blieb die Welt trotzdem größer als das eigene Grundstück.
-
-Dann öffnete sich die Landschaft wieder.
-
-Vom Bergischen Land führte der Weg hinunter zum Niederrhein. Die Höfe wurden größer, die Dächer breiter, zwischen den Gebäuden lag mehr Raum. Wasser und Wiesen veränderten den Ton der Landschaft.
-
-Hinter einem Flechtzaun und einer schmalen Wasserfläche stand der Speicher aus Lürrip.
-
-Er war alt.
-
-Sehr alt sogar.
-
-Seine ältesten Teile stammten aus dem 15. Jahrhundert. Später hatte man einen jüngeren Hof um ihn herumgebaut und den Speicher so vollständig in dessen Gebäude aufgenommen, dass er darin für Jahrhunderte beinahe verschwand.[^luerrip]
-
-Erst als dieser jüngere Hof abgebaut wurde, kam der ältere Bau wieder zum Vorschein.
-
-Ein Haus hatte ein anderes verborgen.
-
-Das jüngere war verschwunden.
-
-Das ältere stand nun im Freilichtmuseum und ließ sich betrachten.
-
-Cpt. Faulmann blieb vor dem Wasser stehen.
-
-In diesem Speicher waren einmal Vorräte aufgehoben worden. Getreide, Saatgut, Dinge, die trocken bleiben und einen Winter überstehen mussten.
-
-Nun wurde vor allem der Speicher aufgehoben.
-
-Ein Stück weiter stand noch eine Windmühle. Diesmal eine Kappenwindmühle aus Cantrup.
-
-Nach der Bockwindmühle aus Spiel war das beinahe die Fortsetzung eines technischen Gesprächs.
-
-Dort hatte sich das ganze Mühlenhaus nach dem Wind richten müssen. Hier blieb der Bau stehen; nur die Kappe mit den Flügeln wurde gedreht. Das erlaubte größere, schwerere Mühlen und entsprechend größere Flügel.[^kappenmuehle]
-
-Cpt. Faulmann sah hinauf.
-
-Die Mühle stammte von 1780. Ihr erster Rohbau hatte auf einer Landwehr stehen sollen - also genau dort, wo Grundstücksgrenzen ihre Neigung zu längeren Diskussionen entfalten. Der Nachbar ließ ihn kurzerhand abreißen.[^kappenmuehle]
-
-Cpt. Faulmann erinnerte sich an die alte Meinungsverschiedenheit über Grundstücksgrenzen, die ihm am Morgen noch als fehlende Zutat eines echten Dorfes eingefallen war.
-
-Sie hatte offenbar nur auf ihren Auftritt gewartet.
-
-Am späteren Standort lief die Mühle lange weiter und wurde im 19. Jahrhundert mit industriell gefertigten Gusseisenteilen modernisiert.
-
-Auch das Alte hatte gelegentlich Ersatzteile bekommen.
-
-Ein paar Häuser weiter standen in einer Küche Tisch, Stühle, Herd und Töpfe bereit.
-
-Es sah aus, als sei die Arbeit nur kurz unterbrochen worden.
-
-Das Feuer war aus.
-
-Der Raum kannte seine Stelle noch.
-
-Cpt. Faulmann sah durch die Tür.
-
-Die früheren Bewohner hatten einen recht langen Weg zurück.
-
-Draußen waren inzwischen zweiunddreißig Grad erreicht.
-
-Vom Niederrhein führte der Weg wieder bergauf.
-
-Dabei ließ Cpt. Faulmann in wenigen Minuten einige Jahrhunderte am Wegesrand liegen.
-
-Goethe und Schiller waren gekommen und gegangen, Napoleon hatte Europa neu sortiert, Preußen hatte Schulen und Postagenturen organisiert, ein Kaiserreich war gegründet und wieder verschwunden. Industrialisierung, Revolutionen, zwei Weltkriege und allerlei kleinere Auseinandersetzungen hatten sich dazwischen ebenfalls noch unterbringen lassen.
-
-Das Freilichtmuseum erlaubte solche Abkürzungen.
-
-Man ging ein paar Schritte, und Dinge, für die Generationen Zeit gebraucht hatten, standen plötzlich nur noch einen Wegbogen voneinander entfernt.
-
-Vor der Milchbar warteten bereits eine Telefonzelle und einige Parkuhren.
-
-Die Geschichte hatte inzwischen Kleingeld angenommen.
-
-Dinge, die einmal so selbstverständlich zum Straßenbild gehört hatten, dass vermutlich kaum jemand auf die Idee gekommen wäre, sie eines Tages eigens aufzustellen, damit Menschen sie betrachten konnten.
-
-Die Telefonzelle versprach Verbindung, allerdings nur für Menschen mit Kleingeld. Die Parkuhr maß Zeit ebenfalls in Münzen.
-
-Die Moderne war offenbar bereits sehr früh der Ansicht gewesen, dass beides - Zeit und Kommunikation - vor allem eine Frage passender Stückelung sei.
-
-Nach all dem dunklen Holz, den Herdstellen, Speichern und Jahrhunderten erschien die Milchbar ausgesprochen blau und ausgesprochen gelb.
-
-Die fünfziger Jahre hatten offenbar angenommen, dass die Zukunft vor allem aus klaren Farben, Barhockern und gut gelaunten Fischen bestehen würde.
-
-Cpt. Faulmann trat ein.
-
-Die Milchbar war 1955 in Brühl eröffnet worden. Zunächst als moderner, alkoholfreier Treffpunkt für junge Leute.[^milchbar]
-
-Dabei blieb es nicht.
-
-Schon einige Jahre später begann der Raum eine bemerkenswerte zweite Karriere. Aus der Milchbar wurde eine Kneipe. Die hellen Farben bekamen Gesellschaft von dunkleren Tönen, an den Wänden hingen Schallplatten, vor der Tür standen Motorräder, und aus der Milch wurde irgendwann auch Bier.[^milchbar]
-
-Die Jugend war geblieben.
-
-Nur ihre Getränke hatten sich verändert.
-
-Cpt. Faulmann mochte diese etwas unordentliche Biografie des Raumes.
-
-Man hätte die Milchbar auch sauber auf 1955 zurückstellen können: Milchgetränke, Nachkriegsoptimismus, fertig.
-
-Aber so sauber hatte der Ort selbst seine Geschichte nicht geführt.
-
-Im Raum roch es noch nach Zigarettenrauch.
-
-Nicht stark.
-
-Nur so, dass er da war.
-
-Cpt. Faulmann sah zu den Schallplatten.
-
-Vielleicht saß der Rauch in den Wänden. Vielleicht im Holz. Vielleicht hatten ihn einige der Plattenhüllen aufgenommen und gemeinsam mit der Musik aufbewahrt.
-
-Schallplatten waren dafür gemacht, Vergangenes wiederzugeben.
-
-Es war nirgends festgelegt, dass es ausschließlich Töne sein mussten.
-
-Nach einer Weile trat Cpt. Faulmann wieder hinaus.
-
-Einen Eiskaffee gab es nicht in der Milchbar, sondern am Kiosk davor.
-
-Das war bei zweiunddreißig Grad keine bedeutende historische Unstimmigkeit.
-
-Cpt. Faulmann bestellte einen.
-
-Die Frau am Kiosk empfahl ihm dazu einen bestimmten Platz im Schatten und erklärte den Weg dorthin ziemlich genau.
-
-Menschen, die Eiskaffee verkaufen, entwickeln vermutlich ein berufliches Verhältnis zur Sonne.
-
-Der Platz war gut.
-
-Cpt. Faulmann setzte sich.
-
-Der Eiskaffee blieb dort länger kalt.
-
-Cpt. Faulmann ebenfalls.
-
-Besucher gingen vorbei.
-
-Manche hielten Lagepläne in der Hand und sahen trotzdem suchend aus. Das Freilichtmuseum war groß genug, um sich mit guten Gründen zu verlaufen.
-
-Ein Kind lief hinter einem Erwachsenen her und fragte, wann sie endlich bei den alten Häusern seien.
-
-Der Erwachsene sah sich um.
-
-Sie seien bereits seit einer Stunde dort.
-
-Das Kind nahm dies als unbefriedigende Auskunft hin.
-
-Cpt. Faulmann blieb sitzen, bis der Schatten etwas weitergewandert war.
-
-Das Brot lag noch im Rucksack.
-
-Der Honig noch beim Imker.
-
-Beides schien den Nachmittag ohne weitere Betreuung zu bewältigen.
-
-Nach dem Eiskaffee ging Cpt. Faulmann noch ein wenig über den Museumsplatz.
-
-Die Vergangenheit hatte inzwischen ihre Fachwerkbalken weitgehend abgelegt.
-
-Da stand eine Gastwirtschaft, deren Geschichte deutlich unordentlicher war, als ihre Fassade zunächst vermuten ließ.
-
-Das Haus war fast dreihundert Jahre alt. Später hatten Wilhelm und Alwine Watteler darin ihre Gastwirtschaft betrieben. Wilhelm war Metzger, weshalb dort nicht nur getrunken, sondern auch ordentlich Fleisch umgesetzt worden war.[^watteler]
-
-Dann kam der Krieg.
-
-Das Haus wurde schwer beschädigt, die Familie ging fort und kehrte danach wieder zurück. Für den Wiederaufbau lieh Wilhelm Watteler bei Bauern Karren und Ochsen. Aus Köln holte er neue Steine. Seine Frau und die Kinder machten sie passend.[^watteler]
-
-Ein Familienbetrieb konnte damals offenbar auch bedeuten, dass man gemeinsam ein Haus wieder zusammensetzte.
-
-Danach wurde weitergebaut.
-
-Ein Saal kam hinzu. Der Eingang wurde verändert. Helle Fliesen zogen in den Flur ein, schwarze um die Fenster.
-
-Und irgendwann bekam der Schankraum bunte Fenster.
-
-Später wurden sie wieder ausgebaut und auf den Dachboden gelegt.
-
-Dort fand sie das Museum.
-
-Heute waren sie wieder eingebaut.[^watteler]
-
-Im Schankraum war erstaunlich viel im Original erhalten geblieben: Theke, Schränke, Tische, Stühle, Gläser, Geschirr, Bilder, sogar Bierdeckel und Knobelbecher. Unter einer späteren Vertäfelung hatte man außerdem Reste einer älteren Tapete gefunden und sie danach originalgetreu nachdrucken lassen.[^watteler]
-
-Cpt. Faulmann betrachtete einen der erhaltenen Reste.
-
-Ein Haus erinnerte sich nicht an einen einzigen Zustand.
-
-Es trug sie übereinander.
-
-Ein Stück weiter stand das Quelle-Fertighaus.[^marktplatz]
-
-Nach all den Häusern, deren Balken Zimmerleute einzeln behauen hatten, war das beinahe eine kleine Provokation.
-
-Ein Haus aus dem Katalog.
-
-Man bestellte nicht mehr nur Salz, Stoff oder Zahnpasta.
-
-Nun konnte man sich auch das Wohnen liefern lassen.
-
-Cpt. Faulmann fand daran nichts grundsätzlich Verwerfliches.
-
-Wer schon einmal auf einen Handwerker gewartet hatte, konnte der industriellen Vorfertigung eine gewisse historische Logik nicht absprechen.
-
-Bei zweiunddreißig Grad stellte sich ohnehin zunächst eine andere Frage.
-
-Ob das Ding Schatten hatte.
-
-Daneben erzählte der Bungalow Kahlenbusch eine weniger geradlinige Geschichte. Er war als Gaststätte und geplantes Hotel gedacht, blieb zeitweise Bauruine und wurde schließlich selbst Museumsexponat. Anders als die meisten Häuser hier musste er dafür nicht einmal umziehen: Er steht noch an seinem ursprünglichen Standort.[^marktplatz]
-
-Vor der Haustür standen drei Gartenzwerge.
-
-In den sechziger Jahren gehörten sie noch erstaunlich selbstverständlich in solche Vorgärten. Wenig später würde Cpt. Faulmann eine Ausstellung über Kitsch besuchen.
-
-Die Übergänge waren offenbar fließend.
-
-Innen warteten niedrige Decken, eher kleine Fenster und eine Wohnzimmereinrichtung im sogenannten Neo-Chippendale. Die in den 1980er-Jahren eingebauten Kunststofffenster hatte das Museum bewusst belassen.[^marktplatz]
-
-Nicht alles, was später hinzugekommen war, musste aus der Geschichte wieder hinaus.
-
-Auch die Moderne hatte ihre Ruinen produziert.
-
-Sie brauchte dafür offenbar nicht einmal besonders viele Jahrhunderte.
-
-Cpt. Faulmann sah noch einmal zurück.
-
-Bauernhaus, Postagentur, Mühle, Speicher, Milchbar, Fertighaus, Bungalow.
-
-Das Museum war längst nicht mehr nur eine Sammlung von Dingen, die "früher" gewesen waren.
-
-Das Früher rückte bedenklich nahe.
-
-Und dann erreichte Cpt. Faulmann die Sonderausstellung "Grässliche Glückseligkeit. Faszination Kitsch".[^kitsch]
-
-Sie rührte ihn mehr an, als er erwartet hatte.
-
-In den Räumen standen Dinge, die niedlich, feierlich, gerührt oder sehr von ihrer eigenen Bedeutung überzeugt waren.
-
-Porzellanfiguren, Bilder, Andenken und Gegenstände, denen man ansah, wie sie betrachtet werden wollten.
-
-Manche zeigten eine Welt, in der Trauer durchaus vorkommen durfte.
-
-Sie musste nur rechtzeitig von einem Sonnenuntergang angemessen beleuchtet werden.
-
-Milan Kundera hatte Kitsch als die "absolute Verneinung der Scheiße" bezeichnet.[^kundera]
-
-Cpt. Faulmann blieb vor einer besonders glücklichen Figur stehen.
-
-Dann betrachtete er seine eigene Lage.
-
-Ein sprechender, radelnder Bär mit Schiebermütze, der alte Häuser besuchte, warmes Brot mit sich führte und sich seit Stunden ungewöhnlich ausführlich für Honig interessierte, war in einer Ausstellung über Kitsch kein vollständig neutraler Beobachter.
-
-Cpt. Faulmann lebte schließlich selbst in einer Fabelwelt.
-
-Dort sprachen Bären, Füchse, Dachse und Maulwürfe miteinander.
-
-Sie tranken Tee, fuhren Rad und blieben an Dingen stehen, die andere vielleicht übersahen.
-
-Die Welt war oft freundlich gezeichnet.
-
-Bäume standen dort gewöhnlich an den richtigen Stellen, und selbst Regen erhielt mit etwas Abstand eine brauchbare Textur.
-
-Man konnte das tröstlich finden.
-
-Man konnte es auch verdächtig finden.
-
-Cpt. Faulmann hatte an diesem Tag allerdings einen Schrank gesehen, dessen Reparaturwissen langsam verschwand.
-
-Er hatte ungebackene Brote in einer heißen Backstube liegen sehen.
-
-Er hatte alten Zigarettenrauch gerochen und einem ehemaligen Bäcker zugehört, dessen Hände noch wussten, was seine Worte nur beschreiben konnten.
-
-Auch sein Hemd war inzwischen deutlich von zweiunddreißig Grad berührt.
-
-Die Scheiße war also nicht vollständig negiert.
-
-Vielleicht hatte man ihr nur nicht jeden Platz überlassen.
-
-Cpt. Faulmann sah noch einmal zu der glücklichen Figur.
-
-Sie blieb bei ihrer Auffassung.
-
-Eine letzte Überraschung wartete im Museumsladen.
-
-Dort stand der Honig des Imkers im Regal.
-
-Dasselbe Etikett.
-
-Derselbe Sommerhonig.
-
-Vielleicht sogar dasselbe Glas, obwohl Cpt. Faulmann ihm keine persönlichen Eigenschaften zuschreiben wollte, die sich später nur schwer belegen ließen.
-
-Er nahm es in die Hand.
-
-Hier konnte man mit Karte zahlen.
-
-Die Gegenwart hatte sich doch noch nützlich gemacht.
-
-Beim Bezahlen erzählte die Mitarbeiterin, dass an diesem Tag erstaunlich viele Besucher auch Met mitgenommen hätten.
-
-Warum gerade heute, wusste sie nicht.
-
-Vielleicht hatten Honig, Hitze und historische Häuser gemeinsam eine Nachfrage erzeugt, die keiner von ihnen allein hätte verantworten wollen.
-
-Cpt. Faulmann nahm die Entwicklung zur Kenntnis.
-
-Er blieb beim Honig.
-
-Für einen Tag war damit ausreichend Bienenwirtschaft in der Tasche.
-
-Das Glas kam neben das Brot in den Rucksack.
-
-Am Ausgang holte Cpt. Faulmann sein Fahrrad.
-
-Der Sattel war warm geworden.
-
-Das Wasser in der Flasche hatte sich der Umgebung weitgehend angepasst.
-
-Und das Telefon zeigte nur noch so viel Strom, wie Geräte gewöhnlich anzeigen, kurz bevor sie beschließen, dass die weitere Reise Privatsache sei.
-
-Cpt. Faulmann fuhr los.
-
-Die Navigation hielt zunächst durch.
-
-Der kleine Pfeil bewegte sich über die Karte und behauptete mit großer Sicherheit, Cpt. Faulmann befinde sich genau dort, wo er sich befand.
-
-Die Straßen lagen hell in der Nachmittagshitze.
-
-Schatten war seltener geworden, der Fahrtwind warm.
-
-Cpt. Faulmann fuhr ruhiger als am Morgen.
-
-Im Rucksack lagen das Museumsbrot und der Honig.
-
-Zwei Dinge, die während dieses Tages mehr Zeit verlangt hatten, als es beim Kauf zunächst den Anschein gehabt hatte.
-
-Dann wurde der Bildschirm dunkel.
-
-Cpt. Faulmann drückte auf den Knopf.
-
-Nichts.
-
-Das Telefon hatte seine Arbeit eingestellt.
-
-Die Gegend nicht.
-
-Vor ihm lag eine Abzweigung.
-
-Ein Schild zeigte zu einem Ort, dessen Name ihm bekannt vorkam, ohne dass daraus bereits eine Richtung geworden wäre.
-
-Cpt. Faulmann sah nach links.
-
-Dann nach rechts.
-
-Früher waren Menschen durch diese Landschaft gefahren, ohne dass ein kleiner Pfeil ihnen fortwährend bestätigte, wo sie waren.
-
-Sie hatten Schilder gelesen, Kirchtürme betrachtet und gelegentlich jemanden gefragt.
-
-Vermutlich waren sie auch falsch abgebogen.
-
-Die Vergangenheit war in dieser Hinsicht weniger romantisch, als ihre Landkarten heute wirkten.
-
-Cpt. Faulmann nahm den linken Weg.
-
-Er führte zwischen Feldern hindurch.
-
-Und sah nicht völlig falsch aus.
+Cpt. Faulmann nahm den linken Weg. Er führte zwischen Feldern hindurcH und nd sah nicht völlig falsch aus.
 
 Mehr ließ sich in diesem Augenblick nicht verlangen.
 
@@ -592,3 +166,5 @@ Mehr ließ sich in diesem Augenblick nicht verlangen.
 [^kitsch]: Die Sonderausstellung "Grässliche Glückseligkeit. Faszination Kitsch" läuft im Freilichtmuseum von Mai 2024 bis April 2027. Interessant ist weniger die Frage, ob ein einzelner Gegenstand nun "wirklich" kitschig sei, als die Tatsache, dass Kitsch immer auch von Nähe, Distanz und Zeit abhängt. Was einmal als rührselig, billig oder geschmacklos galt, kann später als Zeitzeugnis im Museum stehen. Nach einem Tag zwischen versetzten Bauernhäusern und einer ehemaligen Rockerkneipe war das keine ganz theoretische Frage mehr. Siehe LVR-Freilichtmuseum Kommern, ["Grässliche Glückseligkeit. Faszination Kitsch"](https://kommern.lvr.de/de/ausstellungen/faszination_kitsch/faszination_kitsch_1.html).
 
 [^kundera]: Bei Kundera ist Kitsch nicht einfach schlechter Geschmack. Er beschreibt damit eine Welt, aus der alles ausgeschlossen wird, was das saubere, rührende Bild des Daseins stören könnte. Deshalb die drastische Formel von der "absoluten Verneinung der Scheiße". Zum Kitsch gehört bei ihm außerdem eine Art gemeinschaftliche Rührung: Nicht nur das schöne Bild bewegt, sondern auch das Gefühl, dass alle anderen davon ebenfalls bewegt sein sollen. Das macht den Begriff für einen freundlich gezeichneten, radfahrenden Bären unangenehm brauchbar. Siehe Milan Kundera, *Die unerträgliche Leichtigkeit des Seins*, Teil 6, "Der Große Marsch".
+
+[^bauernferien]: Der bäuerliche Alltag schrieb lange nicht nur die Ferien, sondern auch die Uhrzeit der Schule mit. Kinder wurden auf Hof und Feld gebraucht, und Unterricht musste sich damit arrangieren. Wie lange diese Vorstellung nachwirkte, zeigt ein erstaunlicher Streit aus Baden-Württemberg: Noch 1959 wehrte sich der Bauernverband dagegen, dass Landschulen künftig nicht mehr vor 7.45 Uhr beginnen sollten; im Sommer wollte man weiterhin Unterricht ab sieben Uhr. Inzwischen werden die Kinder nachmittags nur noch selten zum Kühehüten benötigt. Der frühe Schulbeginn blieb vielerorts trotzdem. Ausgerechnet Jugendliche vertragen ihn biologisch besonders schlecht: Mit der Pubertät verschiebt sich ihre innere Uhr nach hinten, frühes Aufstehen führt dann leicht zu dauerhaftem Schlafmangel und einer Art sozialem Jetlag. Der bäuerliche Arbeitstag ist weitgehend verschwunden. Sein Wecker hat offenbar etwas länger durchgehalten. Siehe dazu DIE ZEIT, [„Nicht mehr wenn der Hahn kräht“](https://www.zeit.de/1959/16/nicht-mehr-wenn-der-hahn-kraeht), sowie Jan Freitag, [„Nein, noch nicht!“](https://www.zeit.de/2014/52/schule-beginn-uhrzeit-frueh-aufstehen).
