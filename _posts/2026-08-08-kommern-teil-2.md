@@ -35,6 +35,8 @@ Roggenbrot etwa. Sauerteig. Schwere Teige, große Mengen, viel Kneten. Wenn der 
 
 Cpt. Faulmann ging noch einmal an den Broten vorbei. Wärme, Zeit und jemand, der wusste, wann man besser nicht mehr daran herumdrückte. Für Brot war das nachweislich eine brauchbare Kombination. Im Stockwerk darüber galt vermutlich Ähnliches. Dort nannte man das Kneten nur anders.
 
+![](/assets/img/posts/2026-08-08-kommern-teil-2/schulhaus-backhaus.webp)
+
 Als er wieder hinaustrat, hatte der Tag seine anfängliche Zurückhaltung weitgehend aufgegeben. Die Wege lagen hell zwischen den Häusern, und Schatten begann langsam, als eigenes landschaftliches Angebot hervorzutreten. Bei der Gastwirtschaft "Zur Post" blieb Cpt. Faulmann vor dem alten Postschalter stehen. Holz, kleine Öffnungen, Ablagen, Schubladen. Eine sorgfältig gebaute Grenze zwischen denen, die eine Nachricht aufgeben wollten, und denen, die dafür zuständig waren, dass sie irgendwann ankam.
 
 Solche kleinen Postagenturen hatten sich im späten 19. Jahrhundert auf dem Land ausgebreitet. Oft betrieb sie der Gastwirt nebenher. Das eigentliche Postamt lag vielleicht im nächsten größeren Ort oder am Bahnhof.[^post] Ein Brief hatte damals Gewicht. Er lag in einer Tasche, wurde gestempelt, sortiert und weitergetragen. Eine Nachricht konnte mehrere Tage unterwegs sein und besaß trotzdem die Höflichkeit, nicht unterwegs noch dreimal ergänzt zu werden. Dafür musste man warten. Jede Zeit entwickelt ihre eigene Form der Ungeduld.
@@ -71,6 +73,8 @@ In einem alten Hallenhaus lag die Küche nahe an der großen Diele. Wohnen, Stal
 
 Der Bär blieb an einer Herdstelle stehen. Ein Topf hätte hier früher über einem Feuer gehangen, ein Wendebaum hätte ihn aus der Flamme gedreht. Salz lagerte trocken in einem Kasten nahe der Wärme - teuer, wichtig und eines jener Dinge, die selbst ein weitgehend selbstversorgender Hof von irgendwoher bekommen musste.[^hallenhaus] Man konnte damals ohne Just-in-time-Supply-Chain ziemlich autark leben. Für Salz blieb die Welt trotzdem größer als das eigene Grundstück.
 
+![](/assets/img/posts/2026-08-08-kommern-teil-2/hallenhaus.webp)
+
 Dann öffnete sich die Landschaft wieder. Vom Bergischen Land führte der Weg hinunter zum Niederrhein. Die Höfe wurden größer, die Dächer breiter, zwischen den Gebäuden lag mehr Raum. Wasser und Wiesen veränderten den Ton der Landschaft. Hinter einem Flechtzaun und einer schmalen Wasserfläche stand der Speicher aus Lürrip. Er war alt, informierte ein Schild. Sehr alt sogar. Seine ältesten Teile stammten aus dem 15. Jahrhundert. Später hatte man einen jüngeren Hof um ihn herumgebaut und den Speicher so vollständig in dessen Gebäude aufgenommen, dass er darin für Jahrhunderte beinahe verschwand.[^luerrip]
 
 Erst als dieser jüngere Hof abgebaut wurde, kam der ältere Bau wieder zum Vorschein. Ein Haus hatte ein anderes verborgen. Das jüngere war verschwunden. Das ältere stand nun im Freilichtmuseum und ließ sich betrachten. In diesem Speicher waren einmal Vorräte aufgehoben worden. Getreide, Saatgut, Dinge, die trocken bleiben und einen Winter überstehen mussten. Nun wurde vor allem der Speicher aufgehoben.
@@ -90,6 +94,8 @@ Vor einer Milchbar warteten bereits eine Telefonzelle und einige Parkuhren. Ding
 Die Telefonzelle versprach damals Verbindung, allerdings nur für Menschen mit Kleingeld. Die Parkuhr maß Zeit ebenfalls in Münzen. Die Moderne war offenbar bereits sehr früh der Ansicht gewesen, dass beides - Zeit und Kommunikation - vor allem eine Frage passender Stückelung sei.
 
 Wie auch immer. Nach all dem dunklen Holz, den Herdstellen, Speichern und Jahrhunderten erschien die Milchbar ausgesprochen blau und ausgesprochen gelb. Die fünfziger Jahre hatten offenbar angenommen, dass die Zukunft vor allem aus klaren Farben, Barhockern und gut gelaunten Fischen bestehen würde. Cpt. Faulmann trat ein.
+
+![](/assets/img/posts/2026-08-08-kommern-teil-2/milchbar.webp)
 
 Die Bar war 1955 in Brühl eröffnet worden. Zunächst als moderner, alkoholfreier Treffpunkt für junge Leute.[^milchbar] Dabei blieb es nicht. Schon einige Jahre später begann der Raum eine bemerkenswerte zweite Karriere. Aus der Milchbar wurde eine Kneipe. Die hellen Farben bekamen Gesellschaft von dunkleren Tönen, an den Wänden hingen Schallplatten, vor der Tür standen Motorräder, und aus der Milch wurde irgendwann auch Bier.[^milchbar] Die Jugend war geblieben. Nur ihre Getränke hatten sich verändert. Cpt. Faulmann mochte diese etwas unordentliche Biografie des Raumes. Die verschiedenen Zeiten existierten hier nonchalant nebeneinanderher.
 
