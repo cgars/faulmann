@@ -3,7 +3,7 @@ layout: post
 title: "Zweiunddreißig Grad und einige Jahrhunderte"
 subtitle: "Cpt. Faulmann in Kommern - Teil 2"
 date: 2026-08-08
-published: false
+published: true
 tags: [faulmann, kommern, freilichtmuseum, brot, windmuehle, niederrhein, milchbar]
 ---
 
