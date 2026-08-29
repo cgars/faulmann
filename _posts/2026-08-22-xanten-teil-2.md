@@ -422,21 +422,31 @@ Als aus der Suche eine Rettung wird, setzt sich dieselbe Verbindung erneut in Be
 
 Dachsbert richtete sich auf.
 
-"Im Namen der Colonia ernenne ich Euch hiermit zur vorläufigen städtischen Oberaufseherin für Nothilfe und Gastfreundschaft."
-
-"Was ändert sich dadurch?", fragte die Händlerin.
-
-"Marcellus schreibt es auf", sagte Dachsbert.
+"Im Namen der Colonia und unter dem Schutz des Geschlechts der Melesbertier ernenne ich Euch hiermit zur städtischen Oberaufseherin für Nothilfe und Gastfreundschaft."
 
 Marcellus schrieb es auf.
 
-"Und die Stadt ersetzt ihr die Auslagen", sagte Liora.
+"Du hast sie gerade in die Klientel deines Hauses aufgenommen", sagte Liora.
 
-Marcellus sah kurz zu Dachsbert.
+Dachsbert sah zu Marcellus.
+
+"Das ist noch kein Adel."
+
+"Für ein Geschlecht, das seit heute Morgen besteht, kommt es dem ziemlich nahe."
+
+"Gilt das Amt nur für heute?", fragte die Händlerin.
+
+"Ich habe keine Befristung genannt", sagte Dachsbert.
+
+Die Händlerin nickte.
+
+"Und die Stadt ersetzt mir die Auslagen."
+
+Marcellus sah wieder zu Dachsbert.
 
 "Schreiben Sie auch das auf", sagte Dachsbert.
 
-Die neue Oberaufseherin nickte und schickte zwei Laufburschen zum Bäcker.
+Die neue Oberaufseherin der Colonia schickte zwei Laufburschen zum Bäcker.
 
 ### Das Amphitheater
 
