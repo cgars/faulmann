@@ -70,7 +70,7 @@ Der Centurio drehte sich um.
 
 Marcellus trat einen Schritt vor.
 
-"Dachsbert. Der Ehrengast aus der Colonia Agrippinensis, zu den Festtagen und den Spielen. Reisender Würdenträger, Aufseher über Nebenwege und vorläufiger Beauftragter für Besichtigungen."
+"Dachsbertus. Der Ehrengast aus Rom, auf der Reise durch die Provinz, zu den Festtagen und den Spielen. Aus dem Geschlecht der Melesbertier, reisender Würdenträger, Aufseher über Nebenwege und vorläufiger Beauftragter für Besichtigungen."
 
 Dachsbert sah Marcellus an. Marcellus hatte die Tafel am Tor sehr ordentlich geführt.
 
@@ -407,6 +407,12 @@ Mummrich prüft den schwachen Zulauf. Ein Arbeiter des Bautrupps hat seinen Bech
 ![Die schweren Karren haben Lehm, Holzspäne und tiefe Spuren in den Straßen der Colonia hinterlassen.](/assets/img/posts/2026-08-22-xanten/06-karrenspur.webp)
 
 Die Spur führt durch die Wohnstadt in Richtung Amphitheater. Händler, Handwerker und Anwohner werden aus zufälligen Beobachtern allmählich zu Zeugen.
+
+### Gastfreundschaft mit Reichweite
+
+Liora kehrt zur Obsthändlerin zurück. Gemeinsam schicken sie die Frage nach den zwei Karren über Händler, Kunden, Laufburschen und Lieferwege durch die Stadt. Eine der Antworten liefert die entscheidende Beobachtung: Secundus fuhr nicht in die Arena, sondern nahm den äußeren Versorgungsweg.
+
+Als aus der Suche eine Rettung wird, setzt sich dieselbe Verbindung erneut in Bewegung. Noch bevor ein Amt etwas anordnet, stehen am Versorgungsweg Körbe mit Brot und Obst, Krüge mit Wasser und Tücher für Verletzte bereit. Liora organisiert die Verteilung; die Händlerin sorgt dafür, dass der Nachschub nicht abreißt.
 
 ### Das Amphitheater
 
