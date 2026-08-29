@@ -414,6 +414,30 @@ Liora kehrt zur Obsthändlerin zurück. Gemeinsam schicken sie die Frage nach de
 
 Als aus der Suche eine Rettung wird, setzt sich dieselbe Verbindung erneut in Bewegung. Noch bevor ein Amt etwas anordnet, stehen am Versorgungsweg Körbe mit Brot und Obst, Krüge mit Wasser und Tücher für Verletzte bereit. Liora organisiert die Verteilung; die Händlerin sorgt dafür, dass der Nachschub nicht abreißt.
 
+"Du erfindest doch Ämter", sagte Liora zu Dachsbert.
+
+"Nur, soweit sie benötigt werden."
+
+"Gut. Wir benötigen eines."
+
+Dachsbert richtete sich auf.
+
+"Im Namen der Colonia ernenne ich Euch hiermit zur vorläufigen städtischen Oberaufseherin für Nothilfe und Gastfreundschaft."
+
+"Was ändert sich dadurch?", fragte die Händlerin.
+
+"Marcellus schreibt es auf", sagte Dachsbert.
+
+Marcellus schrieb es auf.
+
+"Und die Stadt ersetzt ihr die Auslagen", sagte Liora.
+
+Marcellus sah kurz zu Dachsbert.
+
+"Schreiben Sie auch das auf", sagte Dachsbert.
+
+Die neue Oberaufseherin nickte und schickte zwei Laufburschen zum Bäcker.
+
 ### Das Amphitheater
 
 ![Während draußen das Spektakel läuft, liegt die brauchbare Spur im dunklen Seitengang.](/assets/img/posts/2026-08-22-xanten/07-amphitheater.webp)
