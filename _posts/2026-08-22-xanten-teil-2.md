@@ -22,7 +22,7 @@ Faulmann betrachtete die Ausrüstung.
 
 Marcellus sah ihn an.
 
-"Wie sollen sie sonst bauen?" (vielleicht fussnote und erklärung)
+"Wie sollen sie sonst bauen?"[^legion]
 
 Am Kai lag ein flaches Lastschiff. Sein breiter Rumpf saß tief im Wasser, obwohl das Deck inzwischen leer war. Zwei Männer rollten Taue zusammen. Hinter ihnen ragte ein hölzerner Ladekran über die Kaimauer. Ein Arbeiter drehte die Winde zurück, während ein anderer den Haken führte. Säcke, Amphoren und Holzkisten wurden unter die Arkaden der Speicher gebracht.
 
@@ -50,7 +50,7 @@ Der Centurio sah ihn eine Weile an.
 
 "Das hatte ich bereits aus ihrer Abwesenheit geschlossen."
 
-Der Hafenaufseher war ein breiter Mann mit sonnenverbranntem Gesicht. Er hielt eine zusammengerollte Ladeliste in der Hand (bisher ist alles immer auf wachs notiert aber vielleihct kann das trotzdem sein?). Offenbar hatte man ihm den Unterschied zwischen einer Erklärung und einer Wiederholung bislang nicht amtlich mitgeteilt.
+Der Hafenaufseher war ein breiter Mann mit sonnenverbranntem Gesicht. Er hielt eine zusammengeklappte Wachstafel in der Hand. Offenbar hatte man ihm den Unterschied zwischen einer Erklärung und einer Wiederholung bislang nicht amtlich mitgeteilt.
 
 Neben ihm stand ein weiterer Mann mit zerknirschtem Gesichtsausdruck. Seine helle Toga war am Saum bereits mit Hafenstaub bedeckt. Zwei städtische Schreiber hielten sich in seiner Nähe auf. Einer schrieb mit. Der andere bemühte sich, nicht als derjenige auszusehen, der später erklären musste, weshalb zwölf Balken fehlten.
 
@@ -110,8 +110,11 @@ Dachsbert wandte sich wieder an den Centurio.
 
 "Wann wurden die Balken zuletzt gesehen?"
 
-"Marcus Flavius Crispus", sagte der Centurio. "Centurio der Legio XXX Ulpia Victrix. Wir kamen aus Vetera, um das Holz zu übernehmen."
-(warum stellt sich der centurio als antwort auf eine frage vor?)
+"Gestern in der achten Stunde", sagte der Centurio. "Heute sollten wir sie nach Vetera bringen."
+
+Varro deutete auf ihn.
+
+"Marcus Flavius Crispus, Centurio der Legio XXX Ulpia Victrix."
 
 Auf seinem Gürtel und den Metallbeschlägen des Wagens wiederholte sich das Zeichen der Dreißigsten Legion.
 
@@ -121,9 +124,7 @@ Auf seinem Gürtel und den Metallbeschlägen des Wagens wiederholte sich das Zei
 
 "Er beschriftete großzügig", sagte Faulmann.
 
-Crispus zeigte auf die leere Lagerbucht.
-
-"Die Balken kamen gestern mit dem Lastschiff an. Heute sollten sie ins Lager gebracht werden."
+"Die Balken waren für Arbeiten an unserem Lager bestimmt", sagte Crispus.
 
 "Für Bauarbeiten?", fragte Dachsbert.
 
@@ -133,7 +134,7 @@ Faulmann sah noch einmal auf die Hebelstangen und Rollen.
 
 "Der Wagen hatte bereits einen Hinweis gegeben."
 
-Der Hafenaufseher entrollte seine Liste.
+Der Hafenaufseher klappte seine Wachstafel auf.
 
 "Zwölf Eichenbalken, jeder achtzehn Fuß lang. Entladen gestern in der achten Stunde. In Bucht sieben auf Querhölzern gelagert. Der Zugang wurde versiegelt."
 
@@ -147,7 +148,15 @@ Crispus drehte sich langsam zu ihm um.
 
 "Secundus hatte eine Vollmacht."
 
-(hier muss eigentlich schon gefragt werden wer dieserr secundus ist)
+"Wer ist Secundus?", fragte Liora.
+
+"Der leitende Wassermeister", sagte Varro. "Er beaufsichtigt die Zuleitungen, Verteiler und öffentlichen Brunnen."
+
+"Und offenbar den militärischen Holzbestand", sagte Crispus.
+
+"Nicht regelmäßig."
+
+"Das beruhigt mich."
 
 Mummrich war inzwischen in die Lagerbucht getreten. Er kniete neben einem der Querhölzer und betrachtete die Druckstellen.
 
@@ -187,17 +196,7 @@ Der Hafenaufseher reichte Varro eine kleine Wachstafel. Der Duumvir prüfte den 
 
 Die Buchstaben standen klein und dicht in der dunklen Wachsschicht. Dachsbert hielt die Tafel näher ans Licht. Liora trat neben ihn und neigte sie ein wenig, bis die eingeritzten Linien deutlicher hervortraten.
 
-"Wer ist Secundus?", fragte sie.
-
-"Der leitende Wassermeister", sagte Varro. "Er beaufsichtigt die Zuleitungen, Verteiler und öffentlichen Brunnen."
-
-"Und offenbar den militärischen Holzbestand", sagte Crispus.
-
-"Nicht regelmäßig."
-
-"Das beruhigt mich."
-
-Liora las weiter.
+Liora begann zu lesen.
 
 "Gefährliche Unterspülung an einer Leitung im südlichen Stadtgebiet. Zur sofortigen Sicherung werden schwere Balken, zwei Karren und Arbeitskräfte benötigt. Verzögerung gefährdet die Wasserversorgung und angrenzende Bauwerke."
 
@@ -251,7 +250,7 @@ Varro betrachtete Dachsbert zufrieden.
 
 "Ihr führt sie ungewöhnlich."
 
-"Ich habe einge Fragen gestellt."
+"Ich habe einige Fragen gestellt."
 
 Marcellus prüfte seine Wachstafel.
 
@@ -363,7 +362,7 @@ Dachsbert sah Varro nach.
 
 Marcellus ritzte einige Worte in seine Wachstafel.
 
-"Investigator maximus (ist das ein guter titel), vorläufig", las er vor.
+"Investigator maximus, vorläufig", las er vor.
 
 Dachsbert strich seinen Purpurstreifen glatt.
 
@@ -453,5 +452,7 @@ Der Aufseher erinnert sich, dass Secundus nicht in die Arena fuhr. Die Karren na
 
 [← Zu Teil 1: Ein Purpurstreifen genügt]({{ '/xanten/teil-1/' | relative_url }})
 
+
+[^legion]: Römische Legionen waren nicht nur Kampfverbände. Sie errichteten Lager, Befestigungen, Straßen und Brücken und verfügten dafür über Handwerker und andere Fachleute. Bauinschriften und gestempelte Ziegel zeigen bis heute, welche Einheit an einem Bau beteiligt war.
 
 [^posca]: Posca bestand im Wesentlichen aus Wasser und Essig und war ein einfacher römischer Durstlöscher. Das "Kriminalisieren" spielt auf die Fernsehfigur *Pfarrer Braun* an, die vor ihren Ermittlungen eine Prise Schnupftabak nahm. Liora ersetzt sie aus naheliegenden Gründen durch ein Getränk.
