@@ -22,7 +22,7 @@ Faulmann betrachtete die Ausrüstung.
 
 Marcellus sah ihn an.
 
-"Wie sollen sie sonst bauen?"
+"Wie sollen sie sonst bauen?" (vielleicht fussnote und erklärung)
 
 Am Kai lag ein flaches Lastschiff. Sein breiter Rumpf saß tief im Wasser, obwohl das Deck inzwischen leer war. Zwei Männer rollten Taue zusammen. Hinter ihnen ragte ein hölzerner Ladekran über die Kaimauer. Ein Arbeiter drehte die Winde zurück, während ein anderer den Haken führte. Säcke, Amphoren und Holzkisten wurden unter die Arkaden der Speicher gebracht.
 
@@ -50,7 +50,7 @@ Der Centurio sah ihn eine Weile an.
 
 "Das hatte ich bereits aus ihrer Abwesenheit geschlossen."
 
-Der Hafenaufseher war ein breiter Mann mit sonnenverbranntem Gesicht. Er hielt eine zusammengerollte Ladeliste in der Hand. Offenbar hatte man ihm den Unterschied zwischen einer Erklärung und einer Wiederholung bislang nicht amtlich mitgeteilt.
+Der Hafenaufseher war ein breiter Mann mit sonnenverbranntem Gesicht. Er hielt eine zusammengerollte Ladeliste in der Hand (bisher ist alles immer auf wachs notiert aber vielleihct kann das trotzdem sein?). Offenbar hatte man ihm den Unterschied zwischen einer Erklärung und einer Wiederholung bislang nicht amtlich mitgeteilt.
 
 Neben ihm stand ein weiterer Mann mit zerknirschtem Gesichtsausdruck. Seine helle Toga war am Saum bereits mit Hafenstaub bedeckt. Zwei städtische Schreiber hielten sich in seiner Nähe auf. Einer schrieb mit. Der andere bemühte sich, nicht als derjenige auszusehen, der später erklären musste, weshalb zwölf Balken fehlten.
 
@@ -111,6 +111,7 @@ Dachsbert wandte sich wieder an den Centurio.
 "Wann wurden die Balken zuletzt gesehen?"
 
 "Marcus Flavius Crispus", sagte der Centurio. "Centurio der Legio XXX Ulpia Victrix. Wir kamen aus Vetera, um das Holz zu übernehmen."
+(warum stellt sich der centurio als antwort auf eine frage vor?)
 
 Auf seinem Gürtel und den Metallbeschlägen des Wagens wiederholte sich das Zeichen der Dreißigsten Legion.
 
@@ -146,6 +147,8 @@ Crispus drehte sich langsam zu ihm um.
 
 "Secundus hatte eine Vollmacht."
 
+(hier muss eigentlich schon gefragt werden wer dieserr secundus ist)
+
 Mummrich war inzwischen in die Lagerbucht getreten. Er kniete neben einem der Querhölzer und betrachtete die Druckstellen.
 
 "Die Balken waren hier", sagte er.
@@ -176,7 +179,7 @@ Für einen Augenblick war nur das Knarren der Hafenwinde zu hören.
 
 "Der Wassermeister hatte einen Notfall."
 
-"Der Wassermeister hatte vor allem mein Holz."
+"Der Wassermeister hat vor allem mein Holz."
 
 "Zu diesem Zeitpunkt hatte er vor allem eine amtlich versiegelte Vollmacht."
 
@@ -228,7 +231,7 @@ Varro hob beschwichtigend die Hand.
 
 "Genau", sagte Crispus.
 
-"Mit ihr lassen sich Advokaten einige Monate beschäftigen. Für eine schnelle und praktische Untersuchung würde ich zunächst das Holz suchen."
+"Mit ihr lassen sich Advokaten einige Monate beschäftigen. Für eine schnelle und praktische Untersuchung würde ich aber zunächst das Holz suchen."
 
 Dachsbert nickte.
 
@@ -248,7 +251,7 @@ Varro betrachtete Dachsbert zufrieden.
 
 "Ihr führt sie ungewöhnlich."
 
-"Ich habe lediglich fünf Fragen gestellt."
+"Ich habe einge Fragen gestellt."
 
 Marcellus prüfte seine Wachstafel.
 
@@ -275,10 +278,6 @@ Der Hafenaufseher zeigte die Straße hinauf.
 "Niemand hat ihn hier gesehen."
 
 Varro zog die Stirn kraus.
-
-"Er ist auch nicht im Wasseramt?"
-
-"Nein."
 
 "An der Schadstelle?"
 
@@ -364,7 +363,7 @@ Dachsbert sah Varro nach.
 
 Marcellus ritzte einige Worte in seine Wachstafel.
 
-"Beauftragter, vorläufig", las er vor.
+"Investigator maximus (ist das ein guter titel), vorläufig", las er vor.
 
 Dachsbert strich seinen Purpurstreifen glatt.
 
