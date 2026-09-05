@@ -128,7 +128,7 @@ Auf seinem Gürtel und den Metallbeschlägen des Wagens wiederholte sich das Zei
 
 "Für Bauarbeiten?", fragte Dachsbert.
 
-"Legionäre bauen häufiger, als Außenstehende offenbar vermuten."
+"Wer, glaubt Ihr, baut unsere Lager, Straßen und Brücken?"
 
 Faulmann sah noch einmal auf die Hebelstangen und Rollen.
 
@@ -192,7 +192,7 @@ Für einen Augenblick war nur das Knarren der Hafenwinde zu hören.
 
 "Zu diesem Zeitpunkt hatte er vor allem eine amtlich versiegelte Vollmacht."
 
-Der Hafenaufseher reichte Varro eine kleine Wachstafel. Der Duumvir prüfte den Siegelabdruck auf den verschnürten Tafeln, öffnete sie und gab sie Dachsbert.
+Der Hafenaufseher reichte Varro eine verschnürte Doppeltafel. Der Duumvir prüfte den Siegelabdruck, löste die Schnur und klappte sie auf. Dann gab er sie Dachsbert.
 
 Die Buchstaben standen klein und dicht in der dunklen Wachsschicht. Dachsbert hielt die Tafel näher ans Licht. Liora trat neben ihn und neigte sie ein wenig, bis die eingeritzten Linien deutlicher hervortraten.
 
@@ -275,6 +275,14 @@ Der Hafenaufseher zeigte die Straße hinauf.
 "Und seitdem?"
 
 "Niemand hat ihn hier gesehen."
+
+Liora sah die Straße hinauf.
+
+"Dann suchen wir nicht nur nach zwölf Balken."
+
+Crispus folgte ihrem Blick.
+
+"Offenbar nicht."
 
 Varro zog die Stirn kraus.
 
