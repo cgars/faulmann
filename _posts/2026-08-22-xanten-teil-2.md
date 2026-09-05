@@ -128,7 +128,7 @@ Auf seinem Gürtel und den Metallbeschlägen des Wagens wiederholte sich das Zei
 
 "Für Bauarbeiten?", fragte Dachsbert.
 
-"Wer, glaubt Ihr, baut unsere Lager, Straßen und Brücken?"
+"Unser Lager baut und unterhält sich nicht selbst."
 
 Faulmann sah noch einmal auf die Hebelstangen und Rollen.
 
