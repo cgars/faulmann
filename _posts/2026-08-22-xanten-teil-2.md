@@ -328,9 +328,9 @@ Alle sahen ihn an.
 
 Liora sah zu Dachsbert.
 
-"Wir sollten mit dem Bäcker sprechen. Er kann uns sicher einige Fragen beantworten. Außerdem braucht der ermittelnde Ehrendachs einen Becher Posca auf die Pfote, um zu kriminalisieren."[^posca]
+"Wir sollten mit dem Bäcker sprechen. Er kann uns sicher einige Fragen beantworten. Außerdem braucht der ermittelnde Ehrendachs einen Becher guten Mulsum auf die Pfote, um zu kriminalisieren."[^mulsum]
 
-"Ich benötige weder einen neuen Titel noch Essigwasser zum Denken", sagte Dachsbert.
+"Ich benötige weder einen neuen Titel noch Honigwein zum Denken", sagte Dachsbert.
 
 "Den Titel hast du bereits", sagte Liora.
 
@@ -455,4 +455,4 @@ Der Aufseher erinnert sich, dass Secundus nicht in die Arena fuhr. Die Karren na
 
 [^legion]: Römische Legionen waren nicht nur Kampfverbände. Sie errichteten Lager, Befestigungen, Straßen und Brücken und verfügten dafür über Handwerker und andere Fachleute. Bauinschriften und gestempelte Ziegel zeigen bis heute, welche Einheit an einem Bau beteiligt war.
 
-[^posca]: Posca bestand im Wesentlichen aus Wasser und Essig und war ein einfacher römischer Durstlöscher. Das "Kriminalisieren" spielt auf die Fernsehfigur *Pfarrer Braun* an, die vor ihren Ermittlungen eine Prise Schnupftabak nahm. Liora ersetzt sie aus naheliegenden Gründen durch ein Getränk.
+[^mulsum]: Mulsum war kein Met, sondern mit Honig gesüßter Wein und wurde häufig zu Beginn einer Mahlzeit gereicht. Je nach verwendetem Wein und Honig konnte er durchaus einem Ehrengast angemessen sein. Dass Liora ihn selbstverständlich beim Bäcker und noch dazu zum Mitnehmen erwartet, ist dagegen ihr moderner Kurzschluss: Für ein ausgeschenktes Getränk wäre eher eine Schankstube oder ein Speiselokal zuständig gewesen. Das "Kriminalisieren" spielt auf die Fernsehfigur *Pfarrer Braun* an, die vor ihren Ermittlungen eine Prise Schnupftabak nahm.
