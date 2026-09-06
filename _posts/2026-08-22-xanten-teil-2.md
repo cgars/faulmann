@@ -630,7 +630,7 @@ Cassianus deutete auf Mummrich.
 
 "Er unterstützt die Untersuchung."
 
-Mummrich hob einen der Abschnitte an. Das Holz war hell und feucht. Auf der Schnittfläche standen grobe Fasern, im Sägeschnitt klebte frisches Mehl.
+Mummrich hob einen der Abschnitte an (der müsste eigentlich zu schwer sein). Das Holz war hell und feucht. Auf der Schnittfläche standen grobe Fasern, im Sägeschnitt klebte frisches Mehl.
 
 "Das ist Eiche", sagte er.
 
@@ -638,7 +638,7 @@ Crispus verschränkte die Arme.
 
 "Das wissen wir."
 
-"Diese hier wurde heute Morgen geschnitten."
+"Diese hier wurde heute Morgen geschnitten." (eigentlich können die Balken nicht mehr hier sein)
 
 Cassianus nickte.
 
@@ -678,15 +678,15 @@ Cassianus sah ihn an.
 
 Crispus folgte seinem Blick. Neben der Wand befanden sich acht kurze Abschnitte, sauber nach Länge gestapelt.
 
-Mummrich legte das Holzstück zurück.
+Mummrich legte das Holzstück zurück. 
 
 "Wer einen Balken unkenntlich machen will, lässt selten ausgerechnet die handlichsten Teile beim Zimmermann."
 
 "Vielleicht sollten sie uns täuschen", sagte Crispus.
 
-"Dann erfüllen sie ihren Zweck sehr ordentlich", sagte Faulmann.
+"Dann erfüllen sie ihren Zweck sehr ordentlich nicht", sagte Faulmann.
 
-Aus der Schmiede kam ein breitschultriger Mann. In einer Zange hielt er einen dunklen Eisenkeil. Er legte ihn zu mehreren anderen auf einen Tisch und tauchte die Zange in einen Wassereimer.
+Aus der Schmiede kam ein breitschultriger Mann. In einer Zange hielt er einen dunklen Eisenkeil. Er legte ihn zu mehreren anderen auf einen Tisch und tauchte die Zange in einen Wassereimer. (wir müssen ausarbeiten das die keile sozusagen zusätzlich sind, eigentlich wollte der wassermeister wiederkommen weil absehbar war das sie noch mehr bnrauchen würden)
 
 "Von dieser Form?", fragte Dachsbert.
 
@@ -714,7 +714,7 @@ Crispus drehte den Keil in der Hand.
 
 "Man könnte trotzdem Holz damit spalten."
 
-"Man kann mit einem Becher einen Nagel einschlagen", sagte Mummrich. "Deshalb bestellt kein Zimmermann Becher."
+"Man kann mit einem Becher einen Nagel einschlagen", sagte Mummrich. "Deshalb bestellt trotzdem kein Zimmermann Becher."
 
 Dachsbert sah auf die Pfote, in der sich kein Tonbecher mehr befand.
 
@@ -756,7 +756,7 @@ Crispus zog an dem Seil.
 
 "Das kann jeder versprechen."
 
-"Nicht jeder hinterlässt dafür seine Werkzeuge als Pfand."
+"Nicht jeder hinterlässt dafür seine Werkzeuge als Pfand." s
 
 Cassianus zeigte auf eine Ledertasche neben der Werkbank. Darin steckten Messstäbe, ein Lot, ein Winkel und zwei eiserne Schreibgriffel.
 
@@ -824,7 +824,7 @@ Hinter ihnen setzte sich der Steinblock wieder in Bewegung. Die Männer drehten 
 
 Mummrich blieb noch einen Augenblick stehen.
 
-"Drei Rollen", sagte er.
+"Drei Rollen", sagte er. (er sollte hier die verstärkung bennen, das weist ihn zusätzlich aus)
 
 Cassianus nickte.
 
