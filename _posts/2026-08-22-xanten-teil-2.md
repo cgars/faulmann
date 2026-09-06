@@ -582,7 +582,7 @@ Der Werkhof begann dort, wo die Portikus endete. Zwischen den Häusern lag ein b
 
 Mitten auf dem Platz hing ein Steinblock eine Handbreit über dem Boden.
 
-Das Seil war oben am Gerüst befestigt, lief zweimal hinab zu zwei am Stein angeschlagenen Rollen und dazwischen über eine feste Rolle zur hölzernen Winde. Zwei Männer drehten sie langsam. Ein dritter hielt den Block mit einem Führungsseil davon ab, sich zu drehen.
+Das Seil, an dem er hing, lief in vier tragenden Strängen durch einen hölzernen Flaschenzug, bevor es zur Winde führte. Zwei Männer drehten sie langsam. Ein dritter hielt den Block mit einem Führungsseil davon ab, sich zu drehen.
 
 Mummrich blieb stehen.
 
@@ -838,7 +838,7 @@ Hinter ihnen setzte sich der Steinblock wieder in Bewegung. Die Männer drehten 
 
 Mummrich blieb noch einen Augenblick stehen.
 
-"Drei Rollen, vier tragende Seilstränge", sagte er. "Nahezu vierfache Kraftverstärkung."
+"Vier tragende Seilstränge", sagte er. "Theoretisch vierfache Kraftverstärkung."
 
 Cassianus sah ihn zum ersten Mal anerkennend an.
 
