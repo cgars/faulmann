@@ -32,21 +32,21 @@ Er sah kurz wieder auf den Tisch und dann noch einmal nach oben. Der Flügel war
 
 Das war selbst für Köln ungewöhnlich.
 
-Es war ein Tragflügel der **Lockheed F-104G Starfighter**. Die F-104 hatte ungewöhnlich kleine und dünne Tragflächen. Ihre Vorderkanten waren tatsächlich so scharf, dass sie am Boden mit Schutzleisten abgedeckt werden mussten, damit sich niemand daran verletzte.[^5]
+Es war ein Tragflügel der **Lockheed F-104G Starfighter**. Die F-104 hatte ungewöhnlich kleine und dünne Tragflächen. Ihre Vorderkanten waren nur ungefähr 0,4 Millimeter stark - so scharf, dass sie am Boden mit Schutzleisten abgedeckt werden mussten, damit sich niemand daran verletzte.
 
 "Ein bisschen scharf" war offenbar eine Frage des Standorts.
 
-Früher befand sich in denselben Räumen die **Pilot Lounge**. Die Bar eröffnete im Dezember 2005 und nahm das Fliegen recht wörtlich. Der Flügel hing schon damals hier. In Schaukästen lagen Fliegertrophäen, die Cocktails hießen "Iron Eagle" und "Top Gun Trophy", und unter den Gästen fanden sich laut einer alten Lokalbeschreibung Hobbyflieger, Modellbauer und Stewardessen.[^2]
+Früher befand sich in denselben Räumen die **Pilot Lounge**. Die Bar eröffnete im Dezember 2005 und nahm das Fliegen recht wörtlich. Der Flügel hing schon damals hier. In Schaukästen lagen Fliegertrophäen, die Cocktails hießen "Iron Eagle" und "Top Gun Trophy", und unter den Gästen fanden sich laut einer alten Lokalbeschreibung Hobbyflieger, Modellbauer und Stewardessen.
 
 Die Pilot Lounge verschwand. Der Starfighter blieb.
 
-Faulmann betrachtete nun den Rest des Raumes genauer. Leuchtstoffröhren hingen an den Wänden. Auf einem Sims versammelten sich hinduistische Gottheiten, Buddhafiguren, der heilige Franziskus, Mutter Teresa und ein paar Flaschen. Das wirkte nicht wie ein nachträglich ausgedachtes Einrichtungskonzept. Es war eher das, was entsteht, wenn ein Ort lange genug Dinge aufnehmen und behalten darf.[^1]
+Faulmann betrachtete nun den Rest des Raumes genauer. Leuchtstoffröhren hingen an den Wänden. Auf einem Sims versammelten sich hinduistische Gottheiten, Buddhafiguren, der heilige Franziskus, Mutter Teresa und ein paar Flaschen. Das wirkte nicht wie ein nachträglich ausgedachtes Einrichtungskonzept. Es war eher das, was entsteht, wenn ein Ort lange genug Dinge aufnehmen und behalten darf.
 
-Dann kamen die **gemischten Pakora**. Verschiedene Stücke in gewürztem Kichererbsenteig, frittiert, unregelmäßig und gerade deshalb sehr überzeugend. Pakora müssen nicht so aussehen, als seien sie von einer Maschine geprüft worden. Es genügt, wenn sie heiß ankommen und man nach dem ersten bereits weiß, dass der Teller nicht lange ein Problem darstellen wird.[^3]
+Dann kamen die **gemischten Pakora**. Verschiedene Stücke in gewürztem Kichererbsenteig, frittiert, unregelmäßig und gerade deshalb sehr überzeugend. Pakora müssen nicht so aussehen, als seien sie von einer Maschine geprüft worden. Es genügt, wenn sie heiß ankommen und man nach dem ersten bereits weiß, dass der Teller nicht lange ein Problem darstellen wird.
 
 Danach kam das **Lamm-Kothu**.
 
-Kothu ist ein sri-lankisches Gericht aus Fladenbrot, das auf einer heißen Platte klein gehackt und mit Gemüse, Ei, Gewürzen und, je nach Bestellung, Fleisch vermischt wird. In Sri Lanka gehört der Rhythmus der beiden Metallklingen zum Gericht: Man hört Kothu oft, bevor man es sieht. Das Brot verliert dabei seine bisherige Form, nimmt Sauce und Gewürze auf und wird zu etwas Neuem, ohne ganz aufzuhören, Brot zu sein.[^4]
+Kothu ist ein sri-lankisches Gericht aus Fladenbrot, das auf einer heißen Platte klein gehackt und mit Gemüse, Ei, Gewürzen und, je nach Bestellung, Fleisch vermischt wird. In Sri Lanka gehört der Rhythmus der beiden Metallklingen zum Gericht: Man hört Kothu oft, bevor man es sieht. Das Brot verliert dabei seine bisherige Form, nimmt Sauce und Gewürze auf und wird zu etwas Neuem, ohne ganz aufzuhören, Brot zu sein.
 
 Faulmann fand das vernünftig. Das Kothu bestand nicht aus sauber getrennten Beilagen. Das Brot, das Gemüse, die Gewürze und das Lamm waren miteinander vermischt, ohne dabei zu einer gleichförmigen Masse zu werden. Man bekam in jedem Bissen etwas anderes, aber nie etwas ganz Fremdes.
 
@@ -77,11 +77,3 @@ Er blickte noch einmal zur Decke.
 Der Flügel hing noch dort.
 
 Er schien von diesem Plan schon länger zu wissen.
-
----
-
-[^1]: Das Magazin der Kölner Museen beschrieb Anna Lakshmi bereits als schlichtes, lebendiges Mittagslokal mit sri-lankischen und indischen Gerichten - und dieselbe ungewöhnlich vielfältige Versammlung religiöser Figuren auf dem Wandsims.
-[^2]: Die Pilot Lounge eröffnete am 2. Dezember 2005. Eine zeitgenössische Lokalbeschreibung nennt für die Thieboldsgasse 101-103 ausdrücklich den Starfighter-Flügel, Fliegertrophäen und entsprechend benannte Cocktails.
-[^3]: Pakora sind südasiatische, meist mit gewürztem Kichererbsenteig umhüllte und frittierte Häppchen. Je nach Küche stecken darin Gemüse, Käse, Fisch oder Fleisch.
-[^4]: Kothu besteht traditionell aus Godamba-Roti, das auf einer heißen Platte mit Gemüse, Ei, Gewürzen und häufig Fleisch rhythmisch zerkleinert wird. Das Geräusch der beiden Metallklingen gehört in Sri Lanka fast ebenso zum Gericht wie seine Zutaten.
-[^5]: Die Tragflächen der F-104 waren klein, gerade und extrem dünn. Ihre Vorderkanten waren nur ungefähr 0,4 Millimeter stark und mussten am Boden mit Schutzleisten abgedeckt werden.
