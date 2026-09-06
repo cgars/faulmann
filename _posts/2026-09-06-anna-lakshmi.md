@@ -10,7 +10,15 @@ teaser: "Faulmann bestellt ein bisschen scharf und entdeckt erst auf den zweiten
 
 ![Faulmann entdeckt beim Kothu den Starfighter-Flügel im Anna Lakshmi](/assets/img/posts/2026-09-06-anna-lakshmi/anna-lakshmi-titelbild.jpg)
 
-Das **Anna Lakshmi** liegt in der Thieboldsgasse, neben dem Lebensmittelgeschäft Tropical Foods. Draußen stehen Autos auf dem Pflaster. Über der Tür hängt ein rotes Schild, an der hellblauen Fassade sind einige Stellen heller ausgebessert als andere. Der Laden sieht nicht aus, als wolle er entdeckt werden. Er ist einfach da.
+Das Restaurant liegt in der Thieboldsgasse, neben dem Lebensmittelgeschäft Tropical Foods. Draußen stehen Autos auf dem Pflaster. Über der Tür hängt ein rotes Schild, an der hellblauen Fassade sind einige Stellen heller ausgebessert als andere. Der Laden sieht nicht aus, als wolle er entdeckt werden. Er ist einfach da.
+
+Im Internet heißt er fast überall **Anna Lakshmi**. Draußen steht davon nichts. Auf dem Schild über der Tür steht nur **Lakshmi**. Das zusätzliche Anna scheint ausschließlich online zu existieren.
+
+Ganz aus der Luft gegriffen war der Name allerdings nicht. **Annalakshmi**, zusammengeschrieben, gibt es tatsächlich: So heißt eine internationale Kette vegetarischer Restaurants. Ihr Name verbindet *annam*, Essen oder Nahrung, mit Lakshmi, der Göttin des Wohlstands und der Fülle. Mit dem Kölner Restaurant ist die Kette, soweit sich erkennen lässt, nicht verbunden.
+
+Vielleicht hatte irgendwann jemand einen eigentlich zusammengeschriebenen Namen an einer für deutsche Augen einleuchtenden Stelle getrennt. Aus Annalakshmi wurde Anna Lakshmi.
+
+Ein Leerzeichen hatte eine Frau erfunden.
 
 Faulmann ging hinein und setzte sich an einen der runden Tische. Darauf lag eine geblümte Decke unter einer durchsichtigen Kunststofffolie. Die Stühle ringsum hatten sich offenbar nicht auf ein gemeinsames Modell einigen müssen.
 
