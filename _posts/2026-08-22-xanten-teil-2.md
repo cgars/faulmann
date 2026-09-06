@@ -388,18 +388,6 @@ Die Garküche lag nur wenige Straßen vom Hafen entfernt an der Ecke eines Häus
 
 "Eine teure Form des Regenschutzes", sagte Faulmann.
 
-Marcellus zeigte auf den ganzen von Straßen umschlossenen Block.
-
-"Eine *insula*." (wir mpssen insula glaube ich nihct nochmal erklären)
-
-Faulmann sah zu den Häusern und dann zurück zu Marcellus.
-
-"Das ist eine Insel?"
-
-"Mit Straßen statt Wasser."
-
-"Dann sind wir seit dem Tor über mehrere geschwommen."
-
 Die Garküche nahm nur einen breiten Raum ein. Hinter einem gemauerten Herd standen Töpfe über der Glut. Auf einem Tisch lagen Brotfladen, Käse, Zwiebeln und Schalen mit Oliven. Der Wirt musste nichts erst aus einem Hinterzimmer holen. Sein Angebot befand sich dort, wo man es sehen, riechen und bestellen konnte.
 
 Vor dem Herd warteten zwei Lastträger mit Schüsseln. Ein Fuhrmann aß im Stehen. Niemand von ihnen schien sich darüber zu wundern, dass andere Menschen bereits vor der vollen Hitze des Tages eine warme Mahlzeit verlangten.
@@ -480,7 +468,11 @@ Crispus deutete auf die Tafel.
 
 Der Wirt drehte die Tafel herum. Neben der Bestellung stand ein Vermerk.
 
-Dachsbert las ihn. (Dachsber kann das geschrieben nihct lesen da er kein lateiun kann, er wird sich auf l,iora verlassen müssen)
+Dachsbert schob die Tafel zu Liora.
+
+"Was steht dort?"
+
+Liora überflog die eingeritzten Zeilen.
 
 "Zu Lasten des Wasseramts."
 
@@ -510,11 +502,17 @@ Der Wirt dachte nach.
 
 "Woran habt Ihr den Unterschied erkannt?", fragte Dachsbert.
 
-"Mein geschäft sind die Bäuche der Leute, da entwickelt man zwangslüfig ein ihr entschuldigt gewisses Bauchgefühl."
+"Mein Geschäft sind die Bäuche der Leute", sagte der Wirt. "Da entwickelt man zwangsläufig ein gewisses Bauchgefühl. Ihr entschuldigt."
+
+Dachsbert sah ihn an.
+
+"Das ist schwer zu prüfen."
+
+"Außerdem ließ Secundus einem Zimmermann eine Nachricht schicken."
+
+"Das ist besser."
 
 Crispus senkte langsam die Hand, mit der er noch immer auf die Rechnung gezeigt hatte.
-
-Außerdem hat er dem Zimmermann eine Nachricht schikcen lassen
 
 "Welchem Zimmermann?"
 
@@ -534,11 +532,13 @@ Mummrich sah zu Crispus.
 
 "Eine lange Säge ist bei einer Flucht recht nutzlos."
 
-"Keile ebenfalls"
+"Im Gegenteil", sagte Crispus. "Man kürzt die Balken, spaltet sie mit den Keilen und verteilt das Holz. Zwölf gestohlene Eichenbalken fallen auf. Ein paar gewöhnliche Fuhren nicht."
 
-(crispus muss hier eine neue Theorie entwicklen was Säge und Eisenkeile bei der flucht helfen)
+"Und zur Tarnung bestellt man alles im eigenen Namen und auf Rechnung des Wasseramts", sagte Liora.
 
-Faulmann zog die Augenbraue hoch.
+"Eine gute Tarnung darf auffällig ordentlich sein."
+
+Faulmann zog eine Augenbraue hoch.
 
 "An Eurer Theorie schätze ich ihre Unabhängigkeit von den Tatsachen."
 
@@ -558,7 +558,7 @@ Dachsbert nahm den Mulsum wieder auf und trank den Becher leer. Dann stellte er 
 
 "Hat der Mulsum geholfen?"
 
-"Scxhon"
+"Schon", sagte Dachsbert.
 
 Marcellus ritzte etwas in seine Tafel.
 
