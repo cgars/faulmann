@@ -8,7 +8,7 @@ tags: [anna_lakshmi, sri_lanka, kothu, pakora, thieboldsgasse, starfighter]
 teaser: "Faulmann bestellt ein bisschen scharf und entdeckt erst auf den zweiten Blick, was über seinem Tisch hängt."
 ---
 
-<!-- TODO: Hier später die faulmannisierte Außenansicht von Anna Lakshmi einsetzen. -->
+![Faulmann entdeckt beim Kothu den Starfighter-Flügel im Anna Lakshmi](/assets/img/posts/2026-09-06-anna-lakshmi/anna-lakshmi-titelbild.jpg)
 
 Das **Anna Lakshmi** liegt in der Thieboldsgasse, neben dem Lebensmittelgeschäft Tropical Foods. Draußen stehen Autos auf dem Pflaster. Über der Tür hängt ein rotes Schild, an der hellblauen Fassade sind einige Stellen heller ausgebessert als andere. Der Laden sieht nicht aus, als wolle er entdeckt werden. Er ist einfach da.
 
