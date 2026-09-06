@@ -412,7 +412,7 @@ Mummrich betrachtete die Töpfe.
 
 "Vor allem mit Dingen, die man nicht selbst kochen muss."
 
-Der Wirt legte den beiden Lastträgern Brot auf ihre Schüsseln, nahm ihre Münzen und wandte sich der ungewöhnlich gekleideten Gruppe zu. Sein Blick blieb kurz an Dachsberts Streifen hängen.
+Der Wirt legte den beiden Lastträgern Brot zu ihren Schüsseln, nahm ihre Münzen und wandte sich der ungewöhnlich gekleideten Gruppe zu. Sein Blick blieb kurz an Dachsberts Streifen hängen.
 
 "Was darf ich dem Ehrengast bringen?"
 
