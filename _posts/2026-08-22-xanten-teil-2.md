@@ -582,7 +582,7 @@ Der Werkhof begann dort, wo die Portikus endete. Zwischen den Häusern lag ein b
 
 Mitten auf dem Platz hing ein Steinblock eine Handbreit über dem Boden.
 
-Das Seil, an dem er hing, lief durch mehrere Rollen zu einer hölzernen Winde. Zwei Männer drehten sie langsam. Ein dritter hielt den Block mit einem Führungsseil davon ab, sich zu drehen.
+Das Seil war oben am Gerüst befestigt, lief zweimal hinab zu zwei am Stein angeschlagenen Rollen und dazwischen über eine feste Rolle zur hölzernen Winde. Zwei Männer drehten sie langsam. Ein dritter hielt den Block mit einem Führungsseil davon ab, sich zu drehen.
 
 Mummrich blieb stehen.
 
@@ -630,7 +630,7 @@ Cassianus deutete auf Mummrich.
 
 "Er unterstützt die Untersuchung."
 
-Mummrich hob einen der Abschnitte an (der müsste eigentlich zu schwer sein). Das Holz war hell und feucht. Auf der Schnittfläche standen grobe Fasern, im Sägeschnitt klebte frisches Mehl.
+Mummrich legte eine Pfote auf einen der kurzen Abschnitte. Das Holz war hell und feucht. Auf der Schnittfläche standen grobe Fasern, im Sägeschnitt klebte frisches Mehl.
 
 "Das ist Eiche", sagte er.
 
@@ -638,11 +638,11 @@ Crispus verschränkte die Arme.
 
 "Das wissen wir."
 
-"Diese hier wurde heute Morgen geschnitten." (eigentlich können die Balken nicht mehr hier sein)
+"Dieser Abschnitt wurde heute Morgen abgesägt."
 
 Cassianus nickte.
 
-"Das weiß ich ebenfalls. Ich habe sie geschnitten."
+"Das weiß ich ebenfalls. Ich habe ihn abgesägt."
 
 Crispus trat einen Schritt näher.
 
@@ -656,9 +656,9 @@ Crispus trat einen Schritt näher.
 
 "Was habt Ihr damit gemacht?"
 
-Cassianus zeigte auf drei Kreidestriche an einem Balken, der auf niedrigen Böcken lag.
+Cassianus zeigte auf drei Kreidestriche an der langen Wand des Werkhofs. Vom selben Ausgangspunkt aus kennzeichneten sie die bestellten Längen.
 
-"Vier blieben in voller Länge. Vier wurden um drei Fuß gekürzt. Vier um sechs."
+"Vier Balken blieben in voller Länge. Vier wurden um drei Fuß gekürzt. Vier um sechs."
 
 "Warum diese Maße?", fragte Dachsbert.
 
@@ -678,19 +678,33 @@ Cassianus sah ihn an.
 
 Crispus folgte seinem Blick. Neben der Wand befanden sich acht kurze Abschnitte, sauber nach Länge gestapelt.
 
-Mummrich legte das Holzstück zurück. 
+Mummrich strich das Sägemehl von seiner Pfote.
 
 "Wer einen Balken unkenntlich machen will, lässt selten ausgerechnet die handlichsten Teile beim Zimmermann."
 
 "Vielleicht sollten sie uns täuschen", sagte Crispus.
 
-"Dann erfüllen sie ihren Zweck sehr ordentlich nicht", sagte Faulmann.
+"Dann erfüllen sie ihren Zweck nicht besonders ordentlich", sagte Faulmann.
 
-Aus der Schmiede kam ein breitschultriger Mann. In einer Zange hielt er einen dunklen Eisenkeil. Er legte ihn zu mehreren anderen auf einen Tisch und tauchte die Zange in einen Wassereimer. (wir müssen ausarbeiten das die keile sozusagen zusätzlich sind, eigentlich wollte der wassermeister wiederkommen weil absehbar war das sie noch mehr bnrauchen würden)
+Aus der Schmiede kam ein breitschultriger Mann. In einer Zange hielt er einen dunklen Eisenkeil. Er legte ihn zu fünf weiteren auf einen Tisch und tauchte die Zange in einen Wassereimer.
 
-"Von dieser Form?", fragte Dachsbert.
+"Schon sechs?", fragte Cassianus.
 
-"Zwölf", sagte der Schmied. "Wie bestellt. Ich hatte sie vorrätig."
+Der Schmied nickte.
+
+"Weitere Keile?", fragte Dachsbert.
+
+"Secundus nahm zwölf aus meinem Vorrat mit", sagte der Schmied. "Er rechnete damit, dass sie nicht reichen würden. Sobald die Grube offen war und er wusste, wie viele Stützen der Boden verlangte, wollte er die übrigen abholen."
+
+"Er wollte also zurückkommen."
+
+"Wenn der Boden sich anständig benahm, noch vor dem Abend."
+
+Dachsbert zeigte auf die neuen Keile.
+
+"Von derselben Form?"
+
+"Genau derselben."
 
 Crispus nahm einen der Keile auf.
 
@@ -756,7 +770,7 @@ Crispus zog an dem Seil.
 
 "Das kann jeder versprechen."
 
-"Nicht jeder hinterlässt dafür seine Werkzeuge als Pfand." s
+"Nicht jeder hinterlässt dafür seine Werkzeuge als Pfand."
 
 Cassianus zeigte auf eine Ledertasche neben der Werkbank. Darin steckten Messstäbe, ein Lot, ein Winkel und zwei eiserne Schreibgriffel.
 
@@ -824,15 +838,17 @@ Hinter ihnen setzte sich der Steinblock wieder in Bewegung. Die Männer drehten 
 
 Mummrich blieb noch einen Augenblick stehen.
 
-"Drei Rollen", sagte er. (er sollte hier die verstärkung bennen, das weist ihn zusätzlich aus)
+"Drei Rollen, vier tragende Seilstränge", sagte er. "Nahezu vierfache Kraftverstärkung."
 
-Cassianus nickte.
+Cassianus sah ihn zum ersten Mal anerkennend an.
 
-"Ich hatte Euch gewarnt."
+"Abzüglich Reibung."
 
-"Ich stand nicht darunter."
+"Die zieht immer mit."
 
-"Auch das tun kluge Leute gewöhnlich nur einmal."
+"Ihr standet tatsächlich nur wegen der Rollen dort."
+
+"Das hatte ich gesagt."
 
 Dann folgte Mummrich den anderen zu den Thermen.
 
