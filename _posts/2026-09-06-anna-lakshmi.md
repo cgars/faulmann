@@ -81,7 +81,7 @@ Er schien von diesem Plan schon länger zu wissen.
 ---
 
 [^1]: Das Magazin der Kölner Museen beschrieb Anna Lakshmi bereits als schlichtes, lebendiges Mittagslokal mit sri-lankischen und indischen Gerichten - und dieselbe ungewöhnlich vielfältige Versammlung religiöser Figuren auf dem Wandsims.
-[^2]: Ein Beitrag im ILS Flightforum kündigte die Eröffnung der Pilot Lounge für den 2. Dezember 2005 an. Der alte PRINZ-Lokaleintrag nennt exakt die Thieboldsgasse 101-103 und ausdrücklich den Starfighter-Flügel, die Fliegertrophäen und die Cocktails.
-[^3]: Pakora sind südasiatische, meist mit gewürztem Kichererbsenteig umhüllte und frittierte Häppchen. Einen knappen Überblick zu Teig und typischen Gemüsesorten bietet Google Arts & Culture.
-[^4]: Eater beschreibt Kothu als auf der heißen Platte rhythmisch zerkleinertes Godamba-Roti mit Gemüse, Ei und Fleisch. Das charakteristische Geräusch der Metallklingen gehört in Sri Lanka fast ebenso dazu wie die Zutaten.
-[^5]: Die Tragflächen der F-104 waren klein, gerade und extrem dünn. Das Warhawk Air Museum beschreibt nur rund 0,41 Millimeter dünne Vorderkanten und die deshalb am Boden nötigen Schutzleisten. Zur deutschen F-104G siehe außerdem die Flugwerft Schleißheim des Deutschen Museums.
+[^2]: Die Pilot Lounge eröffnete am 2. Dezember 2005. Eine zeitgenössische Lokalbeschreibung nennt für die Thieboldsgasse 101-103 ausdrücklich den Starfighter-Flügel, Fliegertrophäen und entsprechend benannte Cocktails.
+[^3]: Pakora sind südasiatische, meist mit gewürztem Kichererbsenteig umhüllte und frittierte Häppchen. Je nach Küche stecken darin Gemüse, Käse, Fisch oder Fleisch.
+[^4]: Kothu besteht traditionell aus Godamba-Roti, das auf einer heißen Platte mit Gemüse, Ei, Gewürzen und häufig Fleisch rhythmisch zerkleinert wird. Das Geräusch der beiden Metallklingen gehört in Sri Lanka fast ebenso zum Gericht wie seine Zutaten.
+[^5]: Die Tragflächen der F-104 waren klein, gerade und extrem dünn. Ihre Vorderkanten waren nur ungefähr 0,4 Millimeter stark und mussten am Boden mit Schutzleisten abgedeckt werden.
