@@ -380,17 +380,225 @@ Der Hafen setzte seine Arbeit um die fehlenden Balken herum fort.
 
 Die vier gingen zur Garküche.
 
+## Die Garküche
+
+Die Garküche lag nur wenige Straßen vom Hafen entfernt an der Ecke eines Häuserblocks. Eine Reihe gemauerter Säulen trug das Dach über dem Gehweg. Darunter öffneten sich Werkstätten, Läden und Schankräume zur Straße. Händler hatten Körbe und niedrige Tische zwischen den Türen aufgestellt. Wer einkaufen wollte, konnte im Schatten bleiben. Wer verkaufen wollte, ebenfalls.
+
+"Eine praktische Form der Stadtplanung", sagte Liora.
+
+"Eine teure Form des Regenschutzes", sagte Faulmann.
+
+Marcellus zeigte auf den ganzen von Straßen umschlossenen Block.
+
+"Eine *insula*."
+
+Faulmann sah zu den Häusern und dann zurück zu Marcellus.
+
+"Das ist eine Insel?"
+
+"Mit Straßen statt Wasser."
+
+"Dann sind wir seit dem Tor über mehrere geschwommen."
+
+Die Garküche nahm nur einen breiten Raum ein. Hinter einem gemauerten Herd standen Töpfe über der Glut. Auf einem Tisch lagen Brotfladen, Käse, Zwiebeln und Schalen mit Oliven. Der Wirt musste nichts erst aus einem Hinterzimmer holen. Sein Angebot befand sich dort, wo man es sehen, riechen und bestellen konnte.
+
+Vor dem Herd warteten zwei Lastträger mit Schüsseln. Ein Fuhrmann aß im Stehen. Niemand von ihnen schien sich darüber zu wundern, dass andere Menschen bereits vor der vollen Hitze des Tages eine warme Mahlzeit verlangten.
+
+"Viele von ihnen arbeiten seit Sonnenaufgang", sagte Marcellus. "Und die Herbergen versorgen nicht jeden, der am Hafen zu tun hat."
+
+"Deshalb versorgt ihn die Straße", sagte Liora.
+
+Mummrich betrachtete die Töpfe.
+
+"Vor allem mit Dingen, die man nicht selbst kochen muss."
+
+Der Wirt legte den beiden Lastträgern Brot auf ihre Schüsseln, nahm ihre Münzen und wandte sich der ungewöhnlich gekleideten Gruppe zu. Sein Blick blieb kurz an Dachsberts Streifen hängen.
+
+"Was darf ich dem Ehrengast bringen?"
+
+"Informationen", sagte Dachsbert.
+
+"Und einen guten Mulsum", sagte Liora. "Auf die Pfote."
+
+Der Wirt stellte einen Tonbecher auf den Tisch.
+
+"Der Becher bleibt hier."
+
+Liora sah Dachsbert an.
+
+"Die Antike ist beim Mitnehmen noch nicht sehr weit."
+
+"Die Antike steht unmittelbar neben dir", sagte Dachsbert.
+
+Marcellus hob seine Wachstafel.
+
+"Der Mulsum geht auf Rechnung der Stadt."
+
+"Das verbessert ihn", sagte der Wirt und goss ein.
+
+![In der Garküche lassen sieben einfache Portionen und eine ordentliche Abrechnung erste Zweifel an der Fluchtgeschichte entstehen.](/assets/img/posts/2026-08-22-xanten/03-baecker.webp)
+
+Dachsbert nahm einen kleinen Schluck. Der Wirt wartete.
+
+"Und?", fragte Liora.
+
+"Es ist Wein mit Honig."
+
+"Ein Anfang."
+
+Crispus trat unter die Portikus. Er war ihnen vom Hafen gefolgt. Die Legion ließ ihre Balken offenbar nicht ohne Aufsicht suchen.
+
+Dachsbert stellte den Becher ab.
+
+"Der Wassermeister Secundus war heute Morgen hier."
+
+"Ja."
+
+"Mit sechs Arbeitern und zwei Karren."
+
+"Auch das."
+
+"Was haben sie gekauft?"
+
+Der Wirt griff unter den Tisch und holte eine zusammengebundene Wachstafel hervor. Zwischen offenen Rechnungen und einzelnen Strichen für bezahlte Becher fand er eine Zeile, die sauberer geschrieben war als die übrigen.
+
+"Sieben Portionen Brot, Käse und Zwiebeln. Für das *prandium*."[^prandium]
+
+"Sie haben hier gegessen?", fragte Liora.
+
+"Nein. Ich habe alles in ein Tuch gepackt. Secundus sagte, sie würden während der Arbeit keine Zeit verlieren wollen."
+
+"Für sieben Männer", sagte Mummrich.
+
+"Secundus und sechs Arbeiter. Ich kann zählen."
+
+"Das wollte ich nicht prüfen."
+
+"Was dann?"
+
+"Ob noch jemand auf den Karren saß."
+
+Der Wirt schüttelte den Kopf.
+
+"Nur die sieben."
+
+Crispus deutete auf die Tafel.
+
+"Proviant."
+
+"Mittagessen", sagte der Wirt.
+
+"Ein Dieb muss ebenfalls essen."
+
+"Gewöhnlich sogar länger als bis zum Mittag", sagte Faulmann.
+
+Der Wirt drehte die Tafel herum. Neben der Bestellung stand ein Vermerk.
+
+Dachsbert las ihn.
+
+"Zu Lasten des Wasseramts."
+
+"Secundus hat unterschrieben", sagte der Wirt. "Er war sehr darauf bedacht, dass ich nicht versehentlich ihn belaste."
+
+"Er nimmt zwölf Balken der Legion", sagte Crispus, "und achtet auf eine ordentliche Rechnung für sieben Zwiebeln."
+
+"Sieben Portionen", sagte der Wirt. "Die Zwiebeln waren größer."
+
+Faulmann beugte sich über die Tafel.
+
+"Wer fliehen will, bezahlt seine Reiseverpflegung selten aus der Kasse des Arbeitgebers und hinterlässt Name, Amt und Anzahl der Mitreisenden."
+
+"Das macht es nicht unmöglich", sagte Crispus.
+
+"Nur unhöflich gegenüber jeder vernünftigen Flucht."
+
+Liora sah den Wirt an.
+
+"Wie wirkten die Männer?"
+
+"Hungrig."
+
+"Ängstlich? Gehetzt? Als würden sie nicht freiwillig mitfahren?"
+
+Der Wirt dachte nach.
+
+"Sie waren in Eile. Aber nicht auf der Flucht."
+
+"Woran habt Ihr den Unterschied erkannt?", fragte Dachsbert.
+
+"Wer flieht, fragt nach dem Weg aus der Stadt. Secundus fragte nach einem Zimmermann."
+
+Crispus senkte langsam die Hand, mit der er noch immer auf die Rechnung gezeigt hatte.
+
+"Nach welchem Zimmermann?"
+
+"Nach Cassianus. Seine Werkstatt liegt zwei Häuserblöcke weiter. Dann fragte er, ob der Schmied daneben bereits geöffnet habe."
+
+"Warum?"
+
+"Das hat er nicht erklärt. Er ließ meinem Jungen eine Nachricht für beide mitgeben."
+
+Dachsbert rückte den Becher beiseite.
+
+"Welche Nachricht?"
+
+Der Wirt zählte an den Fingern ab.
+
+"Der Zimmermann solle die lange Säge bereithalten. Der Schmied zwölf kräftige Eisenkeile. Außerdem sollten beide sofort kommen und alles dem Wasseramt berechnen."
+
+Mummrich sah zu Crispus.
+
+"Eine Säge ist bei einer Flucht mit langen Balken nicht völlig nutzlos."
+
+"Keile ebenfalls nicht", sagte Crispus.
+
+"Aber beides macht aus einer Flucht zunehmend eine Baustelle", sagte Liora.
+
+"Oder aus einer Baustelle eine bessere Flucht."
+
+Faulmann nickte.
+
+"An Eurer Theorie schätze ich ihre Unabhängigkeit von den Tatsachen."
+
+Crispus sah ihn an.
+
+"An Eurer schätze ich, dass Ihr noch keine habt."
+
+"Das spart Pflege."
+
+Dachsbert nahm den Mulsum wieder auf und trank den Becher leer. Dann stellte er ihn sorgfältig an dieselbe Stelle zurück.
+
+"Der Becher ist geblieben", sagte er.
+
+"Und die Untersuchung?", fragte Liora.
+
+"Sie hat jetzt eine Richtung."
+
+"Hat der Mulsum geholfen?"
+
+"Er hat hauptsächlich verhindert, dass wir ihn mitnehmen."
+
+Marcellus ritzte etwas in seine Tafel.
+
+"Was schreiben Sie?", fragte Dachsbert.
+
+"Erste Amtshandlung des Investigator maximus: einen Becher ordnungsgemäß zurückgeführt."
+
+"Streichen Sie das."
+
+Marcellus strich nichts.
+
+Der Wirt zeigte unter der Portikus die Straße hinauf. Zwei Häuserblöcke weiter lag der Werkhof des Zimmermanns. Dahinter stieg bereits der Rauch einer Schmiede über die Dächer.
+
+Die vier gingen voran. Crispus und Marcellus folgten ihnen.
+
+Hinter ihnen legte der Wirt die Rechnung für den Mulsum neben die sieben Portionen des Wasseramts. In der Garküche wurde selbst ein Rätsel zunächst zu einer Zeile in einer Wachstafel.
+
 ## Bereits illustrierte Folgeszenen
 
 <div class="gallery-note">
 Diese Bilder gehören bereits zur festgelegten weiteren Handlung. Die dazugehörigen Prosakapitel werden als Nächstes geschrieben.
 </div>
-
-### Die Garküche
-
-![In der Garküche lassen sieben einfache Portionen und eine ordentliche Abrechnung erste Zweifel an der Fluchtgeschichte entstehen.](/assets/img/posts/2026-08-22-xanten/03-baecker.webp)
-
-Secundus hat Brot, Käse und Zwiebeln für sieben Personen und einen Arbeitstag gekauft und aus der Kasse des Wasseramts bezahlt. Für eine längere Reise reichte das kaum. Der Diebstahlsverdacht steht noch. Er steht nur nicht mehr ganz gerade.
 
 ### Die Handwerker
 
@@ -462,6 +670,8 @@ Der Aufseher erinnert sich, dass Secundus nicht in die Arena fuhr. Die Karren na
 
 
 [^legion]: Römische Legionen waren nicht nur Kampfverbände. Sie errichteten Lager, Befestigungen, Straßen und Brücken und verfügten dafür über Handwerker und andere Fachleute. Bauinschriften und gestempelte Ziegel zeigen bis heute, welche Einheit an einem Bau beteiligt war.
+
+[^prandium]: Das *prandium* war eine leichte Mahlzeit am späten Vormittag oder um die Mittagszeit, zwischen dem frühen *ientaculum* und der abendlichen *cena*. Es bestand häufig aus einfachen Speisen, die sich auch zur Arbeit mitnehmen ließen.
 
 [^popina]: Eine *popina* war eine einfache römische Garküche oder Schankwirtschaft. Sie versorgte vor allem Menschen, die unterwegs arbeiteten oder nicht zu Hause aßen, mit fertigen Speisen und Getränken.
 
