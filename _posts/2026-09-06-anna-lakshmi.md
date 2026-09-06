@@ -18,7 +18,7 @@ Ausgerechnet **Annalakshmi**, zusammengeschrieben, gibt es tatsächlich: So hei�
 
 Trotzdem sah es aus, als habe jemand den Namen dieser Kette an einer für deutsche Augen einleuchtenden Stelle getrennt. Aus Annalakshmi wurde Anna Lakshmi.
 
-Ein Leerzeichen hatte eine Frau erfunden. Ein Restaurantführer wusste später sogar, dass die Besitzerin Anna hieß.
+Ein Leerzeichen hatte eine Frau erfunden. Ein Restaurantführer glaubte später sogar zu wissen, dass die Besitzerin Anna hieße.
 
 Faulmann ging hinein und setzte sich an einen der runden Tische. Darauf lag eine geblümte Decke unter einer durchsichtigen Kunststofffolie. Die Stühle ringsum hatten sich offenbar nicht auf ein gemeinsames Modell einigen müssen.
 
