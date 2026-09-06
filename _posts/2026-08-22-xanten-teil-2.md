@@ -390,7 +390,7 @@ Die Garküche lag nur wenige Straßen vom Hafen entfernt an der Ecke eines Häus
 
 Marcellus zeigte auf den ganzen von Straßen umschlossenen Block.
 
-"Eine *insula*."
+"Eine *insula*." (wir mpssen insula glaube ich nihct nochmal erklären)
 
 Faulmann sah zu den Häusern und dann zurück zu Marcellus.
 
@@ -406,7 +406,7 @@ Vor dem Herd warteten zwei Lastträger mit Schüsseln. Ein Fuhrmann aß im Stehe
 
 "Viele von ihnen arbeiten seit Sonnenaufgang", sagte Marcellus. "Und die Herbergen versorgen nicht jeden, der am Hafen zu tun hat."
 
-"Deshalb versorgt ihn die Straße", sagte Liora.
+"Deshalb versorgt ihn die Garküche", sagte Liora.
 
 Mummrich betrachtete die Töpfe.
 
@@ -466,21 +466,7 @@ Der Wirt griff unter den Tisch und holte eine zusammengebundene Wachstafel hervo
 
 "Sie haben hier gegessen?", fragte Liora.
 
-"Nein. Ich habe alles in ein Tuch gepackt. Secundus sagte, sie würden während der Arbeit keine Zeit verlieren wollen."
-
-"Für sieben Männer", sagte Mummrich.
-
-"Secundus und sechs Arbeiter. Ich kann zählen."
-
-"Das wollte ich nicht prüfen."
-
-"Was dann?"
-
-"Ob noch jemand auf den Karren saß."
-
-Der Wirt schüttelte den Kopf.
-
-"Nur die sieben."
+"Nein. Ich habe alles in ein Tuch gepackt. Secundus sagte, sie würden keine Zeit verlieren wollen."
 
 Crispus deutete auf die Tafel.
 
@@ -494,15 +480,13 @@ Crispus deutete auf die Tafel.
 
 Der Wirt drehte die Tafel herum. Neben der Bestellung stand ein Vermerk.
 
-Dachsbert las ihn.
+Dachsbert las ihn. (Dachsber kann das geschrieben nihct lesen da er kein lateiun kann, er wird sich auf l,iora verlassen müssen)
 
 "Zu Lasten des Wasseramts."
 
 "Secundus hat unterschrieben", sagte der Wirt. "Er war sehr darauf bedacht, dass ich nicht versehentlich ihn belaste."
 
 "Er nimmt zwölf Balken der Legion", sagte Crispus, "und achtet auf eine ordentliche Rechnung für sieben Zwiebeln."
-
-"Sieben Portionen", sagte der Wirt. "Die Zwiebeln waren größer."
 
 Faulmann beugte sich über die Tafel.
 
@@ -516,7 +500,7 @@ Liora sah den Wirt an.
 
 "Wie wirkten die Männer?"
 
-"Hungrig."
+"Müde."
 
 "Ängstlich? Gehetzt? Als würden sie nicht freiwillig mitfahren?"
 
@@ -526,13 +510,15 @@ Der Wirt dachte nach.
 
 "Woran habt Ihr den Unterschied erkannt?", fragte Dachsbert.
 
-"Wer flieht, fragt nach dem Weg aus der Stadt. Secundus fragte nach einem Zimmermann."
+"Mein geschäft sind die Bäuche der Leute, da entwickelt man zwangslüfig ein ihr entschuldigt gewisses Bauchgefühl."
 
 Crispus senkte langsam die Hand, mit der er noch immer auf die Rechnung gezeigt hatte.
 
-"Nach welchem Zimmermann?"
+Außerdem hat er dem Zimmermann eine Nachricht schikcen lassen
 
-"Nach Cassianus. Seine Werkstatt liegt zwei Häuserblöcke weiter. Dann fragte er, ob der Schmied daneben bereits geöffnet habe."
+"Welchem Zimmermann?"
+
+"Cassianus. Seine Werkstatt liegt zwei Häuserblöcke weiter. Dann fragte er, ob der Schmied daneben bereits geöffnet habe."
 
 "Warum?"
 
@@ -542,21 +528,17 @@ Dachsbert rückte den Becher beiseite.
 
 "Welche Nachricht?"
 
-Der Wirt zählte an den Fingern ab.
-
-"Der Zimmermann solle die lange Säge bereithalten. Der Schmied zwölf kräftige Eisenkeile. Außerdem sollten beide sofort kommen und alles dem Wasseramt berechnen."
+"Der Zimmermann solle die lange Säge bereithalten. Der Schmied zwölf kräftige Eisenkeile."
 
 Mummrich sah zu Crispus.
 
-"Eine Säge ist bei einer Flucht mit langen Balken nicht völlig nutzlos."
+"Eine lange Säge ist bei einer Flucht recht nutzlos."
 
-"Keile ebenfalls nicht", sagte Crispus.
+"Keile ebenfalls"
 
-"Aber beides macht aus einer Flucht zunehmend eine Baustelle", sagte Liora.
+(crispus muss hier eine neue Theorie entwicklen was Säge und Eisenkeile bei der flucht helfen)
 
-"Oder aus einer Baustelle eine bessere Flucht."
-
-Faulmann nickte.
+Faulmann zog die Augenbraue hoch.
 
 "An Eurer Theorie schätze ich ihre Unabhängigkeit von den Tatsachen."
 
@@ -568,7 +550,7 @@ Crispus sah ihn an.
 
 Dachsbert nahm den Mulsum wieder auf und trank den Becher leer. Dann stellte er ihn sorgfältig an dieselbe Stelle zurück.
 
-"Der Becher ist geblieben", sagte er.
+"Der Becher ist leer", sagte er.
 
 "Und die Untersuchung?", fragte Liora.
 
@@ -576,7 +558,7 @@ Dachsbert nahm den Mulsum wieder auf und trank den Becher leer. Dann stellte er 
 
 "Hat der Mulsum geholfen?"
 
-"Er hat hauptsächlich verhindert, dass wir ihn mitnehmen."
+"Scxhon"
 
 Marcellus ritzte etwas in seine Tafel.
 
