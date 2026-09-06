@@ -318,13 +318,13 @@ Zeugen waren häufig erst im Nachhinein Zeugen. Vorher standen sie nur am Weg.
 
 Ein junger Lastträger trat zögernd aus der Gruppe am Kran. Er war vielleicht sechzehn und hatte ein Tau über der Schulter.
 
-"Sie haben beim Bäcker angehalten", sagte er.
+"Sie haben an der Garküche bei den Herbergshäusern angehalten", sagte er.
 
 Alle sahen ihn an.
 
 "Woher weißt du das?", fragte Liora.
 
-"Ich habe geholfen, die Balken auf dem hinteren Karren festzubinden. Einer der Arbeiter sagte, sie bräuchten Brot für den Tag. Der Bäcker bei den Herbergshäusern öffnet früh."
+"Ich habe geholfen, die Balken auf dem hinteren Karren festzubinden. Einer der Arbeiter sagte, sie bräuchten Essen für den Tag. Die Garküche versorgt die Hafenarbeiter schon früh."[^popina]
 
 "Oder sie brauchten Proviant für eine Reise", sagte Crispus.
 
@@ -336,7 +336,7 @@ Alle sahen ihn an.
 
 Liora sah zu Dachsbert.
 
-"Wir sollten mit dem Bäcker sprechen. Er kann uns sicher einige Fragen beantworten. Außerdem braucht der ermittelnde Ehrendachs einen Becher guten Mulsum auf die Pfote, um zu kriminalisieren."[^mulsum]
+"Wir sollten mit dem Wirt sprechen. Er kann uns sicher einige Fragen beantworten. Außerdem braucht der ermittelnde Ehrendachs einen Becher guten Mulsum auf die Pfote, um zu kriminalisieren."[^mulsum]
 
 "Ich benötige weder einen neuen Titel noch Honigwein zum Denken", sagte Dachsbert.
 
@@ -344,7 +344,7 @@ Liora sah zu Dachsbert.
 
 Varro gab Marcellus ein Zeichen.
 
-"Führe unseren Ehrengast zum Bäcker und unterstütze ihn bei seiner Untersuchung."
+"Führe unseren Ehrengast zur Garküche und unterstütze ihn bei seiner Untersuchung."
 
 "Ich habe keine Untersuchung übernommen", sagte Dachsbert.
 
@@ -378,7 +378,7 @@ Am Kai wurde die nächste Amphore aus dem Lastschiff gehoben. Der Kran nahm ihr 
 
 Der Hafen setzte seine Arbeit um die fehlenden Balken herum fort.
 
-Die vier gingen zum Bäcker.
+Die vier gingen zur Garküche.
 
 ## Bereits illustrierte Folgeszenen
 
@@ -386,11 +386,11 @@ Die vier gingen zum Bäcker.
 Diese Bilder gehören bereits zur festgelegten weiteren Handlung. Die dazugehörigen Prosakapitel werden als Nächstes geschrieben.
 </div>
 
-### Der Bäcker
+### Die Garküche
 
-![Beim Bäcker lassen Brot, Käse, Zwiebeln und eine ordentliche Abrechnung erste Zweifel an der Fluchtgeschichte entstehen.](/assets/img/posts/2026-08-22-xanten/03-baecker.webp)
+![In der Garküche lassen sieben einfache Portionen und eine ordentliche Abrechnung erste Zweifel an der Fluchtgeschichte entstehen.](/assets/img/posts/2026-08-22-xanten/03-baecker.webp)
 
-Secundus hat Proviant für einen Arbeitstag gekauft und aus der Kasse des Wasseramts bezahlt. Der Diebstahlsverdacht steht noch. Er steht nur nicht mehr ganz gerade.
+Secundus hat Brot, Käse und Zwiebeln für sieben Personen und einen Arbeitstag gekauft und aus der Kasse des Wasseramts bezahlt. Für eine längere Reise reichte das kaum. Der Diebstahlsverdacht steht noch. Er steht nur nicht mehr ganz gerade.
 
 ### Die Handwerker
 
@@ -448,7 +448,7 @@ Marcellus sah wieder zu Dachsbert.
 
 "Schreiben Sie auch das auf", sagte Dachsbert.
 
-Die neue Oberaufseherin der Colonia schickte zwei Laufburschen zum Bäcker.
+Die neue Oberaufseherin der Colonia schickte zwei Laufburschen zur Brotfrau und einen dritten zur Garküche.
 
 ### Das Amphitheater
 
@@ -463,4 +463,6 @@ Der Aufseher erinnert sich, dass Secundus nicht in die Arena fuhr. Die Karren na
 
 [^legion]: Römische Legionen waren nicht nur Kampfverbände. Sie errichteten Lager, Befestigungen, Straßen und Brücken und verfügten dafür über Handwerker und andere Fachleute. Bauinschriften und gestempelte Ziegel zeigen bis heute, welche Einheit an einem Bau beteiligt war.
 
-[^mulsum]: Mulsum war kein Met, sondern mit Honig gesüßter Wein und wurde häufig zu Beginn einer Mahlzeit gereicht. Je nach verwendetem Wein und Honig konnte er durchaus einem Ehrengast angemessen sein. Dass Liora ihn selbstverständlich beim Bäcker und noch dazu zum Mitnehmen erwartet, ist dagegen ihr moderner Kurzschluss: Für ein ausgeschenktes Getränk wäre eher eine Schankstube oder ein Speiselokal zuständig gewesen. Das "Kriminalisieren" spielt auf die Fernsehfigur *Pfarrer Braun* an, die vor ihren Ermittlungen eine Prise Schnupftabak nahm.
+[^popina]: Eine *popina* war eine einfache römische Garküche oder Schankwirtschaft. Sie versorgte vor allem Menschen, die unterwegs arbeiteten oder nicht zu Hause aßen, mit fertigen Speisen und Getränken.
+
+[^mulsum]: Mulsum war kein Met, sondern mit Honig gesüßter Wein und wurde häufig zu Beginn einer Mahlzeit gereicht. Je nach verwendetem Wein und Honig konnte er durchaus einem Ehrengast angemessen sein. Ob eine kleine Garküche ausgerechnet eine besonders gute Mischung vorrätig hatte, blieb allerdings Lioras optimistische Annahme. "Auf die Pfote" überträgt zudem die heutige Vorstellung eines Getränks zum Mitnehmen in die Antike. Das "Kriminalisieren" spielt auf die Fernsehfigur *Pfarrer Braun* an, die vor ihren Ermittlungen eine Prise Schnupftabak nahm.
