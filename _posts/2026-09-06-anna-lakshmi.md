@@ -12,8 +12,6 @@ teaser: "Faulmann bestellt ein bisschen scharf und entdeckt erst auf den zweiten
 
 Das **Anna Lakshmi** liegt in der Thieboldsgasse, neben dem Lebensmittelgeschäft Tropical Foods. Draußen stehen Autos auf dem Pflaster. Über der Tür hängt ein rotes Schild, an der hellblauen Fassade sind einige Stellen heller ausgebessert als andere. Der Laden sieht nicht aus, als wolle er entdeckt werden. Er ist einfach da.
 
-![Anna Lakshmi und Tropical Foods in der Kölner Thieboldsgasse](/assets/img/posts/2026-09-06-anna-lakshmi/anna-lakshmi-aussen.webp)
-
 Faulmann ging hinein und setzte sich an einen der runden Tische. Darauf lag eine geblümte Decke unter einer durchsichtigen Kunststofffolie. Die Stühle ringsum hatten sich offenbar nicht auf ein gemeinsames Modell einigen müssen.
 
 Eine freundliche Frau, nicht mehr ganz jung, brachte die Speisekarte. Faulmann bestellte gemischte Pakora und ein Lamm-Kothu.
@@ -33,8 +31,6 @@ Faulmann sah ihr nach. Dann lehnte er sich ein wenig zurück und hob den Blick.
 Er sah kurz wieder auf den Tisch und dann noch einmal nach oben. Der Flügel war weiterhin da. Blankes, vernietetes Metall, ein schwarzes Tatzenkreuz der Bundeswehr auf der Unterseite, viel zu groß für den schmalen Gastraum und gleichzeitig so selbstverständlich darin, als gehöre er zur Decke.
 
 Das war selbst für Köln ungewöhnlich.
-
-![Der schlichte Gastraum des Anna Lakshmi mit dem Starfighter-Flügel an der Decke](/assets/img/posts/2026-09-06-anna-lakshmi/anna-lakshmi-gastraum.webp)
 
 Es war ein Tragflügel der **Lockheed F-104G Starfighter**. Die F-104 hatte ungewöhnlich kleine und dünne Tragflächen. Ihre Vorderkanten waren tatsächlich so scharf, dass sie am Boden mit Schutzleisten abgedeckt werden mussten, damit sich niemand daran verletzte.[^5]
 
@@ -70,8 +66,6 @@ Faulmann verstand, weshalb man hier wiederkam. Das Essen schmeckte, die Portion 
 
 Die Stühle konnten sich derweil weiter uneinig sein.
 
-![Der Starfighter-Flügel mit Bundeswehrkreuz über dem Gastraum](/assets/img/posts/2026-09-06-anna-lakshmi/anna-lakshmi-starfighter-fluegel.webp)
-
 Als Faulmann ging, stand die Frau wieder vorn im Restaurant.
 
 "Bis zum nächsten Mal", sagte sie freundlich.
@@ -86,8 +80,8 @@ Er schien von diesem Plan schon länger zu wissen.
 
 ---
 
-[^1]: Das [Magazin der Kölner Museen](https://www.museen.koeln/entdecken/unterhaltung/magazine/nachbarschaft/auf-gute-nachbarschaft) beschrieb Anna Lakshmi bereits als schlichtes, lebendiges Mittagslokal mit sri-lankischen und indischen Gerichten - und dieselbe ungewöhnlich vielfältige Versammlung religiöser Figuren auf dem Wandsims.
-[^2]: Ein Beitrag im [ILS Flightforum](https://www.flightforum.ch/board/topic/35669-pilot-lounge-er%C3%B6ffnung-in-k%C3%B6ln/) kündigte die Eröffnung der Pilot Lounge für den 2. Dezember 2005 an. Der alte [PRINZ-Lokaleintrag](https://prinz.de/koeln/locations/64298-pilot-lounge/) nennt exakt die Thieboldsgasse 101-103 und ausdrücklich den Starfighter-Flügel, die Fliegertrophäen und die Cocktails.
-[^3]: Pakora sind südasiatische, meist mit gewürztem Kichererbsenteig umhüllte und frittierte Häppchen. Einen knappen Überblick zu Teig und typischen Gemüsesorten bietet [Google Arts & Culture](https://artsandculture.google.com/story/pakoras-a-savory-delight-for-every-season-soch/GAWxlVIDegIWIQ?hl=en).
-[^4]: [Eater](https://www.eater.com/24359634/sri-lanka-food-restaurants-guide) beschreibt Kothu als auf der heißen Platte rhythmisch zerkleinertes Godamba-Roti mit Gemüse, Ei und Fleisch. Das charakteristische Geräusch der Metallklingen gehört in Sri Lanka fast ebenso dazu wie die Zutaten.
-[^5]: Die Tragflächen der F-104 waren klein, gerade und extrem dünn. Das [Warhawk Air Museum](https://warhawkairmuseum.org/explore/aviation-collection/f-104-starfighter/) beschreibt nur rund 0,41 Millimeter dünne Vorderkanten und die deshalb am Boden nötigen Schutzleisten. Zur deutschen F-104G siehe außerdem die [Flugwerft Schleißheim des Deutschen Museums](https://www.deutsches-museum.de/flugwerft-schleissheim/ausstellung/militaerluftfahrt/f-104-g).
+[^1]: Das Magazin der Kölner Museen beschrieb Anna Lakshmi bereits als schlichtes, lebendiges Mittagslokal mit sri-lankischen und indischen Gerichten - und dieselbe ungewöhnlich vielfältige Versammlung religiöser Figuren auf dem Wandsims.
+[^2]: Ein Beitrag im ILS Flightforum kündigte die Eröffnung der Pilot Lounge für den 2. Dezember 2005 an. Der alte PRINZ-Lokaleintrag nennt exakt die Thieboldsgasse 101-103 und ausdrücklich den Starfighter-Flügel, die Fliegertrophäen und die Cocktails.
+[^3]: Pakora sind südasiatische, meist mit gewürztem Kichererbsenteig umhüllte und frittierte Häppchen. Einen knappen Überblick zu Teig und typischen Gemüsesorten bietet Google Arts & Culture.
+[^4]: Eater beschreibt Kothu als auf der heißen Platte rhythmisch zerkleinertes Godamba-Roti mit Gemüse, Ei und Fleisch. Das charakteristische Geräusch der Metallklingen gehört in Sri Lanka fast ebenso dazu wie die Zutaten.
+[^5]: Die Tragflächen der F-104 waren klein, gerade und extrem dünn. Das Warhawk Air Museum beschreibt nur rund 0,41 Millimeter dünne Vorderkanten und die deshalb am Boden nötigen Schutzleisten. Zur deutschen F-104G siehe außerdem die Flugwerft Schleißheim des Deutschen Museums.
