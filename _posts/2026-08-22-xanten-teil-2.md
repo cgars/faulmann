@@ -576,17 +576,269 @@ Die vier gingen voran. Crispus und Marcellus folgten ihnen.
 
 Hinter ihnen legte der Wirt die Rechnung für den Mulsum neben die sieben Portionen des Wasseramts. In der Garküche wurde selbst ein Rätsel zunächst zu einer Zeile in einer Wachstafel.
 
+## Die Handwerker
+
+Der Werkhof begann dort, wo die Portikus endete. Zwischen den Häusern lag ein breiter, festgestampfter Platz. Holzspäne sammelten sich in den Rinnen, aus einer offenen Schmiede drang das regelmäßige Schlagen eines Hammers, und über mehreren Werkbänken standen einfache Dächer gegen Sonne und Regen.
+
+Mitten auf dem Platz hing ein Steinblock eine Handbreit über dem Boden.
+
+Das Seil, an dem er hing, lief durch mehrere Rollen zu einer hölzernen Winde. Zwei Männer drehten sie langsam. Ein dritter hielt den Block mit einem Führungsseil davon ab, sich zu drehen.
+
+Mummrich blieb stehen.
+
+"Nicht darunter treten", sagte der Zimmermann.
+
+"Das hatte ich nicht vor."
+
+"Ihr habt so ausgesehen."
+
+"Ich habe die Rollen gezählt."
+
+"Das tun die meisten erst, wenn etwas reißt."
+
+Mummrich betrachtete den Flaschenzug.
+
+"Mehr Seilweg, weniger Kraft."
+
+"Und mehr Gelegenheit, das Seil in die falsche Richtung zu ziehen", sagte der Zimmermann.
+
+Die Männer an der Winde sahen kurz zu ihm herüber.
+
+"Nicht ihr", fügte er hinzu.
+
+![Mummrich untersucht zugeschnittene Balken und Eisenkeile am römischen Bauplatz.](/assets/img/posts/2026-08-22-xanten/04-handwerker.webp)
+
+Marcellus trat auf den Zimmermann zu.
+
+"Cassianus?"
+
+"Wenn es um den Stein geht: Er schwebt absichtlich."
+
+"Es geht um zwölf Eichenbalken."
+
+Cassianus sah zu Crispus, dann zu Dachsberts Streifen und schließlich zu Mummrich, der bereits vor einem Stapel frischer Holzabschnitte kniete.
+
+"Welcher von Euch fragt?"
+
+"Dachsbertus aus dem Geschlecht der Melesbertier", begann Marcellus. "Ehrengast aus Rom, Inspizient der Provinz und vorläufiger Investigator maximus."
+
+Cassianus deutete auf Mummrich.
+
+"Und der mit der Ahnung?"
+
+"Meister Mummrich", sagte Dachsbert.
+
+"Er unterstützt die Untersuchung."
+
+Mummrich hob einen der Abschnitte an. Das Holz war hell und feucht. Auf der Schnittfläche standen grobe Fasern, im Sägeschnitt klebte frisches Mehl.
+
+"Das ist Eiche", sagte er.
+
+Crispus verschränkte die Arme.
+
+"Das wissen wir."
+
+"Diese hier wurde heute Morgen geschnitten."
+
+Cassianus nickte.
+
+"Das weiß ich ebenfalls. Ich habe sie geschnitten."
+
+Crispus trat einen Schritt näher.
+
+"Die Balken der Legion?"
+
+"Die Balken, die der Wassermeister mit einer Vollmacht und sechs städtischen Arbeitern brachte."
+
+"Das waren die Balken der Legion."
+
+"Dann hat die Legion sehr gerades Holz."
+
+"Was habt Ihr damit gemacht?"
+
+Cassianus zeigte auf drei Kreidestriche an einem Balken, der auf niedrigen Böcken lag.
+
+"Vier blieben in voller Länge. Vier wurden um drei Fuß gekürzt. Vier um sechs."
+
+"Warum diese Maße?", fragte Dachsbert.
+
+"Weil Secundus sie so bestellt hat."
+
+"Hat er gesagt, wofür?"
+
+"Zum Abstützen."
+
+Crispus deutete auf die Holzabschnitte.
+
+"Oder um die Balken leichter zu verteilen."
+
+Cassianus sah ihn an.
+
+"Die abgesägten Stücke liegen dort."
+
+Crispus folgte seinem Blick. Neben der Wand befanden sich acht kurze Abschnitte, sauber nach Länge gestapelt.
+
+Mummrich legte das Holzstück zurück.
+
+"Wer einen Balken unkenntlich machen will, lässt selten ausgerechnet die handlichsten Teile beim Zimmermann."
+
+"Vielleicht sollten sie uns täuschen", sagte Crispus.
+
+"Dann erfüllen sie ihren Zweck sehr ordentlich", sagte Faulmann.
+
+Aus der Schmiede kam ein breitschultriger Mann. In einer Zange hielt er einen dunklen Eisenkeil. Er legte ihn zu mehreren anderen auf einen Tisch und tauchte die Zange in einen Wassereimer.
+
+"Zwölf", sagte er. "Wie bestellt."
+
+Crispus nahm einen der Keile auf.
+
+"Damit lassen sich die Balken spalten."
+
+"Nicht besonders gut", sagte Mummrich.
+
+"Es ist ein Keil."
+
+"Er ist flach, breit und paarweise gearbeitet."
+
+Der Schmied nickte.
+
+"Je zwei gegeneinander. Man treibt sie unter eine Stütze, bis sie fest sitzt. Secundus wollte Eisen, weil der Untergrund nass ist."
+
+Mummrich legte zwei Keile mit den Spitzen zueinander.
+
+"Zum Spalten müssten sie steiler sein. Diese hier heben und verspannen."
+
+Crispus drehte den Keil in der Hand.
+
+"Man könnte trotzdem Holz damit spalten."
+
+"Man kann mit einem Becher einen Nagel einschlagen", sagte Mummrich. "Deshalb bestellt kein Zimmermann Becher."
+
+Dachsbert sah zu seinem leeren Tonbecher, den er nicht mehr bei sich hatte.
+
+"Das wäre außerdem mit den Rückgabebedingungen der Garküche unvereinbar."
+
+Liora ging zu Cassianus.
+
+"Wie wirkten Secundus und seine Leute?"
+
+"In Eile."
+
+"Das sagte der Wirt auch."
+
+"Der Wirt beobachtet Bäuche. Ich beobachte Hände. Niemand zitterte. Niemand wurde bewacht. Zwei der Arbeiter haben mit mir über die Maße gestritten."
+
+"Warum?"
+
+"Sie wollten einen Balken länger lassen. Secundus wollte ihn kürzer."
+
+"Wer hat gewonnen?", fragte Faulmann.
+
+Cassianus zeigte auf die acht Abschnitte.
+
+"Der Auftraggeber."
+
+"Das spricht zumindest für einen gewöhnlichen Arbeitstag."
+
+"Ein ungewöhnlich früher gewöhnlicher Arbeitstag", sagte Cassianus.
+
+Der Schmied stellte einen zweiten Korb auf den Tisch. Darin lagen eiserne Klammern, zwei Rollenblöcke und ein zusammengerolltes Seil.
+
+"Das hier wollte er ebenfalls."
+
+Crispus zog an dem Seil.
+
+"Noch mehr Ausrüstung für seine Flucht."
+
+"Geliehen", sagte Cassianus. "Drei Seile und zwei Rollenblöcke. Rückgabe heute Abend."
+
+"Das kann jeder versprechen."
+
+"Nicht jeder hinterlässt dafür seine Werkzeuge als Pfand."
+
+Cassianus zeigte auf eine Ledertasche neben der Werkbank. Darin steckten Messstäbe, ein Lot, ein Winkel und zwei eiserne Schreibgriffel.
+
+"Secundus ließ die Tasche hier, damit auf dem vorderen Karren Platz blieb."
+
+Liora betrachtete die Werkzeuge.
+
+"Ein Wassermeister ohne Messgerät?"
+
+"Er hatte noch eines bei sich. Er ist nicht unvernünftig."
+
+"Nur gründlich ausgestattet", sagte Faulmann.
+
+Crispus legte den Keil zurück.
+
+"Gesägte Balken, Seile und Rollen lassen sich auf ein Schiff laden."
+
+Mummrich schüttelte den Kopf.
+
+"Vier Balken sind noch achtzehn Fuß lang. Die übrigen bilden drei abgestufte Längen. Dazu flache Keile zum Verspannen und Rollen zum Absenken."
+
+"Das beweist noch keine Baustelle."
+
+"Nein", sagte Mummrich. "Aber es beschreibt eine."
+
+Crispus schwieg.
+
+Dachsbert wandte sich an Cassianus.
+
+"In welche Richtung fuhren sie weiter?"
+
+"Nach Süden. An den kleinen Thermen der Herberge vorbei."
+
+"Habt Ihr das gesehen?"
+
+"Einer der Arbeiter erwähnte sie. Er hatte dort seinen Becher stehen lassen und wollte zurücklaufen. Secundus sagte, er solle ihn am Abend auf dem Rückweg holen."
+
+Liora sah zu Crispus.
+
+"Ein Flüchtender mit Pfand beim Zimmermann, geliehenen Rollen und einem verabredeten Becher."
+
+"Ein Becher ist kein Alibi", sagte Crispus.
+
+"Nein", sagte Dachsbert. "Aber inzwischen besitzt Eure Flucht mehr zurückgelassenes Eigentum als mitgenommenen Proviant."
+
+Marcellus setzte den Griffel an.
+
+"Was schreiben Sie?", fragte Dachsbert.
+
+"Der Fluchtverdacht verliert an Tragfähigkeit."
+
+Mummrich sah noch einmal zu den Keilen.
+
+"Das ist diesmal technisch zutreffend."
+
+Dachsbert nickte.
+
+"Dann lassen Sie es stehen."
+
+Cassianus zeigte auf einen schmalen Durchgang zwischen den Häusern.
+
+"Auf diesem Weg kommt Ihr direkt zu den kleinen Thermen."
+
+Hinter ihnen setzte sich der Steinblock wieder in Bewegung. Die Männer drehten die Winde, das Seil lief knarrend durch die Rollen, und die schwere Last stieg langsam nach oben.
+
+Mummrich blieb noch einen Augenblick stehen.
+
+"Drei Rollen", sagte er.
+
+Cassianus nickte.
+
+"Ich hatte Euch gewarnt."
+
+"Ich stand nicht darunter."
+
+"Auch das tun kluge Leute gewöhnlich nur einmal."
+
+Dann folgte Mummrich den anderen zu den Thermen.
+
 ## Bereits illustrierte Folgeszenen
 
 <div class="gallery-note">
 Diese Bilder gehören bereits zur festgelegten weiteren Handlung. Die dazugehörigen Prosakapitel werden als Nächstes geschrieben.
 </div>
-
-### Die Handwerker
-
-![Mummrich untersucht zugeschnittene Balken und Eisenkeile am römischen Bauplatz.](/assets/img/posts/2026-08-22-xanten/04-handwerker.webp)
-
-Schmied und Zimmermann bestätigen, dass Secundus Keile, Seile und passend gekürzte Balken benötigte. Seine angebliche Flucht sieht zunehmend nach einer Baustelle aus.
 
 ### Die kleinen Thermen der Herberge
 
