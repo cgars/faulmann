@@ -298,13 +298,13 @@ Crispus deutete auf die Wachstafel.
 
 "Das ist eine Eigenschaft von Stadtgebieten", sagte Faulmann. "Sie werden selten durch grobe Angaben kleiner."
 
-Neben der Speicherfront floss Wasser aus einem steinernen Rohr in ein Becken. Crispus zeigte darauf.
+Neben der Speicherfront floss Wasser aus einem steinernen Rohr in ein Becken. Crispus prüfte den Strahl.
 
-"Der angebliche Notfall hat die Stadt offenbar nicht trockengelegt."
+"Der Hafenbrunnen hat noch Druck."
 
-"Noch nicht", sagte Varro. "Und nicht jede beschädigte Leitung versorgt jeden Brunnen."
+"Das sagt wenig", sagte Varro. "Nicht jede beschädigte Leitung versorgt jeden Brunnen."
 
-"Eine Erklärung kann wahr sein", sagte Crispus. "Sie kann einem Dieb aber auch einen Vorsprung verschaffen."
+"Dann suchen wir weiter südlich nach sinkendem Druck", sagte Crispus. "Bis wir ihn finden, können sowohl der Notfall als auch der Vorwand wahr sein."
 
 Mummrich war den Spuren vom Speicher aus gefolgt. Bald teilten sich die Rillen der beiden Karren. Zwischen ihnen lagen Sägemehl und ein kleiner Tropfen dunkles Harz.
 
@@ -458,13 +458,15 @@ Der Wirt griff unter den Tisch und holte eine zusammengebundene Wachstafel hervo
 
 Crispus deutete auf die Tafel.
 
-"Proviant."
+"Proviant für einen Tag."
 
 "Mittagessen", sagte der Wirt.
 
-"Ein Dieb muss ebenfalls essen."
+"Das spricht gegen eine längere Reise", sagte Crispus. "Nicht gegen das, was sie für heute vorhatten."
 
-"Gewöhnlich sogar länger als bis zum Mittag", sagte Faulmann.
+"Der Verdacht lernt Maß zu halten", sagte Faulmann.
+
+"Dafür untersucht man ihn."
 
 Der Wirt drehte die Tafel herum. Neben der Bestellung stand ein Vermerk.
 
@@ -484,9 +486,11 @@ Faulmann beugte sich über die Tafel.
 
 "Wer fliehen will, bezahlt seine Reiseverpflegung selten aus der Kasse des Arbeitgebers und hinterlässt Name, Amt und Anzahl der Mitreisenden."
 
-"Das macht es nicht unmöglich", sagte Crispus.
+"Dann streiche ich die vorbereitete Flucht", sagte Crispus. "Nicht den Verdacht, bis wir wissen, wohin die Balken gebracht wurden."
 
-"Nur unhöflich gegenüber jeder vernünftigen Flucht."
+Dachsbert nickte.
+
+"Das ist präziser."
 
 Liora sah den Wirt an.
 
@@ -532,21 +536,15 @@ Mummrich sah zu Crispus.
 
 "Eine lange Säge ist bei einer Flucht recht nutzlos."
 
-"Im Gegenteil", sagte Crispus. "Man kürzt die Balken, spaltet sie mit den Keilen und verteilt das Holz. Zwölf gestohlene Eichenbalken fallen auf. Ein paar gewöhnliche Fuhren nicht."
+"Nicht völlig", sagte Crispus. "Man könnte die Balken kürzen, mit den Keilen spalten und das Holz verteilen. Aber eine Bestellung im eigenen Namen und auf Rechnung des Wasseramts ließe dafür bemerkenswert viele Zeugen zurück."
 
-"Und zur Tarnung bestellt man alles im eigenen Namen und auf Rechnung des Wasseramts", sagte Liora.
+"Sie glauben also selbst nicht recht daran?", fragte Liora.
 
-"Eine gute Tarnung darf auffällig ordentlich sein."
+"Ich halte es für eine Möglichkeit, bis die Werkzeuge uns etwas Besseres sagen."
 
-Faulmann zog eine Augenbraue hoch.
+"Eine Theorie mit Verfallsdatum", sagte Faulmann.
 
-"An Eurer Theorie schätze ich ihre Unabhängigkeit von den Tatsachen."
-
-Crispus sah ihn an.
-
-"An Eurer schätze ich, dass Ihr noch keine habt."
-
-"Das spart Pflege."
+"Jede brauchbare Theorie hat eines."
 
 Dachsbert nahm den Mulsum wieder auf und trank den Becher leer. Dann stellte er ihn sorgfältig an dieselbe Stelle zurück.
 
@@ -636,7 +634,7 @@ Mummrich legte eine Pfote auf einen der kurzen Abschnitte. Das Holz war hell und
 
 Crispus verschränkte die Arme.
 
-"Das wissen wir."
+"Das wissen wir. Noch nicht, ob der Abschnitt von unseren Balken stammt."
 
 "Dieser Abschnitt wurde heute Morgen abgesägt."
 
@@ -670,7 +668,7 @@ Cassianus zeigte auf drei Kreidestriche an der langen Wand des Werkhofs. Vom sel
 
 Crispus deutete auf die Holzabschnitte.
 
-"Oder um die Balken leichter zu verteilen."
+"Das könnten noch immer verkäufliche Längen sein."
 
 Cassianus sah ihn an.
 
@@ -682,9 +680,9 @@ Mummrich strich das Sägemehl von seiner Pfote.
 
 "Wer einen Balken unkenntlich machen will, lässt selten ausgerechnet die handlichsten Teile beim Zimmermann."
 
-"Vielleicht sollten sie uns täuschen", sagte Crispus.
+Crispus betrachtete den Stapel.
 
-"Dann erfüllen sie ihren Zweck nicht besonders ordentlich", sagte Faulmann.
+"Dann war die Verteilung nicht der Zweck."
 
 Aus der Schmiede kam ein breitschultriger Mann. In einer Zange hielt er einen dunklen Eisenkeil. Er legte ihn zu fünf weiteren auf einen Tisch und tauchte die Zange in einen Wassereimer.
 
@@ -708,13 +706,9 @@ Dachsbert zeigte auf die neuen Keile.
 
 Crispus nahm einen der Keile auf.
 
-"Damit lassen sich die Balken spalten."
+"Zu flach zum Spalten?"
 
-"Nicht besonders gut", sagte Mummrich.
-
-"Es ist ein Keil."
-
-"Er ist flach, breit und paarweise gearbeitet."
+"Und paarweise gearbeitet", sagte Mummrich.
 
 Der Schmied nickte.
 
@@ -724,15 +718,13 @@ Mummrich legte zwei Keile mit den Spitzen zueinander.
 
 "Zum Spalten müssten sie steiler sein. Diese hier heben und verspannen."
 
-Crispus drehte den Keil in der Hand.
+Crispus legte den Keil zurück.
 
-"Man könnte trotzdem Holz damit spalten."
+"Dann lag ich mit den Spaltkeilen falsch."
 
-"Man kann mit einem Becher einen Nagel einschlagen", sagte Mummrich. "Deshalb bestellt trotzdem kein Zimmermann Becher."
+"Mit diesen", sagte Mummrich.
 
-Dachsbert sah auf die Pfote, in der sich kein Tonbecher mehr befand.
-
-"Das wäre außerdem mit den Rückgabebedingungen der Garküche unvereinbar."
+"Mit anderen untersuchen wir diesen Fall nicht."
 
 Liora ging zu Cassianus.
 
@@ -762,11 +754,11 @@ Cassianus deutete auf eine Ablage unter seinem Vordach. Dort lagen aufgerollte S
 
 "Von diesen wollte er ebenfalls welche."
 
-Crispus zog an dem Seil.
+Crispus prüfte die Stärke des Seils.
 
-"Noch mehr Ausrüstung für seine Flucht."
+"Drei davon und zwei Rollenblöcke?"
 
-"Geliehen", sagte Cassianus. "Drei Seile und zwei Rollenblöcke. Rückgabe heute Abend."
+"Geliehen", sagte Cassianus. "Rückgabe heute Abend."
 
 "Das kann jeder versprechen."
 
@@ -784,19 +776,13 @@ Liora betrachtete die Werkzeuge.
 
 "Nur gründlich ausgestattet", sagte Faulmann.
 
-Crispus legte den Keil zurück.
+Crispus betrachtete noch einmal die Kreidemarken, die Keile und die Rollenblöcke.
 
-"Gesägte Balken, Seile und Rollen lassen sich auf ein Schiff laden."
+"Drei abgestufte Längen, Keile zum Verspannen und Rollen zum Absenken."
 
-Mummrich schüttelte den Kopf.
+"Das beschreibt eine Baustelle", sagte Mummrich.
 
-"Vier Balken sind noch achtzehn Fuß lang. Zusammen bilden sie drei abgestufte Längen. Dazu flache Keile zum Verspannen und Rollen zum Absenken."
-
-"Das beweist noch keine Baustelle."
-
-"Nein", sagte Mummrich. "Aber es beschreibt eine."
-
-Crispus schwieg.
+"Ja", sagte Crispus. "Ob der Notfall echt ist, wissen wir noch nicht. Aber Secundus hat sich wie ein Wassermeister vorbereitet, nicht wie ein Holzdieb."
 
 Dachsbert wandte sich an Cassianus.
 
@@ -810,11 +796,15 @@ Dachsbert wandte sich an Cassianus.
 
 Liora sah zu Crispus.
 
-"Ein Flüchtender mit Pfand beim Zimmermann, geliehenen Rollen und einem verabredeten Becher."
+"Er wollte also zurückkommen."
 
-"Ein Becher ist kein Alibi", sagte Crispus.
+"Ja", sagte Crispus. "Und inzwischen hätte er zurück sein sollen."
 
-"Nein", sagte Dachsbert. "Aber inzwischen besitzt Eure Flucht mehr zurückgelassenes Eigentum als mitgenommenen Proviant."
+Dachsbert sah ihn an.
+
+"Dann suchen wir keinen Flüchtenden mehr."
+
+"Nein. Wir suchen sieben Leute, die ihre Rückkehr geplant und verpasst haben."
 
 Marcellus setzte den Griffel an.
 
@@ -833,6 +823,8 @@ Dachsbert nickte.
 Cassianus zeigte auf einen schmalen Durchgang zwischen den Häusern.
 
 "Auf diesem Weg kommt Ihr direkt zu den kleinen Thermen."
+
+Crispus ging als Erster hinein. Dachsbert, Liora, Faulmann und Marcellus folgten ihm.
 
 Hinter ihnen setzte sich der Steinblock wieder in Bewegung. Die Männer drehten die Winde, das Seil lief knarrend durch die Rollen, und die schwere Last stieg langsam nach oben.
 
