@@ -66,7 +66,7 @@ Nichts davon war geglättet worden, damit es besser zusammenpasste.
 
 Es passte auch so.
 
-Haute Cuisine war das nicht. Das durfte es auch gar nicht sein. Unter einem Starfighter-Flügel, auf einer geblümten Tischdecke unter Kunststofffolie, hätte ein sorgsam mit der Pinzette gesetztes Blättchen gewirkt, als wolle jemand einen Splitter entfernen.
+Für den Feinschmecker ist das hier sicher nicht der richtige Laden. Das muss es auch gar nicht sein. Unter einem Starfighter-Flügel, auf einer geblümten Tischdecke unter Kunststofffolie, hätte ein sorgsam mit der Pinzette gesetztes Blättchen gewirkt, als wolle jemand einen Splitter entfernen.
 
 Im Wald wurde schließlich auch wenig einzeln angerichtet. Moos, Rinde, Blätter und Erde lagen beieinander, ohne sich deshalb erklären zu müssen. Mischung war nicht das Gegenteil von Ordnung. Nur eine Ordnung, die keinen freien Tellerrand brauchte.
 
