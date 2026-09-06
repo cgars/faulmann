@@ -34,7 +34,7 @@ Das war selbst für Köln ungewöhnlich.
 
 Es war ein Tragflügel der **Lockheed F-104G Starfighter**. Die F-104 hatte ungewöhnlich kleine und dünne Tragflächen. Ihre Vorderkanten waren nur ungefähr 0,4 Millimeter stark - so scharf, dass sie am Boden mit Schutzleisten abgedeckt werden mussten, damit sich niemand daran verletzte.
 
-"Ein bisschen scharf" war offenbar eine Frage des Standorts.
+Faulmann hatte "ein bisschen" bestellt. Der Flügel entsprach offenbar eher dem Geschmack der Frau.
 
 Früher befand sich in denselben Räumen die **Pilot Lounge**. Die Bar eröffnete im Dezember 2005 und nahm das Fliegen recht wörtlich. Der Flügel hing schon damals hier. In Schaukästen lagen Fliegertrophäen, die Cocktails hießen "Iron Eagle" und "Top Gun Trophy", und unter den Gästen fanden sich laut einer alten Lokalbeschreibung Hobbyflieger, Modellbauer und Stewardessen.
 
