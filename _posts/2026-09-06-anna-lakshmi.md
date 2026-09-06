@@ -12,13 +12,13 @@ teaser: "Faulmann bestellt ein bisschen scharf und entdeckt erst auf den zweiten
 
 Das Restaurant liegt in der Thieboldsgasse, neben dem Lebensmittelgeschäft Tropical Foods. Draußen stehen Autos auf dem Pflaster. Über der Tür hängt ein rotes Schild, an der hellblauen Fassade sind einige Stellen heller ausgebessert als andere. Der Laden sieht nicht aus, als wolle er entdeckt werden. Er ist einfach da.
 
-Im Internet heißt er fast überall **Anna Lakshmi**. Draußen steht davon nichts. Auf dem Schild über der Tür steht nur **Lakshmi**. Das zusätzliche Anna scheint ausschließlich online zu existieren.
+Im Internet heißt er inzwischen meistens **Anna Lakshmi**. Draußen steht davon nichts. Auf dem Schild über der Tür steht nur **Lakshmi**. Auch ältere Kölner Texte kennen ihn unter diesem Namen. Das zusätzliche Anna scheint erst später in sein digitales Leben geraten zu sein.[^name]
 
-Ganz aus der Luft gegriffen war der Name allerdings nicht. **Annalakshmi**, zusammengeschrieben, gibt es tatsächlich: So heißt eine internationale Kette vegetarischer Restaurants. Ihr Name verbindet *annam*, Essen oder Nahrung, mit Lakshmi, der Göttin des Wohlstands und der Fülle. Mit dem Kölner Restaurant ist die Kette, soweit sich erkennen lässt, nicht verbunden.
+Ausgerechnet **Annalakshmi**, zusammengeschrieben, gibt es tatsächlich: So heißt eine internationale Kette vegetarischer Restaurants. Ihr Name verbindet *annam*, Essen oder Nahrung, mit Lakshmi, der Göttin des Wohlstands und der Fülle. Mit dem Kölner Restaurant hat sie nichts zu tun.
 
-Vielleicht hatte irgendwann jemand einen eigentlich zusammengeschriebenen Namen an einer für deutsche Augen einleuchtenden Stelle getrennt. Aus Annalakshmi wurde Anna Lakshmi.
+Trotzdem sah es aus, als habe jemand den Namen dieser Kette an einer für deutsche Augen einleuchtenden Stelle getrennt. Aus Annalakshmi wurde Anna Lakshmi.
 
-Ein Leerzeichen hatte eine Frau erfunden.
+Ein Leerzeichen hatte eine Frau erfunden. Ein Restaurantführer wusste später sogar, dass die Besitzerin Anna hieß.
 
 Faulmann ging hinein und setzte sich an einen der runden Tische. Darauf lag eine geblümte Decke unter einer durchsichtigen Kunststofffolie. Die Stühle ringsum hatten sich offenbar nicht auf ein gemeinsames Modell einigen müssen.
 
@@ -85,3 +85,5 @@ Er blickte noch einmal zur Decke.
 Der Flügel hing noch dort.
 
 Er schien von diesem Plan schon länger zu wissen.
+
+[^name]: Die Namensspur verläuft nicht geradeaus. Ein Kölner Kulinarik-Stadtplan von 2015 und der Kölner Stadt-Anzeiger von 2018 nennen das Restaurant **Lakshmi**; der Stadt-Anzeiger nennt die Betreiberin Saraswalthy Thiru. Auch koeln.de und Tripadvisor bleiben bis heute bei **Lakshmi**. Seit mindestens 2020 findet sich daneben **Anna Lakshmi**, zunächst bei einer Bestell-App, später auch bei Mit Vergnügen, im Magazin der Kölner Museen und bei Falstaff. Dort wurde aus dem Namenszusatz schließlich sogar die "Besitzerin Anna". Der Name wurde also nicht einfach geändert. Er hat sich online verzweigt.
