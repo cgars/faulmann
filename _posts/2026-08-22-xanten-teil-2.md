@@ -542,9 +542,15 @@ Mummrich sah zu Crispus.
 
 "Ich halte es für eine Möglichkeit, bis die Werkzeuge uns etwas Besseres sagen."
 
-"Eine Theorie mit Verfallsdatum", sagte Faulmann.
+Faulmann zog eine Augenbraue hoch.
 
-"Jede brauchbare Theorie hat eines."
+"An Eurer Theorie schätze ich ihre Unabhängigkeit von den Tatsachen."
+
+Crispus sah ihn an.
+
+"An Eurer schätze ich, dass Ihr noch keine habt."
+
+"Das spart Pflege."
 
 Dachsbert nahm den Mulsum wieder auf und trank den Becher leer. Dann stellte er ihn sorgfältig an dieselbe Stelle zurück.
 
