@@ -688,7 +688,9 @@ Mummrich legte das Holzstück zurück.
 
 Aus der Schmiede kam ein breitschultriger Mann. In einer Zange hielt er einen dunklen Eisenkeil. Er legte ihn zu mehreren anderen auf einen Tisch und tauchte die Zange in einen Wassereimer.
 
-"Zwölf", sagte er. "Wie bestellt."
+"Von dieser Form?", fragte Dachsbert.
+
+"Zwölf", sagte der Schmied. "Wie bestellt. Ich hatte sie vorrätig."
 
 Crispus nahm einen der Keile auf.
 
@@ -714,7 +716,7 @@ Crispus drehte den Keil in der Hand.
 
 "Man kann mit einem Becher einen Nagel einschlagen", sagte Mummrich. "Deshalb bestellt kein Zimmermann Becher."
 
-Dachsbert sah zu seinem leeren Tonbecher, den er nicht mehr bei sich hatte.
+Dachsbert sah auf die Pfote, in der sich kein Tonbecher mehr befand.
 
 "Das wäre außerdem mit den Rückgabebedingungen der Garküche unvereinbar."
 
@@ -742,9 +744,9 @@ Cassianus zeigte auf die acht Abschnitte.
 
 "Ein ungewöhnlich früher gewöhnlicher Arbeitstag", sagte Cassianus.
 
-Der Schmied stellte einen zweiten Korb auf den Tisch. Darin lagen eiserne Klammern, zwei Rollenblöcke und ein zusammengerolltes Seil.
+Cassianus deutete auf eine Ablage unter seinem Vordach. Dort lagen aufgerollte Seile und mehrere hölzerne Rollenblöcke.
 
-"Das hier wollte er ebenfalls."
+"Von diesen wollte er ebenfalls welche."
 
 Crispus zog an dem Seil.
 
@@ -774,7 +776,7 @@ Crispus legte den Keil zurück.
 
 Mummrich schüttelte den Kopf.
 
-"Vier Balken sind noch achtzehn Fuß lang. Die übrigen bilden drei abgestufte Längen. Dazu flache Keile zum Verspannen und Rollen zum Absenken."
+"Vier Balken sind noch achtzehn Fuß lang. Zusammen bilden sie drei abgestufte Längen. Dazu flache Keile zum Verspannen und Rollen zum Absenken."
 
 "Das beweist noch keine Baustelle."
 
