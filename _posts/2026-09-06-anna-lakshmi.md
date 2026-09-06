@@ -12,6 +12,8 @@ teaser: "Faulmann bestellt ein bisschen scharf und entdeckt erst auf den zweiten
 
 Das **Anna Lakshmi** liegt in der Thieboldsgasse, neben dem Lebensmittelgeschäft Tropical Foods. Draußen stehen Autos auf dem Pflaster. Über der Tür hängt ein rotes Schild, an der hellblauen Fassade sind einige Stellen heller ausgebessert als andere. Der Laden sieht nicht aus, als wolle er entdeckt werden. Er ist einfach da.
 
+![Anna Lakshmi und Tropical Foods in der Kölner Thieboldsgasse](/assets/img/posts/2026-09-06-anna-lakshmi/anna-lakshmi-aussen.webp)
+
 Faulmann ging hinein und setzte sich an einen der runden Tische. Darauf lag eine geblümte Decke unter einer durchsichtigen Kunststofffolie. Die Stühle ringsum hatten sich offenbar nicht auf ein gemeinsames Modell einigen müssen.
 
 Eine freundliche Frau, nicht mehr ganz jung, brachte die Speisekarte. Faulmann bestellte gemischte Pakora und ein Lamm-Kothu.
@@ -32,7 +34,7 @@ Er sah kurz wieder auf den Tisch und dann noch einmal nach oben. Der Flügel war
 
 Das war selbst für Köln ungewöhnlich.
 
-<!-- TODO: Hier später die faulmannisierte Innenansicht des Gastraums einsetzen. -->
+![Der schlichte Gastraum des Anna Lakshmi mit dem Starfighter-Flügel an der Decke](/assets/img/posts/2026-09-06-anna-lakshmi/anna-lakshmi-gastraum.webp)
 
 Es war ein Tragflügel der **Lockheed F-104G Starfighter**. Die F-104 hatte ungewöhnlich kleine und dünne Tragflächen. Ihre Vorderkanten waren tatsächlich so scharf, dass sie am Boden mit Schutzleisten abgedeckt werden mussten, damit sich niemand daran verletzte.[^5]
 
@@ -68,7 +70,7 @@ Faulmann verstand, weshalb man hier wiederkam. Das Essen schmeckte, die Portion 
 
 Die Stühle konnten sich derweil weiter uneinig sein.
 
-<!-- TODO: Hier später die faulmannisierte Detailansicht des Starfighter-Flügels einsetzen. -->
+![Der Starfighter-Flügel mit Bundeswehrkreuz über dem Gastraum](/assets/img/posts/2026-09-06-anna-lakshmi/anna-lakshmi-starfighter-fluegel.webp)
 
 Als Faulmann ging, stand die Frau wieder vorn im Restaurant.
 
