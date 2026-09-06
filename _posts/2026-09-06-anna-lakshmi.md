@@ -60,9 +60,13 @@ Nichts davon war geglättet worden, damit es besser zusammenpasste.
 
 Es passte auch so.
 
-Später las Faulmann die Bewertungen des Restaurants. Die Zahlen waren sich nicht ganz einig. Bei Google lag Anna Lakshmi deutlich besser als bei Tripadvisor; Falstaff wiederum vergab 92 von 100 Punkten. Die Texte dahinter wiederholten jedoch auffallend oft dasselbe: sehr gutes und preiswertes Essen, eine ungewöhnlich herzliche Inhaberin - und ein einfacher, zusammengewürfelter Gastraum, in dem man gelegentlich etwas Geduld mitbringen sollte.[^6]
+Haute Cuisine war das nicht. Das durfte es auch gar nicht sein. Unter einem Starfighter-Flügel, auf einer geblümten Tischdecke unter Kunststofffolie, hätte ein sorgsam mit der Pinzette gesetztes Blättchen gewirkt, als wolle jemand einen Splitter entfernen.
 
-Vielleicht stritten die Sterne also weniger über das Restaurant als darüber, wie wichtig zusammenpassende Stühle sind.
+Im Wald wurde schließlich auch wenig einzeln angerichtet. Moos, Rinde, Blätter und Erde lagen beieinander, ohne sich deshalb erklären zu müssen. Mischung war nicht das Gegenteil von Ordnung. Nur eine Ordnung, die keinen freien Tellerrand brauchte.
+
+Faulmann verstand, weshalb man hier wiederkam. Das Essen schmeckte, die Portion machte satt, der Preis blieb freundlich und die Frau behandelte den nächsten Besuch nicht wie eine Möglichkeit, sondern wie etwas, das vermutlich ohnehin geschehen würde.
+
+Die Stühle konnten sich derweil weiter uneinig sein.
 
 <!-- TODO: Hier später die faulmannisierte Detailansicht des Starfighter-Flügels einsetzen. -->
 
@@ -85,4 +89,3 @@ Er schien von diesem Plan schon länger zu wissen.
 [^3]: Pakora sind südasiatische, meist mit gewürztem Kichererbsenteig umhüllte und frittierte Häppchen. Einen knappen Überblick zu Teig und typischen Gemüsesorten bietet [Google Arts & Culture](https://artsandculture.google.com/story/pakoras-a-savory-delight-for-every-season-soch/GAWxlVIDegIWIQ?hl=en).
 [^4]: [Eater](https://www.eater.com/24359634/sri-lanka-food-restaurants-guide) beschreibt Kothu als auf der heißen Platte rhythmisch zerkleinertes Godamba-Roti mit Gemüse, Ei und Fleisch. Das charakteristische Geräusch der Metallklingen gehört in Sri Lanka fast ebenso dazu wie die Zutaten.
 [^5]: Die Tragflächen der F-104 waren klein, gerade und extrem dünn. Das [Warhawk Air Museum](https://warhawkairmuseum.org/explore/aviation-collection/f-104-starfighter/) beschreibt nur rund 0,41 Millimeter dünne Vorderkanten und die deshalb am Boden nötigen Schutzleisten. Zur deutschen F-104G siehe außerdem die [Flugwerft Schleißheim des Deutschen Museums](https://www.deutsches-museum.de/flugwerft-schleissheim/ausstellung/militaerluftfahrt/f-104-g).
-[^6]: Stand September 2026 führt [Restaurant Guru](https://de.restaurantguru.com/Lakshmi-Cologne) die aggregierte Google-Bewertung mit 4,5 von 5 Punkten bei gut 1.000 Bewertungen und Tripadvisor mit 3,7 von 5 bei 67 Bewertungen. [Falstaff](https://www.falstaff.com/at/streetfood/anna-lakshmi-restaurant) bewertet das Lokal im Streetfood Guide 2026 mit 92 von 100 Punkten - davon 56/60 für das Essen, 20/20 für den Service und 16/20 für das Ambiente. Auch die 18 ausführlicheren Einträge bei [HappyCow](https://www.happycow.net/reviews/lakshmi-cologne-38981) loben wiederholt Essen, Preise und die herzliche Inhaberin; als Schwächen nennen einzelne Gäste vor allem die einfache Einrichtung und längere Wartezeiten.
