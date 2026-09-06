@@ -10,15 +10,7 @@ teaser: "Faulmann bestellt ein bisschen scharf und entdeckt erst auf den zweiten
 
 ![Faulmann entdeckt beim Kothu den Starfighter-Flügel im Anna Lakshmi](/assets/img/posts/2026-09-06-anna-lakshmi/anna-lakshmi-titelbild.jpg)
 
-Das Restaurant liegt in der Thieboldsgasse, neben dem Lebensmittelgeschäft Tropical Foods. Draußen stehen Autos auf dem Pflaster. Über der Tür hängt ein rotes Schild, an der hellblauen Fassade sind einige Stellen heller ausgebessert als andere. Der Laden sieht nicht aus, als wolle er entdeckt werden. Er ist einfach da.
-
-Im Internet heißt er inzwischen meistens **Anna Lakshmi**. Draußen steht davon nichts. Auf dem Schild über der Tür steht nur **Lakshmi**. Auch ältere Kölner Texte kennen ihn unter diesem Namen. Das zusätzliche Anna scheint erst später in sein digitales Leben geraten zu sein.[^name]
-
-Ausgerechnet **Annalakshmi**, zusammengeschrieben, gibt es tatsächlich: So heißt eine internationale Kette vegetarischer Restaurants. Ihr Name verbindet *annam*, Essen oder Nahrung, mit Lakshmi, der Göttin des Wohlstands und der Fülle. Mit dem Kölner Restaurant hat sie nichts zu tun.
-
-Trotzdem sah es aus, als habe jemand den Namen dieser Kette an einer für deutsche Augen einleuchtenden Stelle getrennt. Aus Annalakshmi wurde Anna Lakshmi.
-
-Ein Leerzeichen hatte eine Frau erfunden. Ein Restaurantführer glaubte später sogar zu wissen, dass die Besitzerin Anna hieße.
+Das **Lakshmi** liegt in der Thieboldsgasse, neben dem Lebensmittelgeschäft Tropical Foods. Draußen stehen Autos auf dem Pflaster. Über der Tür hängt ein rotes Schild, an der hellblauen Fassade sind einige Stellen heller ausgebessert als andere. Der Laden sieht nicht aus, als wolle er entdeckt werden. Er ist einfach da.
 
 Faulmann ging hinein und setzte sich an einen der runden Tische. Darauf lag eine geblümte Decke unter einer durchsichtigen Kunststofffolie. Die Stühle ringsum hatten sich offenbar nicht auf ein gemeinsames Modell einigen müssen.
 
@@ -61,6 +53,14 @@ Faulmann fand das vernünftig. Das Kothu bestand nicht aus sauber getrennten Bei
 Das Lamm-Kothu war sehr gut. Würzig, warm und von jener sättigenden Art, bei der man langsamer weiterisst, aber nicht ernsthaft ans Aufhören denkt. Kein Essen, das auf dem Teller viel Abstand zwischen den Bestandteilen lässt. Hier war alles bereits miteinander bekannt gemacht worden.
 
 Der Raum machte es ähnlich. Geblümte Tischdecken und Leuchtstoffröhren. Sri-lankisches Kothu und indische Pakora. Lakshmi, Buddha, Franziskus und Mutter Teresa. Daneben der Lebensmittelladen mit Okra, Kochbananen und Dingen aus mehreren Kontinenten. Und über allem ein übrig gebliebener Flügel aus einer deutschen Fliegerbar.
+
+Auch der Name hatte sich nicht auf eine Form festlegen müssen. Im Internet heißt der Laden inzwischen meistens **Anna Lakshmi**. Draußen steht davon nichts. Auf dem Schild über der Tür steht nur **Lakshmi**. Auch ältere Kölner Texte kennen ihn unter diesem Namen. Das zusätzliche Anna scheint erst später in sein digitales Leben geraten zu sein.[^name]
+
+Ausgerechnet **Annalakshmi**, zusammengeschrieben, gibt es tatsächlich: So heißt eine internationale Kette vegetarischer Restaurants. Ihr Name verbindet *annam*, Essen oder Nahrung, mit Lakshmi, der Göttin des Wohlstands und der Fülle. Mit dem Kölner Restaurant hat sie nichts zu tun.
+
+Trotzdem sah es aus, als habe jemand den Namen dieser Kette an einer für deutsche Augen einleuchtenden Stelle getrennt. Aus Annalakshmi wurde Anna Lakshmi.
+
+Ein Leerzeichen hatte eine Frau erfunden. Ein Restaurantführer glaubte später sogar zu wissen, dass die Besitzerin Anna hieße.
 
 Nichts davon war geglättet worden, damit es besser zusammenpasste.
 
