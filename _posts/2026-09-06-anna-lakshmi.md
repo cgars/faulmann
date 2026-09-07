@@ -4,7 +4,7 @@ title: "Faulmann isst - Kothu unter dem Starfighter"
 subtitle: "Eine Stelle, die mehrere Leben behalten hat"
 date: 2026-09-06
 categories: [stellen_die_blieben, essen, faulmann, koeln]
-tags: [anna_lakshmi, sri_lanka, kothu, pakora, thieboldsgasse, starfighter]
+tags: [anna-lakshmi, sri-lanka, kothu, pakora, thieboldsgasse, starfighter]
 teaser: "Faulmann bestellt ein bisschen scharf und entdeckt erst auf den zweiten Blick, was über seinem Tisch hängt."
 ---
 
