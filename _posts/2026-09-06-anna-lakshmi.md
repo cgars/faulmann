@@ -32,7 +32,7 @@ Er sah kurz wieder auf den Tisch und dann noch einmal nach oben. Der Flügel war
 
 Das war selbst für Köln ungewöhnlich.
 
-Es war ein Tragflügel der **Lockheed F-104G Starfighter**. Die F-104 hatte ungewöhnlich kleine und dünne Tragflächen. Ihre Vorderkanten waren nur ungefähr 0,4 Millimeter stark - so scharf, dass sie am Boden mit Schutzleisten abgedeckt werden mussten, damit sich niemand daran verletzte.
+Es war ein Tragflügel der **Lockheed F-104G Starfighter**. Die F-104 hatte ungewöhnlich kleine und dünne Tragflächen. Ihre Vorderkanten waren nur ungefähr 0,4 Millimeter stark - so scharf, dass sie am Boden mit Schutzleisten abgedeckt werden mussten, damit sich niemand daran verletzte. In Deutschland kannte man das Flugzeug allerdings auch unter einem weniger glänzenden Namen: **Witwenmacher**.[^starfighter]
 
 Faulmann hatte "ein bisschen" bestellt. Der Flügel entsprach offenbar eher dem Geschmack der Frau.
 
@@ -56,7 +56,7 @@ Der Raum machte es ähnlich. Geblümte Tischdecken und Leuchtstoffröhren. Sri-l
 
 Auch der Name hatte sich nicht auf eine Form festlegen müssen. Im Internet heißt der Laden inzwischen meistens **Anna Lakshmi**. Draußen steht davon nichts. Auf dem Schild über der Tür steht nur **Lakshmi**. Auch ältere Kölner Texte kennen ihn unter diesem Namen. Das zusätzliche Anna scheint erst später in sein digitales Leben geraten zu sein.[^name]
 
-Ausgerechnet **Annalakshmi**, zusammengeschrieben, gibt es tatsächlich: So heißt eine internationale Kette vegetarischer Restaurants. Ihr Name verbindet *annam*, Essen oder Nahrung, mit Lakshmi, der Göttin des Wohlstands und der Fülle. Mit dem Kölner Restaurant hat sie nichts zu tun.
+Ausgerechnet **Annalakshmi**, zusammengeschrieben, gibt es tatsächlich: So heißt eine internationale Kette vegetarischer Restaurants. Ihr Name verbindet *annam*, Essen oder Nahrung, mit Lakshmi, der Göttin des Wohlstands und der Fülle. Mit dem Kölner Restaurant hat die Kette nichts zu tun. Die semantischen Konstituenten ihres Namens - Nahrung und Fülle - vielleicht schon eher.
 
 Trotzdem sah es aus, als habe jemand den Namen dieser Kette an einer für deutsche Augen einleuchtenden Stelle getrennt. Aus Annalakshmi wurde Anna Lakshmi.
 
@@ -85,5 +85,7 @@ Er blickte noch einmal zur Decke.
 Der Flügel hing noch dort.
 
 Er schien von diesem Plan schon länger zu wissen.
+
+[^starfighter]: Die F-104 entstand 1954 als leichter Schönwetter-Abfangjäger. Die Bundeswehr machte daraus ein Mehrzweckflugzeug, das auch als Jagdbomber und Aufklärer, bei schlechtem Wetter und im Tiefflug eingesetzt werden sollte. Von 916 eingesetzten Starfightern gingen 292 durch Unfälle verloren; 116 Piloten starben. Der Volksmund nannte das Flugzeug **Witwenmacher** oder **fliegender Sargnagel**. Die Ursachen lagen nicht in einem einzigen Fehler. Zu ihnen gehörten Probleme bei der Einführung, Trainingsdefizite, mangelhafte Wartung und technische Schwierigkeiten. Vieles wurde später durch Umrüstungen und Verbesserungen behoben. Das [Deutsche Museum](https://www.deutsches-museum.de/flugwerft-schleissheim/ausstellung/militaerluftfahrt/f-104-g) beschreibt diese Geschichte ausführlicher.
 
 [^name]: Die Namensspur verläuft nicht geradeaus. Ein Kölner Kulinarik-Stadtplan von 2015 und der Kölner Stadt-Anzeiger von 2018 nennen das Restaurant **Lakshmi**; der Stadt-Anzeiger nennt die Betreiberin Saraswalthy Thiru. Auch koeln.de und Tripadvisor bleiben bis heute bei **Lakshmi**. Seit mindestens 2020 findet sich daneben **Anna Lakshmi**, zunächst bei einer Bestell-App, später auch bei Mit Vergnügen, im Magazin der Kölner Museen und bei Falstaff. Dort wurde aus dem Namenszusatz schließlich sogar die "Besitzerin Anna". Der Name wurde also nicht einfach geändert. Er hat sich online verzweigt.
