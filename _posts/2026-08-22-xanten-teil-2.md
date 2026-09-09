@@ -854,17 +854,195 @@ Cassianus sah ihn zum ersten Mal anerkennend an.
 
 Dann folgte Mummrich den anderen zu den Thermen.
 
+## Die kleinen Thermen der Herberge
+
+Die kleinen Thermen der Herberge waren warm und beinahe still.
+
+Das war das Erste, was Mummrich bemerkte.
+
+Ein Bad sollte plätschern.
+
+Vom Umkleideraum führte eine Tür in einen kühlen Baderaum. Dahinter lagen, durch breite Bögen voneinander getrennt, der mäßig warme und der heiße Raum. In den Wänden befanden sich halbkreisförmige Nischen mit Becken. Der Boden war mit kleinen Steinplatten ausgelegt und unter Mummrichs Füßen spürbar warm.
+
+Liora blieb neben ihm stehen.
+
+"Wenn das Wasser ausbleibt, warum ist dann der Boden warm?"
+
+Ein älterer Mann kam ihnen entgegen. Seine Tunika war an einer Schulter feucht, in der Hand hielt er ein zusammengefaltetes Tuch.
+
+"Das Feuer arbeitet weiter", sagte er. "Die heiße Luft zieht aus dem Heizraum unter dem Boden hindurch und steigt in den Wänden auf. Feuer und Wasser haben getrennte Aufgaben. Heute erfüllt nur eines von beiden seine."
+
+Aus dem hinteren Raum sah ein Badegast zu ihnen herüber.
+
+"Erklärt das meinen Gästen", sagte der Mann.
+
+Faulmann betrachtete das fast leere Becken.
+
+"Ein Bad ohne Wasser ist hauptsächlich ein aufwendig beheizter Raum."
+
+"Das habe ich ihnen erklärt. Es hat ihre Laune nicht verbessert."
+
+Crispus trat an das runde Becken in der Wandnische. Aus einem steinernen Auslauf rann ein dünner Wasserfaden. Er löste sich kaum vom Rand und hinterließ eine dunkle Spur auf dem Kalk.
+
+"War das heute Morgen schon so?", fragte er.
+
+"Nicht ganz so schwach."
+
+"Secundus war hier?"
+
+"Vor Sonnenaufgang. Ich hatte gestern Abend beim Wasseramt gemeldet, dass unsere Becken langsamer nachlaufen. Heute Morgen kam er mit seinen sechs Leuten."
+
+Dachsbert sah auf den Tisch in der Mitte des Raumes. Zwischen kleinen Ölfläschchen, Tüchern und einer flachen Schale stand ein schlichter Tonbecher.
+
+"Deshalb hatte der Arbeiter seinen Becher in den Thermen."
+
+Der Mann folgte seinem Blick.
+
+"Nicht zum Baden."
+
+"Das hatte ich gehofft", sagte Dachsbert.
+
+![In den Herbergsthermen wird der sinkende Wasserdruck erstmals sichtbar.](/assets/img/posts/2026-08-22-xanten/05-herbergsthermen.webp)
+
+Mummrich ging zum Becken und hielt eine Pfote unter den Auslauf. Dann prüfte er einen zweiten Zufluss im warmen Raum und einen dritten am hinteren Becken.
+
+"Alle drei sind schwach."
+
+"Können nicht einfach die Leitungen hier verstopft sein?", fragte Liora.
+
+"Eine vielleicht. Drei gleichzeitig eher nicht. Der Verlust liegt vor der Verteilung zum Bad."
+
+Crispus sah auf das schmale Rinnsal.
+
+"Wenn eine Leitung Wasser in den Boden verliert, sinkt hier der Druck, bevor die Versorgung ganz ausfällt."
+
+"Und der Boden wird an anderer Stelle immer weniger Boden", sagte Mummrich.
+
+Crispus nickte.
+
+"Deshalb die Balken."
+
+Der Thermenmann nahm den Becher vom Tisch.
+
+"Einer von Secundus' Arbeitern hat damit den Zulauf geprüft. Er hielt ihn unter den Auslauf und ich sollte langsam zählen, bis das Wasser die eingeritzte Linie erreichte."
+
+Er zeigte eine feine Kerbe knapp unter dem Rand.
+
+"Wie weit habt Ihr gezählt?", fragte Dachsbert.
+
+"Bis vierundzwanzig."
+
+Mummrich nahm den Becher, leerte den Staub daraus und stellte ihn unter den Wasserfaden.
+
+"Zählt noch einmal."
+
+Der Mann begann.
+
+Bei vierundzwanzig war der Becher etwas mehr als halb voll. Bei dreißig erreichte das Wasser die Kerbe noch immer nicht. Erst bei einundvierzig hob Mummrich ihn fort.
+
+"Vielleicht habt Ihr heute Morgen schneller gezählt", sagte Faulmann.
+
+"Bestimmt nicht um die Hälfte", sagte Crispus.
+
+Mummrich stellte den Becher auf den Tisch zurück.
+
+"Es ist keine genaue Messung. Aber sie muss nicht genau sein. Der Zufluss ist deutlich schwächer geworden."
+
+Der Thermenmann sah zu den Badegästen.
+
+"Wie lange bleibt uns?"
+
+"Bis wofür?", fragte Dachsbert.
+
+"Bis gar kein Wasser mehr kommt."
+
+Mummrich betrachtete die feuchte Spur unter dem Auslauf.
+
+"Das ist nicht die wichtigste Frist."
+
+Crispus sah ihn an.
+
+"Wenn Secundus die Leitung freigelegt hat und der Boden weiter nachgibt, stehen die sieben vielleicht unter ihrer eigenen Baustelle."
+
+Im Raum wurde es stiller, obwohl sich am Geräusch kaum etwas änderte.
+
+Liora nahm den Becher wieder in die Hand.
+
+"Wie kam es, dass der Arbeiter ihn hierließ?"
+
+"Secundus rief nach ihm. Sie mussten zum Hafen und wollten keine Zeit verlieren. Ich rief ihm den Becher nach. Er sagte, ich solle ihn stehen lassen. Am Abend würde er ihn holen."
+
+"Hat Secundus gesagt, wo die Schadstelle liegt?", fragte Crispus.
+
+"Nur, dass sie im südlichen Leitungsabschnitt sein müsse. Er wollte erst die Balken und Werkzeug holen. Als sie später mit den zwei Karren zurückkamen, sind sie nicht mehr hereingekommen."
+
+"Ihr habt die Karren gesehen?"
+
+"Die ganze Straße hat sie gesehen. Man übersieht zwölf Eichenbalken nur schwer."
+
+"Welche Richtung?", fragte Dachsbert.
+
+Der Mann zeigte zur Seitentür.
+
+"Am Bad vorbei, dann nach Süden. An der nächsten Kreuzung in Richtung Amphitheater."
+
+Crispus ging zur Tür und öffnete sie. Draußen lag ein schmaler Versorgungsweg zwischen der Herberge und dem nächsten Häuserblock. An seinem Rand verlief eine offene Rinne. Wasser aus den Thermen hatte den Staub stellenweise in dunklen Lehm verwandelt.
+
+Zwei breite Räderspuren zogen hindurch.
+
+Mummrich kniete daneben. In einer der Rillen lagen helle Holzspäne. Wenige Schritte weiter hatte sich die Kante eines Wagenrads tief in den weichen Boden gedrückt.
+
+"Zwei beladene Karren", sagte er. "Der hintere schwerer als der vordere."
+
+"Die langen Balken", sagte Crispus.
+
+"Und die Spur ist jünger als das Wasser in der Rinne."
+
+"Wie lange bleibt sie sichtbar?", fragte Liora.
+
+Mummrich sah zum hellen Himmel.
+
+"Bis die Sonne den Lehm trocknet oder das nächste Rad darüberfährt."
+
+Crispus trat auf die Straße.
+
+"Dann verlieren wir ab jetzt weder Zeit noch Spuren."
+
+Marcellus hob seine Wachstafel.
+
+"Der Investigator maximus nimmt die Verfolgung auf."
+
+"Wir verfolgen niemanden", sagte Dachsbert. "Wir folgen einer Spur."
+
+Marcellus setzte den Griffel an.
+
+"Das ist erheblich länger."
+
+"Und erheblich richtiger", sagte Crispus.
+
+Marcellus schrieb es trotzdem.
+
+Der Thermenmann blieb in der Tür stehen. In seiner Hand hielt er noch immer das gefaltete Tuch.
+
+"Was soll ich dem Arbeiter sagen, wenn er zurückkommt?"
+
+Liora stellte den Becher an seinen Platz.
+
+"Dass Ihr ihn aufgehoben habt."
+
+"Und wenn er nicht zurückkommt?"
+
+Crispus sah die beiden Rillen hinunter.
+
+"Dann bringen wir ihn zurück."
+
+Sie folgten den Karrenspuren nach Süden.
+
 ## Bereits illustrierte Folgeszenen
 
 <div class="gallery-note">
 Diese Bilder gehören bereits zur festgelegten weiteren Handlung. Die dazugehörigen Prosakapitel werden als Nächstes geschrieben.
 </div>
-
-### Die kleinen Thermen der Herberge
-
-![In den Herbergsthermen wird der sinkende Wasserdruck erstmals sichtbar.](/assets/img/posts/2026-08-22-xanten/05-herbergsthermen.webp)
-
-Mummrich prüft den schwachen Zulauf. Ein Arbeiter des Bautrupps hat seinen Becher zurückgelassen und angekündigt, ihn am Abend abzuholen. Secundus' Notstand war offenbar wirklich einer.
 
 ### Die Karrenspur
 
