@@ -800,6 +800,10 @@ Dachsbert wandte sich an Cassianus.
 
 "Einer der Arbeiter erwähnte sie. Er hatte dort seinen Becher stehen lassen und wollte zurücklaufen. Secundus sagte, er solle ihn am Abend auf dem Rückweg holen."
 
+"Warum hatte ein Arbeiter des Wasseramts seinen Becher in den Thermen?", fragte Dachsbert.
+
+"Das habe ich nicht gefragt."
+
 Liora sah zu Crispus.
 
 "Er wollte also zurückkommen."
