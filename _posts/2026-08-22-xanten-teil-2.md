@@ -10,6 +10,8 @@ permalink: /xanten/teil-2/
 tags: [faulmann, xanten, roemer, colonia-ulpia-traiana, archäologischer-park, museum, geschichte]
 ---
 
+![Captain Faulmann, Mummrich, Liora, Dachsbert und Centurio Crispus betrachten im Hafen die leere Lagerbucht mit zwölf roten Markierungen.](/assets/img/posts/2026-08-22-xanten/cover-teil-2.webp)
+
 ## Zwölf Balken
 
 Der leere Wagen gehörte der Legion.
