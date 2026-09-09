@@ -870,7 +870,7 @@ Liora blieb neben ihm stehen.
 
 Ein älterer Mann kam ihnen entgegen. Seine Tunika war an einer Schulter feucht, in der Hand hielt er ein zusammengefaltetes Tuch.
 
-"Das Feuer arbeitet weiter", sagte er. "Die heiße Luft zieht aus dem Heizraum unter dem Boden hindurch und steigt in den Wänden auf. Feuer und Wasser haben getrennte Aufgaben. Heute erfüllt nur eines von beiden seine."
+"Das Feuer arbeitet weiter", sagte er. "Die heiße Luft zieht aus dem Heizraum unter dem Boden hindurch und steigt in den Wänden auf. Feuer und Wasser haben getrennte Aufgaben. Heute erfüllt nur eines von beiden seine Aufgabe."
 
 Aus dem hinteren Raum sah ein Badegast zu ihnen herüber.
 
