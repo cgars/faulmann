@@ -454,7 +454,9 @@ Dachsbert nahm den Mulsum wieder auf und trank den Becher leer. Dann stellte er 
 
 "Schon", sagte Dachsbert.
 
-Marcellus ritzte etwas in seine Tafel. "Was schreiben Sie?", fragte Dachsbert.
+Marcellus ritzte etwas in seine Tafel.
+
+"Was schreiben Sie?", fragte Dachsbert.
 
 "Erste Amtshandlung des Investigator maximus: einen Becher ordnungsgemäß zurückgeführt."
 
@@ -650,7 +652,9 @@ Dachsbert sah ihn an. "Dann suchen wir keinen Flüchtenden mehr."
 
 "Nein. Wir suchen sieben Leute, die sich längst hätten melden müssen."
 
-Marcellus setzte den Griffel an. "Was schreiben Sie?", fragte Dachsbert.
+Marcellus setzte den Griffel an.
+
+"Was schreiben Sie?", fragte Dachsbert.
 
 "Der Fluchtverdacht verliert an Tragfähigkeit."
 
