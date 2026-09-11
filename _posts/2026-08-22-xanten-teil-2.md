@@ -18,6 +18,8 @@ Der leere Wagen gehörte der Legion.
 
 Das erkannte man an den eingebrannten Zeichen auf den Seitenbrettern und an den Soldaten, die darum herumstanden. Einige trugen nur Tunika, Gürtel und feste Schuhe. Ihre Schilde und Gepäckstücke lagen ordentlich unter einem Vordach. Auf dem Wagen befanden sich Seile, eiserne Klammern, zwei Hebelstangen und mehrere Rollen.
 
+Die Sonne stand inzwischen hoch über den Speichern. Unter den Arkaden waren die Schatten schmal geworden.
+
 Faulmann betrachtete die Ausrüstung.
 
 "Für Soldaten haben sie erstaunlich viel Werkzeug", sagte er.
@@ -392,7 +394,7 @@ Die Garküche lag nur wenige Straßen vom Hafen entfernt an der Ecke eines Häus
 
 Die Garküche nahm nur einen breiten Raum ein. Hinter einem gemauerten Herd standen Töpfe über der Glut. Auf einem Tisch lagen Brotfladen, Käse, Zwiebeln und Schalen mit Oliven. Der Wirt musste nichts erst aus einem Hinterzimmer holen. Sein Angebot befand sich dort, wo man es sehen, riechen und bestellen konnte.
 
-Vor dem Herd warteten zwei Lastträger mit Schüsseln. Ein Fuhrmann aß im Stehen. Niemand von ihnen schien sich darüber zu wundern, dass andere Menschen bereits vor der vollen Hitze des Tages eine warme Mahlzeit verlangten.
+Vor dem Herd warteten zwei Lastträger mit Schüsseln. Ein Fuhrmann aß im Stehen. Am Hafen richteten sich Mahlzeiten weniger nach der Sonne als danach, wann ein Schiff entladen war.
 
 "Viele von ihnen arbeiten seit Sonnenaufgang", sagte Marcellus. "Und die Herbergen versorgen nicht jeden, der am Hafen zu tun hat."
 
@@ -700,11 +702,15 @@ Der Schmied nickte.
 
 "Weitere Keile?", fragte Dachsbert.
 
-"Secundus nahm zwölf aus meinem Vorrat mit", sagte der Schmied. "Er rechnete damit, dass sie nicht reichen würden. Sobald die Grube offen war und er wusste, wie viele Stützen der Boden verlangte, wollte er die übrigen abholen."
+"Secundus nahm zwölf aus meinem Vorrat mit", sagte der Schmied. "Er rechnete damit, dass sie nicht reichen würden. Sobald die Grube offen war und er wusste, wie viele Stützen der Boden verlangte, wollte er mir einen Boten mit der genauen Zahl schicken."
 
-"Er wollte also zurückkommen."
+"Wann?", fragte Dachsbert.
 
-"Wenn der Boden sich anständig benahm, noch vor dem Abend."
+"Noch vor der Mittagsstunde."
+
+"Ist der Bote gekommen?", fragte Crispus.
+
+"Nein."
 
 Dachsbert zeigte auf die neuen Keile.
 
@@ -810,7 +816,7 @@ Liora sah zu Crispus.
 
 "Er wollte also zurückkommen."
 
-"Ja", sagte Crispus. "Und inzwischen hätte er zurück sein sollen."
+"Ja", sagte Crispus. "Aber vorher wollte er sich beim Schmied melden. Diese Nachricht ist längst überfällig."
 
 Dachsbert sah ihn an.
 
@@ -864,19 +870,19 @@ Das war das Erste, was Mummrich bemerkte.
 
 Ein Bad sollte plätschern.
 
-Vom Umkleideraum führte eine Tür in einen kühlen Baderaum. Dahinter lagen, durch breite Bögen voneinander getrennt, der mäßig warme und der heiße Raum (fussnote erklärung). In den Wänden befanden sich halbkreisförmige Nischen mit Becken. Der Boden war mit kleinen Steinplatten ausgelegt und unter Mummrichs Füßen spürbar warm.
+Vom Umkleideraum führte eine Tür in den Kaltbaderaum. Dahinter lagen, durch breite Bögen voneinander getrennt, der mäßig warme und der heiße Raum.[^baderaeume] In den Wänden befanden sich halbkreisförmige Nischen mit Becken. Der Boden war mit kleinen Steinplatten ausgelegt und unter Mummrichs Füßen spürbar warm.
 
 Liora blieb neben ihm stehen.
 
 "Wenn das Wasser ausbleibt, warum ist dann der Boden warm?"
 
-Ein älterer Mann kam ihnen entgegen. Seine Tunika war an einer Schulter feucht, in der Hand hielt er ein zusammengefaltetes Tuch.
+Der Betreiber des Bades kam ihnen entgegen. Er war ein älterer Mann; seine Tunika war an einer Schulter feucht, in der Hand hielt er ein zusammengefaltetes Tuch.
 
-"Das Feuer arbeitet weiter", sagte er. "Die heiße Luft zieht aus dem Heizraum unter dem Boden hindurch und steigt in den Wänden auf. Feuer und Wasser haben getrennte Aufgaben. Heute erfüllt nur eines von beiden seine Aufgabe."(ich glaube er muss das palstischer erklären)
+"Das Feuer hinter dem Heißbad brennt weiter", sagte er. "Es erhitzt den Wasserkessel und schickt heiße Luft unter den Boden. Der ruht auf kleinen Ziegelpfeilern, damit die Wärme darunter hindurchziehen und durch hohle Ziegel in den Wänden aufsteigen kann. Warm bleibt das Bad deshalb noch eine Weile. Nur frisches Wasser bringt das Feuer keines herein."
 
-Aus dem hinteren Raum sah ein Badegast zu ihnen herüber.
+Einer der wenigen Badegäste blickte aus dem hinteren Raum zu ihnen herüber.
 
-"Erklärt das meinen Gästen", sagte der Mann.(enetweder er ist ein badegast oder er hat gäste, es kann nicht beides sein)
+"Erklärt das meinen Gästen", sagte der Badbetreiber.
 
 Faulmann betrachtete das fast leere Becken.
 
@@ -898,7 +904,7 @@ Dachsbert sah auf den Tisch in der Mitte des Raumes. Zwischen kleinen Ölfläsch
 
 "Deshalb hatte der Arbeiter seinen Becher in den Thermen."
 
-Der Mann folgte seinem Blick.
+Der Badbetreiber folgte seinem Blick.
 
 "Nicht zum Baden."
 
@@ -924,7 +930,7 @@ Crispus nickte.
 
 "Deshalb die Balken."
 
-Der Thermenmann nahm den Becher vom Tisch.
+Der Badbetreiber nahm den Becher vom Tisch.
 
 "Einer von Secundus' Arbeitern hat damit den Zulauf geprüft. Er hielt ihn unter den Auslauf und ich sollte langsam zählen, bis das Wasser die eingeritzte Linie erreichte."
 
@@ -934,11 +940,11 @@ Er zeigte eine feine Kerbe knapp unter dem Rand.
 
 "Bis vierundzwanzig."
 
-Mummrich nahm den Becher, leerte den Staub daraus und stellte ihn unter den Wasserfaden.(der kann ja nihct schon vesrtaubt sein)
+Mummrich nahm den Becher und stellte ihn unter den Wasserfaden.
 
 "Zählt noch einmal."
 
-Der Mann begann.
+Der Badbetreiber begann.
 
 Bei vierundzwanzig war der Becher etwas mehr als halb voll. Bei dreißig erreichte das Wasser die Kerbe noch immer nicht. Erst bei einundvierzig hob Mummrich ihn fort.
 
@@ -950,7 +956,7 @@ Mummrich stellte den Becher auf den Tisch zurück.
 
 "Es ist keine genaue Messung. Aber sie muss nicht genau sein. Der Zufluss ist deutlich schwächer geworden."
 
-Der Thermenmann sah zu den Badegästen.
+Der Badbetreiber sah zu den Badegästen.
 
 "Wie lange bleibt uns?"
 
@@ -970,9 +976,9 @@ Im Raum wurde es stiller, obwohl sich am Geräusch kaum etwas änderte.
 
 Liora nahm den Becher wieder in die Hand.
 
-"Wie kam es, dass der Arbeiter ihn hierließ?" (wir wissen bereits dass er ihn einfach vergessen hatte)
+"Als sie mit den Karren zurückkamen - haben sie da angehalten?", fragte sie.
 
-"Secundus rief nach ihm. Sie mussten zum Hafen und wollten keine Zeit verlieren. Ich rief ihm den Becher nach. Er sagte, ich solle ihn stehen lassen. Am Abend würde er ihn holen."
+"Nein. Ich rief dem Arbeiter wegen seines Bechers nach. Secundus sagte, ich solle ihn stehen lassen. Am Abend würden sie ihn holen."
 
 "Hat Secundus gesagt, wo die Schadstelle liegt?", fragte Crispus.
 
@@ -1024,7 +1030,7 @@ Marcellus setzte den Griffel an.
 
 Marcellus schrieb es.
 
-Der Thermenmann blieb in der Tür stehen. In seiner Hand hielt er noch immer das gefaltete Tuch.
+Der Badbetreiber blieb in der Tür stehen.
 
 "Was soll ich dem Arbeiter sagen, wenn er zurückkommt?"
 
@@ -1034,9 +1040,15 @@ Liora stellte den Becher an seinen Platz.
 
 "Und wenn er nicht zurückkommt?"
 
+Crispus antwortete nicht sofort. Am Hafen hatte er auf sein Holz gezeigt und von Diebstahl gesprochen. Nun stand vor ihm der Becher eines Arbeiters, für den der Rückweg so selbstverständlich gewesen war, dass er ihn hatte liegen lassen können.
+
+"Ich habe Secundus Unrecht getan", sagte Crispus.
+
+Marcellus ließ den Griffel sinken.
+
 Crispus sah die beiden Rillen hinunter.
 
-"Dann bringen wir ihn zurück." (ich glaube hier können wir ihm mehr raum lassen, innerlich schämt er sichvielleicht sogar für siene verdacht, ein bisschen pathos schaded hier nicht)
+"Dann bringen wir ihn zurück."
 
 Sie folgten den Karrenspuren nach Süden.
 
@@ -1102,6 +1114,8 @@ Der Aufseher erinnert sich, dass Secundus nicht in die Arena fuhr. Die Karren na
 
 [← Zu Teil 1: Ein Purpurstreifen genügt]({{ '/xanten/teil-1/' | relative_url }})
 
+
+[^baderaeume]: Der Badetrakt der Xantener Herberge bestand aus einem Kaltbadebereich (*frigidarium*) und einem beheizten Warmbadebereich, der wahrscheinlich in *tepidarium* und *caldarium* gegliedert war. Seitlich lagen der Umkleideraum (*apodyterium*) und das Kaltwasserbecken. Die heutige Rekonstruktion zeigt eine mögliche Nutzung der archäologisch nachgewiesenen Räume; nicht jede Einzelheit ihrer Ausstattung ist sicher.
 
 [^legion]: Römische Legionen waren nicht nur Kampfverbände. Sie errichteten Lager, Befestigungen, Straßen und Brücken und verfügten dafür über Handwerker und andere Fachleute. Bauinschriften und gestempelte Ziegel zeigen bis heute, welche Einheit an einem Bau beteiligt war.
 
