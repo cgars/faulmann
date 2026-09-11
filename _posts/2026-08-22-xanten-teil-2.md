@@ -382,7 +382,7 @@ Am Kai wurde die nächste Amphore aus dem Lastschiff gehoben. Der Kran nahm ihr 
 
 Der Hafen setzte seine Arbeit um die fehlenden Balken herum fort.
 
-Die vier gingen zur Garküche.
+Marcellus führte die vier zur Garküche.
 
 ## Die Garküche
 
@@ -398,7 +398,7 @@ Vor dem Herd warteten zwei Lastträger mit Schüsseln. Ein Fuhrmann aß im Stehe
 
 "Viele von ihnen arbeiten seit Sonnenaufgang", sagte Marcellus. "Und die Herbergen versorgen nicht jeden, der am Hafen zu tun hat."
 
-"Deshalb versorgt ihn die Garküche", sagte Liora.
+"Deshalb kommen sie hierher", sagte Liora.
 
 Mummrich betrachtete die Töpfe.
 
@@ -766,11 +766,11 @@ Cassianus zeigte auf die acht Abschnitte.
 
 Cassianus deutete auf eine Ablage unter seinem Vordach. Dort lagen aufgerollte Seile und mehrere hölzerne Rollenblöcke.
 
-"Von diesen wollte er ebenfalls welche."
+"Drei Seile und zwei Rollenblöcke", sagte Cassianus.
 
-Crispus prüfte die Stärke des Seils.
+Crispus prüfte die Stärke eines der übrigen Seile.
 
-"Drei davon und zwei Rollenblöcke?"
+"Geliehen?"
 
 "Geliehen", sagte Cassianus. "Rückgabe heute Abend."
 
@@ -780,7 +780,7 @@ Crispus prüfte die Stärke des Seils.
 
 Cassianus zeigte auf eine Ledertasche neben der Werkbank. Darin steckten Messstäbe, ein Lot, ein Winkel und zwei eiserne Schreibgriffel.
 
-"Secundus ließ die Tasche hier, damit auf dem vorderen Karren Platz blieb."
+"Secundus ließ die Tasche ausdrücklich hier", sagte Cassianus. "Damit ich weiß, dass er zurückkommt."
 
 Liora betrachtete die Werkzeuge.
 
@@ -822,7 +822,7 @@ Dachsbert sah ihn an.
 
 "Dann suchen wir keinen Flüchtenden mehr."
 
-"Nein. Wir suchen sieben Leute, die ihre Rückkehr geplant und verpasst haben."
+"Nein. Wir suchen sieben Leute, die sich längst hätten melden müssen."
 
 Marcellus setzte den Griffel an.
 
@@ -878,7 +878,7 @@ Liora blieb neben ihm stehen.
 
 Der Betreiber des Bades kam ihnen entgegen. Er war ein älterer Mann; seine Tunika war an einer Schulter feucht, in der Hand hielt er ein zusammengefaltetes Tuch.
 
-"Das Feuer hinter dem Heißbad brennt weiter", sagte er. "Es erhitzt den Wasserkessel und schickt heiße Luft unter den Boden. Der ruht auf kleinen Ziegelpfeilern, damit die Wärme darunter hindurchziehen und durch hohle Ziegel in den Wänden aufsteigen kann. Warm bleibt das Bad deshalb noch eine Weile. Nur frisches Wasser bringt das Feuer keines herein."
+"Das Feuer hinter dem Heißbad brennt weiter", sagte er und deutete auf den Boden. "Die Platten stehen auf kleinen Ziegelpfeilern. Heiße Luft zieht darunter hindurch und dann in den Wänden nach oben. Den Wasserkessel heizt dasselbe Feuer. Neues Wasser bringt es allerdings keines herein."
 
 Einer der wenigen Badegäste blickte aus dem hinteren Raum zu ihnen herüber.
 
@@ -1056,65 +1056,7 @@ Sie folgten den Karrenspuren nach Süden.
 
 ## Bereits illustrierte Folgeszenen
 
-<div class="gallery-note">
-Diese Bilder gehören bereits zur festgelegten weiteren Handlung. Die dazugehörigen Prosakapitel werden als Nächstes geschrieben.
-</div>
-
-### Die Karrenspur
-
-![Die schweren Karren haben Lehm, Holzspäne und tiefe Spuren in den Straßen der Colonia hinterlassen.](/assets/img/posts/2026-08-22-xanten/06-karrenspur.webp)
-
-Die Spur führt durch die Wohnstadt in Richtung Amphitheater. Händler, Handwerker und Anwohner werden aus zufälligen Beobachtern allmählich zu Zeugen.
-
-### Gastfreundschaft mit Reichweite
-
-Liora kehrt zur Obsthändlerin zurück. Gemeinsam schicken sie die Frage nach den zwei Karren über Händler, Kunden, Laufburschen und Lieferwege durch die Stadt. Eine der Antworten liefert die entscheidende Beobachtung: Secundus fuhr nicht in die Arena, sondern nahm den äußeren Versorgungsweg.
-
-Als aus der Suche eine Rettung wird, setzt sich dieselbe Verbindung erneut in Bewegung. Noch bevor ein Amt etwas anordnet, stehen am Versorgungsweg Körbe mit Brot und Obst, Krüge mit Wasser und Tücher für Verletzte bereit. Liora organisiert die Verteilung; die Händlerin sorgt dafür, dass der Nachschub nicht abreißt.
-
-"Du erfindest doch Ämter", sagte Liora zu Dachsbert.
-
-"Nur, soweit sie benötigt werden."
-
-"Gut. Wir benötigen eines."
-
-Dachsbert richtete sich auf.
-
-"Im Namen der Colonia und unter dem Schutz des Geschlechts der Melesbertier ernenne ich Euch hiermit zur städtischen Oberaufseherin für Nothilfe und Gastfreundschaft."
-
-Marcellus schrieb es auf.
-
-"Du hast sie gerade in die Klientel deines Hauses aufgenommen", sagte Liora.
-
-Dachsbert sah zu Marcellus.
-
-"Das ist noch kein Adel."
-
-"Für ein Geschlecht, das seit heute Morgen besteht, kommt es dem ziemlich nahe."
-
-"Gilt das Amt nur für heute?", fragte die Händlerin.
-
-"Ich habe keine Befristung genannt", sagte Dachsbert.
-
-Die Händlerin nickte.
-
-"Und die Stadt ersetzt mir die Auslagen."
-
-Marcellus sah wieder zu Dachsbert.
-
-"Schreiben Sie auch das auf", sagte Dachsbert.
-
-Die neue Oberaufseherin der Colonia schickte zwei Laufburschen zur Brotfrau und einen dritten zur Garküche.
-
-### Das Amphitheater
-
-![Während draußen das Spektakel läuft, liegt die brauchbare Spur im dunklen Seitengang.](/assets/img/posts/2026-08-22-xanten/07-amphitheater.webp)
-
-Der Aufseher erinnert sich, dass Secundus nicht in die Arena fuhr. Die Karren nahmen den äußeren Versorgungsweg zu den Großen Thermen. Dort wird aus der Suche eine Rettung.
-
----
-
-[← Zu Teil 1: Ein Purpurstreifen genügt]({{ '/xanten/teil-1/' | relative_url }})
+<div cgt]({{ '/xanten/teil-1/' | relative_url }})
 
 
 [^baderaeume]: Der Badetrakt der Xantener Herberge bestand aus einem Kaltbadebereich (*frigidarium*) und einem beheizten Warmbadebereich, der wahrscheinlich in *tepidarium* und *caldarium* gegliedert war. Seitlich lagen der Umkleideraum (*apodyterium*) und das Kaltwasserbecken. Die heutige Rekonstruktion zeigt eine mögliche Nutzung der archäologisch nachgewiesenen Räume; nicht jede Einzelheit ihrer Ausstattung ist sicher.
@@ -1125,4 +1067,4 @@ Der Aufseher erinnert sich, dass Secundus nicht in die Arena fuhr. Die Karren na
 
 [^popina]: Eine *popina* war eine einfache römische Garküche oder Schankwirtschaft. Sie versorgte vor allem Menschen, die unterwegs arbeiteten oder nicht zu Hause aßen, mit fertigen Speisen und Getränken.
 
-[^mulsum]: Mulsum war kein Met, sondern mit Honig gesüßter Wein und wurde häufig zu Beginn einer Mahlzeit gereicht. Je nach verwendetem Wein und Honig konnte er durchaus einem Ehrengast angemessen sein. Ob eine kleine Garküche ausgerechnet eine besonders gute Mischung vorrätig hatte, blieb allerdings Lioras optimistische Annahme. "Auf die Pfote" überträgt zudem die heutige Vorstellung eines Getränks zum Mitnehmen in die Antike. Das "Kriminalisieren" spielt auf die Fernsehfigur *Pfarrer Braun* an, die vor ihren Ermittlungen eine Prise Schnupftabak nahm.
+[^mulsum]: Mulsum war kein Met, sondern mit Honig gesüßter Wein und wurde häufig zu Beginn einer Mahlzeit gereicht. Je nach verwendetem Wein und Honig konnte er durchaus einem Ehrengast angemessen sein. Ob eine kleine Garküche ausgerechnet eine besonders gute Mischung vorrätig hatte, blieb allerdings Lioras optimistische Annahme.
