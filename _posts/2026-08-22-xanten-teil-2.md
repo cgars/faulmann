@@ -1054,9 +1054,9 @@ Crispus sah die beiden Rillen hinunter.
 
 Sie folgten den Karrenspuren nach Süden.
 
-## Bereits illustrierte Folgeszenen
+---
 
-<div cgt]({{ '/xanten/teil-1/' | relative_url }})
+[← Zu Teil 1: Ein Purpurstreifen genügt]({{ '/xanten/teil-1/' | relative_url }})
 
 
 [^baderaeume]: Der Badetrakt der Xantener Herberge bestand aus einem Kaltbadebereich (*frigidarium*) und einem beheizten Warmbadebereich, der wahrscheinlich in *tepidarium* und *caldarium* gegliedert war. Seitlich lagen der Umkleideraum (*apodyterium*) und das Kaltwasserbecken. Die heutige Rekonstruktion zeigt eine mögliche Nutzung der archäologisch nachgewiesenen Räume; nicht jede Einzelheit ihrer Ausstattung ist sicher.
