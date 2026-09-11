@@ -1042,7 +1042,7 @@ Der Badbetreiber nickte, wirkte aber nicht beruhigt. Er sah an Liora vorbei zu C
 
 "Und wenn er nicht zurückkommt?"
 
-Crispus antwortete nicht sofort. Am Hafen hatte er auf sein Holz gezeigt und von Diebstahl gesprochen. Nun stand vor ihm der Becher eines Arbeiters, den Secundus hatte stehen lassen, weil der Rückweg für ihn selbstverständlich gewesen war.
+Crispus antwortete nicht sofort. Am Hafen hatte er auf sein Holz gezeigt und von Diebstahl gesprochen. Hinter ihm, im Bad, stand der Becher eines Arbeiters, den Secundus hatte stehen lassen, weil der Rückweg für ihn selbstverständlich gewesen war.
 
 "Ich habe Secundus Unrecht getan", sagte Crispus.
 
