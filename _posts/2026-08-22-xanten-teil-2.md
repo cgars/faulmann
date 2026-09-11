@@ -864,7 +864,7 @@ Das war das Erste, was Mummrich bemerkte.
 
 Ein Bad sollte plätschern.
 
-Vom Umkleideraum führte eine Tür in einen kühlen Baderaum. Dahinter lagen, durch breite Bögen voneinander getrennt, der mäßig warme und der heiße Raum. In den Wänden befanden sich halbkreisförmige Nischen mit Becken. Der Boden war mit kleinen Steinplatten ausgelegt und unter Mummrichs Füßen spürbar warm.
+Vom Umkleideraum führte eine Tür in einen kühlen Baderaum. Dahinter lagen, durch breite Bögen voneinander getrennt, der mäßig warme und der heiße Raum (fussnote erklärung). In den Wänden befanden sich halbkreisförmige Nischen mit Becken. Der Boden war mit kleinen Steinplatten ausgelegt und unter Mummrichs Füßen spürbar warm.
 
 Liora blieb neben ihm stehen.
 
@@ -872,11 +872,11 @@ Liora blieb neben ihm stehen.
 
 Ein älterer Mann kam ihnen entgegen. Seine Tunika war an einer Schulter feucht, in der Hand hielt er ein zusammengefaltetes Tuch.
 
-"Das Feuer arbeitet weiter", sagte er. "Die heiße Luft zieht aus dem Heizraum unter dem Boden hindurch und steigt in den Wänden auf. Feuer und Wasser haben getrennte Aufgaben. Heute erfüllt nur eines von beiden seine Aufgabe."
+"Das Feuer arbeitet weiter", sagte er. "Die heiße Luft zieht aus dem Heizraum unter dem Boden hindurch und steigt in den Wänden auf. Feuer und Wasser haben getrennte Aufgaben. Heute erfüllt nur eines von beiden seine Aufgabe."(ich glaube er muss das palstischer erklären)
 
 Aus dem hinteren Raum sah ein Badegast zu ihnen herüber.
 
-"Erklärt das meinen Gästen", sagte der Mann.
+"Erklärt das meinen Gästen", sagte der Mann.(enetweder er ist ein badegast oder er hat gäste, es kann nicht beides sein)
 
 Faulmann betrachtete das fast leere Becken.
 
@@ -934,7 +934,7 @@ Er zeigte eine feine Kerbe knapp unter dem Rand.
 
 "Bis vierundzwanzig."
 
-Mummrich nahm den Becher, leerte den Staub daraus und stellte ihn unter den Wasserfaden.
+Mummrich nahm den Becher, leerte den Staub daraus und stellte ihn unter den Wasserfaden.(der kann ja nihct schon vesrtaubt sein)
 
 "Zählt noch einmal."
 
@@ -970,7 +970,7 @@ Im Raum wurde es stiller, obwohl sich am Geräusch kaum etwas änderte.
 
 Liora nahm den Becher wieder in die Hand.
 
-"Wie kam es, dass der Arbeiter ihn hierließ?"
+"Wie kam es, dass der Arbeiter ihn hierließ?" (wir wissen bereits dass er ihn einfach vergessen hatte)
 
 "Secundus rief nach ihm. Sie mussten zum Hafen und wollten keine Zeit verlieren. Ich rief ihm den Becher nach. Er sagte, ich solle ihn stehen lassen. Am Abend würde er ihn holen."
 
@@ -980,7 +980,7 @@ Liora nahm den Becher wieder in die Hand.
 
 "Ihr habt die Karren gesehen?"
 
-"Die ganze Straße hat sie gesehen. Man übersieht zwölf Eichenbalken nur schwer."
+"Die ganze Straße hat sie gesehen oder zumindest gehört."
 
 "Welche Richtung?", fragte Dachsbert.
 
@@ -992,7 +992,7 @@ Crispus ging zur Tür und öffnete sie. Draußen lag ein schmaler Versorgungsweg
 
 Zwei breite Räderspuren zogen hindurch.
 
-Mummrich kniete daneben. In einer der Rillen lagen helle Holzspäne. Wenige Schritte weiter hatte sich die Kante eines Wagenrads tief in den weichen Boden gedrückt.
+Mummrich kniete sich daneben. In einer der Rillen lagen helle Holzspäne. Wenige Schritte weiter hatte sich die Kante eines Wagenrads tief in den weichen Boden gedrückt.
 
 "Zwei beladene Karren", sagte er. "Der hintere schwerer als der vordere."
 
@@ -1022,7 +1022,7 @@ Marcellus setzte den Griffel an.
 
 "Und erheblich richtiger", sagte Crispus.
 
-Marcellus schrieb es trotzdem.
+Marcellus schrieb es.
 
 Der Thermenmann blieb in der Tür stehen. In seiner Hand hielt er noch immer das gefaltete Tuch.
 
@@ -1036,7 +1036,7 @@ Liora stellte den Becher an seinen Platz.
 
 Crispus sah die beiden Rillen hinunter.
 
-"Dann bringen wir ihn zurück."
+"Dann bringen wir ihn zurück." (ich glaube hier können wir ihm mehr raum lassen, innerlich schämt er sichvielleicht sogar für siene verdacht, ein bisschen pathos schaded hier nicht)
 
 Sie folgten den Karrenspuren nach Süden.
 
