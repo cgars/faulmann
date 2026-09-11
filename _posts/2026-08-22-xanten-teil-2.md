@@ -990,7 +990,7 @@ Liora nahm den Becher wieder in die Hand.
 
 "Welche Richtung?", fragte Dachsbert.
 
-Der Mann zeigte zur Seitentür.
+Der Badbetreiber zeigte zur Seitentür.
 
 "Am Bad vorbei, dann nach Süden. An der nächsten Kreuzung in Richtung Amphitheater."
 
@@ -1040,7 +1040,7 @@ Liora stellte den Becher an seinen Platz.
 
 "Und wenn er nicht zurückkommt?"
 
-Crispus antwortete nicht sofort. Am Hafen hatte er auf sein Holz gezeigt und von Diebstahl gesprochen. Nun stand vor ihm der Becher eines Arbeiters, für den der Rückweg so selbstverständlich gewesen war, dass er ihn hatte liegen lassen können.
+Crispus antwortete nicht sofort. Am Hafen hatte er auf sein Holz gezeigt und von Diebstahl gesprochen. Nun stand vor ihm der Becher eines Arbeiters, den Secundus hatte stehen lassen, weil der Rückweg für ihn selbstverständlich gewesen war.
 
 "Ich habe Secundus Unrecht getan", sagte Crispus.
 
