@@ -1038,6 +1038,8 @@ Liora stellte den Becher an seinen Platz.
 
 "Dass Ihr ihn aufgehoben habt."
 
+Der Badbetreiber nickte, wirkte aber nicht beruhigt. Er sah an Liora vorbei zu Crispus, der bereits auf der Straße stand.
+
 "Und wenn er nicht zurückkommt?"
 
 Crispus antwortete nicht sofort. Am Hafen hatte er auf sein Holz gezeigt und von Diebstahl gesprochen. Nun stand vor ihm der Becher eines Arbeiters, den Secundus hatte stehen lassen, weil der Rückweg für ihn selbstverständlich gewesen war.
