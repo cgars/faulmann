@@ -56,7 +56,7 @@ Marcellus trat einen Schritt vor. "Dachsbertus. Der Ehrengast aus Rom, Inspizien
 
 Dachsbert sah Marcellus an. Marcellus hatte die Tafel am Tor sehr ordentlich geführt. "Den Inspizienten hatte ich nicht genannt", sagte Dachsbert.
 
-"Er fasst die Besichtigungen kürzer zusammen", sagte Marcellus.
+"So verlauetete es die Ankündigung", sagte Marcellus.
 
 Der Mann mit dem zerknirschten Gesichtsausdruck kam ihnen entgegen. "Lucius Petronius Varro, Duumvir der Colonia."
 
@@ -66,21 +66,21 @@ Er legte kurz zwei Finger an die Brust. Dachsbert tat es ihm nach. "Einer von zw
 
 "Das ist gegenwärtig mein größter Trost."
 
-Varro deutete auf die leere Lagerbucht. "Verzeiht diesen Empfang. Es handelt sich um einen kleinen Streit zwischen der Stadt und der Legion."
+Varro deutete auf die leere Lagerbucht. "Verzeiht dieses Durcheinander. Es handelt sich um einen kleinen Streit zwischen der Stadt und der Legion."
 
-Dachsbert betrachtete die zwölf roten Striche an der Rückwand. "Achtzehn Fuß lange Eichenbalken sind keine besonders kleine Form des Streits."
+Dachsbert betrachtete die zwölf roten Striche an der Rückwand. "Lange Eichenbalken sind keine besonders kleine Form des Streits."
 
 "Es handelt sich um Diebstahl", sagte der Centurio.
 
 "Das ist bereits Teil des Streits", sagte Varro.
 
-Er wandte sich Dachsbert zu. "Umso glücklicher trifft er heute auf einen unbeteiligten Würdenträger aus Rom."
+Er wandte sich Dachsbert zu. "Umso glücklicher trifft es sich das wir heute einen hochrangigen Würdenträger aus Rom hier haben."
 
 "Ich besichtige die Stadt."
 
-"Dann besichtigt Ihr gegenwärtig eines ihrer Probleme."
+"Umso transparenter zeigt sich hier und gegenwärtig eines ihrer Probleme."
 
-Liora sah zu Varros Schreibern. Der zweite hatte nun ebenfalls den Griffel angesetzt.
+Liora sah ein wenig besorgt zu Varros Schreibern. Der zweite hatte nun ebenfalls den Griffel angesetzt.
 
 Dachsbert wandte sich wieder an den Centurio. "Wann wurden die Balken zuletzt gesehen?"
 
@@ -94,7 +94,7 @@ Auf seinem Gürtel und den Metallbeschlägen des Wagens wiederholte sich das Zei
 
 "Beide tragen den Namen Kaiser Trajans", sagte Marcellus.
 
-"Er beschriftete großzügig", sagte Faulmann.
+"Er beschriftete wohl großzügig", sagte Faulmann.
 
 "Die Balken waren für Arbeiten an unserem Lager bestimmt", sagte Crispus.
 
@@ -120,7 +120,7 @@ Crispus drehte sich langsam zu ihm um. "Ihr?"
 
 "Und offenbar den militärischen Holzbestand", sagte Crispus.
 
-"Nicht regelmäßig."
+"Normalerweise nicht."
 
 "Das beruhigt mich."
 
@@ -146,7 +146,7 @@ Für einen Augenblick war nur das Knarren der Hafenwinde zu hören.
 
 "Der Wassermeister hat vor allem mein Holz."
 
-"Zu diesem Zeitpunkt hatte er vor allem eine amtlich versiegelte Vollmacht."
+"Zu fraglichen Zeitpunkt hatte er vor allem eine amtliche Vollmacht."
 
 Der Hafenaufseher reichte Varro eine verschnürte Doppeltafel. Der Duumvir prüfte den Siegelabdruck, löste die Schnur und klappte sie auf. Dann gab er sie Dachsbert.
 
@@ -242,7 +242,7 @@ Neben der Speicherfront floss Wasser aus einem steinernen Rohr in ein Becken. Cr
 
 "Dann suchen wir weiter südlich nach sinkendem Druck", sagte Crispus. "Bis wir ihn finden, können sowohl der Notfall als auch der Vorwand wahr sein."
 
-Mummrich war den Spuren vom Speicher aus gefolgt. Bald teilten sich die Rillen der beiden Karren. Zwischen ihnen lagen Sägemehl und ein kleiner Tropfen dunkles Harz. "Die Balken waren lang und schwer", sagte er. "Die Karren konnten nur langsam fahren. Jemand muss sie gesehen haben."
+Mummrich war den Spuren vom Speicher aus gefolgt. Bald teilten sich die Rillen der beiden Karren. Zwischen ihnen lagen Sägemehl (es kann noch kein Sägemehl da sein) und ein kleiner Tropfen dunkles Harz. "Die Balken waren lang und schwer", sagte er. "Die Karren konnten nur langsam fahren. Jemand muss sie gesehen haben."
 
 "Viele haben sie gesehen", sagte der Hafenaufseher. "Niemand wusste, dass man später besonders darauf achten sollte."
 
@@ -250,7 +250,7 @@ Liora nickte.
 
 Zeugen waren häufig erst im Nachhinein Zeugen. Vorher standen sie nur am Weg.
 
-Ein junger Lastträger trat zögernd aus der Gruppe am Kran. Er war vielleicht sechzehn und hatte ein Tau über der Schulter. "Sie haben an der Garküche bei den Herbergshäusern angehalten", sagte er.
+Ein junger Lastträger trat zögernd aus der Gruppe am Kran. Er war vielleicht sechzehn und hatte ein Tau über der Schulter. "Sie wollten an der Garküche bei den Herbergshäusern anhalten", sagte er.
 
 Alle sahen ihn an.
 
@@ -268,7 +268,7 @@ Alle sahen ihn an.
 
 Liora sah zu Dachsbert.
 
-"Wir sollten mit dem Wirt sprechen. Er kann uns sicher einige Fragen beantworten. Außerdem braucht der ermittelnde Ehrendachs einen Becher guten Mulsum auf die Pfote, um zu kriminalisieren."[^mulsum]
+"Wir sollten wohl mit dem Wirt sprechen. Er kann uns sicher einige Fragen beantworten. Außerdem braucht der ermittelnde Ehrendachs einen Becher guten Mulsum auf die Pfote, um zu kriminalisieren."[^mulsum]
 
 "Ich benötige weder einen neuen Titel noch Honigwein zum Denken", sagte Dachsbert.
 
@@ -312,7 +312,7 @@ Die Garküche lag nur wenige Straßen vom Hafen entfernt an der Ecke eines Häus
 
 "Eine teure Form des Regenschutzes", sagte Faulmann.
 
-Die Garküche nahm nur einen breiten Raum ein. Hinter einem gemauerten Herd standen Töpfe über der Glut. Auf einem Tisch lagen Brotfladen, Käse, Zwiebeln und Schalen mit Oliven. Der Wirt musste nichts erst aus einem Hinterzimmer holen. Sein Angebot befand sich dort, wo man es sehen, riechen und bestellen konnte.
+Die Garküche nahm nur einen einzellnen breiten Raum ein. Hinter einem gemauerten Herd standen Töpfe über der Glut. Auf einem Tisch lagen Brotfladen, Käse, Zwiebeln und Schalen mit Oliven. Der Wirt musste nichts erst aus einem Hinterzimmer holen. Sein Angebot befand sich dort, wo man es sehen, riechen und bestellen konnte.
 
 Vor dem Herd warteten zwei Lastträger mit Schüsseln. Ein Fuhrmann aß im Stehen. Am Hafen richteten sich Mahlzeiten weniger nach der Sonne als danach, wann ein Schiff entladen war.
 
@@ -340,7 +340,7 @@ Liora sah Dachsbert an. "Die Antike ist beim Mitnehmen noch nicht sehr weit."
 
 Marcellus hob seine Wachstafel. "Der Mulsum geht auf Rechnung der Stadt."
 
-"Das verbessert ihn", sagte der Wirt und goss ein.
+"Das verbessert ihn", sagte der Wirt, holte einen geschmückten Krug und goss ein.
 
 ![In der Garküche lassen sieben einfache Portionen und eine ordentliche Abrechnung erste Zweifel an der Fluchtgeschichte entstehen.](/assets/img/posts/2026-08-22-xanten/03-baecker.webp)
 
@@ -394,7 +394,7 @@ Liora überflog die eingeritzten Zeilen. "Zu Lasten des Wasseramts."
 
 Faulmann beugte sich über die Tafel. "Wer fliehen will, bezahlt seine Reiseverpflegung selten aus der Kasse des Arbeitgebers und hinterlässt Name, Amt und Anzahl der Mitreisenden."
 
-"Dann streiche ich die vorbereitete Flucht", sagte Crispus. "Nicht den Verdacht, bis wir wissen, wohin die Balken gebracht wurden."
+"Da ist etwas dran", sagte Crispus. "Aber der Verdacht bleibt, bis wir wissen, wohin die Balken gebracht wurden."
 
 Dachsbert nickte.
 
@@ -462,13 +462,13 @@ Marcellus ritzte etwas in seine Tafel.
 
 "Streichen Sie das."
 
-Marcellus strich nichts.
+Marcellus unterstrich es.
 
 Der Wirt zeigte unter der Portikus die Straße hinauf. Zwei Häuserblöcke weiter lag der Werkhof des Zimmermanns. Dahinter stieg bereits der Rauch einer Schmiede über die Dächer.
 
 Die vier gingen voran. Crispus und Marcellus folgten ihnen.
 
-Hinter ihnen legte der Wirt die Rechnung für den Mulsum neben die sieben Portionen des Wasseramts. In der Garküche wurde selbst ein Rätsel zunächst zu einer Zeile in einer Wachstafel.
+Hinter ihnen schrieb der Wirt die Rechnung für den Mulsum neben die sieben Portionen des Wasseramts. In der Garküche wurde selbst ein Rätsel zunächst zu einer Zeile in einer Wachstafel.
 
 ## Die Handwerker
 
@@ -508,7 +508,7 @@ Cassianus sah zu Crispus, dann zu Dachsberts Streifen und schließlich zu Mummri
 
 "Dachsbertus aus dem Geschlecht der Melesbertier", begann Marcellus. "Ehrengast aus Rom, Inspizient der Provinz und vorläufiger Investigator maximus."
 
-Cassianus deutete auf Mummrich. "Und der mit der Ahnung?"
+Cassianus deutete auf Mummrich. "Und der Rollenzähler?"
 
 "Meister Mummrich", sagte Dachsbert.
 
@@ -516,19 +516,19 @@ Cassianus deutete auf Mummrich. "Und der mit der Ahnung?"
 
 Mummrich legte eine Pfote auf einen der kurzen Abschnitte. Das Holz war hell und feucht. Auf der Schnittfläche standen grobe Fasern, im Sägeschnitt klebte frisches Sägemehl. "Das ist Eiche", sagte er.
 
-Crispus verschränkte die Arme. "Das wissen wir. Noch nicht, ob der Abschnitt von unseren Balken stammt."
+Crispus verschränkte die Arme. "Das wissen wir. Was wir noch nicht wissen ist, ob der Abschnitt von unseren Balken stammt."
 
-"Dieser Abschnitt wurde heute Morgen abgesägt."
+"Dieser Abschnitt wurde heute Morgen abgesägt." sagte Mummrich
 
-Cassianus nickte. "Das weiß ich ebenfalls. Ich habe ihn abgesägt."
+Cassianus nickte. "Das stimmt. Ich habe ihn abgesägt."
 
 Crispus trat einen Schritt näher. "Die Balken der Legion?"
 
-"Die Balken, die der Wassermeister mit einer Vollmacht und sechs städtischen Arbeitern brachte."
+"Die Balken, die der Wassermeister"
 
 "Das waren die Balken der Legion."
 
-"Dann hat die Legion sehr gerades Holz."
+"Dann hat die Legion sehr gerades Holz und gutes Holz."
 
 "Was habt Ihr damit gemacht?"
 
@@ -536,7 +536,7 @@ Cassianus zeigte auf drei Kreidestriche an der langen Wand des Werkhofs. Vom sel
 
 "Warum diese Maße?", fragte Dachsbert.
 
-"Weil Secundus sie so bestellt hat."
+"Weil Secundus sie so wollte."
 
 "Hat er gesagt, wofür?"
 
@@ -548,9 +548,9 @@ Cassianus sah ihn an. "Die abgesägten Stücke liegen dort."
 
 Crispus folgte seinem Blick. Neben der Wand befanden sich acht kurze Abschnitte, sauber nach Länge gestapelt.
 
-Mummrich strich das Sägemehl von seiner Pfote. "Wer einen Balken unkenntlich machen will, lässt selten ausgerechnet die handlichsten Teile beim Zimmermann."
+Mummrich strich das Sägemehl von seiner Pfote. "Wer Holz stehlen will, lässt selten ausgerechnet die handlichsten Teile beim Zimmermann."
 
-Crispus betrachtete den Stapel. "Dann war die Verteilung nicht der Zweck."
+Crispus betrachtete den Stapel. "Da ist auch etwas dran"
 
 Aus der Schmiede kam ein breitschultriger Mann. In einer Zange hielt er einen dunklen Eisenkeil. Er legte ihn zu fünf weiteren auf einen Tisch und tauchte die Zange in einen Wassereimer.
 
