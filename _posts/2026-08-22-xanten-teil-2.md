@@ -638,7 +638,7 @@ Dachsbert wandte sich an Cassianus. "In welche Richtung fuhren sie weiter?"
 
 "Habt Ihr das gesehen?"
 
-"Einer der Arbeiter sagte, er habe seinen Becher am frühen Morgen dort stehen lassen. Er wollte ihn gleich holen, doch Secundus sagte, am Abend auf dem Rückweg sei dafür noch Zeit."
+"Einer der Arbeiter erwähnte sie. Er sagte nur, sein Becher stehe noch dort."
 
 "Warum hatte ein Arbeiter des Wasseramts seinen Becher in den Thermen?", fragte Dachsbert.
 
@@ -732,7 +732,7 @@ Crispus nickte. "Deshalb die Balken."
 
 Der Badbetreiber nahm den Becher vom Tisch. "Einer von Secundus' Arbeitern hat damit den Zulauf geprüft. Er hielt ihn unter den Auslauf und ich sollte langsam zählen, bis das Wasser die eingeritzte Linie erreichte."
 
-Er zeigte eine feine Kerbe knapp unter dem Rand.
+Er zeigte eine feine Kerbe knapp unter dem Rand. "Als sie aufbrachen, wollte der Arbeiter ihn mitnehmen. Secundus sagte, er solle ihn hier lassen. Nach der Reparatur wollten sie auf dem Rückweg mit demselben Becher prüfen, ob der Zufluss wieder stärker war."
 
 "Wie weit habt Ihr gezählt?", fragte Dachsbert.
 
@@ -764,7 +764,7 @@ Im Raum wurde es stiller, obwohl sich am Geräusch kaum etwas änderte.
 
 Liora nahm den Becher wieder in die Hand. "Als sie mit den Karren zurückkamen - haben sie da angehalten?", fragte sie.
 
-"Nein. Ich rief dem Arbeiter wegen seines Bechers nach. Secundus sagte, ich solle ihn stehen lassen. Am Abend würden sie ihn holen."
+"Nein. Sie waren nun auf dem Weg zur Schadstelle. Secundus rief nur, ich solle den Becher nicht fortstellen. Messen wollten sie erst wieder auf dem Rückweg."
 
 "Hat Secundus gesagt, wo die Schadstelle liegt?", fragte Crispus.
 
