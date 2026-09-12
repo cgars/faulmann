@@ -638,7 +638,7 @@ Dachsbert wandte sich an Cassianus. "In welche Richtung fuhren sie weiter?"
 
 "Habt Ihr das gesehen?"
 
-"Einer der Arbeiter erwähnte sie. Er hatte dort seinen Becher stehen lassen und wollte zurücklaufen. Secundus sagte, er solle ihn am Abend auf dem Rückweg holen."
+"Einer der Arbeiter erwähnte sie. Er hatte dort seinen Becher stehen lassen und wollte zurücklaufen. Secundus sagte, er solle ihn am Abend auf dem Rückweg holen." (ich glaube das macht keinen Sinn, er wird den becher ja da noch n ihct vergessen haben)
 
 "Warum hatte ein Arbeiter des Wasseramts seinen Becher in den Thermen?", fragte Dachsbert.
 
@@ -758,7 +758,7 @@ Der Badbetreiber sah zu den Badegästen. "Wie lange bleibt uns?"
 
 Mummrich betrachtete die feuchte Spur unter dem Auslauf. "Das ist nicht die wichtigste Frist."
 
-Crispus sah ihn an. "Wenn Secundus die Leitung freigelegt hat und der Boden weiter nachgibt, stehen die sieben vielleicht unter ihrer eigenen Baustelle."
+Crispus sah ihn an. "Wenn Secundus die Leitung freigelegt hat und der Boden weiter nachgibt, sind die sieben vielleicht unter ihrer eigenen Baustelle."
 
 Im Raum wurde es stiller, obwohl sich am Geräusch kaum etwas änderte.
 
@@ -814,11 +814,11 @@ Der Badbetreiber nickte, wirkte aber nicht beruhigt. Er sah an Liora vorbei zu C
 
 Crispus antwortete nicht sofort. Am Hafen hatte er auf sein Holz gezeigt und von Diebstahl gesprochen. Hinter ihm, im Bad, stand der Becher eines Arbeiters, den Secundus hatte stehen lassen, weil der Rückweg für ihn selbstverständlich gewesen war.
 
-"Ich habe Secundus Unrecht getan", sagte Crispus.
+"Ich habe dem Wassermeister Unrecht getan", sagte Crispus.
 
 Marcellus ließ den Griffel sinken.
 
-Crispus sah die beiden Rillen hinunter. "Dann bringen wir ihn zurück."
+Crispus sah die beiden Rillen hinunter und sagte an den BAdbetreiber gewandt. "Dann bringen wir ihn zurück."
 
 Sie folgten den Karrenspuren nach Süden.
 
