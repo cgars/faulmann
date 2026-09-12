@@ -806,11 +806,11 @@ Marcellus setzte den Griffel an. "Das ist erheblich länger."
 
 Marcellus schrieb es.
 
-Der Badbetreiber blieb in der Tür stehen. "Was soll ich dem Arbeiter sagen, wenn er zurückkommt?"
+Der Badbetreiber blieb in der Tür stehen. Das zusammengefaltete Tuch hielt er nun mit beiden Händen fest. "Was soll ich dem Arbeiter sagen, wenn er zurückkommt?"
 
-Liora stellte den Becher an seinen Platz. "Dass Ihr ihn aufgehoben habt."
+Liora stellte den Becher behutsam an seinen Platz. "Dass Ihr ihn aufgehoben habt", sagte sie ruhig. "Und dass Ihr auf ihn gewartet habt."
 
-Der Badbetreiber nickte, wirkte aber nicht beruhigt. Er sah an Liora vorbei zu Crispus, der bereits auf der Straße stand. "Und wenn er nicht zurückkommt?"
+Der Badbetreiber nickte, aber seine Hände lockerten sich nicht. Er sah an Liora vorbei zu Crispus, der bereits auf der Straße stand. "Und wenn er nicht zurückkommt?"
 
 Crispus antwortete nicht sofort. Am Hafen hatte er auf sein Holz gezeigt und von Diebstahl gesprochen. Hinter ihm, im Bad, stand der Becher eines Arbeiters, den Secundus hatte stehen lassen, weil der Rückweg für ihn selbstverständlich gewesen war.
 
