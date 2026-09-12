@@ -56,7 +56,7 @@ Marcellus trat einen Schritt vor. "Dachsbertus. Der Ehrengast aus Rom, Inspizien
 
 Dachsbert sah Marcellus an. Marcellus hatte die Tafel am Tor sehr ordentlich geführt. "Den Inspizienten hatte ich nicht genannt", sagte Dachsbert.
 
-"So verlauetete es die Ankündigung", sagte Marcellus.
+"So lautete es in der Ankündigung", sagte Marcellus.
 
 Der Mann mit dem zerknirschten Gesichtsausdruck kam ihnen entgegen. "Lucius Petronius Varro, Duumvir der Colonia."
 
@@ -74,7 +74,7 @@ Dachsbert betrachtete die zwölf roten Striche an der Rückwand. "Lange Eichenba
 
 "Das ist bereits Teil des Streits", sagte Varro.
 
-Er wandte sich Dachsbert zu. "Umso glücklicher trifft es sich das wir heute einen hochrangigen Würdenträger aus Rom hier haben."
+Er wandte sich Dachsbert zu. "Umso glücklicher trifft es sich, dass wir heute einen hochrangigen Würdenträger aus Rom hier haben."
 
 "Ich besichtige die Stadt."
 
@@ -146,7 +146,7 @@ Für einen Augenblick war nur das Knarren der Hafenwinde zu hören.
 
 "Der Wassermeister hat vor allem mein Holz."
 
-"Zu fraglichen Zeitpunkt hatte er vor allem eine amtliche Vollmacht."
+"Zum fraglichen Zeitpunkt hatte er vor allem eine amtliche Vollmacht."
 
 Der Hafenaufseher reichte Varro eine verschnürte Doppeltafel. Der Duumvir prüfte den Siegelabdruck, löste die Schnur und klappte sie auf. Dann gab er sie Dachsbert.
 
@@ -242,7 +242,7 @@ Neben der Speicherfront floss Wasser aus einem steinernen Rohr in ein Becken. Cr
 
 "Dann suchen wir weiter südlich nach sinkendem Druck", sagte Crispus. "Bis wir ihn finden, können sowohl der Notfall als auch der Vorwand wahr sein."
 
-Mummrich war den Spuren vom Speicher aus gefolgt. Bald teilten sich die Rillen der beiden Karren. Zwischen ihnen lagen Sägemehl (es kann noch kein Sägemehl da sein) und ein kleiner Tropfen dunkles Harz. "Die Balken waren lang und schwer", sagte er. "Die Karren konnten nur langsam fahren. Jemand muss sie gesehen haben."
+Mummrich war den Spuren vom Speicher aus gefolgt. Bald teilten sich die Rillen der beiden Karren. Zwischen ihnen lag ein langer Holzsplitter mit frischer Bruchkante. "Die Balken waren lang und schwer", sagte er. "Die Karren konnten nur langsam fahren. Jemand muss sie gesehen haben."
 
 "Viele haben sie gesehen", sagte der Hafenaufseher. "Niemand wusste, dass man später besonders darauf achten sollte."
 
@@ -268,7 +268,7 @@ Alle sahen ihn an.
 
 Liora sah zu Dachsbert.
 
-"Wir sollten wohl mit dem Wirt sprechen. Er kann uns sicher einige Fragen beantworten. Außerdem braucht der ermittelnde Ehrendachs einen Becher guten Mulsum auf die Pfote, um zu kriminalisieren."[^mulsum]
+"Wir sollten wohl mit dem Wirt sprechen. Er kann uns sicher einige Fragen beantworten. Außerdem braucht der ermittelnde Ehrendachs einen Becher guten Mulsum auf die Pfote, um kriminalistisch zu denken."[^mulsum]
 
 "Ich benötige weder einen neuen Titel noch Honigwein zum Denken", sagte Dachsbert.
 
@@ -312,7 +312,7 @@ Die Garküche lag nur wenige Straßen vom Hafen entfernt an der Ecke eines Häus
 
 "Eine teure Form des Regenschutzes", sagte Faulmann.
 
-Die Garküche nahm nur einen einzellnen breiten Raum ein. Hinter einem gemauerten Herd standen Töpfe über der Glut. Auf einem Tisch lagen Brotfladen, Käse, Zwiebeln und Schalen mit Oliven. Der Wirt musste nichts erst aus einem Hinterzimmer holen. Sein Angebot befand sich dort, wo man es sehen, riechen und bestellen konnte.
+Die Garküche nahm nur einen einzelnen breiten Raum ein. Hinter einem gemauerten Herd standen Töpfe über der Glut. Auf einem Tisch lagen Brotfladen, Käse, Zwiebeln und Schalen mit Oliven. Der Wirt musste nichts erst aus einem Hinterzimmer holen. Sein Angebot befand sich dort, wo man es sehen, riechen und bestellen konnte.
 
 Vor dem Herd warteten zwei Lastträger mit Schüsseln. Ein Fuhrmann aß im Stehen. Am Hafen richteten sich Mahlzeiten weniger nach der Sonne als danach, wann ein Schiff entladen war.
 
@@ -516,19 +516,19 @@ Cassianus deutete auf Mummrich. "Und der Rollenzähler?"
 
 Mummrich legte eine Pfote auf einen der kurzen Abschnitte. Das Holz war hell und feucht. Auf der Schnittfläche standen grobe Fasern, im Sägeschnitt klebte frisches Sägemehl. "Das ist Eiche", sagte er.
 
-Crispus verschränkte die Arme. "Das wissen wir. Was wir noch nicht wissen ist, ob der Abschnitt von unseren Balken stammt."
+Crispus verschränkte die Arme. "Das wissen wir. Was wir noch nicht wissen, ist, ob der Abschnitt von unseren Balken stammt."
 
-"Dieser Abschnitt wurde heute Morgen abgesägt." sagte Mummrich
+Mummrich strich über die frische Schnittfläche. "Dieser Abschnitt wurde heute Morgen abgesägt."
 
 Cassianus nickte. "Das stimmt. Ich habe ihn abgesägt."
 
 Crispus trat einen Schritt näher. "Die Balken der Legion?"
 
-"Die Balken, die der Wassermeister"
+"Die Balken, die der Wassermeister heute Morgen gebracht hat."
 
 "Das waren die Balken der Legion."
 
-"Dann hat die Legion sehr gerades Holz und gutes Holz."
+"Dann hat die Legion sehr gerades und sehr gutes Holz."
 
 "Was habt Ihr damit gemacht?"
 
@@ -550,7 +550,7 @@ Crispus folgte seinem Blick. Neben der Wand befanden sich acht kurze Abschnitte,
 
 Mummrich strich das Sägemehl von seiner Pfote. "Wer Holz stehlen will, lässt selten ausgerechnet die handlichsten Teile beim Zimmermann."
 
-Crispus betrachtete den Stapel. "Da ist auch etwas dran"
+Crispus betrachtete den Stapel. "Dann spricht auch das gegen die Verteilung als gewöhnliche Holzfuhren."
 
 Aus der Schmiede kam ein breitschultriger Mann. In einer Zange hielt er einen dunklen Eisenkeil. Er legte ihn zu fünf weiteren auf einen Tisch und tauchte die Zange in einen Wassereimer.
 
@@ -638,7 +638,7 @@ Dachsbert wandte sich an Cassianus. "In welche Richtung fuhren sie weiter?"
 
 "Habt Ihr das gesehen?"
 
-"Einer der Arbeiter erwähnte sie. Er hatte dort seinen Becher stehen lassen und wollte zurücklaufen. Secundus sagte, er solle ihn am Abend auf dem Rückweg holen." (ich glaube das macht keinen Sinn, er wird den becher ja da noch n ihct vergessen haben)
+"Einer der Arbeiter sagte, er habe seinen Becher am frühen Morgen dort stehen lassen. Er wollte ihn gleich holen, doch Secundus sagte, am Abend auf dem Rückweg sei dafür noch Zeit."
 
 "Warum hatte ein Arbeiter des Wasseramts seinen Becher in den Thermen?", fragte Dachsbert.
 
@@ -758,7 +758,7 @@ Der Badbetreiber sah zu den Badegästen. "Wie lange bleibt uns?"
 
 Mummrich betrachtete die feuchte Spur unter dem Auslauf. "Das ist nicht die wichtigste Frist."
 
-Crispus sah ihn an. "Wenn Secundus die Leitung freigelegt hat und der Boden weiter nachgibt, sind die sieben vielleicht unter ihrer eigenen Baustelle."
+Crispus sah ihn an. "Wenn Secundus die Leitung freigelegt hat und der Boden weiter nachgibt, könnten die sieben unter ihrer eigenen Baustelle eingeschlossen sein."
 
 Im Raum wurde es stiller, obwohl sich am Geräusch kaum etwas änderte.
 
@@ -818,7 +818,7 @@ Crispus antwortete nicht sofort. Am Hafen hatte er auf sein Holz gezeigt und von
 
 Marcellus ließ den Griffel sinken.
 
-Crispus sah die beiden Rillen hinunter und sagte an den BAdbetreiber gewandt. "Dann bringen wir ihn zurück."
+Crispus wandte sich dem Badbetreiber zu. "Dann bringen wir ihn zurück."
 
 Sie folgten den Karrenspuren nach Süden.
 
