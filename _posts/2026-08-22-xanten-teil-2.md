@@ -814,7 +814,7 @@ Der Badbetreiber nickte, aber seine Hände lockerten sich nicht. Er sah an Liora
 
 Crispus antwortete nicht sofort. Am Hafen hatte er auf sein Holz gezeigt und von Diebstahl gesprochen. Hinter ihm, im Bad, stand der Becher eines Arbeiters, den Secundus hatte stehen lassen, weil der Rückweg für ihn selbstverständlich gewesen war.
 
-"Ich habe dem Wassermeister Unrecht getan", sagte Crispus.
+"Ich habe dem Wassermeister Unrecht getan", murmelte Crispus, mehr zu sich selbst als zu den anderen.
 
 Marcellus ließ den Griffel sinken.
 
