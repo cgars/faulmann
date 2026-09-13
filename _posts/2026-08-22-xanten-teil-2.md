@@ -2,17 +2,15 @@
 layout: post
 title: "Zwölf verschwundene Eichenbalken"
 subtitle: "Teil 2: Eine Spur durch die Colonia"
-date: 2026-08-22 10:01:00 +0200
-published: false
+date: 2026-09-13 10:01:00 +0200
+published: true
 series: "Ein Tag in Colonia Ulpia Traiana"
 series_part: 2
 permalink: /xanten/teil-2/
 tags: [faulmann, xanten, roemer, colonia-ulpia-traiana, archäologischer-park, museum, geschichte]
 ---
 
-[← Zu Teil 1: Der Ehrengast am Nordtor]({{ '/xanten/teil-1/' | relative_url }})
-
----
+![Captain Faulmann, Mummrich, Liora, Dachsbert und Centurio Crispus betrachten im Hafen die leere Lagerbucht mit zwölf roten Markierungen.](/assets/img/posts/2026-08-22-xanten/cover-teil-2.webp)
 
 ## Zwölf Balken
 
@@ -20,29 +18,21 @@ Der leere Wagen gehörte der Legion.
 
 Das erkannte man an den eingebrannten Zeichen auf den Seitenbrettern und an den Soldaten, die darum herumstanden. Einige trugen nur Tunika, Gürtel und feste Schuhe. Ihre Schilde und Gepäckstücke lagen ordentlich unter einem Vordach. Auf dem Wagen befanden sich Seile, eiserne Klammern, zwei Hebelstangen und mehrere Rollen.
 
-Faulmann betrachtete die Ausrüstung.
+Die Sonne stand inzwischen hoch über den Speichern. Unter den Arkaden waren die Schatten schmal geworden.
 
-"Für Soldaten haben sie erstaunlich viel Werkzeug", sagte er.
+Faulmann betrachtete die Ausrüstung. "Für Soldaten haben sie erstaunlich viel Werkzeug", sagte er.
 
-Marcellus sah ihn an.
+Marcellus sah ihn an. "Wie sollen sie sonst bauen?"[^legion]
 
-"Wie sollen sie sonst bauen?"
-
-Am Kai lag ein flaches Lastschiff. Sein breiter Rumpf saß tief im Wasser, obwohl das Deck inzwischen leer war. Zwei Männer rollten Taue zusammen. Hinter ihnen ragte ein hölzerner Ladekran über die Kaimauer. Ein Arbeiter drehte die Winde zurück, während ein anderer den Haken führte. Säcke, Amphoren und Holzkisten wurden unter die Arkaden der Speicher gebracht.
+Am Kai lag ein flaches Lastschiff. Sein breiter Rumpf saß tief im Wasser; auf dem Deck standen nur noch wenige Amphoren. Zwei Männer rollten Taue zusammen. Hinter ihnen ragte ein hölzerner Ladekran über die Kaimauer. Ein Arbeiter drehte die Winde zurück, während ein anderer den Haken führte. Säcke, Amphoren und Holzkisten wurden unter die Arkaden der Speicher gebracht.
 
 Die Waren blieben nicht lange im Freien. Ein Schreiber prüfte Zeichen und Siegel, ritzte Mengen in eine Wachstafel und wies den Lastträgern die Lagerräume zu. Was über den Rhein in die Stadt kam, wurde am Hafen zunächst zu einer Zahl und anschließend wieder zu etwas Schwerem.
 
-Der Centurio stand vor einer leeren Lagerbucht.
+Auf dem Boden einer leeren Lagerbucht lagen Rindenstücke, Holzspäne und zwei Querhölzer, auf denen bis vor kurzem etwas Schweres geruht hatte. An der Rückwand hatte jemand mit roter Farbe zwölf kurze Striche angebracht.
 
-Auf dem Boden lagen Rindenstücke, Holzspäne und zwei Querhölzer, auf denen bis vor kurzem etwas Großes geruht hatte. An der Rückwand hatte jemand mit roter Farbe zwölf kurze Striche angebracht.
+Der Centurio deutete darauf. "Zwölf."
 
-Der Centurio deutete darauf.
-
-"Zwölf."
-
-Der Hafenaufseher nickte.
-
-"Zwölf."
+Der Hafenaufseher nickte. "Zwölf."
 
 "Zwölf Eichenbalken."
 
@@ -52,133 +42,77 @@ Der Hafenaufseher nickte.
 
 "Nicht hier."
 
-Der Centurio sah ihn eine Weile an.
+Der Centurio sah ihn eine Weile an. "Das hatte ich bereits aus ihrer Abwesenheit geschlossen."
 
-"Das hatte ich bereits aus ihrer Abwesenheit geschlossen."
+Der Hafenaufseher war ein breiter Mann mit sonnenverbranntem Gesicht. Er hielt eine zusammengeklappte Wachstafel in der Hand. Offenbar hatte man ihm den Unterschied zwischen einer Erklärung und einer Wiederholung bislang nicht amtlich mitgeteilt.
 
-Der Hafenaufseher war ein breiter Mann mit sonnenverbranntem Gesicht. Er hielt eine zusammengerollte Liste in der Hand. Offenbar hatte man ihm den Unterschied zwischen einer Erklärung und einer Wiederholung bislang nicht amtlich mitgeteilt.
+Neben ihm stand ein weiterer Mann mit zerknirschtem Gesichtsausdruck. Seine helle Toga war am Saum bereits mit Hafenstaub bedeckt. Zwei städtische Schreiber hielten sich in seiner Nähe auf. Einer schrieb mit. Der andere bemühte sich, nicht als derjenige auszusehen, der später erklären musste, weshalb zwölf Balken fehlten.
 
-Neben ihm stand der Magistrat der Colonia. Seine helle Toga war am Saum bereits mit Hafenstaub bedeckt. Zwei städtische Schreiber hielten sich in seiner Nähe auf. Einer schrieb mit. Der andere bemühte sich, nicht als derjenige auszusehen, der später erklären musste, weshalb zwölf Balken fehlten.
+Am Rand der Gruppe blieb Dachsbert stehen. "Wenn die Balken gestern entladen wurden", sagte er, "wer hatte in der Nacht Zugang zu diesem Bereich des Hafens?"
 
-Am Rand der Gruppe blieb Dachsbert stehen.
+Der Centurio drehte sich um. "Wer fragt das?"
 
-"Wenn die Balken gestern entladen wurden", sagte er, "wer hatte in der Nacht Zugang zu diesem Speicher?"
+Marcellus trat einen Schritt vor. "Dachsbertus. Der Ehrengast aus Rom, Inspizient der Provinz, angereist zu den Festtagen und den Spielen. Aus dem Geschlecht der Melesbertier, reisender Würdenträger, Aufseher über Nebenwege und vorläufiger Beauftragter für Besichtigungen."
 
-Der Centurio drehte sich um.
+Dachsbert sah Marcellus an. Marcellus hatte die Tafel am Tor sehr ordentlich geführt. "Den Inspizienten hatte ich nicht genannt", sagte Dachsbert.
 
-"Wer fragt das?"
+"So lautete es in der Ankündigung", sagte Marcellus.
 
-Marcellus trat einen Schritt vor.
+Der Mann mit dem zerknirschten Gesichtsausdruck kam ihnen entgegen. "Lucius Petronius Varro, Duumvir der Colonia."
 
-"Dachsbertus. Der Ehrengast aus Rom, auf der Reise durch die Provinz, zu den Festtagen und den Spielen. Aus dem Geschlecht der Melesbertier, reisender Würdenträger, Aufseher über Nebenwege und vorläufiger Beauftragter für Besichtigungen."
+Er legte kurz zwei Finger an die Brust. Dachsbert tat es ihm nach. "Einer von zweien", erklärte Varro. "Gemeinsam mit dem Stadtrat verwalten wir die Angelegenheiten der Colonia."
 
-Dachsbert sah Marcellus an. Marcellus hatte die Tafel am Tor sehr ordentlich geführt.
+"Dann seid Ihr für diese Angelegenheit nicht allein verantwortlich", sagte Dachsbert.
 
-"Der letzte Titel galt nur für das Tor", sagte Dachsbert.
+"Das ist gegenwärtig mein größter Trost."
 
-Marcellus prüfte die Wachstafel.
+Varro deutete auf die leere Lagerbucht. "Verzeiht dieses Durcheinander. Es handelt sich um einen kleinen Streit zwischen der Stadt und der Legion."
 
-"Eine Befristung ist nicht vermerkt."
-
-Der Magistrat kam ihnen entgegen.
-
-"Lucius Petronius Varro, Duumvir der Colonia."
-
-Er legte kurz zwei Finger an die Brust. Dachsbert tat es ihm nach.
-
-Der Titel bedeutete, dass Varro einer der beiden höchsten städtischen Beamten war. Die Colonia verwaltete ihre örtlichen Angelegenheiten selbst. Sie besaß einen Stadtrat, eigene Ämter und, wie sich zeigte, auch eigene Schwierigkeiten mit Lagerbeständen.
-
-"Verzeiht diesen Empfang", sagte Varro. "Es handelt sich um einen kleinen Streit zwischen der Stadt und der Legion."
-
-Dachsbert betrachtete die zwölf roten Striche an der Rückwand.
-
-"Achtzehn Fuß lange Eichenbalken sind keine besonders kleine Form des Streits."
+Dachsbert betrachtete die zwölf roten Striche an der Rückwand. "Lange Eichenbalken sind keine besonders kleine Form des Streits."
 
 "Es handelt sich um Diebstahl", sagte der Centurio.
 
-"Das ist bereits der Streit", sagte Varro.
+"Das ist bereits Teil des Streits", sagte Varro.
 
-"Ihr könnt die Angelegenheit selbstverständlich später besichtigen", sagte Marcellus leise. "Nach der Villa."
+Er wandte sich Dachsbert zu. "Umso glücklicher trifft es sich, dass wir heute einen hochrangigen Würdenträger aus Rom hier haben."
 
-"Jetzt sind wir bereits hier", sagte Dachsbert.
+"Ich besichtige die Stadt."
 
-Er wandte sich wieder an den Centurio.
+"Umso transparenter zeigt sich hier und gegenwärtig eines ihrer Probleme."
 
-"Wann wurden die Balken zuletzt gesehen?"
+Liora sah ein wenig besorgt zu Varros Schreibern. Der zweite hatte nun ebenfalls den Griffel angesetzt.
 
-Der Centurio hieß Marcus Flavius Crispus. Er gehörte zur Legio XXX Ulpia Victrix, die seit wenigen Jahren im Lager bei Vetera stationiert war. Auf seinem Gürtel und den Metallbeschlägen stand das Zeichen der Dreißigsten Legion. Der Name Ulpia erinnerte an Kaiser Trajan, unter dem die Einheit aufgestellt worden war.
+Dachsbert wandte sich wieder an den Centurio. "Wann wurden die Balken zuletzt gesehen?"
 
-Crispus zeigte auf die leere Lagerbucht.
+"Gestern in der achten Stunde", sagte der Centurio. "Heute sollten wir sie nach Vetera bringen."
 
-"Sie kamen gestern mit dem Lastschiff an. Wir sollten sie heute übernehmen."
+Varro deutete auf ihn. "Marcus Flavius Crispus, Centurio der Legio XXX Ulpia Victrix."
 
-"Für Bauarbeiten im Lager", ergänzte er.
+Auf seinem Gürtel und den Metallbeschlägen des Wagens wiederholte sich das Zeichen der Dreißigsten Legion.
 
-Dachsbert sah zum leeren Wagen.
+"Eine Ulpische Legion in einer Ulpischen Colonia", sagte Dachsbert.
 
-"Das ist also keine Lieferung."
+"Beide tragen den Namen Kaiser Trajans", sagte Marcellus.
 
-"Es war vorgesehen, eine zu werden", sagte der Centurio.
+"Er beschriftete wohl großzügig", sagte Faulmann.
 
-Der Hafenaufseher entrollte seine Liste.
+"Die Balken waren für Arbeiten an unserem Lager bestimmt", sagte Crispus.
 
-"Zwölf Eichenbalken, jeder achtzehn Fuß lang. Entladen gestern in der achten Stunde. In Bucht sieben auf Querhölzern gelagert. Das Siegel war unbeschädigt."
+"Für Bauarbeiten?", fragte Dachsbert.
 
-"Bis heute Morgen", sagte Crispus.
+"Unser Lager baut und unterhält sich nicht selbst."
 
-"Das Siegel ist weiterhin unbeschädigt."
+Faulmann sah noch einmal auf die Hebelstangen und Rollen. "Der Wagen hatte bereits einen Hinweis gegeben."
 
-"Das Holz ist weg."
+Der Hafenaufseher klappte seine Wachstafel auf. "Zwölf Eichenbalken, jeder achtzehn Fuß lang. Entladen gestern in der achten Stunde. In Bucht sieben auf Querhölzern gelagert. Der Zugang wurde versiegelt."
 
-"Das Siegel hat seine Aufgabe demnach sehr eng ausgelegt", sagte Faulmann.
+"Wer hat das Siegel gebrochen?", fragte Dachsbert.
 
-Der Hafenaufseher sah ihn an, dann das kleine Bleisiegel an der Schnur.
+"Ich", sagte der Hafenaufseher.
 
-"Es hing an der Liste."
+Crispus drehte sich langsam zu ihm um. "Ihr?"
 
-"Das erklärt seine Ruhe."
-
-Mummrich war inzwischen in die Lagerbucht getreten. Er kniete neben einem der Querhölzer und betrachtete die Druckstellen.
-
-"Die Balken waren hier", sagte er.
-
-Der Centurio verschränkte die Arme.
-
-"Danke."
-
-"Ich bestätige nicht ihre frühere Anwesenheit. Ich sehe mir an, wie sie fortgebracht wurden."
-
-Mummrich fuhr mit einer Pfote durch die Holzspäne. Dann betrachtete er die Spuren auf dem Boden.
-
-"Nicht getragen. Erst mit Hebelstangen angehoben, dann auf Rollen bis vor die Arkaden bewegt. Dort wurden sie auf zwei Karren verteilt."
-
-Der Hafenaufseher nickte.
-
-"Genau."
-
-Crispus wandte sich ihm zu.
-
-"Ihr habt zugesehen?"
-
-"Ich habe geholfen."
-
-Für einen Augenblick war nur das Knarren der Hafenwinde zu hören.
-
-Der Centurio trat einen Schritt näher.
-
-"Ihr habt geholfen, Eigentum der Legion fortzuschaffen?"
-
-"Der Wassermeister hatte einen Notfall."
-
-"Der Wassermeister hatte mein Holz."
-
-"Zu diesem Zeitpunkt hatte er zunächst eine Vollmacht."
-
-Der Hafenaufseher reichte dem Magistrat eine kleine Tafel. Varro las sie und gab sie Dachsbert.
-
-Die Schrift war in eine dünne Wachsschicht geritzt. Unter dem Text befand sich der Abdruck eines städtischen Siegels.
-
-Dachsbert hielt die Tafel näher ans Licht.
+"Secundus hatte eine Vollmacht."
 
 "Wer ist Secundus?", fragte Liora.
 
@@ -186,75 +120,97 @@ Dachsbert hielt die Tafel näher ans Licht.
 
 "Und offenbar den militärischen Holzbestand", sagte Crispus.
 
-"Nicht regelmäßig."
+"Normalerweise nicht."
 
 "Das beruhigt mich."
 
-Liora nahm die Tafel von Dachsbert.
+Mummrich war inzwischen in die Lagerbucht getreten. Er kniete neben einem der Querhölzer und betrachtete die Druckstellen. "Die Balken waren hier", sagte er.
 
-Der Text war knapp. An einer Leitung im südlichen Stadtgebiet sei eine gefährliche Unterspülung festgestellt worden. Für die sofortige Sicherung würden schwere Balken, Karren und Arbeitskräfte benötigt. Verzögerung gefährde die Wasserversorgung und angrenzende Bauwerke.
+Der Centurio verschränkte die Arme. "Danke."
 
-Darunter stand Secundus' Name.
+"Ich bestätige nicht ihre frühere Anwesenheit. Ich sehe mir an, wie sie fortgebracht wurden."
+
+Mummrich fuhr mit einer Pfote durch die Holzspäne. Dann betrachtete er die Spuren auf dem Boden. "Nicht getragen. Erst mit Hebelstangen angehoben, dann auf Rollen bis vor die Arkaden bewegt. Dort wurden sie auf zwei Karren verteilt."
+
+Der Hafenaufseher nickte. "Genau so war es."
+
+Crispus trat einen Schritt näher. "Ihr habt zugesehen?"
+
+"Ich habe geholfen."
+
+Für einen Augenblick war nur das Knarren der Hafenwinde zu hören.
+
+"Ihr habt geholfen, Eigentum der Legion fortzuschaffen?"
+
+"Der Wassermeister hatte einen Notfall."
+
+"Der Wassermeister hat vor allem mein Holz."
+
+"Zum fraglichen Zeitpunkt hatte er vor allem eine amtliche Vollmacht."
+
+Der Hafenaufseher reichte Varro eine verschnürte Doppeltafel. Der Duumvir prüfte den Siegelabdruck, löste die Schnur und klappte sie auf. Dann gab er sie Dachsbert.
+
+Die Buchstaben standen klein und dicht in der dunklen Wachsschicht. Dachsbert hielt die Tafel näher ans Licht. Liora trat neben ihn und neigte sie ein wenig, bis die eingeritzten Linien deutlicher hervortraten.
+
+Liora begann zu lesen. "Gefährliche Unterspülung an einer Leitung im südlichen Stadtgebiet. Zur sofortigen Sicherung werden schwere Balken, zwei Karren und Arbeitskräfte benötigt. Verzögerung gefährdet die Wasserversorgung und angrenzende Bauwerke."
+
+"Wo?", fragte Dachsbert.
+
+"Da steht nur: südliches Stadtgebiet."
+
+Darunter befand sich Secundus' Name.
 
 "Er hat das Holz nicht heimlich genommen", sagte Liora.
 
-"Er hatte nicht meine Erlaubnis", sagte der Centurio.
+"Er hatte nicht meine Erlaubnis", sagte Crispus.
 
 "Er hat aber hinterlassen, wer es genommen hat, warum und wohin es ungefähr sollte."
 
 "Das ist ein ungewöhnlich gut dokumentierter Diebstahl", sagte Faulmann.
 
-Der Hafenaufseher rollte seine Liste wieder zusammen.
+"Er hat eine Empfangsbestätigung ausgestellt", sagte der Hafenaufseher.
 
-"Er wollte eine Empfangsbestätigung ausstellen."
-
-Crispus sah ihn an.
-
-"Für mein eigenes Holz?"
+"Für mein Holz?"
 
 "Er war sehr ordentlich."
 
-Der Magistrat hob beschwichtigend die Hand.
+Varro hob beschwichtigend die Hand. "Secundus besitzt die Befugnis, bei unmittelbarer Gefahr Material der Stadt einzusetzen."
 
-"Secundus besitzt die Befugnis, bei einer unmittelbaren Gefahr Material der Stadt einzusetzen."
+"Das Material gehörte nicht der Stadt", sagte Crispus.
 
-"Das Material gehörte nicht der Stadt."
+"Ob eine städtische Vollmacht für Holz gilt, das in einem städtischen Speicher liegt, aber der Legion gehört, ist sicher eine interessante Frage", sagte Faulmann.
 
-"Deshalb untersuchen wir, ob seine Befugnis an dieser Stelle möglicherweise größer war als das Material."
+"Genau", sagte Crispus.
 
-Dachsbert gab ihm die Wachstafel zurück.
+"Mit ihr lassen sich Advokaten einige Monate beschäftigen. Für eine schnelle und praktische Untersuchung würde ich aber zunächst das Holz suchen."
 
-"Die Vollmacht nennt keine Straße und kein Gebäude", sagte er. "Nur das südliche Stadtgebiet."
+Dachsbert nickte. "Die Eigentumsfrage wird vertagt."
 
-"Secundus hatte es eilig", sagte Varro.
+"Von wem?", fragte Liora.
 
-"Eilige Angaben bleiben leider ungenau, nachdem die Eile vorbei ist."
+"Vom Inspizienten der Provinz."
 
-Varro betrachtete ihn.
+Marcellus schrieb es auf.
 
-"Ich dachte, Ihr wünscht eine Stadtführung."
+Varro betrachtete Dachsbert zufrieden. "Ich dachte, Ihr wünscht eine Stadtführung."
 
 "Das tue ich."
 
 "Ihr führt sie ungewöhnlich."
 
-"Ich habe lediglich einige Fragen gestellt."
+"Ich habe einige Fragen gestellt."
 
-Marcellus sah auf seine Wachstafel.
+Marcellus prüfte seine Wachstafel. "Fünf", bestätigte er.
 
-"Sieben", sagte er.
+"Mehr als jeder andere", sagte Varro.
 
 "Dann sollten wir jetzt zur Villa gehen", sagte Dachsbert.
 
 "Einen Augenblick", sagte Liora.
 
-Liora ging zu einem der Karren. An seiner Seitenwand klebte noch feuchter Lehm. Mehrere Seilfasern hatten sich an einer rauen Stelle im Holz verfangen.
-
 "Wo sind Secundus und seine Leute jetzt?"
 
-Der Hafenaufseher zeigte die Straße hinauf.
-
-"Sie fuhren zurück in die Stadt. Zwei Karren, sechs Arbeiter. Secundus ging zu Fuß neben dem ersten."
+Der Hafenaufseher zeigte die Straße hinauf. "Sie fuhren zurück in die Stadt. Zwei Karren, sechs Arbeiter. Secundus ging zu Fuß neben dem ersten."
 
 "Wann?"
 
@@ -262,29 +218,31 @@ Der Hafenaufseher zeigte die Straße hinauf.
 
 "Und seitdem?"
 
-"Niemand hat ihn gesehen."
+"Niemand hat ihn hier gesehen."
 
-Der Magistrat zog die Stirn kraus.
+Liora sah die Straße hinauf. "Dann suchen wir nicht nur nach zwölf Balken."
 
-"Er ist auch nicht im Wasseramt?"
+Crispus folgte ihrem Blick. "Offenbar nicht."
 
-"Nein."
-
-"An der Schadstelle?"
+Varro zog die Stirn kraus. "An der Schadstelle?"
 
 "Wir wissen nicht, wo die ist."
 
-Crispus deutete auf die Wachstafel.
-
-"Dort steht südliches Stadtgebiet."
+Crispus deutete auf die Wachstafel. "Dort steht südliches Stadtgebiet."
 
 "Die Colonia hat ein ziemlich umfangreiches südliches Stadtgebiet", sagte Varro.
 
-"Das ist eine Eigenschaft von Stadtgebieten", sagte Faulmann. "Sie werden selten durch ihre Angabe kleiner."
+"Das ist eine Eigenschaft von Stadtgebieten", sagte Faulmann. "Sie werden selten durch grobe Angaben kleiner."
 
-Mummrich war den Spuren bis vor den Speicher gefolgt. Dort teilten sich die Rillen der beiden Karren. Zwischen ihnen lagen Sägemehl und ein kleiner Tropfen dunkles Harz.
+Neben der Speicherfront floss Wasser aus einem steinernen Rohr in ein Becken. Crispus prüfte den Strahl.
 
-"Die Balken waren lang und schwer", sagte er. "Die Karren konnten nur langsam fahren. Jemand muss sie gesehen haben."
+"Der Hafenbrunnen hat noch Druck."
+
+"Das sagt wenig", sagte Varro. "Nicht jede beschädigte Leitung versorgt jeden Brunnen."
+
+"Dann suchen wir weiter südlich nach sinkendem Druck", sagte Crispus. "Bis wir ihn finden, können sowohl der Notfall als auch der Vorwand wahr sein."
+
+Mummrich war den Spuren vom Speicher aus gefolgt. Bald teilten sich die Rillen der beiden Karren. Zwischen ihnen lag ein langer Holzsplitter mit frischer Bruchkante. "Die Balken waren lang und schwer", sagte er. "Die Karren konnten nur langsam fahren. Jemand muss sie gesehen haben."
 
 "Viele haben sie gesehen", sagte der Hafenaufseher. "Niemand wusste, dass man später besonders darauf achten sollte."
 
@@ -292,83 +250,51 @@ Liora nickte.
 
 Zeugen waren häufig erst im Nachhinein Zeugen. Vorher standen sie nur am Weg.
 
-Ein junger Lastträger trat zögernd aus der Gruppe am Kran. Er war vielleicht sechzehn und hatte ein Tau über der Schulter.
-
-"Sie haben beim Bäcker angehalten", sagte er.
+Ein junger Lastträger trat zögernd aus der Gruppe am Kran. Er war vielleicht sechzehn und hatte ein Tau über der Schulter. "Sie wollten an der Garküche bei den Herbergshäusern anhalten", sagte er.
 
 Alle sahen ihn an.
 
 "Woher weißt du das?", fragte Liora.
 
-"Ich habe geholfen, die Balken auf dem hinteren Karren festzubinden. Einer der Arbeiter sagte, sie bräuchten Brot für den Tag. Der Bäcker bei den Herbergshäusern öffnet früh."
+"Ich habe geholfen, die Balken auf dem hinteren Karren festzubinden. Einer der Arbeiter sagte, sie bräuchten Essen für den Tag. Die Garküche versorgt die Hafenarbeiter schon früh."[^popina]
 
-"Waren sie auf der Flucht?", fragte Crispus.
+"Oder sie brauchten Proviant für eine Reise", sagte Crispus.
 
-Der Junge dachte nach.
+"Mit zwölf Eichenbalken, zwei Karren und sechs Arbeitern?", fragte Liora.
 
-"Sie haben bezahlt."
+"Eine schlechte Flucht ist immer noch eine Flucht."
 
-"Auch Diebe können Brot kaufen."
+"Sie ist nur leichter zu verfolgen", sagte Faulmann.
 
-"Secundus ließ sich den Betrag aufschreiben."
+Liora sah zu Dachsbert.
 
-Der Centurio schwieg.
+"Wir sollten wohl mit dem Wirt sprechen. Er kann uns sicher einige Fragen beantworten. Außerdem braucht der ermittelnde Ehrendachs einen Becher guten Mulsum auf die Pfote, um kriminalistisch zu denken."[^mulsum]
 
-Liora sah noch einmal auf die leere Lagerbucht.
+"Ich benötige weder einen neuen Titel noch Honigwein zum Denken", sagte Dachsbert.
 
-"Sie nehmen zwölf schwere Balken, zwei Karren, sechs Arbeiter, stellen eine Empfangsbestätigung aus und lassen sich das Brot abrechnen."
+"Den Titel hast du bereits", sagte Liora.
 
-"Ja", sagte der Hafenaufseher.
+Varro gab Marcellus ein Zeichen. "Führe unseren Ehrengast zur Garküche und unterstütze ihn bei seiner Untersuchung."
 
-"Für eine Flucht", sagte Faulmann, "haben sie viel Verwaltung mitgenommen."
+"Ich habe keine Untersuchung übernommen", sagte Dachsbert.
 
-Der Magistrat wandte sich an Dachsbert.
-
-"Ihr solltet mit dem Bäcker sprechen."
-
-"Ich habe keine Aufgabe übernommen."
-
-Varro nickte.
-
-"Das ist verständlich."
+"Das ist verständlich", sagte Varro.
 
 "Dann sind wir uns einig."
 
 "Vollständig."
 
-Der Magistrat gab Marcellus ein Zeichen.
+Varro wandte sich ab.
 
-"Führe unseren Ehrengast zum Bäcker."
+Liora trat näher an Dachsbert heran. "Er hat dir die Balken angehängt", sagte sie leise.
 
-Dachsbert sah ihn an.
+"Er kann sie mir nicht anhängen. Sie sind verschwunden."
 
-"Was genau verstehen Sie unter Einigkeit?"
+"Sein Problem ist noch da."
 
-"Im Stadtrat verwenden wir den Begriff vor allem, wenn niemand mehr widerspricht."
+Dachsbert sah Varro nach. "Schreiben Sie zumindest auf, dass ich vorläufig handle."
 
-"Ich widerspreche."
-
-"Das wird Marcellus vermerken."
-
-Marcellus setzte den Griffel an.
-
-"Ich wollte eine Stadtführung", sagte Dachsbert.
-
-"Der Bäcker liegt in der Stadt", sagte Varro.
-
-"Und danach die Villa."
-
-"Sobald wir wissen, wo Secundus mit den Balken geblieben ist."
-
-Dachsbert betrachtete die Wachstafel. Er hatte sich eingemischt, die Liste und die Vollmacht geprüft und nach dem Weg des Wassermeisters gefragt. Der Augenblick, in dem dies noch keine Aufgabe gewesen war, ließ sich nicht mehr genau bestimmen.
-
-"Schreiben Sie zumindest, dass ich vorläufig handle."
-
-Der Schreiber ritzte einige Worte ein.
-
-"Was haben Sie geschrieben?", fragte Dachsbert.
-
-"Beauftragter, vorläufig."
+Marcellus ritzte einige Worte in seine Wachstafel. "Investigator maximus, vorläufig", las er vor.
 
 Dachsbert strich seinen Purpurstreifen glatt.
 
@@ -376,85 +302,539 @@ Am Kai wurde die nächste Amphore aus dem Lastschiff gehoben. Der Kran nahm ihr 
 
 Der Hafen setzte seine Arbeit um die fehlenden Balken herum fort.
 
-Die vier gingen zum Bäcker.
+Marcellus führte die vier zur Garküche.
 
-## Bereits illustrierte Folgeszenen
+## Die Garküche
 
-<div class="gallery-note">
-Diese Bilder gehören bereits zur festgelegten weiteren Handlung. Die dazugehörigen Prosakapitel werden als Nächstes geschrieben.
-</div>
+Die Garküche lag nur wenige Straßen vom Hafen entfernt an der Ecke eines Häuserblocks. Eine Reihe gemauerter Säulen trug das Dach über dem Gehweg. Darunter öffneten sich Werkstätten, Läden und Schankräume zur Straße. Händler hatten Körbe und niedrige Tische zwischen den Türen aufgestellt. Wer einkaufen wollte, konnte im Schatten bleiben. Wer verkaufen wollte, ebenfalls.
 
-### Der Bäcker
+"Eine praktische Form der Stadtplanung", sagte Liora.
 
-![Beim Bäcker lassen Brot, Käse, Zwiebeln und eine ordentliche Abrechnung erste Zweifel an der Fluchtgeschichte entstehen.](/assets/img/posts/2026-08-22-xanten/03-baecker.webp)
+"Eine teure Form des Regenschutzes", sagte Faulmann.
 
-Secundus hat Proviant für einen Arbeitstag gekauft und aus der Kasse des Wasseramts bezahlt. Der Diebstahlsverdacht steht noch. Er steht nur nicht mehr ganz gerade.
+Die Garküche nahm nur einen einzelnen breiten Raum ein. Hinter einem gemauerten Herd standen Töpfe über der Glut. Auf einem Tisch lagen Brotfladen, Käse, Zwiebeln und Schalen mit Oliven. Der Wirt musste nichts erst aus einem Hinterzimmer holen. Sein Angebot befand sich dort, wo man es sehen, riechen und bestellen konnte.
 
-### Die Handwerker
+Vor dem Herd warteten zwei Lastträger mit Schüsseln. Ein Fuhrmann aß im Stehen. Am Hafen richteten sich Mahlzeiten weniger nach der Sonne als danach, wann ein Schiff entladen war.
+
+"Viele von ihnen arbeiten seit Sonnenaufgang", sagte Marcellus. "Und die Herbergen versorgen nicht jeden, der am Hafen zu tun hat."
+
+"Deshalb kommen sie hierher", sagte Liora.
+
+Mummrich betrachtete die Töpfe.
+
+"Vor allem mit Dingen, die man nicht selbst kochen muss."
+
+Der Wirt legte den beiden Lastträgern Brot zu ihren Schüsseln, nahm ihre Münzen und wandte sich der ungewöhnlich gekleideten Gruppe zu. Sein Blick blieb kurz an Dachsberts Streifen hängen.
+
+"Was darf ich dem Ehrengast bringen?"
+
+"Informationen", sagte Dachsbert.
+
+"Und einen guten Mulsum", sagte Liora. "Auf die Pfote."
+
+Der Wirt stellte einen Tonbecher auf den Tisch. "Der Becher bleibt hier."
+
+Liora sah Dachsbert an. "Die Antike ist beim Mitnehmen noch nicht sehr weit."
+
+"Die Antike steht unmittelbar neben dir", sagte Dachsbert.
+
+Marcellus hob seine Wachstafel. "Der Mulsum geht auf Rechnung der Stadt."
+
+"Das verbessert ihn", sagte der Wirt, holte einen geschmückten Krug und goss ein.
+
+![In der Garküche lassen sieben einfache Portionen und eine ordentliche Abrechnung erste Zweifel an der Fluchtgeschichte entstehen.](/assets/img/posts/2026-08-22-xanten/03-baecker.webp)
+
+Dachsbert nahm einen kleinen Schluck. Der Wirt wartete.
+
+"Und?", fragte Liora.
+
+"Es ist Wein mit Honig."
+
+"Ein Anfang."
+
+Crispus trat unter die Portikus. Er war ihnen vom Hafen gefolgt. Die Legion ließ ihre Balken offenbar nicht ohne Aufsicht suchen.
+
+Dachsbert stellte den Becher ab.
+
+"Der Wassermeister Secundus war heute Morgen hier."
+
+"Ja."
+
+"Mit sechs Arbeitern und zwei Karren."
+
+"Auch das."
+
+"Was haben sie gekauft?"
+
+Der Wirt griff unter den Tisch und holte eine zusammengebundene Wachstafel hervor. Zwischen offenen Rechnungen und einzelnen Strichen für bezahlte Becher fand er eine Zeile, die sauberer geschrieben war als die übrigen. "Sieben Portionen Brot, Käse und Zwiebeln. Für das *prandium*."[^prandium]
+
+"Sie haben hier gegessen?", fragte Liora.
+
+"Nein. Ich habe alles in ein Tuch gepackt. Secundus sagte, sie würden keine Zeit verlieren wollen."
+
+Crispus deutete auf die Tafel. "Proviant für einen Tag."
+
+"Mittagessen", sagte der Wirt.
+
+"Das spricht gegen eine längere Reise", sagte Crispus. "Nicht gegen das, was sie für heute vorhatten."
+
+"Der Verdacht lernt Maß zu halten", sagte Faulmann.
+
+"Dafür untersucht man ihn."
+
+Der Wirt drehte die Tafel herum. Neben der Bestellung stand ein Vermerk.
+
+Dachsbert schob die Tafel zu Liora. "Was steht dort?"
+
+Liora überflog die eingeritzten Zeilen. "Zu Lasten des Wasseramts."
+
+"Secundus hat unterschrieben", sagte der Wirt. "Er war sehr darauf bedacht, dass die Rechnung beim Wasseramt landet und nicht bei ihm."
+
+"Er nimmt zwölf Balken der Legion", sagte Crispus, "und achtet auf eine ordentliche Rechnung für sieben Zwiebeln."
+
+Faulmann beugte sich über die Tafel. "Wer fliehen will, bezahlt seine Reiseverpflegung selten aus der Kasse des Arbeitgebers und hinterlässt Name, Amt und Anzahl der Mitreisenden."
+
+"Da ist etwas dran", sagte Crispus. "Aber der Verdacht bleibt, bis wir wissen, wohin die Balken gebracht wurden."
+
+Dachsbert nickte.
+
+"Das ist präziser."
+
+Liora sah den Wirt an. "Wie wirkten die Männer?"
+
+"Müde."
+
+"Ängstlich? Gehetzt? Als würden sie nicht freiwillig mitfahren?"
+
+Der Wirt dachte nach. "Sie waren in Eile. Aber nicht auf der Flucht."
+
+"Woran habt Ihr den Unterschied erkannt?", fragte Dachsbert.
+
+"Mein Geschäft sind die Bäuche der Leute", sagte der Wirt. "Da entwickelt man zwangsläufig ein gewisses Bauchgefühl. Ihr entschuldigt."
+
+Dachsbert sah ihn an. "Das ist schwer zu prüfen."
+
+"Außerdem ließ Secundus einem Zimmermann eine Nachricht schicken."
+
+"Das ist besser."
+
+Crispus betrachtete die Rechnung noch einen Augenblick. "Welchem Zimmermann?"
+
+"Cassianus. Seine Werkstatt liegt zwei Häuserblöcke weiter. Dann fragte er, ob der Schmied daneben bereits geöffnet habe."
+
+"Warum?"
+
+"Das hat er nicht erklärt. Er ließ meinem Jungen eine Nachricht für beide mitgeben."
+
+Dachsbert rückte den Becher beiseite. "Welche Nachricht?"
+
+"Der Zimmermann solle die lange Säge bereithalten. Der Schmied zwölf kräftige Eisenkeile."
+
+Mummrich sah zu Crispus. "Eine lange Säge ist bei einer Flucht recht nutzlos."
+
+"Nicht völlig", sagte Crispus. "Man könnte die Balken kürzen, mit den Keilen spalten und das Holz verteilen. Aber eine Bestellung im eigenen Namen und auf Rechnung des Wasseramts ließe dafür bemerkenswert viele Zeugen zurück."
+
+"Sie glauben also selbst nicht recht daran?", fragte Liora.
+
+"Ich halte es für eine Möglichkeit, bis die Werkzeuge uns etwas Besseres sagen."
+
+Faulmann zog eine Augenbraue hoch. "An Eurer Theorie schätze ich ihre Unabhängigkeit von den Tatsachen."
+
+Crispus sah ihn an. "An Eurer schätze ich, dass Ihr noch keine habt."
+
+"Das spart Pflege."
+
+Dachsbert nahm den Mulsum wieder auf und trank den Becher leer. Dann stellte er ihn sorgfältig an dieselbe Stelle zurück. "Der Becher ist leer", sagte er.
+
+"Und die Untersuchung?", fragte Liora.
+
+"Sie hat jetzt eine Richtung."
+
+"Hat der Mulsum geholfen?"
+
+"Schon", sagte Dachsbert.
+
+Marcellus ritzte etwas in seine Tafel.
+
+"Was schreiben Sie?", fragte Dachsbert.
+
+"Erste Amtshandlung des Investigator maximus: einen Becher ordnungsgemäß zurückgeführt."
+
+"Streichen Sie das."
+
+Marcellus unterstrich es.
+
+Der Wirt zeigte unter der Portikus die Straße hinauf. Zwei Häuserblöcke weiter lag der Werkhof des Zimmermanns. Dahinter stieg bereits der Rauch einer Schmiede über die Dächer.
+
+Die vier gingen voran. Crispus und Marcellus folgten ihnen.
+
+Hinter ihnen schrieb der Wirt die Rechnung für den Mulsum neben die sieben Portionen des Wasseramts. In der Garküche wurde selbst ein Rätsel zunächst zu einer Zeile in einer Wachstafel.
+
+## Die Handwerker
+
+Der Werkhof begann dort, wo die Portikus endete. Zwischen den Häusern lag ein breiter, festgestampfter Platz. Holzspäne sammelten sich in den Rinnen, aus einer offenen Schmiede drang das regelmäßige Schlagen eines Hammers, und über mehreren Werkbänken standen einfache Dächer gegen Sonne und Regen.
+
+Mitten auf dem Platz hing ein Steinblock eine Handbreit über dem Boden. Das Seil, an dem er hing, lief in vier tragenden Strängen durch einen hölzernen Flaschenzug, bevor es zur Winde führte. Zwei Männer drehten sie langsam. Ein dritter hielt den Block mit einem Führungsseil davon ab, sich zu drehen.
+
+Mummrich blieb stehen.
+
+"Nicht darunter treten", sagte der Zimmermann.
+
+"Das hatte ich nicht vor."
+
+"Ihr habt so ausgesehen."
+
+"Ich habe die Rollen gezählt."
+
+"Das tun die meisten erst, wenn etwas reißt."
+
+Mummrich betrachtete den Flaschenzug. "Mehr Seilweg, weniger Kraft."
+
+"Und mehr Gelegenheit, das Seil in die falsche Richtung zu ziehen", sagte der Zimmermann.
+
+Die Männer an der Winde sahen kurz zu ihm herüber.
+
+"Nicht ihr", fügte er hinzu.
 
 ![Mummrich untersucht zugeschnittene Balken und Eisenkeile am römischen Bauplatz.](/assets/img/posts/2026-08-22-xanten/04-handwerker.webp)
 
-Schmied und Zimmermann bestätigen, dass Secundus Keile, Seile und passend gekürzte Balken benötigte. Seine angebliche Flucht sieht zunehmend nach einer Baustelle aus.
+Marcellus trat auf den Zimmermann zu. "Cassianus?"
 
-### Die kleinen Thermen der Herberge
+"Wenn es um den Stein geht: Er schwebt absichtlich."
+
+"Es geht um zwölf Eichenbalken."
+
+Cassianus sah zu Crispus, dann zu Dachsberts Streifen und schließlich zu Mummrich, der bereits vor einem Stapel frischer Holzabschnitte kniete. "Welcher von Euch fragt?"
+
+"Dachsbertus aus dem Geschlecht der Melesbertier", begann Marcellus. "Ehrengast aus Rom, Inspizient der Provinz und vorläufiger Investigator maximus."
+
+Cassianus deutete auf Mummrich. "Und der Rollenzähler?"
+
+"Meister Mummrich", sagte Dachsbert.
+
+"Er unterstützt die Untersuchung."
+
+Mummrich legte eine Pfote auf einen der kurzen Abschnitte. Das Holz war hell und feucht. Auf der Schnittfläche standen grobe Fasern, im Sägeschnitt klebte frisches Sägemehl. "Das ist Eiche", sagte er.
+
+Crispus verschränkte die Arme. "Das wissen wir. Was wir noch nicht wissen, ist, ob der Abschnitt von unseren Balken stammt."
+
+Mummrich strich über die frische Schnittfläche. "Dieser Abschnitt wurde heute Morgen abgesägt."
+
+Cassianus nickte. "Das stimmt. Ich habe ihn abgesägt."
+
+Crispus trat einen Schritt näher. "Die Balken der Legion?"
+
+"Die Balken, die der Wassermeister heute Morgen gebracht hat."
+
+"Das waren die Balken der Legion."
+
+"Dann hat die Legion sehr gerades und sehr gutes Holz."
+
+"Was habt Ihr damit gemacht?"
+
+Cassianus zeigte auf drei Kreidestriche an der langen Wand des Werkhofs. Vom selben Ausgangspunkt aus kennzeichneten sie die bestellten Längen. "Vier Balken blieben in voller Länge. Vier wurden um drei Fuß gekürzt. Vier um sechs."
+
+"Warum diese Maße?", fragte Dachsbert.
+
+"Weil Secundus sie so wollte."
+
+"Hat er gesagt, wofür?"
+
+"Zum Abstützen."
+
+Crispus deutete auf die Holzabschnitte. "Das könnten noch immer verkäufliche Längen sein."
+
+Cassianus sah ihn an. "Die abgesägten Stücke liegen dort."
+
+Crispus folgte seinem Blick. Neben der Wand befanden sich acht kurze Abschnitte, sauber nach Länge gestapelt.
+
+Mummrich strich das Sägemehl von seiner Pfote. "Wer Holz stehlen will, lässt selten ausgerechnet die handlichsten Teile beim Zimmermann."
+
+Crispus betrachtete den Stapel. "Dann spricht auch das gegen die Verteilung als gewöhnliche Holzfuhren."
+
+Aus der Schmiede kam ein breitschultriger Mann. In einer Zange hielt er einen dunklen Eisenkeil. Er legte ihn zu fünf weiteren auf einen Tisch und tauchte die Zange in einen Wassereimer.
+
+"Schon sechs?", fragte Cassianus.
+
+Der Schmied nickte.
+
+"Weitere Keile?", fragte Dachsbert.
+
+"Secundus nahm zwölf aus meinem Vorrat mit", sagte der Schmied. "Er rechnete damit, dass sie nicht reichen würden. Sobald die Grube offen war und er wusste, wie viele Stützen der Boden verlangte, wollte er mir einen Boten mit der genauen Zahl schicken."
+
+"Wann?", fragte Dachsbert.
+
+"Noch vor der Mittagsstunde."
+
+"Ist der Bote gekommen?", fragte Crispus.
+
+"Nein."
+
+Dachsbert zeigte auf die neuen Keile. "Von derselben Form?"
+
+"Genau derselben."
+
+Crispus nahm einen der Keile auf. "Zu flach zum Spalten?"
+
+"Und paarweise gearbeitet", sagte Mummrich.
+
+Der Schmied nickte. "Je zwei gegeneinander. Man treibt sie unter eine Stütze, bis sie fest sitzt. Secundus wollte Eisen, weil der Untergrund nass ist."
+
+Mummrich legte zwei Keile mit den Spitzen zueinander. "Zum Spalten müssten sie steiler sein. Diese hier heben und verspannen."
+
+Crispus legte den Keil zurück. "Dann lag ich mit den Spaltkeilen falsch."
+
+"Mit diesen", sagte Mummrich.
+
+"Mit anderen untersuchen wir diesen Fall nicht."
+
+Liora ging zu Cassianus. "Wie wirkten Secundus und seine Leute?"
+
+"In Eile."
+
+"Das sagte der Wirt auch."
+
+"Der Wirt beobachtet Bäuche. Ich beobachte Hände. Niemand zitterte. Niemand wurde bewacht. Zwei der Arbeiter haben mit mir über die Maße gestritten."
+
+"Warum?"
+
+"Sie wollten einen Balken länger lassen. Secundus wollte ihn kürzer."
+
+"Wer hat gewonnen?", fragte Faulmann.
+
+Cassianus zeigte auf die acht Abschnitte. "Der Auftraggeber."
+
+"Das spricht zumindest für einen gewöhnlichen Arbeitstag."
+
+"Ein ungewöhnlich früher gewöhnlicher Arbeitstag", sagte Cassianus.
+
+Cassianus deutete auf eine Ablage unter seinem Vordach. Dort lagen aufgerollte Seile und mehrere hölzerne Rollenblöcke. "Drei Seile und zwei Rollenblöcke", sagte Cassianus.
+
+Crispus prüfte die Stärke eines der übrigen Seile. "Geliehen?"
+
+"Geliehen", sagte Cassianus. "Rückgabe heute Abend."
+
+"Das kann jeder versprechen."
+
+"Nicht jeder hinterlässt dafür seine Werkzeuge als Pfand."
+
+Cassianus zeigte auf eine Ledertasche neben der Werkbank. Darin steckten Messstäbe, ein Lot, ein Winkel und zwei eiserne Schreibgriffel. "Secundus ließ die Tasche ausdrücklich hier", sagte Cassianus. "Damit ich weiß, dass er zurückkommt."
+
+Liora betrachtete die Werkzeuge. "Ein Wassermeister ohne Messgerät?"
+
+"Er hatte noch eines bei sich. Er ist nicht unvernünftig."
+
+"Nur gründlich ausgestattet", sagte Faulmann.
+
+Crispus betrachtete noch einmal die Kreidemarken, die Keile und die Rollenblöcke. "Drei abgestufte Längen, Keile zum Verspannen und Rollen zum Absenken."
+
+"Das beschreibt eine Baustelle", sagte Mummrich.
+
+"Ja", sagte Crispus. "Ob der Notfall echt ist, wissen wir noch nicht. Aber Secundus hat sich wie ein Wassermeister vorbereitet, nicht wie ein Holzdieb."
+
+Dachsbert wandte sich an Cassianus. "In welche Richtung fuhren sie weiter?"
+
+"Nach Süden. An den kleinen Thermen der Herberge vorbei."
+
+"Habt Ihr das gesehen?"
+
+"Einer der Arbeiter erwähnte sie. Er sagte nur, sein Becher stehe noch dort."
+
+"Warum hatte ein Arbeiter des Wasseramts seinen Becher in den Thermen?", fragte Dachsbert.
+
+"Das habe ich nicht gefragt."
+
+Liora sah zu Crispus. "Er wollte also zurückkommen."
+
+"Ja", sagte Crispus. "Aber vorher wollte er sich beim Schmied melden. Diese Nachricht ist längst überfällig."
+
+Dachsbert sah ihn an. "Dann suchen wir keinen Flüchtenden mehr."
+
+"Nein. Wir suchen sieben Leute, die sich längst hätten melden müssen."
+
+Marcellus setzte den Griffel an.
+
+"Was schreiben Sie?", fragte Dachsbert.
+
+"Der Fluchtverdacht verliert an Tragfähigkeit."
+
+Mummrich sah noch einmal zu den Keilen. "Das ist diesmal technisch zutreffend."
+
+Dachsbert nickte. "Dann lassen Sie es stehen."
+
+Cassianus zeigte auf einen schmalen Durchgang zwischen den Häusern. "Auf diesem Weg kommt Ihr direkt zu den kleinen Thermen."
+
+Crispus ging als Erster hinein. Dachsbert, Liora, Faulmann und Marcellus folgten ihm.
+
+Hinter ihnen setzte sich der Steinblock wieder in Bewegung. Die Männer drehten die Winde, das Seil lief knarrend durch die Rollen, und die schwere Last stieg langsam nach oben.
+
+Mummrich blieb noch einen Augenblick stehen. "Vier tragende Seilstränge", sagte er. "Theoretisch vierfache Kraftverstärkung."
+
+Cassianus sah ihn zum ersten Mal anerkennend an. "Abzüglich Reibung."
+
+"Die zieht immer mit."
+
+"Ihr standet tatsächlich nur wegen der Rollen dort."
+
+"Das hatte ich gesagt."
+
+Dann folgte Mummrich den anderen zu den Thermen.
+
+## Die kleinen Thermen der Herberge
+
+Die kleinen Thermen der Herberge waren warm und beinahe still.
+
+Das war das Erste, was Mummrich bemerkte.
+
+Ein Bad sollte plätschern.
+
+Vom Umkleideraum führte eine Tür in den Kaltbaderaum. Dahinter lagen, durch breite Bögen voneinander getrennt, der mäßig warme und der heiße Raum.[^baderaeume] In den Wänden befanden sich halbkreisförmige Nischen mit Becken. Der Boden war mit kleinen Steinplatten ausgelegt und unter Mummrichs Füßen spürbar warm.
+
+Liora blieb neben ihm stehen. "Wenn das Wasser ausbleibt, warum ist dann der Boden warm?"
+
+Der Betreiber des Bades kam ihnen entgegen, ein älterer Mann mit einer an der Schulter feuchten Tunika und einem zusammengefalteten Tuch in der Hand. "Das Feuer hinter dem Heißbad brennt weiter", sagte er und deutete auf den Boden. "Die Platten stehen auf kleinen Ziegelpfeilern. Heiße Luft zieht darunter hindurch und dann in den Wänden nach oben. Den Wasserkessel heizt dasselbe Feuer. Neues Wasser bringt es allerdings keines herein."
+
+Einer der wenigen Badegäste blickte aus dem hinteren Raum zu ihnen herüber.
+
+"Erklärt das meinen Gästen", sagte der Badbetreiber.
+
+Faulmann betrachtete das fast leere Becken. "Ein Bad ohne Wasser ist hauptsächlich ein aufwendig beheizter Raum."
+
+"Das habe ich ihnen erklärt. Es hat ihre Laune nicht verbessert."
+
+Crispus trat an das runde Becken in der Wandnische. Aus einem steinernen Auslauf rann ein dünner Wasserfaden. Er löste sich kaum vom Rand und hinterließ eine dunkle Spur auf dem Kalk. "War das heute Morgen schon so?", fragte er.
+
+"Nicht ganz so schwach."
+
+"Secundus war hier?"
+
+"Vor Sonnenaufgang. Ich hatte gestern Abend beim Wasseramt gemeldet, dass unsere Becken langsamer nachlaufen. Heute Morgen kam er mit seinen sechs Leuten."
+
+Dachsbert sah auf den Tisch in der Mitte des Raumes. Zwischen kleinen Ölfläschchen, Tüchern und einer flachen Schale stand ein schlichter Tonbecher. "Deshalb hatte der Arbeiter seinen Becher in den Thermen."
+
+Der Badbetreiber folgte seinem Blick. "Nicht zum Baden."
+
+"Das hatte ich gehofft", sagte Dachsbert.
 
 ![In den Herbergsthermen wird der sinkende Wasserdruck erstmals sichtbar.](/assets/img/posts/2026-08-22-xanten/05-herbergsthermen.webp)
 
-Mummrich prüft den schwachen Zulauf. Ein Arbeiter des Bautrupps hat seinen Becher zurückgelassen und angekündigt, ihn am Abend abzuholen. Secundus' Notstand war offenbar wirklich einer.
+Mummrich ging zum Becken und hielt eine Pfote unter den Auslauf. Dann prüfte er einen zweiten Zufluss im warmen Raum und einen dritten am hinteren Becken. "Alle drei sind schwach."
 
-### Die Karrenspur
+"Können nicht einfach die Leitungen hier verstopft sein?", fragte Liora.
 
-![Die schweren Karren haben Lehm, Holzspäne und tiefe Spuren in den Straßen der Colonia hinterlassen.](/assets/img/posts/2026-08-22-xanten/06-karrenspur.webp)
+"Eine vielleicht. Drei gleichzeitig eher nicht. Der Verlust liegt vor der Verteilung zum Bad."
 
-Die Spur führt durch die Wohnstadt in Richtung Amphitheater. Händler, Handwerker und Anwohner werden aus zufälligen Beobachtern allmählich zu Zeugen.
+Crispus sah auf das schmale Rinnsal. "Wenn eine Leitung Wasser in den Boden verliert, sinkt hier der Druck, bevor die Versorgung ganz ausfällt."
 
-### Gastfreundschaft mit Reichweite
+"Und der Boden wird an anderer Stelle immer weniger Boden", sagte Mummrich.
 
-Liora kehrt zur Obsthändlerin zurück. Gemeinsam schicken sie die Frage nach den zwei Karren über Händler, Kunden, Laufburschen und Lieferwege durch die Stadt. Eine der Antworten liefert die entscheidende Beobachtung: Secundus fuhr nicht in die Arena, sondern nahm den äußeren Versorgungsweg.
+Crispus nickte. "Deshalb die Balken."
 
-Als aus der Suche eine Rettung wird, setzt sich dieselbe Verbindung erneut in Bewegung. Noch bevor ein Amt etwas anordnet, stehen am Versorgungsweg Körbe mit Brot und Obst, Krüge mit Wasser und Tücher für Verletzte bereit. Liora organisiert die Verteilung; die Händlerin sorgt dafür, dass der Nachschub nicht abreißt.
+Der Badbetreiber nahm den Becher vom Tisch. "Einer von Secundus' Arbeitern hat damit den Zulauf geprüft. Er hielt ihn unter den Auslauf und ich sollte langsam zählen, bis das Wasser die eingeritzte Linie erreichte."
 
-"Du erfindest doch Ämter", sagte Liora zu Dachsbert.
+Er zeigte eine feine Kerbe knapp unter dem Rand. "Als sie aufbrachen, wollte der Arbeiter ihn mitnehmen. Secundus sagte, er solle ihn hier lassen. Nach der Reparatur wollten sie auf dem Rückweg mit demselben Becher prüfen, ob der Zufluss wieder stärker war."
 
-"Nur, soweit sie benötigt werden."
+"Wie weit habt Ihr gezählt?", fragte Dachsbert.
 
-"Gut. Wir benötigen eines."
+"Bis vierundzwanzig."
 
-Dachsbert richtete sich auf.
+Mummrich nahm den Becher und stellte ihn unter den Wasserfaden. "Zählt noch einmal."
 
-"Im Namen der Colonia und unter dem Schutz des Geschlechts der Melesbertier ernenne ich Euch hiermit zur städtischen Oberaufseherin für Nothilfe und Gastfreundschaft."
+Der Badbetreiber begann.
 
-Marcellus schrieb es auf.
+Bei vierundzwanzig war der Becher etwas mehr als halb voll. Bei dreißig erreichte das Wasser die Kerbe noch immer nicht. Erst bei einundvierzig hob Mummrich ihn fort.
 
-"Du hast sie gerade in die Klientel deines Hauses aufgenommen", sagte Liora.
+"Vielleicht habt Ihr heute Morgen schneller gezählt", sagte Faulmann.
 
-Dachsbert sah zu Marcellus.
+"Bestimmt nicht um die Hälfte", sagte Crispus.
 
-"Das ist noch kein Adel."
+Mummrich stellte den Becher auf den Tisch zurück. "Es ist keine genaue Messung. Aber sie muss nicht genau sein. Der Zufluss ist deutlich schwächer geworden."
 
-"Für ein Geschlecht, das seit heute Morgen besteht, kommt es dem ziemlich nahe."
+Der Badbetreiber sah zu den Badegästen. "Wie lange bleibt uns?"
 
-"Gilt das Amt nur für heute?", fragte die Händlerin.
+"Bis wofür?", fragte Dachsbert.
 
-"Ich habe keine Befristung genannt", sagte Dachsbert.
+"Bis gar kein Wasser mehr kommt."
 
-Die Händlerin nickte.
+Mummrich betrachtete die feuchte Spur unter dem Auslauf. "Das ist nicht die wichtigste Frist."
 
-"Und die Stadt ersetzt mir die Auslagen."
+Crispus sah ihn an. "Wenn Secundus die Leitung freigelegt hat und der Boden weiter nachgibt, könnten die sieben unter ihrer eigenen Baustelle eingeschlossen sein."
 
-Marcellus sah wieder zu Dachsbert.
+Im Raum wurde es stiller, obwohl sich am Geräusch kaum etwas änderte.
 
-"Schreiben Sie auch das auf", sagte Dachsbert.
+Liora nahm den Becher wieder in die Hand. "Als sie mit den Karren zurückkamen - haben sie da angehalten?", fragte sie.
 
-Die neue Oberaufseherin der Colonia schickte zwei Laufburschen zum Bäcker.
+"Nein. Sie waren nun auf dem Weg zur Schadstelle. Secundus rief nur, ich solle den Becher nicht fortstellen. Messen wollten sie erst wieder auf dem Rückweg."
 
-### Das Amphitheater
+"Hat Secundus gesagt, wo die Schadstelle liegt?", fragte Crispus.
 
-![Während draußen das Spektakel läuft, liegt die brauchbare Spur im dunklen Seitengang.](/assets/img/posts/2026-08-22-xanten/07-amphitheater.webp)
+"Nur, dass sie im südlichen Leitungsabschnitt sein müsse. Er wollte erst die Balken und Werkzeug holen. Als sie später mit den zwei Karren zurückkamen, sind sie nicht mehr hereingekommen."
 
-Der Aufseher erinnert sich, dass Secundus nicht in die Arena fuhr. Die Karren nahmen den äußeren Versorgungsweg zu den Großen Thermen. Dort wird aus der Suche eine Rettung.
+"Ihr habt die Karren gesehen?"
+
+"Die ganze Straße hat sie gesehen oder zumindest gehört."
+
+"Welche Richtung?", fragte Dachsbert.
+
+Der Badbetreiber zeigte zur Seitentür. "Am Bad vorbei, dann nach Süden. An der nächsten Kreuzung in Richtung Amphitheater."
+
+Crispus ging zur Tür und öffnete sie. Draußen lag ein schmaler Versorgungsweg zwischen der Herberge und dem nächsten Häuserblock. An seinem Rand verlief eine offene Rinne. Wasser aus den Thermen hatte den Staub stellenweise in dunklen Lehm verwandelt.
+
+Zwei breite Räderspuren zogen hindurch.
+
+Mummrich kniete sich daneben. In einer der Rillen lagen helle Holzspäne. Wenige Schritte weiter hatte sich die Kante eines Wagenrads tief in den weichen Boden gedrückt.
+
+"Zwei beladene Karren", sagte er. "Der hintere schwerer als der vordere."
+
+"Die langen Balken", sagte Crispus.
+
+"Und die Spur ist jünger als das Wasser in der Rinne."
+
+"Wie lange bleibt sie sichtbar?", fragte Liora.
+
+Mummrich sah zum hellen Himmel. "Bis die Sonne den Lehm trocknet oder das nächste Rad darüberfährt."
+
+Crispus trat auf die Straße. "Dann verlieren wir ab jetzt weder Zeit noch Spuren."
+
+Marcellus hob seine Wachstafel. "Der Investigator maximus nimmt die Verfolgung auf."
+
+"Wir verfolgen niemanden", sagte Dachsbert. "Wir folgen einer Spur."
+
+Marcellus setzte den Griffel an. "Das ist erheblich länger."
+
+"Und erheblich richtiger", sagte Crispus.
+
+Marcellus schrieb es.
+
+Der Badbetreiber blieb in der Tür stehen. Das zusammengefaltete Tuch hielt er nun mit beiden Händen fest. "Was soll ich dem Arbeiter sagen, wenn er zurückkommt?"
+
+Liora stellte den Becher behutsam an seinen Platz. "Dass Ihr ihn aufgehoben habt", sagte sie ruhig. "Und dass Ihr auf ihn gewartet habt."
+
+Der Badbetreiber nickte, aber seine Hände lockerten sich nicht. Er sah an Liora vorbei zu Crispus, der bereits auf der Straße stand. "Und wenn er nicht zurückkommt?"
+
+Crispus antwortete nicht sofort. Am Hafen hatte er auf sein Holz gezeigt und von Diebstahl gesprochen. Hinter ihm, im Bad, stand der Becher eines Arbeiters, den Secundus hatte stehen lassen, weil der Rückweg für ihn selbstverständlich gewesen war.
+
+"Ich habe dem Wassermeister Unrecht getan", murmelte Crispus, mehr zu sich selbst als zu den anderen.
+
+Marcellus ließ den Griffel sinken.
+
+Crispus wandte sich dem Badbetreiber zu. "Dann bringen wir ihn zurück."
+
+Sie folgten den Karrenspuren nach Süden.
 
 ---
 
-[← Zu Teil 1: Der Ehrengast am Nordtor]({{ '/xanten/teil-1/' | relative_url }})
+[← Zu Teil 1: Ein Purpurstreifen genügt]({{ '/xanten/teil-1/' | relative_url }})
 
+[Weiter zu Teil 3: Die schönste Form von Reichweite →]({{ '/xanten/teil-3/' | relative_url }})
+
+
+[^baderaeume]: Der Badetrakt der Xantener Herberge bestand aus einem Kaltbadebereich (*frigidarium*) und einem beheizten Warmbadebereich, der wahrscheinlich in *tepidarium* und *caldarium* gegliedert war. Seitlich lagen der Umkleideraum (*apodyterium*) und das Kaltwasserbecken. Die heutige Rekonstruktion zeigt eine mögliche Nutzung der archäologisch nachgewiesenen Räume; nicht jede Einzelheit ihrer Ausstattung ist sicher.
+
+[^legion]: Römische Legionen waren nicht nur Kampfverbände. Sie errichteten Lager, Befestigungen, Straßen und Brücken und verfügten dafür über Handwerker und andere Fachleute. Bauinschriften und gestempelte Ziegel zeigen bis heute, welche Einheit an einem Bau beteiligt war.
+
+[^prandium]: Das *prandium* war eine leichte Mahlzeit am späten Vormittag oder um die Mittagszeit, zwischen dem frühen *ientaculum* und der abendlichen *cena*. Es bestand häufig aus einfachen Speisen, die sich auch zur Arbeit mitnehmen ließen.
+
+[^popina]: Eine *popina* war eine einfache römische Garküche oder Schankwirtschaft. Sie versorgte vor allem Menschen, die unterwegs arbeiteten oder nicht zu Hause aßen, mit fertigen Speisen und Getränken.
+
+[^mulsum]: Mulsum war kein Met, sondern mit Honig gesüßter Wein und wurde häufig zu Beginn einer Mahlzeit gereicht. Je nach verwendetem Wein und Honig konnte er durchaus einem Ehrengast angemessen sein. Ob eine kleine Garküche ausgerechnet eine besonders gute Mischung vorrätig hatte, blieb allerdings Lioras optimistische Annahme.
