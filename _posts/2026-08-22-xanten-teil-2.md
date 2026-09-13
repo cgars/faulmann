@@ -2,8 +2,8 @@
 layout: post
 title: "Zwölf verschwundene Eichenbalken"
 subtitle: "Teil 2: Eine Spur durch die Colonia"
-date: 2026-08-22 10:01:00 +0200
-published: false
+date: 2026-09-13 10:01:00 +0200
+published: true
 series: "Ein Tag in Colonia Ulpia Traiana"
 series_part: 2
 permalink: /xanten/teil-2/
