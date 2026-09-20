@@ -88,7 +88,7 @@ Wenig später gingen Faulmann und Keira hinaus zum Offenbachplatz.
 
 Nach vierzehn Jahren Sanierung öffneten die Bühnen Köln dort wieder ihre Türen. Opernhaus, Schauspielhaus, Kinderoper und Kleines Haus gehörten für ein Wochenende nicht nur denjenigen, die Karten oder einen Dienstplan besaßen, sondern auch jenen mit viel Geduld. Menschen standen auf dem Platz, warteten vor Eingängen, hörten Musik und reihten sich an Foodtrucks ein.[^4]
 
-Die neuen Räume hätten Keira und Faulmann auch von innen besichtigen können. Die Schlangen vor den Eingängen verlangten jedoch sichtbar mehr Geduld, als beide zusammen aufzubringen bereit waren.
+Die neuen Räume hätten Keira und Faulmann auch von innen besichtigen können. Die Schlangen vor den Eingängen verlangten jedoch dann sichtbar deutlich mehr Standhaftigkeit, als beide aufbringen wollten.
 
 Kurz zuvor hatten Faulmann und Keira noch Architektur betrachtet, die zur Idee und anschließend zum Bild geworden war. Nun standen sie zwischen Gebäuden, die wieder benutzt wurden.
 
@@ -130,7 +130,7 @@ Bei einem [früheren Besuch im Museum Schnütgen](/atcgarsatpaper-wf/2025/08/30/
 
 Die Musik konnte im selben Stück streng, fremd, komisch und wütend werden. Sie schien nicht recht einzusehen, weshalb sie sich für eine dieser Möglichkeiten entscheiden sollte.
 
-Keira und Faulmann blieben stehen und setzten sich schließlich auf eine der neuen Steinbänke. Als der Kaffee längst ausgetrunken war, saßen sie noch immer da und hörten dem Konzert zu. Hinter ihnen lag das Museum mit seinem rückwärts blickenden Fenster. Der Mercedes stand irgendwo in einer Garage. Faulmanns Bauch brummte zufrieden im Takt, und seine Jahreskarte galt nun wieder ein ganzes Jahr.
+Keira und Faulmann blieben stehen und setzten sich schließlich auf eine der neuen Steinbänke. Als der Kaffee ausgetrunken war, saßen sie noch ein paar Minuten dem Konzert lauschend da. Hinter ihnen lag das Museum mit seinem rückwärts blickenden Fenster. Der Mercedes stand irgendwo in einer Garage. Faulmanns Bauch brummte zufrieden im Takt, und seine Jahreskarte galt nun wieder ein ganzes Jahr.
 
 ---
 
