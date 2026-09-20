@@ -14,23 +14,23 @@ Als Keira das Museum betrat, saß Faulmann bereits auf einem seiner Lieblingsmus
 
 "Die Stadt ist voller Polizei", sagte sie.
 
-"Ja", sagte Faulmann. "Eine Demonstration gegen Schwangerschaftsabbrüche, eine für das Recht, selbst darüber zu entscheiden. Außerdem werden heute Oper und Schauspielhaus wiedereröffnet."
+"Ja", sagte Faulmann. "Eine Demonstration gegen Schwangerschaftsabbrüche, eine für das Recht, selbst darüber zu entscheiden wollen sich am Neumarkt treffen. Außerdem werden heute Oper und Schauspielhaus wiedereröffnet."
 
 Er rückte ein Stück zur Seite.
 
 "Ein Kölner Tag eben."
 
-Keira setzte sich neben ihn. Um ihre wachen Augen lagen helle Federringe. Bei Museen, Musik und Essen nahmen sie ohnehin meist dieselben Abzweigungen.
+Keira setzte sich neben ihn. Um ihre wachen Augen lagen helle Federringe. Bei Museen, Musik und Essen nahmen sie ohnehin meist dieselben Abzweigungen. (Kleine beschreibung der Vogelart)
 
 An der Kasse des MAKK hatte Faulmann kurz zuvor seine Jahreskarte für die Kölner Museen verlängert. Damit war für ein weiteres Jahr geregelt, dass er in Köln Gebäude betreten konnte, um sich dort unter anderem andere Gebäude anzusehen.
 
-Im MAKK fehlte allerdings jemand.
+Im Foyer ded MAKK fehlte allerdings jemand.
 
 "Wo ist denn der Mercedes?", fragte Faulmann einen der Aufseher.
 
 "Der ist in die Garage gefahren."
 
-Gemeint war der Mercedes SL, der sonst in der Designsammlung stand. Er hatte den beiden Architekturausstellungen Platz machen müssen. Auch ein Museumsstück konnte offenbar nicht überall gleichzeitig parken.
+Gemeint war der Mercedes SL, der sonst wie ein Masskotchen vor der Daueraustellung stand. Er hatte den beiden Architekturausstellungen Platz machen müssen. Die Sprichwörtliche Gneralvorfahrt der Würtembergischen Automarke mit Fraeunvornahmen wurde wohl erst nach 1960 zur Serienaustattung (bitte recherchiere ob Würtemberg und frauenvornahme hier pass).
 
 ## Erst die Idee
 
@@ -48,6 +48,8 @@ Ein anderes eigenes Wohnhaus nannte Ungers das "Haus ohne Eigenschaften". Sockel
 
 Faulmann betrachtete Pläne und Modelle. Häuser waren hier noch keine Orte, an denen jemand die Heizung zu hoch drehte oder im Treppenhaus ein Fahrrad abstellte. Sie waren zunächst Gedanken, denen man genug Material gegeben hatte, um draußen stehen zu können.
 
+(füge mal nocvh was zum wohnhaus des Botscafters in Washngton und zur Bibliothek in Karlsruge ein bitte)
+
 Der Mercedes hatte dafür vernünftigerweise die Garage aufgesucht.
 
 ## Dann der Blick
@@ -60,7 +62,7 @@ Zwischen den großen Aufnahmen lagen Polaroids aus früheren Reisen. Kleine Einz
 
 An einer Wand öffnete sich Köln noch einmal in die falsche Richtung.
 
-Eschs Aufnahme des Vierungsturms hing dort beinahe wie ein Fenster. Nur blickte dieses Fenster rückwärts durch das Museum - ungefähr dorthin, wo der Dom tatsächlich stand. Faulmann brauchte einen Moment, um zu verstehen, warum sich das Bild zugleich richtig und verkehrt anfühlte.
+Eschs Aufnahme des Vierungsturms vom Dom den man hier lassen wolle, hing dort beinahe wie ein Fenster. Nur blickte dieses Fenster rückwärts durch das Museum - ungefähr dorthin, wo der Dom tatsächlich stand. Faulmann brauchte einen Moment, um zu verstehen, warum sich das Bild zugleich richtig und verkehrt anfühlte.
 
 Einige von Eschs Bildern entstanden mit Drohnen. Was früher nur Vögel sehen konnten, erklärte das Ausstellungshandbuch, war inzwischen ein alltägliches Werkzeug der Architekturfotografie. Keira nahm die technische Erschließung ihrer Perspektive ruhig zur Kenntnis.
 
@@ -82,11 +84,11 @@ Vielleicht lag darin der eigentliche Unterschied zwischen einem Gebäude und sei
 
 Wenig später gingen Faulmann und Keira hinaus zum Offenbachplatz.
 
-Nach vierzehn Jahren Sanierung öffneten die Bühnen Köln dort wieder ihre Türen. Opernhaus, Schauspielhaus, Kinderoper und Kleines Haus gehörten für ein Wochenende nicht nur denjenigen, die Karten oder einen Dienstplan besaßen. Menschen standen auf dem Platz, warteten vor Eingängen, hörten Musik und aßen Dinge aus Papier und Pappe.[^4]
+Nach vierzehn Jahren Sanierung öffneten die Bühnen Köln dort wieder ihre Türen. Opernhaus, Schauspielhaus, Kinderoper und Kleines Haus gehörten für ein Wochenende nicht nur denjenigen, die Karten oder einen Dienstplan besaßen. Menschen standen auf dem Platz, warteten vor Eingängen, hörten Musik und aßen Dinge aus Papier und Pappe.[^4] (wieso dinge aus papier und pappe? Auserdfem anmerken das der Besuch der neunen räume von innen zuviel geduld verlangt hätte als beide sie hatten)
 
 Kurz zuvor hatten Faulmann und Keira noch Architektur betrachtet, die zur Idee und anschließend zum Bild geworden war. Nun standen sie zwischen Gebäuden, die wieder benutzt wurden.
 
-Auf der Außenbühne spielten die Dakh Daughters. Weiß geschminkte Gesichter, schwarze Kleidung, Kontrabass, Schlagzeug, Keyboard und Gitarre. Die Musikerinnen aus Kyjiw nennen ihre Verbindung aus Theater, ukrainischer Musik, Punk und Literatur "Freak Cabaret". Das traf es besser als die meisten ordentlichen Genrebezeichnungen.[^5]
+Auf der Außenbühne spielten die Dakh Daughters. Weiß geschminkte Gesichter, schwarze Kleidung, Kontrabass, Schlagzeug, Keyboard und Gitarre. Die Musikerinnen aus Kyjiw nennen ihre Verbindung aus Theater, ukrainischer Musik, Punk und Literatur "Freak Cabaret". Das traf es besser als die meisten ordentlichen Genrebezeichnungen.[^5] (Die sisters spielen erst zum kAfee essen ujnd so sind davor. Auserdem wollen wir hier ausdrücklich die kurration des SAchauspielhauses für die Wahl dieser gruppe oben und an die austellung der kunst aus kyev im schnüttgen erinnern (sihe alter post im blog))
 
 Die Musik konnte im selben Stück streng, fremd, komisch und wütend werden. Sie schien nicht recht einzusehen, weshalb sie sich für eine dieser Möglichkeiten entscheiden sollte.
 
@@ -98,17 +100,17 @@ Manche gemeinsamen Vorlieben entdeckt man nicht in Gesprächen. Man steht einfac
 
 Rund um die wiedereröffneten Häuser standen Foodtrucks. Der Weg über den Offenbachplatz wurde dadurch geografisch etwas unübersichtlich.
 
-An einem afrikanischen Stand gab es weiche Brioche-Brötchen mit Pulled Beef oder Austernpilzen, dazu Cheddar oder Avocado. Der Name des Standes ging Faulmann verloren. Das Sandwich nicht.
+An einem exotischen Stand gab es weiche Brioche-Brötchen mit Pulled Beef oder Austernpilzen, dazu Cheddar oder Avocado. Der Name des Standes ging Faulmann verloren. Das Sandwich nicht. (ich glaube das es Boeff heist sollte man anmerken)
 
 Bei Knödelfein folgte ein Rote-Bete-Knödel mit Ziegenkäsekern. Der Knödel war außen kräftig rot, innen hell und insgesamt erheblich weniger zurückhaltend, als Knödel sonst aufzutreten pflegen. Seine Herkunft lag gedanklich in den Alpen, auch wenn er an diesem Tag in Köln aus einem Foodtruck kam.[^6]
 
-Danach gab es bei Beni Doubles zwei weiche, frittierte Fladen mit würzigem Kichererbsencurry. Faulmann hatte sie zunächst irgendwo in Lateinamerika verortet. Tatsächlich waren es Doubles aus Trinidad und Tobago - karibisches Streetfood mit indischen Wurzeln.[^7]
+Danach gab es bei Beni Doubles einen weichen, frittierte Fladen mit würzigem Kichererbsencurry. Faulmann hatte sie zunächst irgendwo in Lateinamerika verortet. Tatsächlich waren es Doubles aus Trinidad und Tobago - karibisches Streetfood mit indischen Wurzeln.[^7]
 
 Es war eine recht kurze Strecke von Ungers über Manhattan und Kyjiw bis nach Trinidad. Städte leisten sich solche Entfernungen gelegentlich, ohne sie auszuschildern.
 
 ## Die galaktische Personalakte
 
-Zum Schluss holte sich Faulmann einen Espresso bei Klee Kaffee. Der Kaffee kam aus einem Wohnwagen, was ihm nach Knödeln, Doppelfladen und vierzehn Jahren Bühnensanierung als vergleichsweise überschaubare Konstruktion erschien.
+Zum Schluss holte sich Faulmann einen Espresso und keira selbiges mit viel Milch bei Klee Kaffee. Der Kaffee kam aus einem Wohnwagen, was ihm nach Knödeln, Fritierfladen und vierzehn Jahren Bühnensanierung als vergleichsweise überschaubare Konstruktion erschien.
 
 Am Stand entdeckte er eine kleine grüne Gestalt aus *Star Wars*.
 
