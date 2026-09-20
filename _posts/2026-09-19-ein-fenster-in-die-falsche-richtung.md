@@ -88,7 +88,7 @@ Wenig später gingen Faulmann und Keira hinaus zum Offenbachplatz.
 
 Nach vierzehn Jahren Sanierung öffneten die Bühnen Köln dort wieder ihre Türen. Opernhaus, Schauspielhaus, Kinderoper und Kleines Haus gehörten für ein Wochenende nicht nur denjenigen, die Karten oder einen Dienstplan besaßen, sondern auch jenen mit viel Geduld. Menschen standen auf dem Platz, warteten vor Eingängen, hörten Musik und reihten sich an Foodtrucks ein.[^4]
 
-Die neuen Räume hätten Keira und Faulmann auch von innen besichtigen können. Die Schlangen vor den Eingängen verlangten jedoch dann sichtbar deutlich mehr Standhaftigkeit, als beide aufbringen wollten.
+Die neuen Räume hätten Keira und Faulmann auch von innen besichtigen können. Die Schlangen vor den Eingängen verlangten jedoch sichtbar deutlich mehr Standhaftigkeit, als beide aufbringen wollten.
 
 Kurz zuvor hatten Faulmann und Keira noch Architektur betrachtet, die zur Idee und anschließend zum Bild geworden war. Nun standen sie zwischen Gebäuden, die wieder benutzt wurden.
 
