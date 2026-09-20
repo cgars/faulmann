@@ -14,23 +14,23 @@ Als Keira das Museum betrat, saß Faulmann bereits auf einem seiner Lieblingsmus
 
 "Die Stadt ist voller Polizei", sagte sie.
 
-"Ja", sagte Faulmann. "Eine Demonstration gegen Schwangerschaftsabbrüche, eine für das Recht, selbst darüber zu entscheiden wollen sich am Neumarkt treffen. Außerdem werden heute Oper und Schauspielhaus wiedereröffnet."
+"Ja", sagte Faulmann. "Am Neumarkt treffen sich gerade eine Demonstration gegen Schwangerschaftsabbrüche und eine für das Recht, selbst darüber zu entscheiden. Außerdem werden heute Oper und Schauspielhaus wiedereröffnet."
 
 Er rückte ein Stück zur Seite.
 
 "Ein Kölner Tag eben."
 
-Keira setzte sich neben ihn. Um ihre wachen Augen lagen helle Federringe. Bei Museen, Musik und Essen nahmen sie ohnehin meist dieselben Abzweigungen. (Kleine beschreibung der Vogelart)
+Keira setzte sich neben ihn. Sie war klein und olivgrün, mit hellen Federringen um die wachen Augen, und gehörte zu einer ostasiatischen Singvogelart, die inzwischen auch auf Hawaii zum vertrauten Straßenbild gehört. Bei Museen, Musik und Essen nahmen sie ohnehin meist dieselben Abzweigungen.
 
 An der Kasse des MAKK hatte Faulmann kurz zuvor seine Jahreskarte für die Kölner Museen verlängert. Damit war für ein weiteres Jahr geregelt, dass er in Köln Gebäude betreten konnte, um sich dort unter anderem andere Gebäude anzusehen.
 
-Im Foyer ded MAKK fehlte allerdings jemand.
+Im Foyer des MAKK fehlte allerdings jemand.
 
 "Wo ist denn der Mercedes?", fragte Faulmann einen der Aufseher.
 
 "Der ist in die Garage gefahren."
 
-Gemeint war der Mercedes SL, der sonst wie ein Masskotchen vor der Daueraustellung stand. Er hatte den beiden Architekturausstellungen Platz machen müssen. Die Sprichwörtliche Gneralvorfahrt der Würtembergischen Automarke mit Fraeunvornahmen wurde wohl erst nach 1960 zur Serienaustattung (bitte recherchiere ob Würtemberg und frauenvornahme hier pass).
+Gemeint war der Mercedes SL, der sonst wie ein Maskottchen vor der Dauerausstellung stand. Er hatte den beiden Architekturausstellungen Platz machen müssen. Die Generalvorfahrt der württembergischen Automarke mit Frauennamen gehörte damals offenbar noch nicht zur Serienausstattung.[^mercedes]
 
 ## Erst die Idee
 
@@ -48,7 +48,9 @@ Ein anderes eigenes Wohnhaus nannte Ungers das "Haus ohne Eigenschaften". Sockel
 
 Faulmann betrachtete Pläne und Modelle. Häuser waren hier noch keine Orte, an denen jemand die Heizung zu hoch drehte oder im Treppenhaus ein Fahrrad abstellte. Sie waren zunächst Gedanken, denen man genug Material gegeben hatte, um draußen stehen zu können.
 
-(füge mal nocvh was zum wohnhaus des Botscafters in Washngton und zur Bibliothek in Karlsruge ein bitte)
+Bei der Residenz des deutschen Botschafters in Washington musste diese Ordnung sogar ein Land vertreten. Ungers suchte nach einer architektonischen Form für Eigenschaften Deutschlands und hielt klassische Symmetrie und moderne Strenge in einem Gebäude zusammen. Auch Diplomatie brauchte offenbar zunächst einen Grundriss.
+
+In Karlsruhe machte er das Quadrat zum Grundmaß der Badischen Landesbibliothek. Ein Raster von drei Metern zieht sich durch den Bau; in seiner Mitte liegt ein quadratischer, von einer Kuppel überwölbter Lesesaal. Das Wissen lag dort nicht nur in Regalen. Es hatte einen geometrischen Mittelpunkt bekommen.[^ungers-bauten]
 
 Der Mercedes hatte dafür vernünftigerweise die Garage aufgesucht.
 
@@ -62,7 +64,7 @@ Zwischen den großen Aufnahmen lagen Polaroids aus früheren Reisen. Kleine Einz
 
 An einer Wand öffnete sich Köln noch einmal in die falsche Richtung.
 
-Eschs Aufnahme des Vierungsturms vom Dom den man hier lassen wolle, hing dort beinahe wie ein Fenster. Nur blickte dieses Fenster rückwärts durch das Museum - ungefähr dorthin, wo der Dom tatsächlich stand. Faulmann brauchte einen Moment, um zu verstehen, warum sich das Bild zugleich richtig und verkehrt anfühlte.
+Eschs Aufnahme des Vierungsturms, die man an dieser Stelle am liebsten hängen lassen wollte, wirkte beinahe wie ein Fenster. Nur blickte dieses Fenster rückwärts durch das Museum - ungefähr dorthin, wo der Dom tatsächlich stand. Faulmann brauchte einen Moment, um zu verstehen, warum sich das Bild zugleich richtig und verkehrt anfühlte.
 
 Einige von Eschs Bildern entstanden mit Drohnen. Was früher nur Vögel sehen konnten, erklärte das Ausstellungshandbuch, war inzwischen ein alltägliches Werkzeug der Architekturfotografie. Keira nahm die technische Erschließung ihrer Perspektive ruhig zur Kenntnis.
 
@@ -84,33 +86,27 @@ Vielleicht lag darin der eigentliche Unterschied zwischen einem Gebäude und sei
 
 Wenig später gingen Faulmann und Keira hinaus zum Offenbachplatz.
 
-Nach vierzehn Jahren Sanierung öffneten die Bühnen Köln dort wieder ihre Türen. Opernhaus, Schauspielhaus, Kinderoper und Kleines Haus gehörten für ein Wochenende nicht nur denjenigen, die Karten oder einen Dienstplan besaßen. Menschen standen auf dem Platz, warteten vor Eingängen, hörten Musik und aßen Dinge aus Papier und Pappe.[^4] (wieso dinge aus papier und pappe? Auserdfem anmerken das der Besuch der neunen räume von innen zuviel geduld verlangt hätte als beide sie hatten)
+Nach vierzehn Jahren Sanierung öffneten die Bühnen Köln dort wieder ihre Türen. Opernhaus, Schauspielhaus, Kinderoper und Kleines Haus gehörten für ein Wochenende nicht nur denjenigen, die Karten oder einen Dienstplan besaßen. Menschen standen auf dem Platz, warteten vor Eingängen, hörten Musik und reihten sich an Foodtrucks ein.[^4]
+
+Die neuen Räume hätten Keira und Faulmann auch von innen besichtigen können. Die Schlangen vor den Eingängen verlangten jedoch mehr Geduld, als beide zusammen aufbringen wollten.
 
 Kurz zuvor hatten Faulmann und Keira noch Architektur betrachtet, die zur Idee und anschließend zum Bild geworden war. Nun standen sie zwischen Gebäuden, die wieder benutzt wurden.
-
-Auf der Außenbühne spielten die Dakh Daughters. Weiß geschminkte Gesichter, schwarze Kleidung, Kontrabass, Schlagzeug, Keyboard und Gitarre. Die Musikerinnen aus Kyjiw nennen ihre Verbindung aus Theater, ukrainischer Musik, Punk und Literatur "Freak Cabaret". Das traf es besser als die meisten ordentlichen Genrebezeichnungen.[^5] (Die sisters spielen erst zum kAfee essen ujnd so sind davor. Auserdem wollen wir hier ausdrücklich die kurration des SAchauspielhauses für die Wahl dieser gruppe oben und an die austellung der kunst aus kyev im schnüttgen erinnern (sihe alter post im blog))
-
-Die Musik konnte im selben Stück streng, fremd, komisch und wütend werden. Sie schien nicht recht einzusehen, weshalb sie sich für eine dieser Möglichkeiten entscheiden sollte.
-
-Keira und Faulmann blieben stehen.
-
-Manche gemeinsamen Vorlieben entdeckt man nicht in Gesprächen. Man steht einfach gleichzeitig noch da, während andere schon weitergehen.
 
 ## Eine kurze Strecke durch mehrere Küchen
 
 Rund um die wiedereröffneten Häuser standen Foodtrucks. Der Weg über den Offenbachplatz wurde dadurch geografisch etwas unübersichtlich.
 
-An einem exotischen Stand gab es weiche Brioche-Brötchen mit Pulled Beef oder Austernpilzen, dazu Cheddar oder Avocado. Der Name des Standes ging Faulmann verloren. Das Sandwich nicht. (ich glaube das es Boeff heist sollte man anmerken)
+An einem der Stände gab es lange, weiche Brioche-Sandwiches: eines mit Pulled Bœuf, dazu Cheddar oder Avocado, und eine vegetarische Variante mit Austernpilzen. Der Name des Standes ging Faulmann verloren. Das Sandwich nicht.
 
 Bei Knödelfein folgte ein Rote-Bete-Knödel mit Ziegenkäsekern. Der Knödel war außen kräftig rot, innen hell und insgesamt erheblich weniger zurückhaltend, als Knödel sonst aufzutreten pflegen. Seine Herkunft lag gedanklich in den Alpen, auch wenn er an diesem Tag in Köln aus einem Foodtruck kam.[^6]
 
-Danach gab es bei Beni Doubles einen weichen, frittierte Fladen mit würzigem Kichererbsencurry. Faulmann hatte sie zunächst irgendwo in Lateinamerika verortet. Tatsächlich waren es Doubles aus Trinidad und Tobago - karibisches Streetfood mit indischen Wurzeln.[^7]
+Danach gab es bei Beni Doubles ein weiches, frittiertes Fladenbrot mit würzigem Kichererbsencurry. Faulmann hatte das Gericht zunächst irgendwo in Lateinamerika verortet. Tatsächlich gehörte es zu den Doubles aus Trinidad und Tobago - karibischem Streetfood mit indischen Wurzeln.[^7]
 
-Es war eine recht kurze Strecke von Ungers über Manhattan und Kyjiw bis nach Trinidad. Städte leisten sich solche Entfernungen gelegentlich, ohne sie auszuschildern.
+Es war eine recht kurze Strecke von Washington über Manhattan und die Alpen bis nach Trinidad. Städte leisten sich solche Entfernungen gelegentlich, ohne sie auszuschildern.
 
-## Die galaktische Personalakte
+## Kaffee, Kyjiw und die galaktische Personalakte
 
-Zum Schluss holte sich Faulmann einen Espresso und keira selbiges mit viel Milch bei Klee Kaffee. Der Kaffee kam aus einem Wohnwagen, was ihm nach Knödeln, Fritierfladen und vierzehn Jahren Bühnensanierung als vergleichsweise überschaubare Konstruktion erschien.
+Gegen fünf holte sich Faulmann bei Klee Kaffee einen Espresso. Keira bestellte denselben Grundgedanken mit erheblich mehr Milch. Der Kaffee kam aus einem Wohnwagen, was nach Knödeln, Frittierfladen und vierzehn Jahren Bühnensanierung als vergleichsweise überschaubare Konstruktion erschien.
 
 Am Stand entdeckte er eine kleine grüne Gestalt aus *Star Wars*.
 
@@ -120,20 +116,32 @@ Am Stand entdeckte er eine kleine grüne Gestalt aus *Star Wars*.
 
 Es war keine Zurechtweisung. Nur eine sachgerechte Berichtigung der galaktischen Personalakte.
 
-Faulmann nahm seinen Espresso entgegen. Der Irrtum hatte nicht lange genug gestanden, um peinlich zu werden.
+Der Irrtum hatte nicht lange genug gestanden, um peinlich zu werden.
 
-Auf der Bühne wechselte inzwischen das Instrument. Hinter ihnen lag das Museum mit seinem rückwärts blickenden Fenster. Der Mercedes stand irgendwo in einer Garage.
+Auf der Außenbühne begannen die Dakh Daughters. Weiß geschminkte Gesichter, schwarze Kleidung, Kontrabass, Schlagzeug, Keyboard und Gitarre. Die Musikerinnen aus Kyjiw nennen ihre Verbindung aus Theater, ukrainischer Musik, Punk und Literatur "Freak Cabaret". Das traf es besser als die meisten ordentlichen Genrebezeichnungen.[^5]
+
+Das Samstagsprogramm war vom Schauspiel Köln kuratiert. Die Dakh Daughters für die Wiedereröffnung einzuladen, war eine auffallend gute Entscheidung. Keine gefällige musikalische Tapete, sondern Künstlerinnen aus einer Stadt, deren Kultur gerade verteidigt werden musste.
+
+Bei einem [früheren Besuch im Museum Schnütgen](/atcgarsatpaper-wf/2025/08/30/glas.html) hatte Faulmann mittelalterliche Glasmalereien aus dem Khanenko-Museum in Kyjiw gesehen. Wegen des Krieges waren sie vorübergehend in Köln untergebracht. Damals waren Kunstwerke aus Kyjiw als Gäste in die Stadt gekommen. Nun kamen die Stimmen selbst.
+
+Die Musik konnte im selben Stück streng, fremd, komisch und wütend werden. Sie schien nicht recht einzusehen, weshalb sie sich für eine dieser Möglichkeiten entscheiden sollte.
+
+Keira und Faulmann blieben stehen. Manche gemeinsamen Vorlieben entdeckt man nicht in Gesprächen. Man steht einfach gleichzeitig noch da, während andere schon weitergehen.
+
+Als der Kaffee längst ausgetrunken war, standen sie noch immer da. Hinter ihnen lag das Museum mit seinem rückwärts blickenden Fenster. Der Mercedes stand irgendwo in einer Garage.
 
 Faulmanns Jahreskarte galt nun wieder ein ganzes Jahr.
 
 ---
 
 [^1]: Die Ausstellung [*O.M. Ungers - Architektur als Idee*](https://makk.de/besuchen/ausstellungen/sonderausstellungen/o-m-ungers-architektur-als-idee) läuft im MAKK vom 22. Mai bis 27. September 2026. Sie entstand anlässlich des 100. Geburtstags des Kölner Architekten. Das Faltblatt zur Ausstellung beschreibt Architektur, Design, Kunst und Landschaft ausdrücklich als zusammengehöriges Ganzes.
+[^mercedes]: Die Daimler-Motoren-Gesellschaft, aus der Mercedes hervorging, stammte aus Cannstatt bei Stuttgart. Der Markenname geht tatsächlich auf den Vornamen [Mercédès Jellineks](https://media.mercedes-benz.nl/120-jaar-mercedes---het-meisje-en-het-merk/) zurück; ihr Vater Emil verwendete ihn zunächst als Pseudonym bei Autorennen. 1902 wurde Mercedes als Marke geschützt.
+[^ungers-bauten]: Das MAKK datiert Ungers' [Residenz des deutschen Botschafters in Washington](https://makk.de/besuchen/ausstellungen/sonderausstellungen/o-m-ungers-architektur-als-idee) auf die Jahre 1987 bis 1995. Die Badische Landesbibliothek beschreibt ihren [Ungers-Bau](https://www.blb-karlsruhe.de/die-blb/gebaeude/geschichte/) mit Dreimeter-Raster, quadratischem Lesesaal und Kuppel.
 [^2]: [*Hans Georg Esch - Der architektonische Blick · epochal - global*](https://makk.de/besuchen/ausstellungen/sonderausstellungen/der-architektonische-blick-epochal-global) ist vom 11. Juni bis 27. September 2026 zu sehen.
 [^esch-handbuch]: Das Ausstellungshandbuch widmet sowohl Eschs Polaroids als auch seiner Drohnenfotografie eigene Abschnitte. Es beschreibt die Schau als Dialog zwischen Epochen, Kontinenten, dokumentarischem Auftrag und freier künstlerischer Fotografie.
 [^paar]: Ausstellungshandbuch *Hans Georg Esch - Der architektonische Blick · epochal - global*, Werkverzeichnis, Nummern 62 und 63.
 [^3]: Der heutige Vierungsturm wurde zwischen 1965 und 1973 nach einem Entwurf des Dombaumeisters Willy Weyres neu gestaltet. Die acht Engel bestehen aus bleiverkleidetem Lärchenholz.
-[^4]: Das [Eröffnungsfest der Bühnen Köln](https://buehnen.koeln/eroeffnungsfest) fand am 19. und 20. September 2026 statt. Das Programm verteilte sich über den Offenbachplatz sowie Opernhaus, Schauspielhaus, Kinderoper und Kleines Haus.
-[^5]: Die Dakh Daughters entstanden 2012 am unabhängigen Dakh-Theater in Kyjiw. Das Künstlerinnenkollektiv verbindet Musik, Schauspiel und Texte unter anderem ukrainischer Dichterinnen und Dichter. Seit dem Euromaidan ist seine Arbeit auch eng mit dem politischen und kulturellen Widerstand der Ukraine verbunden.
+[^4]: Das [Eröffnungsfest der Bühnen Köln](https://buehnen.koeln/eroeffnungsfest) fand am 19. und 20. September 2026 statt. Das Programm verteilte sich über den Offenbachplatz sowie Opernhaus, Schauspielhaus, Kinderoper und Kleines Haus. Für die Besichtigung der neuen Räume waren teils Zeitslots oder Wartezeiten vorgesehen.
+[^5]: Die Dakh Daughters entstanden 2012 am unabhängigen Dakh-Theater in Kyjiw. Das Künstlerinnenkollektiv verbindet Musik, Schauspiel und Texte unter anderem ukrainischer Dichterinnen und Dichter. Seit dem Euromaidan ist seine Arbeit eng mit dem politischen und kulturellen Widerstand der Ukraine verbunden. Ihr Auftritt um 17 Uhr gehörte zum offiziell [vom Schauspiel Köln kuratierten Samstagsprogramm](https://buehnen.koeln/programm-am-samstag).
 [^6]: Knödelfein-Gründer Christoph Schrader lernte das Knödelrollen 2013 während eines Sommers auf der Adolf-Noßberger-Hütte in Österreich. Später entwickelte er daraus die heutige [Knödelfein](https://www.knoedelfein.de/%C3%BCber-uns)-Manufaktur.
 [^7]: Doubles bestehen traditionell aus zwei frittierten *Bara* und einem Kichererbsencurry namens *Channa*. [Beni Doubles](https://www.benidoubles.com/) bringt dieses Streetfood in Köln auf Märkte und Veranstaltungen.
