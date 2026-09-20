@@ -98,7 +98,7 @@ Rund um die wiedereröffneten Häuser standen Foodtrucks. Der Weg über den Offe
 
 An einem der Stände gab es lange, weiche Brioche-Sandwiches: eines mit Pulled Bœuf, eines mit Austernpilzen, dazu Cheddar oder Avocado und wunderbar eingelegte rote Zwiebeln. Nach einer kurzen Absprache bestellten Keira und Faulmann beide Varianten und teilten sie so, dass jeder eine Hälfte von jedem Sandwich bekam.
 
-Es war eine gute Anwendung des von Faulmann erfundenen Badischen Oder-Grundsatzes: Bei Essensbestellungen darf jedes Entweder-oder grundsätzlich durch ein Und ersetzt werden.
+Es war eine gute Anwendung des von Faulmann erfundenen Badischen Undsatzes (*principium Badense coniunctionis*): Bei Essensbestellungen darf jedes Entweder-oder grundsätzlich durch ein Und ersetzt werden.
 
 Der Name des Standes ging Faulmann verloren. Die Sandwiches nicht.
 
