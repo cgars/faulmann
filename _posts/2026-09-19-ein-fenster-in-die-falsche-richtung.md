@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Ein Fenster, acht Engel und zwei Sandwiches"
-subtitle: "Ein Kölner Tag eben"
+title: "Ein Fenster, acht Engel und zwei Sandwiches – Ein Kölner Tag eben"
+subtitle: "Faulmann unterwegs zwischen MAKK und Offenbachplatz"
 date: 2026-09-19
 categories: [faulmann, koeln, museum, architektur, musik, essen]
 tags: [makk, ungers, hans-georg-esch, koelner-dom, buehnen-koeln, dakh-daughters, keira]
