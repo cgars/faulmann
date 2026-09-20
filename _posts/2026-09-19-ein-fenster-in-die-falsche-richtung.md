@@ -54,7 +54,11 @@ Eschs Aufnahme des Vierungsturms hing dort beinahe wie ein Fenster. Nur blickte 
 
 Einige von Eschs Bildern entstanden mit Drohnen. Was früher nur Vögel sehen konnten, erklärte das Ausstellungshandbuch, war inzwischen ein alltägliches Werkzeug der Architekturfotografie. Keira nahm die technische Erschließung ihrer Perspektive ruhig zur Kenntnis.
 
-Auf dem Turm standen acht Engel. Von unten sind sie kaum als einzelne Figuren zu erkennen. Auf Eschs Foto wirkten sie groß, schwer und überraschend technisch. Ihre Körper waren geometrisch, ihre Flügel wirkten wie schwere Konstruktionen.\n\nKeira betrachtete die acht metallischen Gestalten auf dem Vierungsturm.\n\n"Ein wenig *Metropolis*", sagte sie. "Für Engel sehen sie bemerkenswert raumstationskompatibel aus."
+Auf dem Turm standen acht Engel. Von unten sind sie kaum als einzelne Figuren zu erkennen. Auf Eschs Foto wirkten sie groß, schwer und überraschend technisch. Ihre Körper waren geometrisch, ihre Flügel wirkten wie schwere Konstruktionen.
+
+Keira betrachtete die acht metallischen Gestalten auf dem Vierungsturm.
+
+"Ein wenig *Metropolis*", sagte sie. "Für Engel sehen sie bemerkenswert raumstationskompatibel aus."
 
 Das war nicht einmal ganz zufällig. Die Engel gehören zur modernen, vom Art déco geprägten Neugestaltung des Vierungsturms. Erlefried Hoppe entwarf sie, Hubert Bruhs fertigte ihre Holzkerne. Jede Figur ist 4,10 Meter hoch, mit Blei verkleidet und wiegt mehr als zwei Tonnen.[^3]
 
