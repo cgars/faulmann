@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Ein Fenster in die falsche Richtung"
-subtitle: "Faulmann unterwegs zwischen MAKK und Offenbachplatz"
+title: "Ein Fenster, acht Engel und zwei Sandwiches"
+subtitle: "Ein Kölner Tag eben"
 date: 2026-09-19
 categories: [faulmann, koeln, museum, architektur, musik, essen]
 tags: [makk, ungers, hans-georg-esch, koelner-dom, buehnen-koeln, dakh-daughters, keira]
@@ -20,7 +20,7 @@ Er rückte ein Stück zur Seite.
 
 "Ein Kölner Tag eben."
 
-Keira setzte sich neben ihn. Sie war kaum handlang und olivgrün, mit gelber Kehle, heller Bauchseite, kurzem spitzen Schnabel und auffälligen weißen Federringen um die wachen Augen. Bei Museen, Musik und Essen nahmen sie ohnehin meist dieselben Abzweigungen.
+Keira setzte sich neben ihn und strich ihr olivgrünes Gefieder glatt. Mit der gelben Kehle, dem spitzen Schnabel und den weißen Ringen um die Augen sah sie aus, als hätte die Natur selbst besonderen Wert auf Aufmerksamkeit gelegt. Bei Museen, Musik und Essen nahmen sie ohnehin meist dieselben Abzweigungen.
 
 An der Kasse des MAKK hatte Faulmann kurz zuvor seine Jahreskarte für die Kölner Museen verlängert. Damit war für ein weiteres Jahr geregelt, dass er in Köln Gebäude betreten konnte, um sich dort unter anderem andere Gebäude anzusehen.
 
