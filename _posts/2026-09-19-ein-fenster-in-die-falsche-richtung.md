@@ -20,7 +20,7 @@ Er rückte ein Stück zur Seite.
 
 "Ein Kölner Tag eben."
 
-Keira setzte sich neben ihn. Sie war klein und olivgrün, mit hellen Federringen um die wachen Augen, und gehörte zu einer ostasiatischen Singvogelart, die inzwischen auch auf Hawaii zum vertrauten Straßenbild gehört. Bei Museen, Musik und Essen nahmen sie ohnehin meist dieselben Abzweigungen. (mehr zoologische merkmale, keine herkunftbeschreibung)
+Keira setzte sich neben ihn. Sie war kaum handlang und olivgrün, mit gelber Kehle, heller Bauchseite, kurzem spitzen Schnabel und auffälligen weißen Federringen um die wachen Augen. Bei Museen, Musik und Essen nahmen sie ohnehin meist dieselben Abzweigungen.
 
 An der Kasse des MAKK hatte Faulmann kurz zuvor seine Jahreskarte für die Kölner Museen verlängert. Damit war für ein weiteres Jahr geregelt, dass er in Köln Gebäude betreten konnte, um sich dort unter anderem andere Gebäude anzusehen.
 
@@ -86,15 +86,21 @@ Vielleicht lag darin der eigentliche Unterschied zwischen einem Gebäude und sei
 
 Wenig später gingen Faulmann und Keira hinaus zum Offenbachplatz.
 
-Nach vierzehn Jahren Sanierung öffneten die Bühnen Köln dort wieder ihre Türen. Opernhaus, Schauspielhaus, Kinderoper und Kleines Haus gehörten für ein Wochenende nicht nur denjenigen, die Karten oder einen Dienstplan besaßen sondern auch jenen mit viel Geduld. Menschen standen auf dem Platz, warteten vor Eingängen, hörten Musik und reihten sich an Foodtrucks ein.[^4]
+Nach vierzehn Jahren Sanierung öffneten die Bühnen Köln dort wieder ihre Türen. Opernhaus, Schauspielhaus, Kinderoper und Kleines Haus gehörten für ein Wochenende nicht nur denjenigen, die Karten oder einen Dienstplan besaßen, sondern auch jenen mit viel Geduld. Menschen standen auf dem Platz, warteten vor Eingängen, hörten Musik und reihten sich an Foodtrucks ein.[^4]
 
-Die neuen Räume hätten Keira und Faulmann auch von innen besichtigen können. Die Schlangen vor den Eingängen verlangten jedoch dann sichtbar deutlich zu viel Standhaftigkeit  aufbringen wollte.
+Die neuen Räume hätten Keira und Faulmann auch von innen besichtigen können. Die Schlangen vor den Eingängen verlangten jedoch sichtbar mehr Geduld, als beide zusammen aufzubringen bereit waren.
+
+Kurz zuvor hatten Faulmann und Keira noch Architektur betrachtet, die zur Idee und anschließend zum Bild geworden war. Nun standen sie zwischen Gebäuden, die wieder benutzt wurden.
 
 ## Eine kurze Strecke durch mehrere Küchen
 
 Rund um die wiedereröffneten Häuser standen Foodtrucks. Der Weg über den Offenbachplatz wurde dadurch geografisch etwas unübersichtlich.
 
-An einem der Stände gab es lange, weiche Brioche-Sandwiches: eines mit Pulled Bœuf, dazu Cheddar oder Avocado, und eine vegetarische Variante mit Austernpilzen. Der Name des Standes ging Faulmann verloren. Das Sandwich nicht. (hier können wir einflechten das nach einer kurzen absprache zwei Sandwitches nähmlich vegetarisch und boeff bestellt wurden jeder bekahm eine hälfte des jeweils anderen sandwitch - eine gute variante vom von faulman erfundnen badischen oder grundsatz nach dem jedes entweder oder bei essens bestellungen grundsätzlich mit einem und ersetzt werden darf. ujnd wir können die wunderbaren eingelegten roten zwiebeln erwähnen) 
+An einem der Stände gab es lange, weiche Brioche-Sandwiches: eines mit Pulled Bœuf, eines mit Austernpilzen, dazu Cheddar oder Avocado und wunderbar eingelegte rote Zwiebeln. Nach einer kurzen Absprache bestellten Keira und Faulmann beide Varianten und teilten sie so, dass jeder eine Hälfte von jedem Sandwich bekam.
+
+Es war eine gute Anwendung des von Faulmann erfundenen Badischen Oder-Grundsatzes: Bei Essensbestellungen darf jedes Entweder-oder grundsätzlich durch ein Und ersetzt werden.
+
+Der Name des Standes ging Faulmann verloren. Die Sandwiches nicht.
 
 Bei Knödelfein folgte ein Rote-Bete-Knödel mit Ziegenkäsekern. Der Knödel war außen kräftig rot, innen hell und insgesamt erheblich weniger zurückhaltend, als Knödel sonst aufzutreten pflegen. Seine Herkunft lag gedanklich in den Alpen, auch wenn er an diesem Tag in Köln aus einem Foodtruck kam.[^6]
 
@@ -118,13 +124,13 @@ Der Irrtum hatte nicht lange genug gestanden, um peinlich zu werden.
 
 Auf der Außenbühne begannen die Dakh Daughters. Weiß geschminkte Gesichter, schwarze Kleidung, Kontrabass, Schlagzeug, Keyboard und Gitarre. Die Musikerinnen aus Kyjiw nennen ihre Verbindung aus Theater, ukrainischer Musik, Punk und Literatur "Freak Cabaret". Das traf es besser als die meisten ordentlichen Genrebezeichnungen.[^5]
 
-Das Samstagsprogramm war vom Schauspiel Köln kuratiert. Die Dakh Daughters für die Wiedereröffnung einzuladen, war eine auffallend gute Entscheidung. Keine gefällige musikalische Tapete, sondern Künstlerinnen aus einer Stadt, deren Kultur gerade verteidigt werden musste. Chapeu! 
+Das Samstagsprogramm war vom Schauspiel Köln kuratiert. Die Dakh Daughters für die Wiedereröffnung einzuladen, war eine auffallend gute Entscheidung. Keine gefällige musikalische Tapete, sondern Künstlerinnen aus einer Stadt, deren Kultur gerade verteidigt werden musste. Chapeau!
 
-Bei einem [früheren Besuch im Museum Schnütgen](/atcgarsatpaper-wf/2025/08/30/glas.html) hatte Faulmann mittelalterliche Glasmalereien aus dem Khanenko-Museum in Kyjiw gesehen. Wegen des Krieges sind sie vorübergehend in Köln untergebracht. Dort waren Kunstwerke aus Kyjiw als Gäste in die Stadt gekommen. Nun kamen die Stimmen.
+Bei einem [früheren Besuch im Museum Schnütgen](/atcgarsatpaper-wf/2025/08/30/glas.html) hatte Faulmann mittelalterliche Glasmalereien aus dem Khanenko-Museum in Kyjiw gesehen. Wegen des Krieges waren sie vorübergehend in Köln untergebracht. Damals waren Kunstwerke aus Kyjiw als Gäste in die Stadt gekommen. Nun kamen die Stimmen selbst.
 
 Die Musik konnte im selben Stück streng, fremd, komisch und wütend werden. Sie schien nicht recht einzusehen, weshalb sie sich für eine dieser Möglichkeiten entscheiden sollte.
 
-Keira und Faulmann blieben stehen und setzhten sich schlieslich auf eine der neuen Steinbänke. Als der Kaffee ausgetrunken war, sassen sie noch ein paar  minuten dem Konzert lauschen da. Hinter ihnen lag das Museum mit seinem rückwärts blickenden Fenster. Der Mercedes stand irgendwo in einer Garage. Der bauch brummte zufrieden im Takt und Faulmanns Jahreskarte galt nun wieder ein ganzes Jahr.
+Keira und Faulmann blieben stehen und setzten sich schließlich auf eine der neuen Steinbänke. Als der Kaffee längst ausgetrunken war, saßen sie noch immer da und hörten dem Konzert zu. Hinter ihnen lag das Museum mit seinem rückwärts blickenden Fenster. Der Mercedes stand irgendwo in einer Garage. Faulmanns Bauch brummte zufrieden im Takt, und seine Jahreskarte galt nun wieder ein ganzes Jahr.
 
 ---
 
