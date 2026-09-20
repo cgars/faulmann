@@ -10,9 +10,19 @@ teaser: "Erst werden Gebäude zu Ideen und Bildern. Wenig später werden sie am 
 
 ![Captain Faulmann und Keira zwischen MAKK, Dom und Offenbachplatz](/assets/img/posts/2026-09-19-ein-fenster-in-die-falsche-richtung/titelbild.jpg)
 
-An der Kasse des MAKK verlängerte Faulmann zunächst seine Jahreskarte für die Kölner Museen. Damit war für ein weiteres Jahr geregelt, dass er in Köln Gebäude betreten konnte, um sich dort unter anderem andere Gebäude anzusehen.
+Als Keira das Museum betrat, saß Faulmann bereits auf einem seiner Lieblingsmuseumssofas in Köln.
 
-Er war diesmal nicht allein. Keira, eine zierliche, grüngefiederte Freundin aus einem früheren Arbeitsleben, begleitete ihn. Um ihre wachen Augen lagen helle Federringe. Seit sie sich nicht mehr beruflich begegneten, stellten sie mit einiger Verwunderung fest, dass sie bei Museen, Musik und Essen noch immer mit bemerkenswerter Zuverlässigkeit dieselben Abzweigungen nahmen.
+"Die Stadt ist voller Polizei", sagte sie.
+
+"Ja", sagte Faulmann. "Eine Demonstration gegen Schwangerschaftsabbrüche, eine für das Recht, selbst darüber zu entscheiden. Außerdem werden heute Oper und Schauspielhaus wiedereröffnet."
+
+Er rückte ein Stück zur Seite.
+
+"Ein Kölner Tag eben."
+
+Keira setzte sich neben ihn. Um ihre wachen Augen lagen helle Federringe. Bei Museen, Musik und Essen nahmen sie ohnehin meist dieselben Abzweigungen.
+
+An der Kasse des MAKK hatte Faulmann kurz zuvor seine Jahreskarte für die Kölner Museen verlängert. Damit war für ein weiteres Jahr geregelt, dass er in Köln Gebäude betreten konnte, um sich dort unter anderem andere Gebäude anzusehen.
 
 Im MAKK fehlte allerdings jemand.
 
