@@ -8,6 +8,8 @@ tags: [makk, ungers, hans-georg-esch, koelner-dom, buehnen-koeln, dakh-daughters
 teaser: "Erst werden Gebäude zu Ideen und Bildern. Wenig später werden sie am Offenbachplatz wieder Stadt."
 ---
 
+![Captain Faulmann und Keira zwischen MAKK, Dom und Offenbachplatz](/assets/img/posts/2026-09-19-ein-fenster-in-die-falsche-richtung/titelbild.jpg)
+
 An der Kasse des MAKK verlängerte Faulmann zunächst seine Jahreskarte für die Kölner Museen. Damit war für ein weiteres Jahr geregelt, dass er in Köln Gebäude betreten konnte, um sich dort unter anderem andere Gebäude anzusehen.
 
 Er war diesmal nicht allein. Keira, eine zierliche, grüngefiederte Freundin aus einem früheren Arbeitsleben, begleitete ihn. Um ihre wachen Augen lagen helle Federringe. Seit sie sich nicht mehr beruflich begegneten, stellten sie mit einiger Verwunderung fest, dass sie bei Museen, Musik und Essen noch immer mit bemerkenswerter Zuverlässigkeit dieselben Abzweigungen nahmen.
