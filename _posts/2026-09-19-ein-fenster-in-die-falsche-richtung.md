@@ -28,6 +28,12 @@ Ungers hätte das vermutlich anders gesehen. Bei ihm begann Architektur mit Ordn
 
 Die Ordnung endete nicht an der Hauswand. Möbel, Kunst, Farben und Garten gehörten bei Ungers zum selben Entwurf. Ein Wohnhaus konnte als kleine Stadt gedacht werden, eine Bibliothek als schwarzer Würfel, in dessen Regalen das Wissen über Architektur aufgehoben war. Nicht Dekoration um ein Gebäude herum, sondern Teile desselben Gedankens.
 
+Bei seinem ersten Haus in der Kölner Belvederestraße wurde das ziemlich wörtlich. Wohn- und Arbeitsräume lagen um eine innere "Straße" und zwei Treppen. Von außen war nicht ohne Weiteres abzulesen, welcher Raum wofür gedacht war. Jeder folgte seiner eigenen Logik, gemeinsam bildeten sie eine kleine Stadt unter einem Dach.
+
+Später setzte Ungers einen Bibliothekskubus daneben. Von außen war er ein schwarzer Würfel aus Basaltlava, fast ohne Erzählung. Innen lagen in den Regalen seine Bücher zur Geschichte und Theorie der Architektur. Das Ausstellungsmaterial nannte sie das "Universum der Architektur". Faulmann fand, dass ein Universum in einem Würfel zumindest den Vorteil hatte, nicht weiter expandieren zu müssen.
+
+Ein anderes eigenes Wohnhaus nannte Ungers das "Haus ohne Eigenschaften". Sockel, sichtbares Dach, Fensterbänke und Bauschmuck waren weitgehend verschwunden. Übrig blieb eine helle, geometrische Form. Selbst das Weglassen war bei Ungers keine Leerstelle. Es war eine ziemlich genaue Tätigkeit.
+
 Faulmann betrachtete Pläne und Modelle. Häuser waren hier noch keine Orte, an denen jemand die Heizung zu hoch drehte oder im Treppenhaus ein Fahrrad abstellte. Sie waren zunächst Gedanken, denen man genug Material gegeben hatte, um draußen stehen zu können.
 
 Der Mercedes hatte dafür vernünftigerweise die Garage aufgesucht.
@@ -35,6 +41,10 @@ Der Mercedes hatte dafür vernünftigerweise die Garage aufgesucht.
 ## Dann der Blick
 
 In der zweiten Ausstellung waren die Gebäude längst gebaut. Hans Georg Esch hatte sie fotografiert: den Kölner Dom, Pompeji, das Chrysler Building, Bauten von Ungers, Hongkong, Beijing, Sanaa und den neuen Flughafen von Abu Dhabi. Unter seinem Blick wurden sie aus ihren Straßen und Städten gelöst und zu Bildern, die einander im Museum begegnen konnten.[^2]
+
+Die Ausstellung war als Dialog angelegt. Mehr als zweitausend Jahre alte Straßen und Häuser in Pompeji trafen auf die Formen des noch nicht eröffneten Stuttgarter Hauptbahnhofs. Der geografische Bogen reichte von Lappland bis Sydney und Beijing. Köln blieb trotzdem das Zentrum, nicht nur, weil das Museum dort stand. Immer wieder führten Eschs Bilder in die Stadt und zu den Bauten von Ungers zurück.
+
+Zwischen den großen Aufnahmen lagen Polaroids aus früheren Reisen. Kleine Einzelstücke aus einer Zeit, in der man das fertige Bild nicht schon vor der Aufnahme auf einem Bildschirm betrachten konnte. Esch hatte sie in Stapeln und Schachteln aufbewahrt. Jedes war nur einmal vorhanden, während die großen digitalen Bilder daneben längst ohne festes Ende vervielfältigt werden konnten.[^esch-handbuch]
 
 An einer Wand öffnete sich Köln noch einmal in die falsche Richtung.
 
@@ -49,6 +59,8 @@ Das war nicht einmal ganz zufällig. Die Engel gehören zur modernen, vom Art d�
 Gleich daneben hing das Chrysler Building. Im Ausstellungshandbuch folgten beide Aufnahmen sogar unmittelbar aufeinander: der Kölner Vierungsturm als Nummer 62, das Chrysler Building als Nummer 63.[^paar]
 
 Art déco auf einer gotischen Kathedrale begegnete Art déco über den Straßen Manhattans. Dazwischen lag nur ein Stück Museumswand. Esch hatte Köln und New York nicht näher zusammengerückt. Er hatte lediglich den Abstand weggelassen.
+
+Vielleicht lag darin der eigentliche Unterschied zwischen einem Gebäude und seinem Bild. Ein Gebäude wurde entworfen und gebaut. Zur Ikone wurde es erst, wenn jemand einen Blick darauf fand, der sich wiederholen ließ. Der Dom stand schon lange in Köln. Diese acht Engel hatte Faulmann trotzdem erst an einer Museumswand richtig gesehen.
 
 ## Gebäude werden wieder Stadt
 
@@ -100,6 +112,7 @@ Faulmanns Jahreskarte galt nun wieder ein ganzes Jahr.
 
 [^1]: Die Ausstellung [*O.M. Ungers - Architektur als Idee*](https://makk.de/besuchen/ausstellungen/sonderausstellungen/o-m-ungers-architektur-als-idee) läuft im MAKK vom 22. Mai bis 27. September 2026. Sie entstand anlässlich des 100. Geburtstags des Kölner Architekten. Das Faltblatt zur Ausstellung beschreibt Architektur, Design, Kunst und Landschaft ausdrücklich als zusammengehöriges Ganzes.
 [^2]: [*Hans Georg Esch - Der architektonische Blick · epochal - global*](https://makk.de/besuchen/ausstellungen/sonderausstellungen/der-architektonische-blick-epochal-global) ist vom 11. Juni bis 27. September 2026 zu sehen.
+[^esch-handbuch]: Das Ausstellungshandbuch widmet sowohl Eschs Polaroids als auch seiner Drohnenfotografie eigene Abschnitte. Es beschreibt die Schau als Dialog zwischen Epochen, Kontinenten, dokumentarischem Auftrag und freier künstlerischer Fotografie.
 [^paar]: Ausstellungshandbuch *Hans Georg Esch - Der architektonische Blick · epochal - global*, Werkverzeichnis, Nummern 62 und 63.
 [^3]: Der heutige Vierungsturm wurde zwischen 1965 und 1973 nach einem Entwurf des Dombaumeisters Willy Weyres neu gestaltet. Die acht Engel bestehen aus bleiverkleidetem Lärchenholz.
 [^4]: Das [Eröffnungsfest der Bühnen Köln](https://buehnen.koeln/eroeffnungsfest) fand am 19. und 20. September 2026 statt. Das Programm verteilte sich über den Offenbachplatz sowie Opernhaus, Schauspielhaus, Kinderoper und Kleines Haus.
