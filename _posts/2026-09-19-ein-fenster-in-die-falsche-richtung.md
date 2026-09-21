@@ -19,7 +19,7 @@ Er rückte ein Stück zur Seite.
 
 "Ein Kölner Tag eben."
 
-Keira setzte sich neben ihn und strich ihr olivgrünes Gefieder glatt. Mit der gelben Kehle, dem spitzen Schnabel und den weißen Ringen um die Augen sah sie aus, als hätte die Natur selbst besonderen Wert auf Aufmerksamkeit gelegt.
+Keira setzte sich neben ihn und strich ihr olivgrünes Gefieder glatt. Ihre Kehle war gelb, die Bauchseite hellgrau, ihr Schnabel fein und spitz, und um ihre Augen lagen breite weiße Federringe.
 
 An der Kasse des MAKK hatte Faulmann kurz zuvor seine Jahreskarte für die Kölner Museen verlängert. Damit war für ein weiteres Jahr geregelt, dass er in Köln Gebäude betreten konnte, um sich dort unter anderem andere Gebäude anzusehen.
 
@@ -61,9 +61,11 @@ Die Ausstellung war als Dialog angelegt. Mehr als zweitausend Jahre alte Straße
 
 Zwischen den großen Aufnahmen lagen Polaroids aus früheren Reisen. Kleine Einzelstücke aus einer Zeit, in der man das fertige Bild nicht schon vor der Aufnahme auf einem Bildschirm betrachten konnte. Esch hatte sie in Stapeln und Schachteln aufbewahrt. Jedes war nur einmal vorhanden, während die großen digitalen Bilder daneben längst ohne festes Ende vervielfältigt werden konnten.[^esch-handbuch]
 
-An einer Wand öffnete sich Köln noch einmal in die falsche Richtung.
+An einer Wand öffnete sich Köln noch einmal.
 
-Eschs Aufnahme des Vierungsturms, die man an dieser Stelle am liebsten hängen lassen wollte, wirkte beinahe wie ein Fenster. Nur blickte dieses Fenster rückwärts durch das Museum - ungefähr dorthin, wo der Dom tatsächlich stand. Faulmann brauchte einen Moment, um zu verstehen, warum sich das Bild zugleich richtig und verkehrt anfühlte.
+An dieser Stelle wirkte Eschs Aufnahme des Vierungsturms beinahe wie ein Fenster. Nur zeigte dieses Fenster nicht, was hinter der Wand lag. Der Dom stand von hier aus fast im rechten Winkel zur Blickachse. Das Bild öffnete eine Sichtachse, die der Raum selbst nicht hergab.
+
+Faulmann brauchte einen Moment, um zu verstehen, warum sich das Bild zugleich vertraut und unmöglich anfühlte.
 
 Einige von Eschs Bildern entstanden mit Drohnen. Was früher nur Vögel sehen konnten, erklärte das Ausstellungshandbuch, war inzwischen ein alltägliches Werkzeug der Architekturfotografie. Keira nahm die technische Erschließung ihrer Perspektive ruhig zur Kenntnis.
 
@@ -77,9 +79,9 @@ Das war nicht einmal ganz zufällig. Die Engel gehören zur modernen, vom Art d�
 
 Gleich daneben hing das Chrysler Building. Im Ausstellungshandbuch folgten beide Aufnahmen sogar unmittelbar aufeinander: der Kölner Vierungsturm als Nummer 62, das Chrysler Building als Nummer 63.[^paar]
 
-Art déco auf einer gotischen Kathedrale begegnete Art déco über den Straßen Manhattans. Dazwischen lag nur ein Stück Museumswand. Esch hatte Köln und New York nicht näher zusammengerückt. Er hatte lediglich den Abstand weggelassen.
+Art déco auf einer gotischen Kathedrale begegnete Art déco über den Straßen Manhattans. Dazwischen lag nur ein Stück Museumswand. Die Ausstellung hatte Köln und New York nicht näher zusammengerückt. Sie hatte lediglich den Abstand weggelassen.
 
-Vielleicht lag darin der eigentliche Unterschied zwischen einem Gebäude und seinem Bild. Ein Gebäude wurde entworfen und gebaut. Zur Ikone wurde es erst, wenn jemand einen Blick darauf fand, der sich wiederholen ließ. Der Dom stand schon lange in Köln. Diese acht Engel hatte Faulmann trotzdem erst an einer Museumswand richtig gesehen.
+Vielleicht lag darin der eigentliche Unterschied zwischen einem Gebäude und seinem Bild. Ein Gebäude wurde entworfen und gebaut. Zur Ikone wurde es erst, wenn jemand einen Blick darauf fand, der sich wiederholen wollte. Der Dom stand schon lange in Köln. Diese acht Engel hatte Faulmann trotzdem erst an einer Museumswand richtig gesehen.
 
 ## Gebäude werden wieder Stadt
 
@@ -95,11 +97,9 @@ Kurz zuvor hatten Faulmann und Keira noch Architektur betrachtet, die zur Idee u
 
 Rund um die wiedereröffneten Häuser standen Foodtrucks. Der Weg über den Offenbachplatz wurde dadurch geografisch etwas unübersichtlich.
 
-An einem der Stände gab es lange, weiche Brioche-Sandwiches: eines mit Pulled Bœuf, eines mit Austernpilzen, dazu Cheddar oder Avocado und wunderbar eingelegte rote Zwiebeln. Nach einer kurzen Absprache bestellten Keira und Faulmann beide Varianten und teilten sie so, dass jeder eine Hälfte von jedem Sandwich bekam.
+An einem Stand, dessen Name Faulmann später verloren ging, gab es lange, weiche Brioche-Sandwiches: eines mit Pulled Bœuf, eines mit Austernpilzen, dazu Cheddar oder Avocado und wunderbar eingelegte rote Zwiebeln. Nach einer kurzen Absprache bestellten Keira und Faulmann beide Varianten und teilten sie so, dass jeder eine Hälfte von jedem Sandwich bekam.
 
 Es war eine gute Anwendung des von Faulmann erfundenen Badischen Undsatzes (*principium Badense coniunctionis*): Bei Essensbestellungen darf jedes Entweder-oder grundsätzlich durch ein Und ersetzt werden.
-
-Der Name des Standes ging Faulmann verloren. Die Sandwiches nicht.
 
 Bei Knödelfein folgte ein Rote-Bete-Knödel mit Ziegenkäsekern. Der Knödel war außen kräftig rot, innen hell und insgesamt erheblich weniger zurückhaltend, als Knödel sonst aufzutreten pflegen. Seine Herkunft lag gedanklich in den Alpen, auch wenn er an diesem Tag in Köln aus einem Foodtruck kam.[^6]
 
@@ -109,7 +109,7 @@ Es war eine recht kurze Strecke von Washington über Manhattan und die Alpen bis
 
 ## Kaffee, Kyjiw und die galaktische Personalakte
 
-Gegen fünf holte sich Faulmann bei Klee Kaffee einen Espresso. Keira bestellte denselben Grundgedanken mit erheblich mehr Milch. Der Kaffee kam aus einem Wohnwagen, was nach Knödeln, Frittierfladen und vierzehn Jahren Bühnensanierung als vergleichsweise überschaubare Konstruktion erschien.
+Gegen fünf holte sich Faulmann bei Klee Kaffee einen Espresso. Keira bestellte denselben Grundgedanken mit erheblich mehr Milch. Der Kaffee kam aus einem Wohnwagen, was nach Brioche-Sandwiches, Knödeln, Frittierfladen und vierzehn Jahren Bühnensanierung als vergleichsweise überschaubare Konstruktion erschien.
 
 Am Stand entdeckte er eine kleine grüne Gestalt aus *Star Wars*.
 
