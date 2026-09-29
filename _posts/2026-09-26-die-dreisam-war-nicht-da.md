@@ -8,6 +8,41 @@ tags: [kaiserstuhl, liliental, dreisam, tuniberg, laboria]
 teaser: "Eine Fahrt mit Laboria über den Kaiserstuhl, eine lange zurückliegende Hochzeitsnacht und eine alte Freundin, die unter ihrer Brücke fehlt."
 ---
 
+<style>
+/* Nur diese Bildstrecke: warmes Papier, feiner Rand, ruhige Bildunterschriften. */
+.faulmann-photo {
+  box-sizing: border-box;
+  max-width: 780px;
+  margin: 2.2rem auto;
+  padding: .65rem;
+  background: #f3eee2;
+  border: 1px solid #b7a98d;
+  box-shadow: 0 4px 0 #d3c7af, 0 12px 24px rgba(51, 43, 29, .16);
+}
+.faulmann-photo img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+.faulmann-photo--portrait { max-width: 470px; }
+.faulmann-photo__pair {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: .6rem;
+}
+.faulmann-photo figcaption {
+  padding: .65rem .3rem .18rem;
+  color: #4a493e;
+  font: italic .94rem/1.45 Georgia, "Times New Roman", serif;
+  text-align: center;
+}
+@media (max-width: 560px) {
+  .faulmann-photo { margin: 1.6rem auto; padding: .4rem; }
+  .faulmann-photo__pair { gap: .4rem; }
+  .faulmann-photo figcaption { font-size: .86rem; }
+}
+</style>
+
 Am Samstagvormittag fuhren Faulmann und Laboria durch den Seepark. Über Freiburg stand ein blauer Himmel, wie er an manchen Tagen hier einfach zur Verfügung steht. Die beiden hatten Zeit und Räder und zunächst keinen dringenderen Auftrag, als nach Westen zu fahren.
 
 Am Mundenhof schauten die Erdmännchen nach dem Rechten. Aus anderer Richtung meldeten sich die Brüllaffen. Ob sie jemanden begrüßten oder nur den Vormittag kommentierten, blieb offen.
@@ -38,6 +73,11 @@ Das Liliental war schön auf eine Weise, die wenig Aufhebens um sich machte. Sei
 
 Am Lilienhof machten sie Pause. Das alte Gut hatte einmal einem Grafen von Bismarck gehört; zu ihm zählten ein Gestüt und ein bekanntes Weingut. Heute wird auf dem Hof geheiratet.[^hof]
 
+<figure class="faulmann-photo">
+  <img src="{{ '/assets/img/posts/2026-09-26-die-dreisam-war-nicht-da/lilienhof.jpg' | relative_url }}" alt="Das helle Gasthaus am Lilienhof unter blauem Himmel." loading="lazy" decoding="async">
+  <figcaption>Am Lilienhof war der Tisch für die Pause schnell gefunden.</figcaption>
+</figure>
+
 Faulmann war schon einmal zu einer Hochzeit im Liliental gewesen. Viele Jahre zuvor, mitten im Studium. Er und seine damalige Freundin waren eingeladen gewesen. Es war eine lange Nacht geworden, und als er jetzt wieder vor dem Hof stand, fiel ihm weniger die Feier selbst ein als ein Spaziergang während dieser Nacht.
 
 Die beste Freundin seiner Freundin war dort gewesen, zusammen mit ihrem damaligen Partner. Faulmann und dieser Mann hatten sich kaum gekannt. Irgendwann waren sie zu zweit ein Stück vom Fest weggegangen, mit jener leisen Verschwörung, die manchmal schon darin besteht, dass man dieselbe Tür nach draußen nimmt.
@@ -54,7 +94,17 @@ Nach der Pause ging es bergauf zu den Mammutbäumen. Sie standen hoch und still 
 
 Die Bäume waren 1960 gepflanzt worden. Für Mammutbäume war das noch keine besonders lange Zeit. Faulmann, der den Anstieg gerade in den Beinen hatte, empfand das anders.[^liliental]
 
+<figure class="faulmann-photo faulmann-photo--portrait">
+  <img src="{{ '/assets/img/posts/2026-09-26-die-dreisam-war-nicht-da/mammutbaeume.jpg' | relative_url }}" alt="Blick von unten in die hohen Mammutbäume des Lilientals." loading="lazy" decoding="async">
+  <figcaption>Die Bäume hatten für diese Strecke deutlich weniger Anstrengung gebraucht.</figcaption>
+</figure>
+
 Sie fuhren weiter hinauf und später langsam zum Vogelsangpass hinüber. Oben hielt Laboria an und wartete, bis Faulmann neben ihr stand. Unter ihnen lagen die Rebhänge und die Ebene, die sie am Morgen durchquert hatten. Eine Weile suchten sie mit den Augen nach ihrem Weg. Dann fuhren sie los.
+
+<figure class="faulmann-photo">
+  <img src="{{ '/assets/img/posts/2026-09-26-die-dreisam-war-nicht-da/raeder-am-kaiserstuhl.jpg' | relative_url }}" alt="Zwei Fahrräder vor den Hängen und Reben des Kaiserstuhls." loading="lazy" decoding="async">
+  <figcaption>Zwei Räder, viele Wege und ein Berg, der schon lange still war.</figcaption>
+</figure>
 
 Die Abfahrt nach Bötzingen gab den Bremsen reichlich Arbeit. Unten stellten sie die Räder kurz an den Rand. Faulmann berührte vorsichtig eine Bremse und zog die Hand wieder zurück.
 
@@ -64,7 +114,17 @@ Das war freundlich ausgedrückt.
 
 Später kamen sie an die Dreisam. Faulmann hatte den Fluss dort erwartet, wo die Brücke ihn versprach. Unter ihr lag ein breites Bett aus hellen Steinen. Wasser sahen sie keines.
 
+<figure class="faulmann-photo faulmann-photo--portrait">
+  <img src="{{ '/assets/img/posts/2026-09-26-die-dreisam-war-nicht-da/trockenes-bett-hoch.jpg' | relative_url }}" alt="Das trockene Kiesbett der Dreisam bis zum Horizont." loading="lazy" decoding="async">
+  <figcaption>Die Brücke war da. Der Fluss vorerst nicht.</figcaption>
+</figure>
+
 Sie stiegen ab.
+
+<figure class="faulmann-photo">
+  <img src="{{ '/assets/img/posts/2026-09-26-die-dreisam-war-nicht-da/trockenes-bett-quer.jpg' | relative_url }}" alt="Blick knapp über die Steine im trockenen Flussbett." loading="lazy" decoding="async">
+  <figcaption>Steine, die wussten, wie sich Wasser anfühlt.</figcaption>
+</figure>
 
 Die Dreisam war für Faulmann nie irgendein Fluss gewesen. Er kannte sie von den Wegen durch Freiburg, von Brücken und Ufermauern, vom Fahren neben ihr. In Kirchzarten hatte er einst Laborias Leihrad abgeholt und war dann mit ihr an der Dreisam entlang zurückgefahren. Man musste nicht ständig hinschauen, um zu wissen, dass sie da war.
 
@@ -81,6 +141,21 @@ Nun standen Faulmann und Laboria an einem Fluss, der einmal aus mehreren Dingen 
 In trockenen Zeiten versickert die Dreisam bei March im Kies unter ihrem Bett. Weiter flussabwärts kann sie wieder an die Oberfläche treten. Faulmann wusste das inzwischen. Als Kind hätte ihn diese Auskunft vermutlich ebenso wenig beruhigt wie die über den Vulkan. Damals hatte er gemeint, ein Fluss müsse dort sein, wo sein Flussbett war.
 
 Laboria ging ein paar Schritte an der Brücke entlang. Faulmann wartete bei den Rädern. Es war seltsam, eine alte Freundin zu besuchen und zunächst nur ihren Platz vorzufinden. Man konnte sich ausrechnen, wohin sie gegangen war. Sehen konnte man sie nicht.
+
+Ein paar Minuten weiter sahen sie wieder Wasser, so ruhig, als habe die Landschaft das trockene Bett nicht eben erst gezeigt. Ein Reiher stand am Ufer. Faulmann sah eine Weile zu und versuchte nicht, die beiden Ansichten gleich miteinander zu versöhnen.
+
+<figure class="faulmann-photo">
+  <div class="faulmann-photo__pair">
+    <img src="{{ '/assets/img/posts/2026-09-26-die-dreisam-war-nicht-da/wasserlauf.jpg' | relative_url }}" alt="Ein flacher Wasserlauf zwischen Wiesen und Bäumen." loading="lazy" decoding="async">
+    <img src="{{ '/assets/img/posts/2026-09-26-die-dreisam-war-nicht-da/blick-von-der-bruecke.jpg' | relative_url }}" alt="Wasserlauf von einer Brücke aus gesehen, mit Metallteilen im Vordergrund." loading="lazy" decoding="async">
+  </div>
+  <figcaption>Wenig später war wieder Wasser im Bild. Die Landschaft erklärte sich nicht weiter.</figcaption>
+</figure>
+
+<figure class="faulmann-photo faulmann-photo--portrait">
+  <img src="{{ '/assets/img/posts/2026-09-26-die-dreisam-war-nicht-da/reiher.jpg' | relative_url }}" alt="Ein Graureiher steht an einem flachen Wasserlauf." loading="lazy" decoding="async">
+  <figcaption>Der Reiher schien mit dem Wasserstand einverstanden.</figcaption>
+</figure>
 
 Sie fuhren über Hugstetten und durch den Mooswald nach Hause. Unter den Bäumen wurde die Luft kühler. Das Gespräch kam wieder, zunächst über den Weg, dann über den Eiskaffee. Von der Dreisam sprachen sie eine Weile nicht.
 
