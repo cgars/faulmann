@@ -6,7 +6,13 @@ published: false
 categories: [faulmann, freiburg, radtour]
 tags: [kaiserstuhl, liliental, dreisam, tuniberg, laboria]
 teaser: "Eine Fahrt mit Laboria über den Kaiserstuhl, eine lange zurückliegende Hochzeitsnacht und eine alte Freundin, die unter ihrer Brücke fehlt."
+image: /assets/img/posts/2026-09-26-die-dreisam-war-nicht-da/cover.webp
 ---
+
+<figure class="faulmann-photo">
+  <img src="{{ '/assets/img/posts/2026-09-26-die-dreisam-war-nicht-da/cover.webp' | relative_url }}" alt="Laboria und Captain Faulmann als Bären mit Fahrrädern vor dem trockenen Bett der Dreisam; dahinter der Kaiserstuhl und Mammutbäume." decoding="async">
+  <figcaption>Die Brücke war da. Ihre alte Freundin ließ sich an diesem Tag erst einmal nicht blicken.</figcaption>
+</figure>
 
 Am Samstagvormittag fuhren Faulmann und Laboria durch den Seepark. Über Freiburg stand ein blauer Himmel, wie er an manchen Tagen hier einfach zur Verfügung steht. Die beiden hatten Zeit und Räder und zunächst keinen dringenderen Auftrag, als nach Westen zu fahren.
 
