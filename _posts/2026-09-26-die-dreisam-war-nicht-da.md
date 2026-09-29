@@ -8,41 +8,6 @@ tags: [kaiserstuhl, liliental, dreisam, tuniberg, laboria]
 teaser: "Eine Fahrt mit Laboria über den Kaiserstuhl, eine lange zurückliegende Hochzeitsnacht und eine alte Freundin, die unter ihrer Brücke fehlt."
 ---
 
-<style>
-/* Nur diese Bildstrecke: warmes Papier, feiner Rand, ruhige Bildunterschriften. */
-.faulmann-photo {
-  box-sizing: border-box;
-  max-width: 780px;
-  margin: 2.2rem auto;
-  padding: .65rem;
-  background: #f3eee2;
-  border: 1px solid #b7a98d;
-  box-shadow: 0 4px 0 #d3c7af, 0 12px 24px rgba(51, 43, 29, .16);
-}
-.faulmann-photo img {
-  display: block;
-  width: 100%;
-  height: auto;
-}
-.faulmann-photo--portrait { max-width: 470px; }
-.faulmann-photo__pair {
-  display: grid;
-  grid-template-columns: repeat(2, minmax(0, 1fr));
-  gap: .6rem;
-}
-.faulmann-photo figcaption {
-  padding: .65rem .3rem .18rem;
-  color: #4a493e;
-  font: italic .94rem/1.45 Georgia, "Times New Roman", serif;
-  text-align: center;
-}
-@media (max-width: 560px) {
-  .faulmann-photo { margin: 1.6rem auto; padding: .4rem; }
-  .faulmann-photo__pair { gap: .4rem; }
-  .faulmann-photo figcaption { font-size: .86rem; }
-}
-</style>
-
 Am Samstagvormittag fuhren Faulmann und Laboria durch den Seepark. Über Freiburg stand ein blauer Himmel, wie er an manchen Tagen hier einfach zur Verfügung steht. Die beiden hatten Zeit und Räder und zunächst keinen dringenderen Auftrag, als nach Westen zu fahren.
 
 Am Mundenhof schauten die Erdmännchen nach dem Rechten. Aus anderer Richtung meldeten sich die Brüllaffen. Ob sie jemanden begrüßten oder nur den Vormittag kommentierten, blieb offen.
