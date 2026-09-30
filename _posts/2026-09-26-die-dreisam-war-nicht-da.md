@@ -11,7 +11,6 @@ image: /assets/img/posts/2026-09-26-die-dreisam-war-nicht-da/cover.webp
 
 <figure class="faulmann-photo">
   <img src="{{ '/assets/img/posts/2026-09-26-die-dreisam-war-nicht-da/cover.webp' | relative_url }}" alt="Laboria und Captain Faulmann als Bären mit Fahrrädern vor dem trockenen Bett der Dreisam; dahinter der Kaiserstuhl und Mammutbäume." decoding="async">
-  <figcaption>Die Brücke war da. Ihre alte Freundin ließ sich an diesem Tag erst einmal nicht blicken.</figcaption>
 </figure>
 
 Über Freiburg stand ein blauer Himmel, wie er an manchen Tagen hier einfach zur Verfügung steht. Faulmann und Laboria fuhren durch den Seepark. Die beiden hatten Zeit und Räder und zunächst keinen dringenderen Auftrag, als nach Westen zu fahren.
@@ -34,7 +33,7 @@ Nun fuhren sie auf ihn zu. Der Kaiserstuhl stand friedlich zwischen den Reben. V
 
 Über den Hängen lag Löss. Er stammt aus einer viel späteren, kälteren Zeit. Während der Eiszeiten führten Rhein und andere Flüsse große Mengen Gestein mit sich. In den trockenen Kaltzeiten lagen ihre Schotterflächen offen; der Wind nahm den feinen Staub auf und trug ihn an die Hügel. Dort blieb er liegen, Schicht um Schicht. So bekam der alte Vulkan einen Boden, auf dem später Reben wachsen konnten.[^loess]
 
-Faulmann sah auf die Wege durch die Hänge, auf breite Terrassen und Reihen von Rebstöcken. Schmale Rebterrassen hatte es am Kaiserstuhl schon früher gegeben. Bei der Flurbereinigung in den 1960er und 1970er Jahren legte man Parzellen zusammen und formte vielerorts große Stufen in den Löss, damit die Rebhänge leichter zu bewirtschaften waren. Der Wind hatte den Staub gebracht. Die Menschen hatten anschließend sehr ordentlich damit weitergemacht.[^terrassen]
+Faulmann sah auf die Wege durch die Hänge, auf breite Terrassen und Reihen von Rebstöcken. Schmale Rebterrassen hatte es hier schon früher gegeben; viele der breiten Stufen entstanden erst bei der Flurbereinigung in den sechziger und siebziger Jahren. Man legte Parzellen zusammen und formte den Löss so, dass sich die Hänge leichter bewirtschaften ließen. Der Wind hatte den Staub gebracht. Die Menschen hatten anschließend sehr ordentlich damit weitergemacht.[^terrassen]
 
 Auch der Name des Berges kam von ihnen. Der Überlieferung nach hielt König Otto III. im Jahr 994 bei Sasbach Gericht. Er wurde erst später Kaiser. Dass ein Berg seinen Titel rückwirkend bekommen konnte, gefiel Faulmann. Er hätte als Kind allerdings gern gewusst, ob der König über den Vulkan Bescheid wusste – und was er dagegen zu tun gedachte.[^name]
 
@@ -53,9 +52,11 @@ Faulmann war schon einmal zu einer Hochzeit im Liliental gewesen. Viele Jahre zu
 
 Die beste Freundin seiner Freundin war auch dort gewesen, zusammen mit ihrem damaligen Partner. Faulmann und dieser Mann hatten sich kaum gekannt. Irgendwann waren sie zu zweit ein Stück vom Fest weggegangen, mit jener leisen Verschwörung, die manchmal schon darin besteht, dass man dieselbe Tür nach draußen nimmt.
 
-Worüber sie gesprochen hatten, wusste Faulmann nicht mehr genau. An den Weg erinnerte er sich, an die Nacht und daran, wie merkwürdig vertraut ihm der andere nach kurzer Zeit gewesen war. Vielleicht hatten sie beide gerade eine Pause gebraucht. Vielleicht fiel es ihnen leicht, miteinander zu reden, weil sie einander nichts erklären mussten, was schon Jahre zurücklag. Vielleicht glaubten sie damals auch, über ihre Partnerinnen nun auf Gedeih und Verderb miteinander auskommen zu müssen.
+Worüber sie gesprochen hatten, wusste Faulmann nicht mehr genau. An den Weg erinnerte er sich, an die Nacht und daran, wie merkwürdig vertraut ihm der andere nach kurzer Zeit gewesen war.
 
-Wie auch immer. Das Studium ging zu Ende. Menschen verliefen sich. Sie sahen sich danach nie wieder.
+Vielleicht hatten sie beide gerade eine Pause gebraucht. Vielleicht fiel es ihnen leicht, miteinander zu reden, weil sie einander nichts erklären mussten, was schon Jahre zurücklag. Vielleicht glaubten sie damals auch, über ihre Partnerinnen nun auf Gedeih und Verderb miteinander auskommen zu müssen.
+
+Wie auch immer: Das Studium ging zu Ende, Menschen verliefen sich. Die beiden sahen sich nie wieder.
 
 Faulmann erzählte Laboria davon, während sie auf den Eiskaffee warteten. Sie hörte zu und fragte nicht, was aus dem Mann oder den anderen geworden war. Das wusste Faulmann ohnehin nicht.
 
@@ -97,9 +98,11 @@ Sie stiegen ab.
   <figcaption>Steine, die wussten, wie sich Wasser anfühlt, aber vergessen hatten, wo es geblieben war.</figcaption>
 </figure>
 
-Die Dreisam war für Faulmann nie irgendein Fluss gewesen. Sie war eher eine alte Freundin. Er kannte sie von den Wegen durch Freiburg, von Brücken und Ufermauern, vom Fahren neben ihr. Man musste nicht ständig hinschauen, um zu wissen, dass sie da war.
+Die Dreisam war für Faulmann nie irgendein Fluss gewesen. Er kannte sie von den Wegen durch Freiburg, von Brücken und Ufermauern, vom Fahren neben ihr. Man musste nicht ständig hinschauen, um zu wissen, dass sie da war.
 
-Er erinnerte sich auch daran, wie die Stadt ihren Fluss lange behandelt hatte. Die Dreisam brachte Wasser aus dem Schwarzwald, manchmal viel zu schnell und viel zu viel. Sie trieb Arbeit an und versorgte Freiburg über Kanäle. Weiter draußen in der Ebene hatte sie früher Arme und Kiesbänke, deren Lage nicht für immer feststand. Im 19. Jahrhundert begradigte man sie und gab ihr Dämme. Für die Menschen an ihren Ufern wurde manches dadurch verlässlicher. Der Fluss bekam weniger Möglichkeiten, anderswo entlangzugehen.[^dreisam]
+Er erinnerte sich auch daran, wie die Stadt ihren Fluss lange behandelt hatte. Die Dreisam brachte Wasser aus dem Schwarzwald, manchmal viel zu schnell und viel zu viel. Sie trieb Arbeit an und versorgte Freiburg über Kanäle. Weiter draußen in der Ebene hatte sie früher Arme und Kiesbänke, deren Lage nicht für immer feststand.
+
+Im 19. Jahrhundert begradigte man sie und gab ihr Dämme. Für die Menschen an ihren Ufern wurde manches dadurch verlässlicher. Der Fluss bekam weniger Möglichkeiten, anderswo entlangzugehen.[^dreisam]
 
 In den letzten zwanzig Jahren hatte Faulmann an ihr noch eine andere Veränderung beobachtet. Die Freiburger kamen nicht mehr nur über die Dreisam oder an ihr entlang. Sie kamen *zu ihr*. Sie saßen auf den Wiesen, stellten Fahrräder ab, hielten Füße ins Wasser, brachten Decken und Essen mit. Manche blieben einen ganzen Nachmittag. Die Stadt hatte an ihrem Fluss einen Platz gefunden, an dem niemand etwas bestellen musste, um bleiben zu dürfen.
 
@@ -111,11 +114,11 @@ Nun standen Faulmann und Laboria an einem Fluss, der einmal aus mehreren Dingen 
 
 In trockenen Zeiten versickert die Dreisam manchmal bei March im Kies unter ihrem Bett. Weiter flussabwärts kann sie wieder an die Oberfläche treten. Faulmann wusste das inzwischen. Als Kind hätte ihn diese Auskunft vermutlich ebenso wenig beruhigt wie die über den Vulkan. Damals hatte er gemeint, ein Fluss müsse dort sein, wo sein Flussbett war.
 
-An anderen Flüssen gibt es Hungersteine, die erst bei großer Trockenheit sichtbar werden. Auf einem in der Elbe steht: „Wenn du mich siehst, dann weine.“[^hungersteine] Faulmann sah in das helle Bett der Dreisam. Sie hatte keine Inschrift gebraucht.
+Faulmann dachte an Hungersteine, die in anderen Flüssen erst bei großer Trockenheit sichtbar werden. Auf einem in der Elbe stand: „Wenn du mich siehst, dann weine.“[^hungersteine] Er sah in das helle Bett der Dreisam. Sie hatte keine Inschrift gebraucht.
 
 Laboria ging ein paar Schritte an der Brücke entlang. Faulmann wartete bei den Rädern. Es war seltsam, eine alte Freundin zu besuchen und zunächst nur ihren Platz vorzufinden. Man konnte sich ausrechnen, wohin sie gegangen war. Sehen konnte man sie nicht.
 
-Ein paar Minuten weiter sahen sie langsam wieder Wasser, so ruhig, als habe die Landschaft das trockene Bett nicht eben erst gezeigt. Ein Reiher stand am Ufer. Faulmann sah eine Weile zu und versuchte nicht, die beiden Ansichten gleich miteinander zu versöhnen.
+Ein paar Minuten weiter war wieder Wasser zu sehen, so ruhig, als habe die Landschaft das trockene Bett nicht eben erst gezeigt. Ein Reiher stand am Ufer. Faulmann sah eine Weile zu und versuchte nicht, die beiden Ansichten gleich miteinander zu versöhnen.
 
 <figure class="faulmann-photo">
   <div class="faulmann-photo__pair">
