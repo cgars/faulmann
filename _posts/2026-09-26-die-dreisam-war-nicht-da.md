@@ -2,7 +2,7 @@
 layout: post
 title: "Die Dreisam war nicht da"
 date: 2026-09-26
-published: false
+published: true
 categories: [faulmann, freiburg, radtour]
 tags: [kaiserstuhl, liliental, dreisam, tuniberg, laboria]
 teaser: "Eine Fahrt mit Laboria über den Kaiserstuhl, eine lange zurückliegende Hochzeitsnacht und eine alte Freundin, die unter ihrer Brücke fehlt."
