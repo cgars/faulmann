@@ -14,23 +14,29 @@ image: /assets/img/posts/2026-09-26-die-dreisam-war-nicht-da/cover.webp
   <figcaption>Die Brücke war da. Ihre alte Freundin ließ sich an diesem Tag erst einmal nicht blicken.</figcaption>
 </figure>
 
-Über Freiburg stand ein blauer Himmel, wie er an manchen Tagen hier einfach zur Verfügung steht.  Faulmann und Laboria fuhren durch den Seepark. Die beiden hatten Zeit und Räder und zunächst keinen dringenderen Auftrag, als nach Westen zu fahren. Am Mundenhof schauten die Erdmännchen nach dem Rechten. Aus anderer Richtung meldeten sich die Brüllaffen. Ob sie jemanden begrüßten oder nur den Vormittag kommentierten, blieb offen.
+Über Freiburg stand ein blauer Himmel, wie er an manchen Tagen hier einfach zur Verfügung steht. Faulmann und Laboria fuhren durch den Seepark. Die beiden hatten Zeit und Räder und zunächst keinen dringenderen Auftrag, als nach Westen zu fahren.
+
+Am Mundenhof schauten die Erdmännchen nach dem Rechten. Aus anderer Richtung meldeten sich die Brüllaffen. Ob sie jemanden begrüßten oder nur den Vormittag kommentierten, blieb offen.
 
 [Beim letzten Mal]({% post_url 2026-05-25-freiburg %}) war Faulmann hier allein vorbeigefahren. Heute stand seine Schwester neben ihm. Sie hörten den Affen zu, bis sich beide wieder an ihre Räder erinnerten.
 
-Hinter dem Mundenhof wurde es weit. Felder, kleine Orte, dann der Tuniberg mit seinen Reben. Laboria fuhr voraus, später Faulmann. Sie redeten über Verschiedenes und gelegentlich über gar nichts. Geschwister müssen eine Pause im Gespräch nicht erst vereinbaren. Drüben erhob sich der Kaiserstuhl. Faulmann hatte ihn schon als Kind vom Rand Freiburgs aus gesehen. Damals hatte ihm jemand gesagt, dass es ein Vulkan sei. Das war eine Information gewesen, mit der die Erwachsenen erstaunlich gelassen umgingen. Sie fuhren weiter zum Einkaufen, mähten Rasen, stellten Gartenstühle auf. Faulmann dagegen wollte wissen, wann er wieder ausbrechen würde. Auf diese Frage bekam er Antworten wie "schon sehr lange nicht mehr". Als Kind fand er, dass darin das Wort *wieder* verdächtig wenig Beachtung fand.
+Hinter dem Mundenhof wurde es weit. Felder, kleine Orte, dann der Tuniberg mit seinen Reben. Laboria fuhr voraus, später Faulmann. Sie redeten über Verschiedenes und gelegentlich über gar nichts. Geschwister müssen eine Pause im Gespräch nicht erst vereinbaren.
+
+Drüben erhob sich der Kaiserstuhl. Faulmann hatte ihn schon als Kind vom Rand Freiburgs aus gesehen. Damals hatte ihm jemand gesagt, dass es ein Vulkan sei.
+
+Das war eine Information gewesen, mit der die Erwachsenen erstaunlich gelassen umgingen. Sie fuhren weiter zum Einkaufen, mähten Rasen, stellten Gartenstühle auf. Faulmann dagegen wollte wissen, wann er wieder ausbrechen würde. Auf diese Frage bekam er Antworten wie "schon sehr lange nicht mehr". Als Kind fand er, dass darin das Wort *wieder* verdächtig wenig Beachtung fand.
 
 Nun fuhren sie auf ihn zu. Der Kaiserstuhl stand friedlich zwischen den Reben. Vor etwa 18 bis 15 Millionen Jahren war hier vulkanisches Gestein an die Oberfläche gekommen. Von den damaligen Bergen blieb nach langer Abtragung der Kaiserstuhl, den Faulmann kannte. Der Vulkan hatte sich Zeit gelassen, unbedrohlich zu werden.[^vulkan]
 
-"Er hat sich wohl im alter beruhigt", sagte Laboria, als Faulmann ihr von seiner kindlichen Sorge erzählte.
+"Er hat sich wohl im Alter beruhigt", sagte Laboria, als Faulmann ihr von seiner kindlichen Sorge erzählte.
 
 "Das haben sie damals auch gesagt."
 
 Über den Hängen lag Löss. Er stammt aus einer viel späteren, kälteren Zeit. Während der Eiszeiten führten Rhein und andere Flüsse große Mengen Gestein mit sich. In den trockenen Kaltzeiten lagen ihre Schotterflächen offen; der Wind nahm den feinen Staub auf und trug ihn an die Hügel. Dort blieb er liegen, Schicht um Schicht. So bekam der alte Vulkan einen Boden, auf dem später Reben wachsen konnten.[^loess]
 
-Faulmann sah auf die Wege durch die Hänge, auf Terrassen (können wir nioch was zhur terrasierung herausfinden, glaube die ist neueren datums und hängt eng mit der flujrbereinigung zusammen) und Reihen von Rebstöcken. Der Wind hatte den Staub gebracht. Die Menschen hatten anschließend sehr ordentlich damit weitergemacht.
+Faulmann sah auf die Wege durch die Hänge, auf breite Terrassen und Reihen von Rebstöcken. Schmale Rebterrassen hatte es am Kaiserstuhl schon früher gegeben. Bei der Flurbereinigung in den 1960er und 1970er Jahren legte man Parzellen zusammen und formte vielerorts große Stufen in den Löss, damit die Rebhänge leichter zu bewirtschaften waren. Der Wind hatte den Staub gebracht. Die Menschen hatten anschließend sehr ordentlich damit weitergemacht.[^terrassen]
 
-Auch der Name des Berges kam von ihnen. Der Überlieferung nach hielt König Otto III. im Jahr 994 bei Sasbach Gericht. Er wurde erst später Kaiser. Dass ein Berg seinen Titel rückwirkend bekommen konnte, gefiel Faulmann. Er hätte als Kind allerdings gern gewusst, ob der König über den Vulkan Bescheid wusste und was er zu tun gedenke.[^name]
+Auch der Name des Berges kam von ihnen. Der Überlieferung nach hielt König Otto III. im Jahr 994 bei Sasbach Gericht. Er wurde erst später Kaiser. Dass ein Berg seinen Titel rückwirkend bekommen konnte, gefiel Faulmann. Er hätte als Kind allerdings gern gewusst, ob der König über den Vulkan Bescheid wusste – und was er dagegen zu tun gedachte.[^name]
 
 Zwischen Wasenweiler und Ihringen bogen sie ins Liliental ab. Nach den offenen Rebhängen schien es sich um sie zu schließen, ohne eng zu werden. Wiesen lagen zwischen bewaldeten Hängen, Wege verschwanden hinter Bäumen und kamen ein Stück weiter wieder zum Vorschein. Faulmann dachte an ein Tal, in dem Hobbits wohnen könnten. Die wären vermutlich schon unterwegs zum Mittagessen gewesen.
 
@@ -43,17 +49,19 @@ Am Lilienhof machten sie Pause. Das alte Gut hatte einmal einem Grafen von Bisma
   <figcaption>Am Lilienhof war der Tisch für die Pause schnell gefunden.</figcaption>
 </figure>
 
-Faulmann war schon einmal zu einer Hochzeit im Liliental gewesen. Viele Jahre zuvor, mitten im Studium. Seine damalige Freundin und Er waren eingeladen gewesen. Es war eine lange Nacht geworden, und als er jetzt wieder vor dem Hof stand, fiel ihm weniger die Feier selbst ein als ein Spaziergang während dieser Nacht.
+Faulmann war schon einmal zu einer Hochzeit im Liliental gewesen. Viele Jahre zuvor, mitten im Studium. Er und seine damalige Freundin waren eingeladen gewesen. Es war eine lange Nacht geworden, und als er jetzt wieder vor dem Hof stand, fiel ihm weniger die Feier selbst ein als ein Spaziergang während dieser Nacht.
 
-Die beste Freundin seiner Freundin war auch dort gewesen, zusammen mit ihrem damaligen Partner. Faulmann und dieser Mann hatten sich kaum gekannt. Irgendwann waren sie zu zweit ein Stück vom Fest weggegangen, mit jener leisen Verschwörung, die manchmal schon darin besteht, dass man dieselbe Tür nach draußen nimmt. Worüber sie gesprochen hatten, wusste Faulmann nicht mehr genau. An den Weg erinnerte er sich, an die Nacht und daran, wie merkwürdig vertraut ihm der andere nach kurzer Zeit gewesen war. Vielleicht hatten sie beide gerade eine Pause gebraucht. Vielleicht fiel es ihnen leicht, miteinander zu reden, weil sie einander nichts erklären mussten, was schon Jahre zurücklag. Vielleicht war es der naive glauibe nun eh via der jeweiligen PArtnerin auf verdeih und verderb miteinander uaskommen zu müssen. 
+Die beste Freundin seiner Freundin war auch dort gewesen, zusammen mit ihrem damaligen Partner. Faulmann und dieser Mann hatten sich kaum gekannt. Irgendwann waren sie zu zweit ein Stück vom Fest weggegangen, mit jener leisen Verschwörung, die manchmal schon darin besteht, dass man dieselbe Tür nach draußen nimmt.
 
-Wie auch immer. Sie sahen sich danach nie wieder. Das Studikum ging zu ende.Menschen verliefen sich... 
+Worüber sie gesprochen hatten, wusste Faulmann nicht mehr genau. An den Weg erinnerte er sich, an die Nacht und daran, wie merkwürdig vertraut ihm der andere nach kurzer Zeit gewesen war. Vielleicht hatten sie beide gerade eine Pause gebraucht. Vielleicht fiel es ihnen leicht, miteinander zu reden, weil sie einander nichts erklären mussten, was schon Jahre zurücklag. Vielleicht glaubten sie damals auch, über ihre Partnerinnen nun auf Gedeih und Verderb miteinander auskommen zu müssen.
 
-Faulmann erzählte Laboria davon, während sie auf den Eiskaffee warteten. Sie hörte zu und fragte nicht, was aus dem Mann oder den anderen  geworden war. Das wusste Faulmann ohnehin nicht.
+Wie auch immer. Das Studium ging zu Ende. Menschen verliefen sich. Sie sahen sich danach nie wieder.
+
+Faulmann erzählte Laboria davon, während sie auf den Eiskaffee warteten. Sie hörte zu und fragte nicht, was aus dem Mann oder den anderen geworden war. Das wusste Faulmann ohnehin nicht.
 
 Dann kamen Eiskaffee und Landjäger mit Senf. Faulmann war nicht sicher, ob das zusammengehörte. Nachdem beides vor ihm stand, schien die Frage erledigt.
 
-Nach der Pause ging es wekiter bergauf zu den Mammutbäumen. Sie standen hoch und still zwischen den anderen Bäumen, mit rötlichen Stämmen, die man erst aus der Nähe richtig sah. Laboria legte den Kopf in den Nacken. Faulmann tat es ihr nach.
+Nach der Pause ging es weiter bergauf zu den Mammutbäumen. Sie standen hoch und still zwischen den anderen Bäumen, mit rötlichen Stämmen, die man erst aus der Nähe richtig sah. Laboria legte den Kopf in den Nacken. Faulmann tat es ihr nach.
 
 Die Bäume waren 1960 gepflanzt worden. Für Mammutbäume war das noch keine besonders lange Zeit. Faulmann, der den Anstieg gerade in den Beinen hatte, empfand das anders.[^liliental]
 
@@ -86,10 +94,10 @@ Sie stiegen ab.
 
 <figure class="faulmann-photo">
   <img src="{{ '/assets/img/posts/2026-09-26-die-dreisam-war-nicht-da/trockenes-bett-quer.jpg' | relative_url }}" alt="Blick knapp über die Steine im trockenen Flussbett." loading="lazy" decoding="async">
-  <figcaption>Steine, die wussten, wie sich Wasser anfühlt aber es irgedn wie verloren hatten.</figcaption>
+  <figcaption>Steine, die wussten, wie sich Wasser anfühlt, aber vergessen hatten, wo es geblieben war.</figcaption>
 </figure>
 
-Die Dreisam war für Faulmann nie irgendein Fluss gewesen.Sie war mehr wie eine alte Freundinn. Er kannte sie von den Wegen durch Freiburg, von Brücken und Ufermauern, vom Fahren neben ihr. Man musste nicht ständig hinschauen, um zu wissen, dass sie da war.
+Die Dreisam war für Faulmann nie irgendein Fluss gewesen. Sie war eher eine alte Freundin. Er kannte sie von den Wegen durch Freiburg, von Brücken und Ufermauern, vom Fahren neben ihr. Man musste nicht ständig hinschauen, um zu wissen, dass sie da war.
 
 Er erinnerte sich auch daran, wie die Stadt ihren Fluss lange behandelt hatte. Die Dreisam brachte Wasser aus dem Schwarzwald, manchmal viel zu schnell und viel zu viel. Sie trieb Arbeit an und versorgte Freiburg über Kanäle. Weiter draußen in der Ebene hatte sie früher Arme und Kiesbänke, deren Lage nicht für immer feststand. Im 19. Jahrhundert begradigte man sie und gab ihr Dämme. Für die Menschen an ihren Ufern wurde manches dadurch verlässlicher. Der Fluss bekam weniger Möglichkeiten, anderswo entlangzugehen.[^dreisam]
 
@@ -99,7 +107,13 @@ Faulmann mochte das. Er mochte es weniger, wenn nach einem solchen Nachmittag Fl
 
 Nun standen Faulmann und Laboria an einem Fluss, der einmal aus mehreren Dingen bestanden hatte: Wasser für die Stadt, Gefahr für die Felder, Weg nach Hause, Platz zum Sitzen. Heute war hier vor allem sein Bett zu sehen.
 
-"Wo ist sie denn?", fragte Laboria. In trockenen Zeiten versickert die Dreisam manchmal bei March im Kies unter ihrem Bett. Weiter flussabwärts kann sie wieder an die Oberfläche treten. Faulmann wusste das inzwischen. Als Kind hätte ihn diese Auskunft vermutlich ebenso wenig beruhigt wie die über den Vulkan. Damals hatte er gemeint, ein Fluss müsse dort sein, wo sein Flussbett war (es gibt doch so gedenksteine die man früher hinterlies und die wenn sie hzu sehen sind warnen - kannst du das recherchieren) . Laboria ging ein paar Schritte an der Brücke entlang. Faulmann wartete bei den Rädern. Es war seltsam, eine alte Freundin zu besuchen und zunächst nur ihren Platz vorzufinden. Man konnte sich ausrechnen, wohin sie gegangen war. Sehen konnte man sie nicht.
+"Wo ist sie denn?", fragte Laboria.
+
+In trockenen Zeiten versickert die Dreisam manchmal bei March im Kies unter ihrem Bett. Weiter flussabwärts kann sie wieder an die Oberfläche treten. Faulmann wusste das inzwischen. Als Kind hätte ihn diese Auskunft vermutlich ebenso wenig beruhigt wie die über den Vulkan. Damals hatte er gemeint, ein Fluss müsse dort sein, wo sein Flussbett war.
+
+An anderen Flüssen gibt es Hungersteine, die erst bei großer Trockenheit sichtbar werden. Auf einem in der Elbe steht: „Wenn du mich siehst, dann weine.“[^hungersteine] Faulmann sah in das helle Bett der Dreisam. Sie hatte keine Inschrift gebraucht.
+
+Laboria ging ein paar Schritte an der Brücke entlang. Faulmann wartete bei den Rädern. Es war seltsam, eine alte Freundin zu besuchen und zunächst nur ihren Platz vorzufinden. Man konnte sich ausrechnen, wohin sie gegangen war. Sehen konnte man sie nicht.
 
 Ein paar Minuten weiter sahen sie langsam wieder Wasser, so ruhig, als habe die Landschaft das trockene Bett nicht eben erst gezeigt. Ein Reiher stand am Ufer. Faulmann sah eine Weile zu und versuchte nicht, die beiden Ansichten gleich miteinander zu versöhnen.
 
@@ -113,7 +127,7 @@ Ein paar Minuten weiter sahen sie langsam wieder Wasser, so ruhig, als habe die 
 
 <figure class="faulmann-photo faulmann-photo--portrait">
   <img src="{{ '/assets/img/posts/2026-09-26-die-dreisam-war-nicht-da/reiher.jpg' | relative_url }}" alt="Ein Graureiher steht an einem flachen Wasserlauf." loading="lazy" decoding="async">
-  <figcaption>Der Reiher schien mit dem Wasserstand einverstanden. Ob die geflüchteten Fische mit dem Reiher einverstanden waren ist nihct bekannt</figcaption>
+  <figcaption>Der Reiher schien mit dem Wasserstand einverstanden. Ob die Fische mit dem Reiher einverstanden waren, blieb offen.</figcaption>
 </figure>
 
 Sie fuhren über Hugstetten und durch den Mooswald nach Hause. Unter den Bäumen wurde die Luft kühler. Das Gespräch kam wieder, zunächst über den Weg, dann über den Eiskaffee. Von der Dreisam sprachen sie eine Weile nicht.
@@ -121,6 +135,8 @@ Sie fuhren über Hugstetten und durch den Mooswald nach Hause. Unter den Bäumen
 Zu Hause stellte Faulmann sein Rad ab. An den Reifen saß heller Staub vom Kaiserstuhl. Morgen würde er ihn vielleicht abwischen.
 
 [^vulkan]: Der Kaiserstuhl entstand durch Vulkanismus vor ungefähr 18 bis 15 Millionen Jahren. [LGRB: Vulkanite am Kaiserstuhl](https://lgrbwissen.lgrb-bw.de/geotourismus/aufschluesse/oberrhein-hochrheingebiet/vulkanite-am-kaiserstuhl).
+
+[^terrassen]: Die schmalen Rebterrassen wurden bei der Flurbereinigung vielerorts zu größeren Terrassen zusammengelegt. Das [Staatsweingut Freiburg](https://staatsweingut-freiburg.de/weingut/hintergrund/professor-blankenhorn-weinlehrpfad/loessterrassen/) beschreibt die Umgestaltung von 1962 bis 1972; [LEO-BW](https://www.leo-bw.de/en/web/guest/detail-gis/-/Detail/details/DOKUMENT/blm_museumsobjekte/477D2B4FF5014ECB929D7533744DE807/Fotografie%2BFlurbereinigung%2Bam%2BKaiserstuhl) dokumentiert frühere schmale und spätere große Rebterrassen.
 
 [^loess]: Der Löss am Oberrhein wurde in trockenen Kaltzeiten vor allem von den Schotterflächen der Flüsse ausgeweht. Er besteht überwiegend aus sehr feinem Schluff. [LGRB: Südliches Oberrheinisches Tiefland](https://lgrbwissen.lgrb-bw.de/bodenkunde/suedliches-oberrheinisches-tiefland-hochrheingebiet-klettgau).
 
@@ -131,3 +147,5 @@ Zu Hause stellte Faulmann sein Rad ab. An den Reifen saß heller Staub vom Kaise
 [^hof]: Die [FVA zur Geschichte des Lilientals](https://www.fva-bw.de/liliental/geschichtliche-stippvisite) nennt das frühere Weingut und Gestüt. Der [Hofgut Lilienhof](https://hofgut-lilienhof.de/hochzeiten/) beschreibt seine heutige Nutzung für Hochzeiten.
 
 [^dreisam]: Zur historischen Begradigung und zur jüngeren Umgestaltung siehe die [Stadt Freiburg](https://www.freiburg.de/pb/,Lde/484034.html). Bei March kann die Dreisam in trockenen Zeiten im durchlässigen Untergrund versickern und weiter flussabwärts wieder an die Oberfläche treten.
+
+[^hungersteine]: Niedrigwassermarken auf Steinen, die nur bei extremer Trockenheit sichtbar werden, heißen Hungersteine. Die Inschrift stammt von einem Stein in der Elbe bei Děčín, nicht von der Dreisam. [Euro-Climhist, Universität Bern: Wassermarken](https://www.euroclimhist.unibe.ch/historische_klimatologie/daten/wassermarken/index_ger.html).
