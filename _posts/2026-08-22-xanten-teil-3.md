@@ -154,17 +154,23 @@ Sie sahen einander kurz an. Mummrich deutete in die Querstraße.
 
 Der Weg führte vom Amphitheater fort. Zwischen den Häusern wurde das Rufen der Zuschauer leiser. Die Spuren kreuzten zwei weitere Straßen und verliefen dann auf die Großen Thermen zu. Über den Dächern erschien der obere Rand ihrer Umfassungsmauer.
 
-Mummrich folgte den beiden Spuren.
+Auf dem breiten Platz vor der Anlage hielten die Wagen sich nicht zum Haupteingang. Ihre Spuren führten an der langen Front der Thermen vorbei und verschwanden hinter dem Gebäudekomplex.
+
+Mummrich folgte ihnen.
 
 Diesmal fragte niemand nach der Richtung.
 
 ## Die Wasserleitung
 
-Kurz vor den Thermen bogen die Spuren in eine schmale Gasse ein, die an der äußeren Mauer der Anlage entlangführte. Der Boden war nicht gepflastert. In regelmäßigen Abständen lagen breite Steinplatten darin, Staub hatte sich in ihren Fugen gesammelt.
+Hinter den Thermen bogen die Spuren in eine schmale Gasse ein, die an der äußeren Mauer der Anlage entlangführte. Der Boden war nicht gepflastert. In regelmäßigen Abständen lagen breite Steinplatten darin, Staub hatte sich in ihren Fugen gesammelt.
 
-Liora sah die Gasse hinunter. "Und wo ist die Wasserleitung?"
+Liora betrachtete die Reihe der Platten. "Ich dachte, das Wasser kommt von der anderen Seite in die Thermen."
 
-Marcellus deutete mit dem Griffel auf die nächste Platte. "Darunter. Die Leitung führt zum (der wasserverlaug macht nach wie vor kenen sinn, das wasser kommt von auserhalb der stadt zu den grossen thermen und dann via verteiler in die lokalen leitungen. ohne an den thermen vorbeizukommen können sie also nihct der leitung gefolgt sein und plötzlich vor der themre sein) Speicher der Großen Thermen und von dort weiter zu den Verteilern der Stadt."
+"In den Speicher, ja", sagte Marcellus. Er deutete mit dem Griffel auf die nächste Platte. "Hier sind wir bereits hinter dem Verteiler. Diese Leitung führt wieder in die Stadt."
+
+"Auch zu den kleinen Thermen?"
+
+"Auch dorthin."
 
 Die beiden Karrenspuren verliefen neben den Platten.
 
@@ -182,11 +188,11 @@ Eine breite Deckplatte war aus dem Boden gehoben und an die Thermenmauer gelehnt
 
 Crispus sah hinein. Unter ihnen lief Wasser durch eine schmale Rinne. Es war im Schatten fast schwarz, bewegte sich aber schnell genug, dass kleine Lichtpunkte an der Mauer entlangwanderten.
 
-"Dann kommt das Wasser bis hierher", sagte Dachsbert.
+"Dann ist das Wasser durch den Speicher und den Verteiler gekommen", sagte Dachsbert.
 
-"Ein Teil davon", sagte Mummrich.
+"Bis hierher", sagte Mummrich.
 
-Er kniete neben der Öffnung und legte zwei Finger an den feuchten Rand. Der Kanal führte unter einer Reihe weiterer Steinplatten auf den Speicher zu. Auf der ersten lag trockener Staub. Neben der zweiten war der Boden dunkel. Bei der dritten stand Wasser im Radabdruck.
+Er kniete neben der Öffnung und legte zwei Finger an den feuchten Rand. Der Kanal führte unter einer Reihe weiterer Steinplatten von den Thermen fort. Auf der ersten lag trockener Staub. Neben der zweiten war der Boden dunkel. Bei der dritten stand Wasser im Radabdruck.
 
 Crispus folgte seinem Blick. "Weiter vorn tritt es aus."
 
@@ -194,7 +200,7 @@ Crispus folgte seinem Blick. "Weiter vorn tritt es aus."
 
 Für einen Augenblick hörte man nur das Rauschen unter der Platte.
 
-Marcellus betrachtete die kurze Strecke bis zur Ecke der Thermenmauer. "Dann liegt der Schaden zwischen dieser Öffnung und dem Speicher."
+Marcellus betrachtete die kurze Strecke bis zur Ecke der Thermenmauer. "Dann liegt der Schaden nur wenige Schritte hinter dem Verteiler."
 
 Crispus sah auf das Wasser im Radabdruck. "Deshalb blieb in den kleinen Thermen nur das Rinnsal."
 
