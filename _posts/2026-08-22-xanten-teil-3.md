@@ -164,7 +164,7 @@ Kurz vor den Thermen bogen die Spuren in eine schmale Gasse ein, die an der äu�
 
 Liora sah die Gasse hinunter. "Und wo ist die Wasserleitung?"
 
-Marcellus deutete mit dem Griffel auf die nächste Platte. "Darunter. Das ist der letzte Abschnitt vor dem Wasserspeicher."
+Marcellus deutete mit dem Griffel auf die nächste Platte. "Darunter. Die Leitung führt zum Speicher der Großen Thermen und von dort weiter zu den Verteilern der Stadt."
 
 Die beiden Karrenspuren verliefen neben den Platten.
 
@@ -182,9 +182,9 @@ Eine breite Deckplatte war aus dem Boden gehoben und an die Thermenmauer gelehnt
 
 Crispus sah hinein. Unter ihnen lief Wasser durch eine schmale Rinne. Es war im Schatten fast schwarz, bewegte sich aber schnell genug, dass kleine Lichtpunkte an der Mauer entlangwanderten.
 
-"Die Leitung ist also heil", sagte Dachsbert.
+"Dann kommt das Wasser bis hierher", sagte Dachsbert.
 
-"Bis hierher", sagte Mummrich.
+"Ein Teil davon", sagte Mummrich.
 
 Er kniete neben der Öffnung und legte zwei Finger an den feuchten Rand. Der Kanal führte unter einer Reihe weiterer Steinplatten auf den Speicher zu. Auf der ersten lag trockener Staub. Neben der zweiten war der Boden dunkel. Bei der dritten stand Wasser im Radabdruck.
 
@@ -196,7 +196,9 @@ Für einen Augenblick hörte man nur das Rauschen unter der Platte.
 
 Marcellus betrachtete die kurze Strecke bis zur Ecke der Thermenmauer. "Dann liegt der Schaden zwischen dieser Öffnung und dem Speicher."
 
-"Das hätte Secundus gewusst", sagte Crispus.
+Crispus sah auf das Wasser im Radabdruck. "Deshalb blieb in den kleinen Thermen nur das Rinnsal."
+
+"Secundus hatte den Abschnitt bereits eingegrenzt", sagte Mummrich.
 
 Mummrich stand auf und ging weiter. Hinter der offenen Leitung wurden die Spuren deutlicher. Zwischen den Rillen der Wagen lagen die Abdrücke mehrerer Männer. An einer Stelle hatten sie alle geschoben; der Lehm war hinter ihren Sohlen aufgeworfen.
 
