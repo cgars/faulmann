@@ -178,7 +178,7 @@ Einige Schritte weiter blieb Crispus stehen und zeigte auf dasselbe Muster.
 
 Mummrich nickte. "Und noch immer schwerer."
 
-Eine breite Deckplatte war aus dem Boden gehoben und an die Thermenmauer gelehnt worden. Die Männer um Secundus hatten die Leitung hier bereits geöffnet.
+Eine breite Deckplatte war aus dem Boden gehoben und an die Thermenmauer gelehnt worden. Jemand hatte die Leitung hier bereits geöffnet.
 
 Crispus sah hinein. Unter ihnen lief Wasser durch eine schmale Rinne. Es war im Schatten fast schwarz, bewegte sich aber schnell genug, dass kleine Lichtpunkte an der Mauer entlangwanderten.
 
