@@ -280,9 +280,23 @@ Liora hielt einen Badediener zurück. "Lampen, Tücher und Wasser zum Trinken. D
 
 Die Nachricht von den verschütteten Arbeitern brauchte weniger Zeit als die ersten Anweisungen. Noch bevor die Legionäre vom Hafen eintrafen, standen am großen Tor Körbe mit Brot und Obst, Krüge mit Wasser und zusammengerollte Tücher bereit.
 
-Die Händlerin aus der Portikus kam mit zwei Laufburschen in den Hof. Sie stellte einen Korb an die Mauer, sah zum geöffneten Zugang und begann, die mitgebrachten Dinge nach Verwendungszweck zu ordnen.
+Die Händlerin aus der Portikus kam mit zwei Laufburschen in den Hof. Sie stellte ihren Korb an die Mauer, sah einmal zum geöffneten Zugang und einmal zum Tor.
 
-Liora beobachtete sie einen Augenblick. Dann ging sie zu Dachsbert.
+"Brot und Obst dorthin. Die Tücher daneben, aber nicht auf den nassen Boden", sagte sie. "Du läufst zur Brotfrau. Du zur Garküche. Sagt ihnen, sie sollen schicken, was sich aus der Hand essen lässt. Und bringt auf dem Rückweg jeden mit, der einen Korb tragen kann."
+
+Die Laufburschen liefen.
+
+Ein Mann kam mit zwei Wasserkrügen durch das Tor. Die Händlerin nahm ihm einen ab und zeigte zur Mauer. "Volle Krüge hier. Leere zurück auf die Straße. Sonst stolpert gleich jemand darüber."
+
+Nach wenigen Augenblicken wusste jeder, der den Hof betrat, wohin er mit Brot, Wasser, Tüchern oder einer freien Hand gehen sollte.
+
+Liora beobachtete die Händlerin.
+
+Ein Thermenbediensteter blieb mit einem Korb vor ihr stehen. "Wer hat Euch eigentlich zur Oberaufseherin gemacht, dass Ihr hier alle herumkommandiert?"
+
+"Noch niemand", sagte die Händlerin. "Aber bislang hat sich auch niemand darum gekümmert."
+
+Liora ging zu Dachsbert.
 
 "Du erfindest doch Ämter", sagte sie.
 
@@ -295,6 +309,10 @@ Dachsbert richtete sich auf.
 "Im Namen der Colonia und unter dem Schutz des Geschlechts der Melesbertier ernenne ich Euch hiermit zur städtischen Oberaufseherin für Nothilfe und Gastfreundschaft."
 
 Marcellus war inzwischen von der Straße zurückgekehrt. Als er gerade einen weiteren Laufburschen losschicken wollte, zog er die Wachstafel wieder aus dem Gürtel und schrieb es auf.
+
+Die Händlerin wandte sich wieder dem Thermenbediensteten zu. "Der Korb kommt zu den Tüchern."
+
+Er trug ihn zur Mauer.
 
 "Du hast sie gerade in die Klientel deines Hauses aufgenommen", sagte Liora.
 
@@ -316,7 +334,7 @@ Marcellus sah wieder zu Dachsbert.
 
 "Schreiben Sie auch das auf", sagte Dachsbert.
 
-Die neue Oberaufseherin der Colonia schickte einen Laufburschen zur Brotfrau, einen zweiten zur Garküche und einen dritten zu den kleinen Thermen. Danach stellte sie sich neben Liora an das Tor und nahm die nächsten Lieferungen entgegen.
+Die neue Oberaufseherin der Colonia stellte sich neben Liora an das Tor und nahm die nächsten Lieferungen entgegen.
 
 Das Rauschen im Gang wurde schwächer. Crispus und Faulmann trugen die erloschenen Lampen nach oben. Mummrich blieb vor dem Schutt sitzen und lauschte weiter. Die Klopfzeichen kamen unregelmäßig, aber sie kamen.
 
