@@ -276,6 +276,48 @@ Liora hielt einen Badediener zurück. "Lampen, Tücher und Wasser zum Trinken. D
 
 "So viel, wie durch das Tor passt, ohne es zu verstopfen."
 
+### Gastfreundschaft mit Reichweite
+
+Die Nachricht von den verschütteten Arbeitern brauchte weniger Zeit als die ersten Anweisungen. Noch bevor die Legionäre vom Hafen eintrafen, standen am großen Tor Körbe mit Brot und Obst, Krüge mit Wasser und zusammengerollte Tücher bereit.
+
+Die Händlerin aus der Portikus kam mit zwei Laufburschen in den Hof. Sie stellte einen Korb an die Mauer, sah zum geöffneten Zugang und begann, die mitgebrachten Dinge nach Verwendungszweck zu ordnen.
+
+Liora beobachtete sie einen Augenblick. Dann ging sie zu Dachsbert.
+
+"Du erfindest doch Ämter", sagte sie.
+
+"Nur, soweit sie benötigt werden."
+
+"Gut. Wir benötigen eines."
+
+Dachsbert richtete sich auf.
+
+"Im Namen der Colonia und unter dem Schutz des Geschlechts der Melesbertier ernenne ich Euch hiermit zur städtischen Oberaufseherin für Nothilfe und Gastfreundschaft."
+
+Marcellus, der gerade einen weiteren Laufburschen losschicken wollte, zog die Wachstafel wieder aus dem Gürtel und schrieb es auf.
+
+"Du hast sie gerade in die Klientel deines Hauses aufgenommen", sagte Liora.
+
+Dachsbert sah zu Marcellus.
+
+"Das ist noch kein Adel."
+
+"Für ein Geschlecht, das seit heute Morgen besteht, kommt es dem ziemlich nahe."
+
+"Gilt das Amt nur für heute?", fragte die Händlerin.
+
+"Ich habe keine Befristung genannt", sagte Dachsbert.
+
+Die Händlerin nickte.
+
+"Und die Stadt ersetzt mir die Auslagen."
+
+Marcellus sah wieder zu Dachsbert.
+
+"Schreiben Sie auch das auf", sagte Dachsbert.
+
+Die neue Oberaufseherin der Colonia schickte einen Laufburschen zur Brotfrau, einen zweiten zur Garküche und einen dritten zu den kleinen Thermen. Danach stellte sie sich neben Liora an das Tor und nahm die nächsten Lieferungen entgegen.
+
 Das Rauschen im Gang wurde schwächer. Crispus und Faulmann trugen die erloschenen Lampen nach oben. Mummrich blieb vor dem Schutt sitzen und lauschte weiter. Die Klopfzeichen kamen unregelmäßig, aber sie kamen.
 
 Die ersten Thermenarbeiter begannen, Wasser und Schlamm aus dem Zugang zu schöpfen. Andere trugen die sechs verbliebenen Balken von den Wagen. Crispus ließ vor dem eingestürzten Abschnitt einen neuen Rahmen setzen. Noch bevor er fertig war, trafen die ersten Legionäre vom Hafen ein.
@@ -495,44 +537,6 @@ Crispus folgte seinem Finger. "Cassianus?"
 Der Zimmermann nahm bereits Maß.
 
 Dann machten sie weiter.
-## Gastfreundschaft mit Reichweite
-
-Als aus der Suche eine Rettung wird, setzt sich dieselbe Verbindung erneut in Bewegung. Noch bevor ein Amt etwas anordnet, stehen am Versorgungsweg Körbe mit Brot und Obst, Krüge mit Wasser und Tücher für Verletzte bereit. Liora organisiert die Verteilung; die Händlerin sorgt dafür, dass der Nachschub nicht abreißt.
-
-"Du erfindest doch Ämter", sagte Liora zu Dachsbert.
-
-"Nur, soweit sie benötigt werden."
-
-"Gut. Wir benötigen eines."
-
-Dachsbert richtete sich auf.
-
-"Im Namen der Colonia und unter dem Schutz des Geschlechts der Melesbertier ernenne ich Euch hiermit zur städtischen Oberaufseherin für Nothilfe und Gastfreundschaft."
-
-Marcellus schrieb es auf.
-
-"Du hast sie gerade in die Klientel deines Hauses aufgenommen", sagte Liora.
-
-Dachsbert sah zu Marcellus.
-
-"Das ist noch kein Adel."
-
-"Für ein Geschlecht, das seit heute Morgen besteht, kommt es dem ziemlich nahe."
-
-"Gilt das Amt nur für heute?", fragte die Händlerin.
-
-"Ich habe keine Befristung genannt", sagte Dachsbert.
-
-Die Händlerin nickte.
-
-"Und die Stadt ersetzt mir die Auslagen."
-
-Marcellus sah wieder zu Dachsbert.
-
-"Schreiben Sie auch das auf", sagte Dachsbert.
-
-Die neue Oberaufseherin der Colonia schickte zwei Laufburschen zur Brotfrau und einen dritten zur Garküche.
-
 ---
 
 [← Zu Teil 2: Zwölf verschwundene Eichenbalken]({{ '/xanten/teil-2/' | relative_url }})
