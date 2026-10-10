@@ -220,7 +220,231 @@ Sie führten durch das Tor.
 
 ## Die Großen Thermen
 
-An einem geöffneten Reparaturbereich stehen die beiden Karren. Secundus und seine sechs Arbeiter sind nach einem weiteren Einsturz eingeschlossen. Aus der Suche wird eine Rettung, an der Legionäre, Handwerker, Thermenarbeiter und die Menschen aus den bisherigen Stationen gemeinsam mitwirken.
+Die beiden Karren standen im Wirtschaftshof hinter dem Seitentor. Der vordere war leer. Auf dem hinteren lagen noch zwei der langen Eichenbalken. Die übrigen waren über den Hof verteilt: einige neben einer aufgebrochenen Rinne, andere schräg in den Boden gestellt, zwei bereits als Querstützen über einer Grube verkeilt.
+
+Dort endeten die Spuren.
+
+Der Boden war auf einer Länge von mehreren Schritten eingebrochen. Unter der beschädigten Wasserleitung verlief ein älterer, breiter Entwässerungskanal aus Stein. Ein Teil seines Gewölbes hatte nachgegeben. Nasse Erde, Ziegel und eine der Deckplatten lagen übereinander in der Öffnung. Wasser rann zwischen ihnen hindurch und verschwand in der Dunkelheit.
+
+Von den Arbeitern war niemand zu sehen.
+
+Crispus trat an den Rand. Ein Stück Mauer löste sich unter seinem Schuh und fiel hinab. Es schlug zweimal gegen Stein. Danach blieb es still.
+
+"Secundus!", rief er.
+
+Keine Antwort.
+
+Mummrich hob eine Pfote. Alle schwiegen.
+
+Unter dem Rauschen des Wassers war ein dumpfer Schlag zu hören. Dann noch einer. Nach einer Pause folgte ein dritter.
+
+Mummrich legte sich auf den Bauch und schob den Kopf über den Rand. Zwischen einem schräg liegenden Balken und dem gebrochenen Gewölbe blieb eine Öffnung, kaum breiter als seine Schultern.
+
+"Secundus?", rief er hinein.
+
+Diesmal kam eine Stimme zurück. Sie war fern und heiser, aber verständlich.
+
+"Hier."
+
+Crispus kniete neben Mummrich. "Wie viele?"
+
+"Sieben."
+
+"Verletzt?"
+
+"Einer kann nicht stehen. Die anderen können fluchen."
+
+Aus der Tiefe kam eine zweite Stimme. Sie sagte etwas, das die Einschätzung bestätigte.
+
+"Wie lange hält die Abstützung?", fragte Crispus.
+
+Secundus antwortete nicht sofort. Über ihnen knirschte Holz.
+
+"Nicht so lange, wie ich gern behaupten würde."
+
+Crispus stand auf. "Zuerst muss das Wasser weg."
+
+Ein Thermenarbeiter war ihnen in den Hof gefolgt. Er zeigte zum Gebäude. "Der Schieber am Verteiler."
+
+"Schließt diesen Strang", sagte Crispus. "Nicht den Zulauf zum Speicher. Nur diese Leitung."
+
+Der Mann lief los und nahm zwei weitere Arbeiter mit. Dachsbert wandte sich an Marcellus.
+
+"Wir brauchen Cassianus, den Schmied und die Männer vom Hafen. Mit Seilen, Rollen, Hebeln und allem Holz, das sie tragen können."
+
+"Alle?", fragte Marcellus.
+
+"Alle, die schneller helfen als zusehen."
+
+Marcellus steckte die Wachstafel in den Gürtel. Er schickte zwei Laufburschen durch das Tor und lief mit einem dritten selbst zur Straße.
+
+Liora hielt einen Badediener zurück. "Lampen, Tücher und Wasser zum Trinken. Dann öffnet das große Tor. Wenn Hilfe kommt, soll niemand erklären müssen, wo sie hineinmuss."
+
+Der Badediener nickte.
+
+"Und sagt dem Betreiber der kleinen Thermen, dass wir seine Leute gefunden haben."
+
+"Seine Leute?"
+
+"Er wird wissen, wer gemeint ist."
+
+Das Rauschen unter der Grube wurde schwächer. Mummrich wartete, bis das Wasser nur noch in einzelnen dünnen Strömen über die Steine lief. Dann nahm er eines der Seile vom leeren Karren und legte es sich um den Leib.
+
+"Nein", sagte Crispus. "Wir sichern zuerst die Öffnung."
+
+"Um sie zu sichern, müssen wir wissen, was darunter noch trägt."
+
+"Das kann Secundus sagen."
+
+"Secundus sieht nur seine Seite."
+
+Faulmann nahm Mummrich das freie Ende des Seils ab. "Wenn er zieht?"
+
+"Einmal bedeutet mehr Seil. Zweimal bedeutet zurück."
+
+"Und dreimal?"
+
+"Dann war zweimal nicht deutlich genug."
+
+Faulmann führte das Seil um einen der langen Balken und stemmte beide Füße gegen den Wagen. Crispus prüfte den Knoten, dann den Balken und schließlich noch einmal den Rand der Grube.
+
+"Langsam", sagte er.
+
+Mummrich schob sich durch die Öffnung.
+
+Nasse Erde strich über seinen Rücken. Unter ihm lag der gebrochene Rand des alten Kanals. Er fand mit den Hinterpfoten einen vorspringenden Stein, ließ sich tiefer und stand schließlich bis zu den Knöcheln im Wasser.
+
+Faulmann gab Seil nach.
+
+Die sieben Männer saßen und lagen hinter einer schräg verkeilten Bohle. Eine Öllampe brannte zwischen ihnen. Ihr Licht reichte gerade aus, um Gesichter, Schlamm und die Unterseite des Gewölbes voneinander zu unterscheiden.
+
+Secundus lehnte an der Mauer. Er war älter, als Mummrich erwartet hatte. Graue Haare klebten an seiner Stirn. Ein Arbeiter neben ihm hielt sich den linken Arm. Ein anderer lag unter einer Decke; sein Bein war zwischen einem Steinblock und einem Balken eingeklemmt.
+
+"Meister Mummrich", sagte Secundus.
+
+"Wir sind einander noch nicht vorgestellt worden."
+
+"Marcellus beschreibt gründlich."
+
+Mummrich sah nach oben. Der Balken über ihnen war einer der gekürzten. Zwei Eisenkeile hielten ihn gegen das Mauerwerk. An einem Ende hatte sich die nasse Erde bereits wieder gesenkt.
+
+"Der hält", sagte Secundus, "solange niemand von oben die falsche Platte bewegt."
+
+"Welche ist die falsche?"
+
+"Im Augenblick fast alle."
+
+Mummrich kroch zu dem verletzten Arbeiter. Das Bein war nicht unter dem Stein selbst eingeklemmt. Ein abgerutschtes Querholz drückte es gegen den Boden. Es ließ sich anheben, aber nur, wenn das Gewölbe vorher eine neue Stütze bekam.
+
+Er zog zweimal am Seil.
+
+Faulmann spannte es sofort an. Mummrich rief nach oben.
+
+"Sie leben alle. Einer ist eingeklemmt. Wir brauchen eine Stütze links neben der Öffnung, dann kann der Querbalken hoch."
+
+Crispus beugte sich über den Rand. "Wie lang?"
+
+Mummrich maß mit den Vorderpfoten am Mauerwerk und rief die Länge hinauf.
+
+Oben antwortete zunächst niemand. Dann erklang Cassianus' Stimme.
+
+"Das ist eine von meinen."
+
+Der Zimmermann kam mit zwei Gesellen durch das Tor. Hinter ihm trugen der Schmied und ein Arbeiter einen Korb mit Keilen und Klammern. Von der Straße folgten sechs Legionäre mit den Seilen, Rollenblöcken und Hebelstangen des Hafenwagens. Weitere Thermenarbeiter brachten Bretter, Lampen und Eimer.
+
+Dachsbert trat aus ihrem Weg. "Crispus sichert die Grube. Cassianus entscheidet, welches Holz wohin kommt. Wer beides besser weiß, darf es nach der Rettung erklären."
+
+Niemand meldete sich.
+
+Cassianus legte zwei lange Balken parallel über den festen Rand der Grube. Die Legionäre schoben sie mit Hebelstangen an ihre Plätze. Der Schmied setzte eiserne Klammern, damit sie nicht auseinanderwanderten. Über ihnen befestigten sie einen Rollenblock.
+
+Crispus zeigte auf die kürzeren Stützen. "Zwei links, eine rechts. Nicht gleichzeitig belasten."
+
+Cassianus nickte. "Erst links verspannen. Dann rechts nachführen."
+
+Sie arbeiteten, als hätten sie den Satz gemeinsam begonnen.
+
+Unter der Erde führte Mummrich die erste Stütze an der eingestürzten Kante vorbei. Secundus und zwei seiner Leute nahmen sie entgegen. Von oben ließ Cassianus sie Handbreit für Handbreit herab. Der Schmied reichte Keile nach. Marcellus war inzwischen zurückgekehrt und trug sie bis an den Grubenrand; seine Wachstafel blieb im Gürtel.
+
+"Spitze nach außen", rief der Schmied.
+
+"Ich weiß, wie man Keile setzt", kam Secundus' Stimme zurück.
+
+Crispus sah in die Öffnung. "Dann setzt sie."
+
+Zwei Schläge aus der Tiefe. Eine Pause. Zwei weitere.
+
+Das Gewölbe knirschte. Faulmann zog das Seil straff, ohne Mummrich von den Füßen zu holen. Erde rieselte auf dessen Schultern.
+
+"Nicht ziehen", rief Mummrich.
+
+"Das war noch kein Ziehen", sagte Faulmann.
+
+Die neue Stütze nahm das Gewicht auf. Cassianus legte eine Hand auf den oberen Balken und wartete. Nichts bewegte sich.
+
+"Jetzt rechts", sagte er.
+
+Die zweite Stütze folgte. Dann die dritte.
+
+Aus einzelnen Handgriffen wurde eine Ordnung. Die Legionäre hielten die langen Balken unter Spannung. Cassianus und seine Gesellen richteten die Stützen aus. Der Schmied trieb die Keile. Die Thermenarbeiter schöpften Wasser und Schlamm aus der Grube. Liora hielt den Weg zum Tor frei, nahm Lampen entgegen und sorgte dafür, dass niemand zwischen den Seilen stand. Dachsbert schickte jeden, der eine Frage stellte, zu jemandem, der gerade eine Hand frei hatte.
+
+Faulmann hielt Mummrichs Seil.
+
+Als die Öffnung breit genug war, kamen zuerst die fünf Arbeiter heraus, die selbst klettern konnten. Einer nach dem anderen griff nach dem Seil, setzte die Füße gegen die Mauer und wurde über den Rand gezogen. Liora zählte sie leise und führte sie zu den Tüchern und Wasserkrügen an der Mauer.
+
+Der sechste Arbeiter blieb unter dem Gewölbe liegen.
+
+Cassianus befestigte zwei breite Gurte am Seilzug. Mummrich und Secundus schoben sie unter den Verletzten. Als alles saß, hob Crispus die Hand.
+
+Vier Legionäre zogen. Zwei Thermenarbeiter führten das Seil seitlich. Der Rollenblock knarrte, und der verletzte Mann stieg langsam aus der Dunkelheit. An der engsten Stelle berührte seine Schulter den Stein. Alle hielten inne. Cassianus veränderte den Winkel um eine Handbreit.
+
+Dann lag der Mann oben auf den bereitgelegten Tüchern.
+
+"Sechs", sagte Liora.
+
+Crispus kniete wieder an der Öffnung. "Secundus. Jetzt Ihr."
+
+"Zuerst der Dachs."
+
+"Mummrich kann klettern."
+
+"Ich auch."
+
+"Das war keine Beurteilung Eurer Fähigkeiten."
+
+Mummrich zog einmal am Seil. Faulmann gab ihm Spielraum. Er setzte die Hinterpfoten gegen die Mauer und arbeitete sich durch die Öffnung. Crispus und Cassianus fassten ihn unter den Armen und hoben ihn über den Rand.
+
+Secundus folgte als Letzter.
+
+Als seine Hand erschien, griff Crispus danach. Secundus fasste zu. Für einen Augenblick hing sein ganzes Gewicht an ihrem Griff, dann fand er mit dem Fuß den Rand und stieg in den Hof.
+
+Liora sah zu den Männern an der Mauer und dann zu Secundus.
+
+"Sieben."
+
+Niemand jubelte. Die Legionäre ließen die Seile sinken. Cassianus prüfte die Stützen. Der Schmied sammelte die noch unbenutzten Keile ein und legte sie so ordentlich neben den Korb, als müsse auch eine Rettung am Ende abgerechnet werden.
+
+Secundus trank einen halben Becher Wasser. Dann ging er, noch immer voller Schlamm, zum Rand der Grube. Crispus stand neben ihm.
+
+"Ihr baut ordentlich", sagte Crispus.
+
+"Wir hatten einen Wassermeister, der uns erklärte, wo eine Stütze stehen muss", sagte Secundus. "Er erklärte es sehr laut."
+
+Crispus betrachtete ihn von der Seite. "Legion?"
+
+"Sexta Victrix. Optio. Früher."
+
+"Tricesima Ulpia. Seit kurzem."
+
+Sie fassten einander mit der Rechten am Unterarm.
+
+Dann zeigte Secundus auf einen der schrägen Balken unter ihnen. "Der dort muss noch ersetzt werden, bevor wir die Leitung wieder öffnen."
+
+Crispus folgte seinem Finger. "Cassianus?"
+
+Der Zimmermann nahm bereits Maß.
+
+Dann machten sie weiter.
 
 ## Gastfreundschaft mit Reichweite
 
