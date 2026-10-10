@@ -346,15 +346,9 @@ Dachsbert hielt das Seitentor frei und schickte die Neugierigen zum großen Tor.
 
 Im Zugang arbeiteten Crispus und Cassianus von Rahmen zu Rahmen. Sie ließen nur so viel Schutt lösen, wie die nächste Stütze sichern konnte. Der Schmied trieb die Keile, bis das Holz das Gewicht des Gewölbes übernahm.
 
-Mummrich bewegte sich vor ihnen. Um seinen Leib lag ein Seil. Das andere Ende führte durch den Gang nach draußen.
+Mummrich bewegte sich vor ihnen. Wo der Gang niedriger wurde, ging er auf allen vieren weiter. Er prüfte die Fugen, lauschte in den Schutt und zeigte, an welcher Stelle die Klopfzeichen am deutlichsten waren.
 
-Faulmann hielt es.
-
-"Einmal bedeutet mehr Seil", hatte Mummrich gesagt. "Zweimal bedeutet festhalten. Dreimal bedeutet zurück."
-
-Faulmann hatte genickt. "Das ist eindeutig genug."
-
-Nun gab er das Seil Handbreit für Handbreit nach. Wenn Mummrich lauschte, hielt Faulmann still. Wenn der Schutt nachgab, spannte er das Seil, ohne ihn von den Füßen zu holen.
+Faulmann blieb am Zugang. Er nahm die gefüllten Körbe aus dem Gang entgegen und reichte leere zurück. Wenn ein schwerer Stein am Seil herausgezogen wurde, hielt er die Leine in der Mitte des Ganges, damit sie weder an den neuen Stützen noch am Mauerwerk scheuerte.
 
 Die Arbeit kam voran. Langsam wurde aus dem verschütteten Ende wieder ein Gang.
 
@@ -444,19 +438,17 @@ Crispus beugte sich zum Spalt. "Dann setzt sie."
 
 Zwei Schläge aus der Tiefe. Eine Pause. Zwei weitere.
 
-Das Gewölbe knirschte. Erde rieselte aus den Fugen. Faulmann zog das Seil straff.
+Das Gewölbe knirschte. Erde rieselte aus den Fugen.
 
-"Festhalten", rief Mummrich.
+"Nicht weiter", sagte Mummrich.
 
-"Das tue ich", sagte Faulmann.
+Alle hielten still. Erst als kein weiterer Stein nachkam, gab Mummrich ein Zeichen.
 
 Die neue Stütze nahm das Gewicht auf.
 
-Danach ließ sich der größte Stein bewegen. Die Legionäre legten eine Schlinge darum und führten das Seil durch den Rollenblock am letzten Rahmen. Zwei Männer setzten die Hebelstangen an. Vier zogen. Der Stein hob sich langsam aus dem Schutt und glitt auf zwei Bohlen zurück durch den Gang.
+Danach ließ sich der größte Stein bewegen. Die Legionäre legten eine Schlinge darum und führten das Zugseil durch den Rollenblock am letzten Rahmen. Zwei Männer hoben ihn mit den Hebelstangen gerade so weit an, dass zwei Bohlen daruntergeschoben werden konnten. Vier zogen ihn waagerecht durch den Gang zurück. Faulmann hielt die Leine vom Mauerwerk fern, damit der Stein sich nicht drehte und gegen die neuen Stützen schlug.
 
 Hinter ihm wurde die Öffnung breit genug für Mummrich.
-
-Er zog einmal am Seil. Faulmann gab ihm Spielraum.
 
 Mummrich schob sich durch den Spalt.
 
@@ -466,9 +458,7 @@ Secundus lehnte an der Mauer. Er war älter, als Mummrich erwartet hatte. Graue 
 
 Mummrich kroch zu ihm. Das Holz ließ sich anheben, aber erst musste eine zweite Stütze neben den weggerutschten Rahmen.
 
-Er zog zweimal am Seil.
-
-Faulmann hielt es fest.
+Er wandte sich zum Spalt.
 
 "Wir brauchen noch eine Stütze", rief Mummrich. "Links neben dem Verletzten. Danach kann das Querholz hoch."
 
@@ -480,17 +470,17 @@ Als die Stütze saß, hoben sie das abgerutschte Querholz an. Der verletzte Arbe
 
 Nun erweiterten die Helfer die Öffnung. Zwei weitere Stützen kamen hinzu. Lose Ziegel und Erde wanderten nach draußen. Aus einzelnen Handgriffen war längst eine Ordnung geworden. Die Legionäre hielten die Rahmen unter Spannung. Cassianus und seine Gesellen richteten das Holz aus. Der Schmied trieb die Keile. Thermenarbeiter und Freiwillige trugen den Schutt fort. Liora hielt den Weg frei. Dachsbert schickte jeden, der eine Frage stellte, zu jemandem, der gerade eine Hand frei hatte.
 
-Faulmann hielt Mummrichs Seil.
+Faulmann hielt den Zugang frei und nahm den Männern Körbe und Werkzeug ab.
 
-Als die Öffnung breit genug war, kamen zuerst die fünf Arbeiter heraus, die selbst gehen konnten. Einer nach dem anderen kroch durch den gesicherten Gang und wurde am Zugang nach oben gezogen. Liora zählte sie leise und führte sie zu den Tüchern und Wasserkrügen an der Mauer.
+Als die Öffnung breit genug war, kamen zuerst die fünf Arbeiter heraus, die selbst gehen konnten. Einer nach dem anderen kroch durch den gesicherten Gang und stieg über die groben Stufen in den Hof. Liora zählte sie leise und führte sie zu den Tüchern und Wasserkrügen an der Mauer.
 
 Der sechste Arbeiter konnte nicht auftreten.
 
-Cassianus befestigte zwei breite Gurte am Seilzug. Mummrich und Secundus schoben sie unter den Verletzten. Als alles saß, hob Crispus die Hand.
+Cassianus ließ aus zwei Bohlen eine flache Trage binden und befestigte das Zugseil daran. Mummrich und Secundus hoben den Verletzten darauf. Als alles saß, hob Crispus die Hand.
 
-Vier Legionäre zogen. Zwei Thermenarbeiter führten das Seil seitlich. Der Rollenblock knarrte, und der verletzte Mann bewegte sich langsam durch den Gang. An der engsten Stelle berührte seine Schulter den Stein. Alle hielten inne. Cassianus veränderte den Winkel um eine Handbreit.
+Vier Legionäre zogen. Zwei Thermenarbeiter krochen neben der Trage und hielten sie gerade. Der Rollenblock knarrte, und der verletzte Mann glitt langsam waagerecht durch den Gang. An der engsten Stelle berührte seine Schulter den Stein. Alle hielten inne. Cassianus ließ die Trage um eine Handbreit versetzen.
 
-Dann lag der Mann oben auf den bereitgelegten Tüchern.
+Am Zugang lösten sie das Zugseil. Sechs Männer trugen die Trage über die Stufen in den Hof und legten sie auf den bereitgelegten Tüchern ab.
 
 "Sechs", sagte Liora.
 
@@ -504,11 +494,11 @@ Crispus kniete am Zugang. "Secundus. Jetzt Ihr."
 
 "Das war keine Beurteilung Eurer Fähigkeiten."
 
-Mummrich zog einmal am Seil. Faulmann gab ihm Spielraum. Er arbeitete sich durch die Öffnung und den gesicherten Gang zurück. Crispus und Cassianus fassten ihn am Zugang unter den Armen und hoben ihn in den Hof.
+Mummrich arbeitete sich durch die Öffnung und den gesicherten Gang zurück. Am Zugang stieg er über die groben Stufen in den Hof.
 
 Secundus folgte als Letzter.
 
-Als seine Hand erschien, griff Crispus danach. Secundus fasste zu. Für einen Augenblick hing sein ganzes Gewicht an ihrem Griff, dann fand er mit dem Fuß die oberste Stufe und stieg hinauf.
+Als er die oberste Stufe erreichte, reichte Crispus ihm die Hand. Secundus fasste zu und trat in den Hof.
 
 Liora sah zu den Männern an der Mauer und dann zu Secundus.
 
