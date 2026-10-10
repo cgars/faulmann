@@ -164,7 +164,7 @@ Kurz vor den Thermen bogen die Spuren in eine schmale Gasse ein, die an der äu�
 
 Liora sah die Gasse hinunter. "Und wo ist die Wasserleitung?"
 
-Marcellus deutete mit dem Griffel auf die nächste Platte. "Darunter. Die Leitung führt zum Speicher der Großen Thermen und von dort weiter zu den Verteilern der Stadt."
+Marcellus deutete mit dem Griffel auf die nächste Platte. "Darunter. Die Leitung führt zum (der wasserverlaug macht nach wie vor kenen sinn, das wasser kommt von auserhalb der stadt zu den grossen thermen und dann via verteiler in die lokalen leitungen. ohne an den thermen vorbeizukommen können sie also nihct der leitung gefolgt sein und plötzlich vor der themre sein) Speicher der Großen Thermen und von dort weiter zu den Verteilern der Stadt."
 
 Die beiden Karrenspuren verliefen neben den Platten.
 
