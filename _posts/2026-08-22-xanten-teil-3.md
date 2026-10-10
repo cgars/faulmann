@@ -172,33 +172,29 @@ Mummrich ging langsamer als zuvor. Der Boden war hier fester, doch die schweren 
 
 Mummrich nickte. "Noch immer schwerer."
 
-An einer niedrigen Mauer bog der Leitungsweg von der Straße ab. Dahinter lag ein schmales Grundstück, auf dem nichts wuchs. In seiner Mitte stand eine gemauerte Kammer, kaum höher als eine Bank. Eine der Deckplatten war zur Seite geschoben worden.
+An einer niedrigen Mauer bogen die Spuren von der Straße ab. Dahinter verlief ein schmaler unbebauter Streifen zwischen zwei Häuserreihen. Eine breite Deckplatte war vom gemauerten Leitungskanal gehoben und daneben abgelegt worden.
 
-Marcellus blätterte nicht in seinen Tafeln. "Das letzte Prüfbecken (was ist ein prüfbecken,gibt es sowas?, müssen sie nicht erst an den thermen vorbeikommen? oder wir müssen sagen nach den grossen thermen, oder wir müssen dahe das soe doie stadt verlassen haben) vor den Großen Thermen."
+Marcellus blätterte nicht in seinen Tafeln. "Von hier führt die Zuleitung zum Wasserspeicher der Großen Thermen."
 
-Crispus sah hinein. Unter ihnen lief Wasser durch eine schmale Rinne. Es war im Schatten fast schwarz, bewegte sich aber schnell genug, dass kleine Lichtpunkte an der Mauer entlangwanderten.
+Crispus sah in die Öffnung. Unter ihnen lief Wasser durch eine schmale Rinne. Es war im Schatten fast schwarz, bewegte sich aber schnell genug, dass kleine Lichtpunkte an der Mauer entlangwanderten.
 
 "Die Leitung ist also heil", sagte Dachsbert.
 
 "Bis hierher", sagte Mummrich.
 
-Er kniete neben der Öffnung und legte zwei Finger an den feuchten Rand. Dann sah er in Richtung der Thermen. Hinter der Kammer führte die Leitung unter einer Reihe weiterer Steinplatten weiter. Auf der ersten lag trockener Staub. Neben der zweiten war der Boden dunkel. Bei der dritten stand Wasser im Radabdruck.
+Er kniete neben der Öffnung und legte zwei Finger an den feuchten Rand. Dann sah er in Richtung der Thermen. Der Kanal führte unter einer Reihe weiterer Steinplatten weiter. Auf der ersten lag trockener Staub. Neben der zweiten war der Boden dunkel. Bei der dritten stand Wasser im Radabdruck.
 
-Crispus folgte seinem Blick. "Es tritt weiter vorn aus."
+Crispus folgte seinem Blick. "Weiter vorn tritt es aus."
 
-"Oder es wird dort aufgehalten."
-
-"Das Wasser?"
-
-"Jemand."(das ergibt irgend wie keinen sinn)
+"Deshalb sind sie von der Straße herunter", sagte Mummrich.
 
 Für einen Augenblick hörte man nur das Rauschen unter der Platte.
 
-Marcellus sah zur Stadt zurück. "Wenn hier noch Wasser ankommt und in den Thermen keines mehr, bleibt nur der letzte Abschnitt."
+Marcellus sah in Richtung der Thermen. "Wenn hier noch Wasser ankommt und dort keines mehr, liegt der Schaden zwischen dieser Öffnung und dem Speicher."
 
 "Das hätte Secundus gewusst", sagte Crispus.
 
-Mummrich stand auf und ging weiter. Hinter dem Prüfbecken wurden die Spuren deutlicher. Die Wagen waren vom befestigten Weg heruntergefahren und unmittelbar über der Leitung geblieben. Zwischen ihren Rillen lagen Fußabdrücke: schwere Sohlen, leichte Sohlen, ein Mann, der den linken Fuß nachzog. An einer Stelle hatten viele Menschen geschoben. Der Lehm war nach hinten aufgeworfen, und zwei kurze Stücke Seil lagen im Gras.
+Mummrich stand auf und ging weiter. Hinter der offenen Leitung wurden die Spuren deutlicher. Die Wagen waren vom befestigten Weg heruntergefahren und unmittelbar über der Leitung geblieben. Zwischen ihren Rillen lagen Fußabdrücke: schwere Sohlen, leichte Sohlen, ein Mann, der den linken Fuß nachzog. An einer Stelle hatten viele Menschen geschoben. Der Lehm war nach hinten aufgeworfen, und zwei kurze Stücke Seil lagen im Gras.
 
 Faulmann hob eines davon auf. Das Ende war nicht gerissen. Es war sauber durchtrennt.
 
