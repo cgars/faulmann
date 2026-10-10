@@ -162,7 +162,59 @@ Diesmal fragte niemand nach der Richtung.
 
 ## Die Wasserleitung
 
-Die Karrenspuren folgen dem Leitungsweg. An einem Kontrollpunkt stellt Mummrich fest, dass bis hierher noch Wasser ankommt. Der Verlust muss im letzten Abschnitt zu den Großen Thermen liegen.
+Die Wasserleitung war zunächst nur daran zu erkennen, dass Marcellus wusste, wo sie lag. Die Straße folgte ihrem Verlauf, ohne sich weiter um sie zu kümmern. In regelmäßigen Abständen unterbrachen breite Steinplatten den festgetretenen Randstreifen. Dazwischen wuchsen Gras und Wegerich.
+
+Die beiden Karrenspuren blieben neben den Platten.
+
+Mummrich ging langsamer als zuvor. Der Boden war hier fester, doch die schweren Räder hatten an jeder weichen Stelle dunkle Ränder hinterlassen. Einmal fand er einen Abdruck, in dem sich das Muster einer ausgebesserten Radfelge wiederholte. Crispus hatte denselben Wagen inzwischen oft genug gesehen, um ihn ebenfalls zu erkennen.
+
+"Der hintere", sagte er.
+
+Mummrich nickte. "Noch immer schwerer."
+
+An einer niedrigen Mauer bog der Leitungsweg von der Straße ab. Dahinter lag ein schmales Grundstück, auf dem nichts wuchs. In seiner Mitte stand eine gemauerte Kammer, kaum höher als eine Bank. Eine der Deckplatten war zur Seite geschoben worden.
+
+Marcellus blätterte nicht in seinen Tafeln. "Das letzte Prüfbecken vor den Großen Thermen."
+
+Crispus sah hinein. Unter ihnen lief Wasser durch eine schmale Rinne. Es war im Schatten fast schwarz, bewegte sich aber schnell genug, dass kleine Lichtpunkte an der Mauer entlangwanderten.
+
+"Die Leitung ist also heil", sagte Dachsbert.
+
+"Bis hierher", sagte Mummrich.
+
+Er kniete neben der Öffnung und legte zwei Finger an den feuchten Rand. Dann sah er in Richtung der Thermen. Hinter der Kammer führte die Leitung unter einer Reihe weiterer Steinplatten weiter. Auf der ersten lag trockener Staub. Neben der zweiten war der Boden dunkel. Bei der dritten stand Wasser im Radabdruck.
+
+Crispus folgte seinem Blick. "Es tritt weiter vorn aus."
+
+"Oder es wird dort aufgehalten."
+
+"Das Wasser?"
+
+"Jemand."
+
+Für einen Augenblick hörte man nur das Rauschen unter der Platte.
+
+Marcellus sah zur Stadt zurück. "Wenn hier noch Wasser ankommt und in den Thermen keines mehr, bleibt nur der letzte Abschnitt."
+
+"Das hätte Secundus gewusst", sagte Crispus.
+
+Es klang nicht mehr wie eine Anklage.
+
+Mummrich stand auf und ging weiter. Hinter dem Prüfbecken wurden die Spuren deutlicher. Die Wagen waren vom befestigten Weg heruntergefahren und unmittelbar über der Leitung geblieben. Zwischen ihren Rillen lagen Fußabdrücke: schwere Sohlen, leichte Sohlen, ein Mann, der den linken Fuß nachzog. An einer Stelle hatten viele Menschen geschoben. Der Lehm war nach hinten aufgeworfen, und zwei kurze Stücke Seil lagen im Gras.
+
+Faulmann hob eines davon auf. Das Ende war nicht gerissen. Es war sauber durchtrennt.
+
+"Sie hatten es eilig", sagte Liora.
+
+"Und vor, wiederzukommen", sagte Faulmann.
+
+Vor ihnen erhob sich die Umfassungsmauer der Großen Thermen. Über den Dächern stand kein Rauch. Aus dem Hof kam kein Hämmern, kein Rufen und kein Schaben von Schaufeln.
+
+Crispus legte die Hand an den Schwertgurt und beschleunigte seinen Schritt.
+
+Mummrich blieb bei den Spuren.
+
+Sie führten durch ein offenes Seitentor.
 
 ## Die Großen Thermen
 
