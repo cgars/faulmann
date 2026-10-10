@@ -542,29 +542,13 @@ Secundus trank einen halben Becher Wasser. Dann ging er, noch immer voller Schla
 
 Eine Weile sahen sie schweigend in den Gang. Hinter den Stützen wurden Körbe weitergereicht. Der Schmied schlug einen Keil nach.
 
-"Ich habe Euch für einen Dieb gehalten", sagte Crispus.
-
-Secundus sah zu den Rahmen aus den verschwundenen Balken. "Zwölf Balken waren fort."
-
-"Das erklärt, weshalb ich Euch gesucht habe. Nicht, weshalb ich das Urteil schon kannte."
-
-Secundus wandte den Kopf.
-
-Crispus hielt seinem Blick stand. "Ich habe Euch Unrecht getan."
-
-"Noch bevor Ihr mich gefunden hattet."
-
-"Ja."
-
-"Das ist früh."
-
-"Zu früh."
-
-Aus dem Gang kam ein weiterer Hammerschlag.
-
 "Ihr baut ordentlich", sagte Crispus.
 
 "Wir hatten einen Wassermeister, der uns erklärte, wo eine Stütze stehen muss", sagte Secundus. "Er erklärte es sehr laut."
+
+"Und Ihr seid als Letzter herausgekommen."
+
+"Ich bin mit sechs Männern hineingegangen."
 
 Crispus betrachtete ihn von der Seite. "Legion?"
 
@@ -572,13 +556,27 @@ Crispus betrachtete ihn von der Seite. "Legion?"
 
 "Tricesima Ulpia. Seit kurzem."
 
-Secundus nickte langsam. "Dann wisst Ihr, weshalb wir die Balken genommen haben."
+Secundus nickte. "Das erklärt den Ton."
 
-Crispus blickte in den abgestützten Gang. "Ja."
+"Ihr habt trotzdem nicht gehorcht."
 
-"Und weshalb wir geblieben sind."
+"Ihr wolltet mich vor dem Dachs hinausschicken."
 
-"Ja."
+"Das war vernünftig."
+
+"Das war aussichtslos."
+
+Im Gang reichte ein Legionär einem Thermenarbeiter einen Korb. Der nahm ihn, ohne aufzusehen, und gab ihm im selben Griff einen leeren zurück.
+
+"Eure Männer haben auf meine gehört", sagte Secundus.
+
+"Eure auf meine."
+
+"Für eine Weile waren es dieselben."
+
+Crispus blickte auf die Kette aus Soldaten, Arbeitern und Freiwilligen.
+
+"Für eine Weile", sagte er.
 
 Sie fassten einander mit der Rechten am Unterarm.
 
