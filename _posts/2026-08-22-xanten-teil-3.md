@@ -220,7 +220,7 @@ Sie führten durch das Tor.
 
 ## Die Großen Thermen
 
-Die beiden Karren standen im Wirtschaftshof hinter dem Seitentor. Auf jedem lagen noch drei der langen Eichenbalken. Vier weitere waren bereits zu zwei Stützrahmen verbunden worden. Zwei standen schräg verkeilt am Rand eines freigelegten Zugangs.
+Die beiden Karren standen im Wirtschaftshof hinter dem Seitentor. Auf jedem lagen noch drei der langen Eichenbalken. Die sechs übrigen waren bereits verbaut: Je zwei Pfosten und ein Querbalken bildeten zwei Stützrahmen über einem freigelegten Zugang.
 
 Dort endeten die Spuren.
 
@@ -328,7 +328,7 @@ Er rief zwei seiner Legionäre zu sich. "Am Hafen liegt noch Holz auf dem Lastsc
 
 Crispus sah ihn an.
 
-Der Soldat lief los.
+Die beiden Soldaten liefen los.
 
 Dachsbert trat neben ihn. "Der Schiffseigner wird eine Erklärung verlangen."
 
@@ -338,7 +338,7 @@ Dachsbert trat neben ihn. "Der Schiffseigner wird eine Erklärung verlangen."
 
 "Von mir. Später."
 
-Die beiden Legionäre kehrten nicht allein zurück. Hafenarbeiter kamen mit ihnen. Auf ihren Schultern trugen sie Balken, flache Hölzer und zwei kurze Masten, die das Lastschiff entbehren konnte. Hinter ihnen rollte der leere Wagen vom Hafen durch das große Tor.
+Die beiden Legionäre kehrten nicht allein zurück. Hafenarbeiter kamen mit ihnen. Auf ihren Schultern trugen sie Balken, flache Hölzer und zwei kurze Ersatzspieren, die das Lastschiff entbehren konnte. Hinter ihnen rollte der leere Wagen vom Hafen durch das große Tor.
 
 Das neue Holz wanderte von Hand zu Hand in den Gang.
 
@@ -370,7 +370,7 @@ Aus der Tiefe kam eine zweite Stimme. Sie sagte etwas, das die Einschätzung bes
 
 "Wie steht eure Abstützung?"
 
-"Zwei Rahmen halten. Beim dritten ist der linke Fuß weggerutscht."
+"Ein Rahmen hält. Beim zweiten ist der linke Fuß weggerutscht."
 
 "Wie weit hinter dem Einsturz?"
 
@@ -488,7 +488,7 @@ Crispus betrachtete ihn von der Seite. "Legion?"
 
 Sie fassten einander mit der Rechten am Unterarm.
 
-Dann zeigte Secundus in den Gang. "Der dritte Rahmen muss noch ersetzt werden, bevor wir die Leitung wieder öffnen."
+Dann zeigte Secundus in den Gang. "Der zweite Rahmen muss noch ersetzt werden, bevor wir die Leitung wieder öffnen."
 
 Crispus folgte seinem Finger. "Cassianus?"
 
