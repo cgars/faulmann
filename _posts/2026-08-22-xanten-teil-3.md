@@ -294,7 +294,7 @@ Dachsbert richtete sich auf.
 
 "Im Namen der Colonia und unter dem Schutz des Geschlechts der Melesbertier ernenne ich Euch hiermit zur städtischen Oberaufseherin für Nothilfe und Gastfreundschaft."
 
-Marcellus, der gerade einen weiteren Laufburschen losschicken wollte, zog die Wachstafel wieder aus dem Gürtel und schrieb es auf.
+Marcellus war inzwischen von der Straße zurückgekehrt. Als er gerade einen weiteren Laufburschen losschicken wollte, zog er die Wachstafel wieder aus dem Gürtel und schrieb es auf.
 
 "Du hast sie gerade in die Klientel deines Hauses aufgenommen", sagte Liora.
 
