@@ -210,7 +210,7 @@ Faulmann hob eines davon auf. Das Ende war nicht gerissen. Es war sauber durchtr
 
 Vor ihnen erhob sich die Umfassungsmauer der Großen Thermen. Über den Dächern stand kein Rauch. Aus dem Hof kam kein Hämmern, kein Rufen und kein Schaben von Schaufeln.
 
-Crispus legte die Hand an den Schwertgurt und beschleunigte seinen Schritt.
+Crispus beschleunigte seinen Schritt.
 
 Mummrich blieb bei den Spuren.
 
