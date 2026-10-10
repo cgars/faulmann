@@ -300,11 +300,9 @@ Das Rauschen unter der Grube wurde schwächer. Mummrich wartete, bis das Wasser 
 
 Faulmann nahm Mummrich das freie Ende des Seils ab. "Wenn er zieht?"
 
-"Einmal bedeutet mehr Seil. Zweimal bedeutet zurück."
+"Einmal bedeutet mehr Seil. Zweimal bedeutet festhalten. Dreimal bedeutet zurück."
 
-"Und dreimal?"
-
-"Dann war zweimal nicht deutlich genug."
+Faulmann nickte. "Das ist eindeutig genug."
 
 Faulmann führte das Seil um einen der langen Balken und stemmte beide Füße gegen den Wagen. Crispus prüfte den Knoten, dann den Balken und schließlich noch einmal den Rand der Grube.
 
@@ -385,6 +383,10 @@ Die neue Stütze nahm das Gewicht auf. Cassianus legte eine Hand auf den oberen 
 "Jetzt rechts", sagte er.
 
 Die zweite Stütze folgte. Dann die dritte.
+
+Erst jetzt legten die Legionäre eine Schlinge um die schräg liegende Deckplatte. Zwei von ihnen setzten die Hebelstangen an, während die anderen das Seil durch den Rollenblock zogen. Der Stein hob sich langsam aus der Öffnung. Thermenarbeiter hielten ihn mit Führungsseilen davon ab, gegen die neuen Stützen zu schlagen. Cassianus ließ ihn neben der Grube auf zwei Hölzer absetzen.
+
+Danach räumten sie lose Ziegel und nasse Erde fort. Die Öffnung wurde breit genug für einen Menschen, ohne dass jemand das abgestützte Gewölbe berühren musste.
 
 Aus einzelnen Handgriffen wurde eine Ordnung. Die Legionäre hielten die langen Balken unter Spannung. Cassianus und seine Gesellen richteten die Stützen aus. Der Schmied trieb die Keile. Die Thermenarbeiter schöpften Wasser und Schlamm aus der Grube. Liora hielt den Weg zum Tor frei, nahm Lampen entgegen und sorgte dafür, dass niemand zwischen den Seilen stand. Dachsbert schickte jeden, der eine Frage stellte, zu jemandem, der gerade eine Hand frei hatte.
 
