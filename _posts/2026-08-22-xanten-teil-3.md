@@ -152,9 +152,7 @@ Sie sahen einander kurz an. Mummrich deutete in die Querstraße.
 
 "Dort entlang."
 
-Der Weg führte vom Amphitheater fort. Zwischen den Häusern wurde das Rufen der Zuschauer leiser. Am Straßenrand erschienen in regelmäßigen Abständen flache Steinplatten, unter denen ein gemauerter Leitungsabschnitt verlief.
-
-Marcellus sah auf seine Wachstafel. "Die Wasserleitung zu den Großen Thermen."
+Der Weg führte vom Amphitheater fort. Zwischen den Häusern wurde das Rufen der Zuschauer leiser. Die Spuren kreuzten zwei weitere Straßen und verliefen dann auf die Großen Thermen zu. Über den Dächern erschien der obere Rand ihrer Umfassungsmauer.
 
 Mummrich folgte den beiden Spuren.
 
@@ -162,27 +160,33 @@ Diesmal fragte niemand nach der Richtung.
 
 ## Die Wasserleitung
 
-Die Wasserleitung war zunächst nur daran zu erkennen, dass Marcellus wusste, wo sie lag (das kann man als dialog gestalten - show dongt tell). Die Straße folgte ihrem Verlauf, ohne sich weiter um sie zu kümmern. In regelmäßigen Abständen lagen breite Steinplatten im festgetretenen Randstreifen. Staub hatte sich in ihren Fugen gesammelt.
+Kurz vor den Thermen bogen die Spuren in eine schmale Gasse ein, die an der äußeren Mauer der Anlage entlangführte. Der Boden war nicht gepflastert. In regelmäßigen Abständen lagen breite Steinplatten darin, Staub hatte sich in ihren Fugen gesammelt.
 
-Die beiden Karrenspuren blieben neben den Platten.
+Liora sah die Gasse hinunter. "Und wo ist die Wasserleitung?"
 
-Mummrich ging langsamer als zuvor. Der Boden war hier fester, doch die schweren Räder hatten an jeder weichen Stelle dunkle Ränder hinterlassen. Einmal fand er einen Abdruck, in dem sich das Muster einer ausgebesserten Radfelge wiederholte. Crispus hatte denselben Wagen (er hat nihct den wagen sondern den abdruck sehene - vielleicht erklärt ihm das mummrich aber auch besser erst) inzwischen oft genug gesehen, um ihn ebenfalls zu erkennen.
+Marcellus deutete mit dem Griffel auf die nächste Platte. "Darunter. Das ist der letzte Abschnitt vor dem Wasserspeicher."
 
-"Der hintere", sagte er.
+Die beiden Karrenspuren verliefen neben den Platten.
 
-Mummrich nickte. "Noch immer schwerer."
+Mummrich ging langsamer als zuvor. Der Boden war hier fester, doch die schweren Räder hatten an jeder weichen Stelle dunkle Ränder hinterlassen. In einem Abdruck zeigte er Crispus eine kurze gerade Kante, die das Rund der Radspur unterbrach.
 
-An einer niedrigen Mauer bogen die Spuren von der Straße ab. Dahinter verlief eine schmale Wirtschaftsgasse zwischen zwei Häuserreihen. Sie war ungepflastert, damit man an den darunterliegenden Leitungskanal gelangen konnte. Eine breite Deckplatte war herausgehoben und an die Mauer gelehnt worden. (irgenwie geht das nihct auf, laut meinem xanten plan geht das wasser fast zuierst in die thermen momentan folgen sie einer wasserleitung vom apmphitheater ohne an den thermen vorbeizukommen das ergibt eigentlich keinen sinn)
+"Das linke Rad des hinteren Wagens", sagte er. "Die Felge ist dort ausgebessert. Der Abdruck begleitet uns seit der Herberge."
 
-Marcellus blätterte nicht in seinen Tafeln. "Von hier führt die Zuleitung zum Wasserspeicher der Großen Thermen."
+Einige Schritte weiter blieb Crispus stehen und zeigte auf dasselbe Muster.
 
-Crispus sah in die Öffnung. Unter ihnen lief Wasser durch eine schmale Rinne. Es war im Schatten fast schwarz, bewegte sich aber schnell genug, dass kleine Lichtpunkte an der Mauer entlangwanderten.
+"Wieder der hintere."
+
+Mummrich nickte. "Und noch immer schwerer."
+
+Eine breite Deckplatte war aus dem Boden gehoben und an die Thermenmauer gelehnt worden. Die Männer um Secundus hatten die Leitung hier bereits geöffnet.
+
+Crispus sah hinein. Unter ihnen lief Wasser durch eine schmale Rinne. Es war im Schatten fast schwarz, bewegte sich aber schnell genug, dass kleine Lichtpunkte an der Mauer entlangwanderten.
 
 "Die Leitung ist also heil", sagte Dachsbert.
 
 "Bis hierher", sagte Mummrich.
 
-Er kniete neben der Öffnung und legte zwei Finger an den feuchten Rand. Dann sah er in Richtung der Thermen. Der Kanal führte unter einer Reihe weiterer Steinplatten weiter. Auf der ersten lag trockener Staub. Neben der zweiten war der Boden dunkel. Bei der dritten stand Wasser im Radabdruck.
+Er kniete neben der Öffnung und legte zwei Finger an den feuchten Rand. Der Kanal führte unter einer Reihe weiterer Steinplatten auf den Speicher zu. Auf der ersten lag trockener Staub. Neben der zweiten war der Boden dunkel. Bei der dritten stand Wasser im Radabdruck.
 
 Crispus folgte seinem Blick. "Weiter vorn tritt es aus."
 
@@ -190,25 +194,21 @@ Crispus folgte seinem Blick. "Weiter vorn tritt es aus."
 
 Für einen Augenblick hörte man nur das Rauschen unter der Platte.
 
-Marcellus sah in Richtung der Thermen. "Wenn hier noch Wasser ankommt und dort keines mehr, liegt der Schaden zwischen dieser Öffnung und dem Speicher."
+Marcellus betrachtete die kurze Strecke bis zur Ecke der Thermenmauer. "Dann liegt der Schaden zwischen dieser Öffnung und dem Speicher."
 
 "Das hätte Secundus gewusst", sagte Crispus.
 
-Mummrich stand auf und ging weiter. Hinter der offenen Leitung wurden die Spuren deutlicher. Die Wagen waren vom befestigten Weg heruntergefahren und unmittelbar über der Leitung geblieben. Zwischen ihren Rillen lagen Fußabdrücke: schwere Sohlen, leichte Sohlen, ein Mann, der den linken Fuß nachzog. An einer Stelle hatten viele Menschen geschoben. Der Lehm war nach hinten aufgeworfen, und neben dem Kanal lagen zwei kurze Stücke Seil.(warum liegt hier seil?)
+Mummrich stand auf und ging weiter. Hinter der offenen Leitung wurden die Spuren deutlicher. Zwischen den Rillen der Wagen lagen die Abdrücke mehrerer Männer. An einer Stelle hatten sie alle geschoben; der Lehm war hinter ihren Sohlen aufgeworfen.
 
-Faulmann hob eines davon auf. Das Ende war nicht gerissen. Es war sauber durchtrennt.
+Keine der Fußspuren führte zurück.
 
-"Sie hatten es eilig", sagte Liora.
-
-"Und vor, wiederzukommen", sagte Faulmann.
-
-Vor ihnen erhob sich die Umfassungsmauer der Großen Thermen. Über den Dächern stand kein Rauch. Aus dem Hof kam kein Hämmern, kein Rufen und kein Schaben von Schaufeln.
+Am Ende der Gasse stand ein Seitentor der Thermen offen. Aus dem Hof kam kein Hämmern, kein Rufen und kein Schaben von Schaufeln.
 
 Crispus beschleunigte seinen Schritt.
 
 Mummrich blieb bei den Spuren.
 
-Sie führten durch ein offenes Seitentor.
+Sie führten durch das Tor.
 
 ## Die Großen Thermen
 
