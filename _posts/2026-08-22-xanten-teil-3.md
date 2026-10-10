@@ -302,15 +302,27 @@ Liora ging zu Dachsbert.
 
 "Nur, soweit sie benötigt werden."
 
-"Gut. Wir benötigen eines."
+Liora deutete mit dem Kinn zur Händlerin. "Dann seht Euch dort ein benötigtes an."
 
-Dachsbert richtete sich auf.
+Dachsbert beobachtete, wie ein weiterer Helfer mit einem Krug durch das Tor kam, von der Händlerin zur richtigen Mauer geschickt wurde und im Vorbeigehen einen leeren Korb mitnahm.
+
+Dann trat er zu ihr.
+
+"Ich höre, Ihr kommandiert hier herum."
+
+Der Thermenbedienstete grinste breit.
+
+Die Händlerin richtete sich auf. "Die Krüge standen im Weg, die Tücher lagen im Nassen, und niemand wusste, wohin mit den Körben. Ich wollte nur—"
+
+"Ihr missversteht mich", sagte Dachsbert.
+
+Er wartete, bis auch der Thermenbedienstete nicht mehr grinste.
 
 "Im Namen der Colonia und unter dem Schutz des Geschlechts der Melesbertier ernenne ich Euch hiermit zur städtischen Oberaufseherin für Nothilfe und Gastfreundschaft."
 
 Marcellus war inzwischen von der Straße zurückgekehrt. Als er gerade einen weiteren Laufburschen losschicken wollte, zog er die Wachstafel wieder aus dem Gürtel und schrieb es auf.
 
-Die Händlerin wandte sich wieder dem Thermenbediensteten zu. "Der Korb kommt zu den Tüchern."
+Die Händlerin sah Dachsbert einen Augenblick an. Dann wandte sie sich wieder dem Thermenbediensteten zu. "Der Korb kommt zu den Tüchern."
 
 Er trug ihn zur Mauer.
 
