@@ -162,17 +162,17 @@ Diesmal fragte niemand nach der Richtung.
 
 ## Die Wasserleitung
 
-Die Wasserleitung war zunächst nur daran zu erkennen, dass Marcellus wusste, wo sie lag. Die Straße folgte ihrem Verlauf, ohne sich weiter um sie zu kümmern. In regelmäßigen Abständen lagen breite Steinplatten im festgetretenen Randstreifen. Staub hatte sich in ihren Fugen gesammelt.
+Die Wasserleitung war zunächst nur daran zu erkennen, dass Marcellus wusste, wo sie lag (das kann man als dialog gestalten - show dongt tell). Die Straße folgte ihrem Verlauf, ohne sich weiter um sie zu kümmern. In regelmäßigen Abständen lagen breite Steinplatten im festgetretenen Randstreifen. Staub hatte sich in ihren Fugen gesammelt.
 
 Die beiden Karrenspuren blieben neben den Platten.
 
-Mummrich ging langsamer als zuvor. Der Boden war hier fester, doch die schweren Räder hatten an jeder weichen Stelle dunkle Ränder hinterlassen. Einmal fand er einen Abdruck, in dem sich das Muster einer ausgebesserten Radfelge wiederholte. Crispus hatte denselben Wagen inzwischen oft genug gesehen, um ihn ebenfalls zu erkennen.
+Mummrich ging langsamer als zuvor. Der Boden war hier fester, doch die schweren Räder hatten an jeder weichen Stelle dunkle Ränder hinterlassen. Einmal fand er einen Abdruck, in dem sich das Muster einer ausgebesserten Radfelge wiederholte. Crispus hatte denselben Wagen (er hat nihct den wagen sondern den abdruck sehene - vielleicht erklärt ihm das mummrich aber auch besser erst) inzwischen oft genug gesehen, um ihn ebenfalls zu erkennen.
 
 "Der hintere", sagte er.
 
 Mummrich nickte. "Noch immer schwerer."
 
-An einer niedrigen Mauer bogen die Spuren von der Straße ab. Dahinter verlief eine schmale Wirtschaftsgasse zwischen zwei Häuserreihen. Sie war ungepflastert, damit man an den darunterliegenden Leitungskanal gelangen konnte. Eine breite Deckplatte war herausgehoben und an die Mauer gelehnt worden.
+An einer niedrigen Mauer bogen die Spuren von der Straße ab. Dahinter verlief eine schmale Wirtschaftsgasse zwischen zwei Häuserreihen. Sie war ungepflastert, damit man an den darunterliegenden Leitungskanal gelangen konnte. Eine breite Deckplatte war herausgehoben und an die Mauer gelehnt worden. (irgenwie geht das nihct auf, laut meinem xanten plan geht das wasser fast zuierst in die thermen momentan folgen sie einer wasserleitung vom apmphitheater ohne an den thermen vorbeizukommen das ergibt eigentlich keinen sinn)
 
 Marcellus blätterte nicht in seinen Tafeln. "Von hier führt die Zuleitung zum Wasserspeicher der Großen Thermen."
 
@@ -194,7 +194,7 @@ Marcellus sah in Richtung der Thermen. "Wenn hier noch Wasser ankommt und dort k
 
 "Das hätte Secundus gewusst", sagte Crispus.
 
-Mummrich stand auf und ging weiter. Hinter der offenen Leitung wurden die Spuren deutlicher. Die Wagen waren vom befestigten Weg heruntergefahren und unmittelbar über der Leitung geblieben. Zwischen ihren Rillen lagen Fußabdrücke: schwere Sohlen, leichte Sohlen, ein Mann, der den linken Fuß nachzog. An einer Stelle hatten viele Menschen geschoben. Der Lehm war nach hinten aufgeworfen, und neben dem Kanal lagen zwei kurze Stücke Seil.
+Mummrich stand auf und ging weiter. Hinter der offenen Leitung wurden die Spuren deutlicher. Die Wagen waren vom befestigten Weg heruntergefahren und unmittelbar über der Leitung geblieben. Zwischen ihren Rillen lagen Fußabdrücke: schwere Sohlen, leichte Sohlen, ein Mann, der den linken Fuß nachzog. An einer Stelle hatten viele Menschen geschoben. Der Lehm war nach hinten aufgeworfen, und neben dem Kanal lagen zwei kurze Stücke Seil.(warum liegt hier seil?)
 
 Faulmann hob eines davon auf. Das Ende war nicht gerissen. Es war sauber durchtrennt.
 
