@@ -224,7 +224,7 @@ Die beiden Karren standen im Wirtschaftshof hinter dem Seitentor. Auf jedem lage
 
 Dort endeten die Spuren.
 
-Die beschädigte Wasserleitung kreuzte an dieser Stelle einen älteren Entwässerungskanal. Secundus und seine Leute hatten die Erde abgetragen und einen Zugang zu dem gemauerten Gang geöffnet. Grobe Stufen führten zwischen den neuen Stützen in die Tiefe. An der Mauer standen Schaufeln, Körbe und zwei erloschene Lampen.
+An dieser Stelle führte die beschädigte Wasserleitung über einen älteren Entwässerungskanal. Ihr gemauerter Boden war abgesackt und hatte das Gewölbe des älteren Gangs beschädigt. Um die Leitung von unten abzustützen, hatten Secundus und seine Leute die Erde abgetragen und einen Zugang zu dem Gang geöffnet. Grobe Stufen führten zwischen den neuen Stützen hinab. An der Mauer standen Schaufeln, Körbe und zwei erloschene Lampen.
 
 Von den Arbeitern war niemand zu sehen.
 
@@ -276,9 +276,11 @@ Liora hielt einen Badediener zurück. "Lampen, Tücher und Wasser zum Trinken. D
 
 "So viel, wie durch das Tor passt, ohne es zu verstopfen."
 
+Im Gang wurde das Rauschen schwächer. Der Schieber war geschlossen.
+
 ### Gastfreundschaft mit Reichweite
 
-Die Nachricht von den verschütteten Arbeitern brauchte weniger Zeit als die ersten Anweisungen. Noch bevor die Legionäre vom Hafen eintrafen, standen am großen Tor Körbe mit Brot und Obst, Krüge mit Wasser und zusammengerollte Tücher bereit.
+Während Crispus die Rettung vorbereitete, verbreitete sich die Nachricht von den verschütteten Arbeitern. Noch bevor die Legionäre vom Hafen eintrafen, standen am großen Tor Körbe mit Brot und Obst, Krüge mit Wasser und zusammengerollte Tücher bereit.
 
 Die Händlerin aus der Portikus kam mit zwei Laufburschen in den Hof. Sie stellte ihren Korb an die Mauer, sah einmal zum geöffneten Zugang und einmal zum Tor.
 
@@ -348,7 +350,7 @@ Marcellus sah wieder zu Dachsbert.
 
 Die neue Oberaufseherin der Colonia stellte sich neben Liora an das Tor und nahm die nächsten Lieferungen entgegen.
 
-Das Rauschen im Gang wurde schwächer. Crispus und Faulmann trugen die erloschenen Lampen nach oben. Mummrich blieb vor dem Schutt sitzen und lauschte weiter. Die Klopfzeichen kamen unregelmäßig, aber sie kamen.
+Crispus und Faulmann kamen in den Hof zurück. Mummrich blieb mit der Lampe vor dem Schutt sitzen und lauschte weiter. Die Klopfzeichen kamen unregelmäßig, aber sie kamen.
 
 Die ersten Thermenarbeiter begannen, Wasser und Schlamm aus dem Zugang zu schöpfen. Andere trugen die sechs verbliebenen Balken von den Wagen. Crispus ließ vor dem eingestürzten Abschnitt einen neuen Rahmen setzen. Noch bevor er fertig war, trafen die ersten Legionäre vom Hafen ein.
 
@@ -372,7 +374,7 @@ Zuerst kamen Bedienstete aus den Thermen. Dann zwei Männer aus einer benachbart
 
 Nach kurzer Zeit ließ sich nicht mehr sagen, wer alle gerufen hatte.
 
-Dachsbert hielt das Seitentor frei und schickte die Neugierigen zum großen Tor. Liora stellte Wasser, Tücher und Lampen an getrennte Plätze und sorgte dafür, dass leere Körbe zurück in den Gang gelangten. Marcellus trug Keile und Werkzeuge; seine Wachstafel blieb im Gürtel.
+Dachsbert hielt das Seitentor frei und schickte die Neugierigen zum großen Tor. Die Oberaufseherin stellte Wasser, Tücher und Lampen an getrennte Plätze und sorgte dafür, dass leere Körbe zurück in den Gang gelangten. Liora wies neue Helfer der Kette zu. Marcellus trug Keile und Werkzeuge; seine Wachstafel blieb im Gürtel.
 
 Im Zugang arbeiteten Crispus und Cassianus von Rahmen zu Rahmen. Sie ließen nur so viel Schutt lösen, wie die nächste Stütze sichern konnte. Der Schmied trieb die Keile, bis das Holz das Gewicht des Gewölbes übernahm.
 
@@ -384,7 +386,7 @@ Die Arbeit kam voran. Langsam wurde aus dem verschütteten Ende wieder ein Gang.
 
 Dann zählte Cassianus die verbliebenen Balken.
 
-"Der Rahmen hier braucht noch zwei", sagte er. "Danach haben wir einen. Das reicht nicht bis zu ihnen."
+"Der Rahmen hier braucht noch zwei", sagte er. "Danach bleibt uns ein einziger Balken. Das reicht nicht bis zu ihnen."
 
 Crispus sah zur Öffnung. Die Klopfzeichen waren nun auch für ihn zu hören.
 
@@ -476,7 +478,7 @@ Alle hielten still. Erst als kein weiterer Stein nachkam, gab Mummrich ein Zeich
 
 Die neue Stütze nahm das Gewicht auf.
 
-Danach ließ sich der größte Stein bewegen. Die Legionäre legten eine Schlinge darum und führten das Zugseil durch den Rollenblock am letzten Rahmen. Zwei Männer hoben ihn mit den Hebelstangen gerade so weit an, dass zwei Bohlen daruntergeschoben werden konnten. Vier zogen ihn waagerecht durch den Gang zurück. Faulmann hielt die Leine vom Mauerwerk fern, damit der Stein sich nicht drehte und gegen die neuen Stützen schlug.
+Danach ließ sich der größte Stein bewegen. Die Legionäre legten eine Schlinge darum und führten das Zugseil zum Rollenblock am äußeren Stützrahmen. Zwei Männer hoben ihn mit den Hebelstangen gerade so weit an, dass zwei Bohlen daruntergeschoben werden konnten. Vier zogen ihn waagerecht durch den Gang zurück. Faulmann hielt die Leine vom Mauerwerk fern, damit der Stein sich nicht drehte und gegen die neuen Stützen schlug.
 
 Hinter ihm wurde die Öffnung breit genug für Mummrich.
 
@@ -538,6 +540,28 @@ Niemand jubelte. Die Legionäre ließen die Seile sinken. Cassianus prüfte die 
 
 Secundus trank einen halben Becher Wasser. Dann ging er, noch immer voller Schlamm, zum Zugang. Crispus stand neben ihm.
 
+Eine Weile sahen sie schweigend in den Gang. Hinter den Stützen wurden Körbe weitergereicht. Der Schmied schlug einen Keil nach.
+
+"Ich habe Euch für einen Dieb gehalten", sagte Crispus.
+
+Secundus sah zu den Rahmen aus den verschwundenen Balken. "Zwölf Balken waren fort."
+
+"Das erklärt, weshalb ich Euch gesucht habe. Nicht, weshalb ich das Urteil schon kannte."
+
+Secundus wandte den Kopf.
+
+Crispus hielt seinem Blick stand. "Ich habe Euch Unrecht getan."
+
+"Noch bevor Ihr mich gefunden hattet."
+
+"Ja."
+
+"Das ist früh."
+
+"Zu früh."
+
+Aus dem Gang kam ein weiterer Hammerschlag.
+
 "Ihr baut ordentlich", sagte Crispus.
 
 "Wir hatten einen Wassermeister, der uns erklärte, wo eine Stütze stehen muss", sagte Secundus. "Er erklärte es sehr laut."
@@ -547,6 +571,14 @@ Crispus betrachtete ihn von der Seite. "Legion?"
 "Sexta Victrix. Optio. Früher."
 
 "Tricesima Ulpia. Seit kurzem."
+
+Secundus nickte langsam. "Dann wisst Ihr, weshalb wir die Balken genommen haben."
+
+Crispus blickte in den abgestützten Gang. "Ja."
+
+"Und weshalb wir geblieben sind."
+
+"Ja."
 
 Sie fassten einander mit der Rechten am Unterarm.
 
