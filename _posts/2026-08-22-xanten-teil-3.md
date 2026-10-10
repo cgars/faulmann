@@ -220,11 +220,11 @@ Sie führten durch das Tor.
 
 ## Die Großen Thermen
 
-Die beiden Karren standen im Wirtschaftshof hinter dem Seitentor. Der vordere war leer. Auf dem hinteren lagen noch zwei der langen Eichenbalken. Die übrigen waren über den Hof verteilt: einige neben einer aufgebrochenen Rinne, andere schräg in den Boden gestellt, zwei bereits als Querstützen über einer Grube verkeilt.
+Die beiden Karren standen im Wirtschaftshof hinter dem Seitentor. Der vordere war leer. Auf dem hinteren lagen noch zwei der langen Eichenbalken. Die übrigen waren über den Hof verteilt: einige neben einer aufgebrochenen Rinne, andere schräg in den Boden gestellt, zwei bereits als Querstützen über einer Grube verkeilt (die können nicht einfach rumliegen manche sollten denke ich schon verbeut sein, die anderen sind bestimmt noch auf dem wagen. warum sollten die rumliegen).
 
 Dort endeten die Spuren.
 
-Der Boden war auf einer Länge von mehreren Schritten eingebrochen. Unter der beschädigten Wasserleitung verlief ein älterer, breiter Entwässerungskanal aus Stein. Ein Teil seines Gewölbes hatte nachgegeben. Nasse Erde, Ziegel und eine der Deckplatten lagen übereinander in der Öffnung. Wasser rann zwischen ihnen hindurch und verschwand in der Dunkelheit.
+Der Boden war auf einer Länge von mehreren Schritten eingebrochen. Unter der beschädigten Wasserleitung verlief ein älterer, breiter Entwässerungskanal aus Stein. Ein Teil seines Gewölbes hatte nachgegeben. Nasse Erde, Ziegel und eine der Deckplatten lagen übereinander in der Öffnung. Wasser rann zwischen ihnen hindurch und verschwand in der Dunkelheit. (vielleicht müssen sie erst durch einen zugnag rein folgen dann einnbge meter dem alten gang, dann ist der eingestürtzt. mummrich m it seinem maulwurf gehör bittet um ruhe und kann klopfzeichen hören, darauf läst crispus die legionäre vom hafen holen und befiehlt die rettungsaktion, alle legen los, langsam treffen freiwillige ein, das ganze wird fast selbstorgansiert, es wird absehbar das das holz ausgeht, crispus läst soagr noch mehr holz vom Schiff holen um weiter abzusichern, dann gibt es einen ersten spalt, kommunikation findet statt zwischen crispus und secundus, es wird noch schenller gegraben)   
 
 Von den Arbeitern war niemand zu sehen.
 
