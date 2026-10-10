@@ -162,7 +162,7 @@ Diesmal fragte niemand nach der Richtung.
 
 ## Die Wasserleitung
 
-Die Wasserleitung war zunächst nur daran zu erkennen, dass Marcellus wusste, wo sie lag. Die Straße folgte ihrem Verlauf, ohne sich weiter um sie zu kümmern. In regelmäßigen Abständen unterbrachen breite Steinplatten den festgetretenen Randstreifen. Dazwischen wuchsen Gras und Wegerich.
+Die Wasserleitung war zunächst nur daran zu erkennen, dass Marcellus wusste, wo sie lag. Die Straße folgte ihrem Verlauf, ohne sich weiter um sie zu kümmern. In regelmäßigen Abständen lagen breite Steinplatten im festgetretenen Randstreifen. Staub hatte sich in ihren Fugen gesammelt.
 
 Die beiden Karrenspuren blieben neben den Platten.
 
@@ -172,7 +172,7 @@ Mummrich ging langsamer als zuvor. Der Boden war hier fester, doch die schweren 
 
 Mummrich nickte. "Noch immer schwerer."
 
-An einer niedrigen Mauer bogen die Spuren von der Straße ab. Dahinter verlief ein schmaler unbebauter Streifen zwischen zwei Häuserreihen. Eine breite Deckplatte war vom gemauerten Leitungskanal gehoben und daneben abgelegt worden.
+An einer niedrigen Mauer bogen die Spuren von der Straße ab. Dahinter verlief eine schmale Wirtschaftsgasse zwischen zwei Häuserreihen. Sie war ungepflastert, damit man an den darunterliegenden Leitungskanal gelangen konnte. Eine breite Deckplatte war herausgehoben und an die Mauer gelehnt worden.
 
 Marcellus blätterte nicht in seinen Tafeln. "Von hier führt die Zuleitung zum Wasserspeicher der Großen Thermen."
 
@@ -194,7 +194,7 @@ Marcellus sah in Richtung der Thermen. "Wenn hier noch Wasser ankommt und dort k
 
 "Das hätte Secundus gewusst", sagte Crispus.
 
-Mummrich stand auf und ging weiter. Hinter der offenen Leitung wurden die Spuren deutlicher. Die Wagen waren vom befestigten Weg heruntergefahren und unmittelbar über der Leitung geblieben. Zwischen ihren Rillen lagen Fußabdrücke: schwere Sohlen, leichte Sohlen, ein Mann, der den linken Fuß nachzog. An einer Stelle hatten viele Menschen geschoben. Der Lehm war nach hinten aufgeworfen, und zwei kurze Stücke Seil lagen im Gras.
+Mummrich stand auf und ging weiter. Hinter der offenen Leitung wurden die Spuren deutlicher. Die Wagen waren vom befestigten Weg heruntergefahren und unmittelbar über der Leitung geblieben. Zwischen ihren Rillen lagen Fußabdrücke: schwere Sohlen, leichte Sohlen, ein Mann, der den linken Fuß nachzog. An einer Stelle hatten viele Menschen geschoben. Der Lehm war nach hinten aufgeworfen, und neben dem Kanal lagen zwei kurze Stücke Seil.
 
 Faulmann hob eines davon auf. Das Ende war nicht gerissen. Es war sauber durchtrennt.
 
