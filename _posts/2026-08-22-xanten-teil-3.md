@@ -174,7 +174,7 @@ Mummrich nickte. "Noch immer schwerer."
 
 An einer niedrigen Mauer bog der Leitungsweg von der Straße ab. Dahinter lag ein schmales Grundstück, auf dem nichts wuchs. In seiner Mitte stand eine gemauerte Kammer, kaum höher als eine Bank. Eine der Deckplatten war zur Seite geschoben worden.
 
-Marcellus blätterte nicht in seinen Tafeln. "Das letzte Prüfbecken vor den Großen Thermen."
+Marcellus blätterte nicht in seinen Tafeln. "Das letzte Prüfbecken (was ist ein prüfbecken,gibt es sowas?, müssen sie nicht erst an den thermen vorbeikommen? oder wir müssen sagen nach den grossen thermen, oder wir müssen dahe das soe doie stadt verlassen haben) vor den Großen Thermen."
 
 Crispus sah hinein. Unter ihnen lief Wasser durch eine schmale Rinne. Es war im Schatten fast schwarz, bewegte sich aber schnell genug, dass kleine Lichtpunkte an der Mauer entlangwanderten.
 
@@ -190,15 +190,13 @@ Crispus folgte seinem Blick. "Es tritt weiter vorn aus."
 
 "Das Wasser?"
 
-"Jemand."
+"Jemand."(das ergibt irgend wie keinen sinn)
 
 Für einen Augenblick hörte man nur das Rauschen unter der Platte.
 
 Marcellus sah zur Stadt zurück. "Wenn hier noch Wasser ankommt und in den Thermen keines mehr, bleibt nur der letzte Abschnitt."
 
 "Das hätte Secundus gewusst", sagte Crispus.
-
-Es klang nicht mehr wie eine Anklage.
 
 Mummrich stand auf und ging weiter. Hinter dem Prüfbecken wurden die Spuren deutlicher. Die Wagen waren vom befestigten Weg heruntergefahren und unmittelbar über der Leitung geblieben. Zwischen ihren Rillen lagen Fußabdrücke: schwere Sohlen, leichte Sohlen, ein Mann, der den linken Fuß nachzog. An einer Stelle hatten viele Menschen geschoben. Der Lehm war nach hinten aufgeworfen, und zwei kurze Stücke Seil lagen im Gras.
 
