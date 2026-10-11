@@ -478,7 +478,31 @@ Alle hielten still. Erst als kein weiterer Stein nachkam, gab Mummrich ein Zeich
 
 Die neue Stütze nahm das Gewicht auf.
 
-Danach ließ sich der größte Stein bewegen. Die Legionäre legten eine Schlinge darum und führten das Zugseil zum Rollenblock am äußeren Stützrahmen. Zwei Männer hoben ihn mit den Hebelstangen gerade so weit an, dass zwei Bohlen daruntergeschoben werden konnten. Vier zogen ihn waagerecht durch den Gang zurück. Faulmann hielt die Leine vom Mauerwerk fern, damit der Stein sich nicht drehte und gegen die neuen Stützen schlug.
+Danach ließ sich der größte Stein bewegen.
+
+Crispus beugte sich zum Spalt. "Könnt Ihr ihn sehen?"
+
+"Seine Rückseite", sagte Secundus. "Und das Querholz darunter."
+
+"Ich sehe das Seil und die Stützen. Ihr ruft Halt, wenn sich auf Eurer Seite etwas bewegt."
+
+"Und Ihr sagt, wann sie ziehen."
+
+Die Legionäre legten eine Schlinge um den Stein und führten das Zugseil zum Rollenblock am äußeren Stützrahmen. Zwei Männer hoben ihn mit den Hebelstangen gerade so weit an, dass zwei Bohlen daruntergeschoben werden konnten.
+
+"Zug", sagte Crispus.
+
+Vier Legionäre spannten das Seil. Der Stein glitt eine Handbreit zurück.
+
+"Halt", rief Secundus.
+
+Die vier Männer hielten gleichzeitig inne. Hinter dem Stein schabte Holz über Ziegel.
+
+"Das Querholz ist frei", sagte Secundus nach einem Augenblick. "Weiter."
+
+Crispus hob die Hand. "Zug."
+
+Der Stein glitt waagerecht durch den Gang zurück. Faulmann hielt die Leine vom Mauerwerk fern, damit er sich nicht drehte und gegen die neuen Stützen schlug.
 
 Hinter ihm wurde die Öffnung breit genug für Mummrich.
 
@@ -500,7 +524,7 @@ Oben im Hof sägte Cassianus eines der Hölzer vom Schiff zu. Das Stück wandert
 
 Als die Stütze saß, hoben sie das abgerutschte Querholz an. Der verletzte Arbeiter zog das Bein frei.
 
-Nun erweiterten die Helfer die Öffnung. Zwei weitere Stützen kamen hinzu. Lose Ziegel und Erde wanderten nach draußen. Aus einzelnen Handgriffen war längst eine Ordnung geworden. Die Legionäre hielten die Rahmen unter Spannung. Cassianus und seine Gesellen richteten das Holz aus. Der Schmied trieb die Keile. Thermenarbeiter und Freiwillige trugen den Schutt fort. Liora hielt den Weg frei. Dachsbert schickte jeden, der eine Frage stellte, zu jemandem, der gerade eine Hand frei hatte.
+Nun erweiterten die Helfer die Öffnung. Zwei weitere Stützen kamen hinzu. Lose Ziegel und Erde wanderten nach draußen. Aus einzelnen Handgriffen war längst eine Ordnung geworden. Befehle gingen durch den Spalt in beide Richtungen. Wer die nächste Gefahr sehen konnte, führte den nächsten Handgriff. Die Legionäre hielten die Rahmen unter Spannung. Cassianus und seine Gesellen richteten das Holz aus. Der Schmied trieb die Keile. Thermenarbeiter und Freiwillige trugen den Schutt fort. Liora hielt den Weg frei. Dachsbert schickte jeden, der eine Frage stellte, zu jemandem, der gerade eine Hand frei hatte.
 
 Faulmann hielt den Zugang frei und nahm den Männern Körbe und Werkzeug ab.
 
@@ -568,15 +592,15 @@ Secundus nickte. "Das erklärt den Ton."
 
 Im Gang reichte ein Legionär einem Thermenarbeiter einen Korb. Der nahm ihn, ohne aufzusehen, und gab ihm im selben Griff einen leeren zurück.
 
-"Eure Männer haben auf meine gehört", sagte Secundus.
+"Als Ihr Halt gerufen habt, haben meine Leute gehalten", sagte Crispus.
 
-"Eure auf meine."
+"Ihr hattet ihnen nicht befohlen, auf mich zu hören."
 
-"Für eine Weile waren es dieselben."
+"Sie konnten das Querholz nicht sehen. Ihr schon."
 
-Crispus blickte auf die Kette aus Soldaten, Arbeitern und Freiwilligen.
+Secundus sah in den Gang. "Für eine Weile war es gleichgültig, von welcher Seite ein Befehl kam."
 
-"Für eine Weile", sagte er.
+"Solange es der richtige war."
 
 Sie fassten einander mit der Rechten am Unterarm.
 
