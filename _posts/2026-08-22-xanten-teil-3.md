@@ -10,10 +10,6 @@ permalink: /xanten/teil-3/
 tags: [faulmann, xanten, roemer, colonia-ulpia-traiana, archäologischer-park, museum, geschichte]
 ---
 
-<div class="gallery-note">
-Dieser dritte Teil ist noch eine Arbeitsfassung. Die Bilder und der Handlungsverlauf stehen bereits fest; die Prosaszenen werden als Nächstes ausgearbeitet.
-</div>
-
 ## Die Karrenspur
 
 ![Die schweren Karren haben Lehm, Holzspäne und tiefe Spuren in den Straßen der Colonia hinterlassen.](/assets/img/posts/2026-08-22-xanten/06-karrenspur.webp)
@@ -56,7 +52,7 @@ Ein Lastträger erinnerte sich an die Balken, weil er mit seinem Korb hatte wart
 
 Alle zeigten zum Amphitheater.
 
-Von weiter südlich trug der Wind ein vielstimmiges Rufen herüber. Es kam nicht von einer Gefahr. Es klang eher nach Menschen, die erwarteten, dass jemand anderes eine einging.
+Von weiter südlich trug der Wind ein vielstimmiges Rufen herüber. Es kam nicht von einer Gefahr. Es klang eher nach Menschen, die erwarteten, dass jemand anderes für sie etwas Gefährliches tat.
 
 Marcellus blickte von seiner Tafel auf. "Am Nachmittag beginnen die Gladiatorenkämpfe."
 
@@ -220,7 +216,7 @@ Sie führten durch das Tor.
 
 ## Die Großen Thermen
 
-Die beiden Karren standen im Wirtschaftshof hinter dem Seitentor. Auf jedem lagen noch drei der langen Eichenbalken. Die sechs übrigen waren bereits verbaut: Je zwei Pfosten und ein Querbalken bildeten zwei Stützrahmen über einem freigelegten Zugang.
+Die beiden Karren standen im Wirtschaftshof hinter dem Seitentor. Auf jedem lagen noch drei der langen Eichenbalken. Die sechs übrigen waren bereits verbaut gewesen: Ein Rahmen stützte den freigelegten Zugang, die Balken des zweiten verschwanden einige Schritte weiter im Dunkel des gemauerten Gangs.
 
 Dort endeten die Spuren.
 
@@ -250,7 +246,7 @@ Die Antwort kam schneller.
 
 "Sie sind dahinter", sagte er. "Einige Meter."
 
-Crispus ging in die Hocke und betrachtete den Einsturz. Zwischen den Steinen drang Wasser hervor. Die Männer hatten den Gang abgestützt, doch der letzte Rahmen war mit der Seitenwand weggebrochen. Dahinter musste ein weiterer Abschnitt nachgegeben haben.
+Crispus ging in die Hocke und betrachtete den Einsturz. Zwischen den Steinen drang Wasser hervor. Die Männer hatten den Gang abgestützt, doch der zweite Rahmen war mit der Seitenwand weggebrochen. Dahinter musste ein weiterer Abschnitt nachgegeben haben.
 
 Crispus stand auf. "Zuerst sperren wir das Wasser. Dann holen wir sie heraus."
 
@@ -346,7 +342,7 @@ Die Händlerin nickte.
 
 Marcellus sah wieder zu Dachsbert.
 
-"Schreiben Sie auch das auf", sagte Dachsbert.
+"Schreibt auch das auf", sagte Dachsbert.
 
 Die neue Oberaufseherin der Colonia stellte sich neben Liora an das Tor und nahm die nächsten Lieferungen entgegen.
 
@@ -564,7 +560,7 @@ Crispus kniete am Zugang. "Secundus. Jetzt Ihr."
 
 "Zuerst der Dachs."
 
-"Mummrich kann klettern."
+"Mummrich kommt allein durch."
 
 "Ich auch."
 
@@ -645,6 +641,7 @@ Crispus folgte seinem Finger. "Cassianus?"
 Der Zimmermann nahm bereits Maß.
 
 Dann machten sie weiter.
+
 ---
 
 [← Zu Teil 2: Zwölf verschwundene Eichenbalken]({{ '/xanten/teil-2/' | relative_url }})
