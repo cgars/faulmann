@@ -582,7 +582,7 @@ Liora sah zu den Männern an der Mauer und dann zu Secundus.
 
 Niemand jubelte. Die Legionäre ließen die Seile sinken. Cassianus prüfte die Stützen. Der Schmied sammelte die noch unbenutzten Keile ein und legte sie ordentlich neben den Korb.
 
-Die Oberaufseherin brachte einen Krug Posca, Wasser mit einem Schuss saurem Wein. Legionäre, Zimmerleute und Thermenarbeiter setzten sich auf die verbliebenen Balken und an die Mauer. Es gab weniger Becher als Hände. Bald wusste niemand mehr, wem welcher gehört hatte.
+Die Oberaufseherin brachte einen Krug Posca, Wasser mit einem Schuss saurem Wein. Einige Legionäre, Zimmerleute und Thermenarbeiter setzten sich auf Balkenstücke und an die Mauer. Es gab weniger Becher als Hände. Bald wusste niemand mehr, wem welcher gehört hatte.
 
 "Eure Gesellen setzen brauchbare Keile", sagte einer der Legionäre.
 
