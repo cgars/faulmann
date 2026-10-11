@@ -368,6 +368,18 @@ Crispus nickte. "Und danach keiner weiter, bevor der Schutt dort weg ist."
 
 Sie gingen gemeinsam hinunter.
 
+Unten setzte Crispus den Fuß des ersten Pfostens um zwei Fingerbreit zur Seite.
+
+"Nicht auf die Fuge", sagte Cassianus.
+
+"Sonst drückt er die Mauer auseinander, statt das Gewölbe zu tragen", sagte Crispus.
+
+Cassianus betrachtete erst die Fuge und dann ihn. "Ihr habt schon mehr abgestützt als ein Zelt."
+
+"Lager, Straßen, Brücken."
+
+Einer der Gesellen reichte Crispus den nächsten Keil, ohne noch einmal zu Cassianus zu sehen.
+
 Die Legionäre lösten die größeren Steine mit den Hebelstangen. Thermenarbeiter reichten sie in einer Kette nach draußen. Andere füllten nasse Erde in Körbe. Im Hof nahmen Menschen die Körbe entgegen, die vor wenigen Augenblicken noch nicht dort gewesen waren.
 
 Zuerst kamen Bedienstete aus den Thermen. Dann zwei Männer aus einer benachbarten Werkstatt. Eine Frau stellte einen Krug Wasser an die Mauer, nahm einen leeren Korb und reihte sich ein. Ein Junge brachte Lampenöl. Niemand wusste genau, wer ihn geschickt hatte.
@@ -496,7 +508,15 @@ Vier Legionäre spannten das Seil. Der Stein glitt eine Handbreit zurück.
 
 "Halt", rief Secundus.
 
-Die vier Männer hielten gleichzeitig inne. Hinter dem Stein schabte Holz über Ziegel.
+Die vier Männer hielten gleichzeitig inne.
+
+"Optio", murmelte einer der Legionäre.
+
+Crispus sah ihn an.
+
+"Der Ton", sagte der Mann.
+
+Hinter dem Stein schabte Holz über Ziegel.
 
 "Das Querholz ist frei", sagte Secundus nach einem Augenblick. "Weiter."
 
@@ -562,7 +582,21 @@ Liora sah zu den Männern an der Mauer und dann zu Secundus.
 
 Niemand jubelte. Die Legionäre ließen die Seile sinken. Cassianus prüfte die Stützen. Der Schmied sammelte die noch unbenutzten Keile ein und legte sie ordentlich neben den Korb.
 
-Secundus trank einen halben Becher Wasser. Dann ging er, noch immer voller Schlamm, zum Zugang. Crispus stand neben ihm.
+Die Oberaufseherin brachte einen Krug Posca, Wasser mit einem Schuss saurem Wein. Legionäre, Zimmerleute und Thermenarbeiter setzten sich auf die verbliebenen Balken und an die Mauer. Es gab weniger Becher als Hände. Bald wusste niemand mehr, wem welcher gehört hatte.
+
+"Eure Gesellen setzen brauchbare Keile", sagte einer der Legionäre.
+
+"Eure Leute halten brauchbare Seile", sagte Cassianus.
+
+"Fast wie Bauleute."
+
+"Fast wie Soldaten."
+
+Ein Geselle reichte seinen Becher dem Legionär. "Auf fast."
+
+Der Legionär trank. "Auf brauchbar."
+
+Der Becher wanderte weiter zu einem der geretteten Arbeiter und von dort zu Secundus. Er trank einen halben Becher, gab ihn dem Soldaten, der am Zugseil gestanden hatte, und ging, noch immer voller Schlamm, zum Zugang. Crispus stand neben ihm.
 
 Eine Weile sahen sie schweigend in den Gang. Hinter den Stützen wurden Körbe weitergereicht. Der Schmied schlug einen Keil nach.
 
