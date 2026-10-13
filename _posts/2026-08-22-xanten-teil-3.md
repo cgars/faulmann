@@ -190,7 +190,7 @@ Crispus sah hinein. Unter ihnen lief Wasser durch eine schmale Rinne. Es war im 
 
 Er kniete neben der Öffnung und legte zwei Finger an den feuchten Rand. Der Kanal führte unter einer Reihe weiterer Steinplatten von den Thermen fort. Auf der ersten lag trockener Staub. Neben der zweiten war der Boden dunkel. Bei der dritten stand Wasser im Radabdruck.
 
-Crispus folgte seinem Blick. "Weiter vorn tritt es aus."
+Crispus folgte seinem Blick. "Weiter vorn tritt es aus." (ich glaube das wasser  kann nihct austrfeten, es muss wenn das in den tiefer gelgen gang austreten)
 
 "Deshalb sind sie von der Straße herunter", sagte Mummrich.
 
@@ -202,25 +202,19 @@ Crispus sah auf das Wasser im Radabdruck. "Deshalb blieb in den kleinen Thermen 
 
 "Secundus hatte den Abschnitt bereits eingegrenzt", sagte Mummrich.
 
-Mummrich stand auf und ging weiter. Hinter der offenen Leitung wurden die Spuren deutlicher. Zwischen den Rillen der Wagen lagen die Abdrücke mehrerer Männer. An einer Stelle hatten sie alle geschoben; der Lehm war hinter ihren Sohlen aufgeworfen.
+Mummrich stand auf und ging weiter. Hinter der offenen Leitung (es gibt gar keine offene leitubng) wurden die Spuren deutlicher. Zwischen den Rillen der Wagen lagen die Abdrücke mehrerer Männer. An einer Stelle hatten sie alle geschoben; der Lehm war hinter ihren Sohlen aufgeworfen.
 
 Keine der Fußspuren führte zurück.
 
-Am Ende der Gasse stand ein Seitentor der Thermen offen. Aus dem Hof kam kein Hämmern, kein Rufen und kein Schaben von Schaufeln.
-
-Crispus beschleunigte seinen Schritt.
-
-Mummrich blieb bei den Spuren.
-
-Sie führten durch das Tor.
+Am Ende der Gasse stand ein Seitentor der Thermen offen.  Crispus beschleunigte seinen Schritt. Mummrich blieb bei den Spuren. Sie führten durch das Tor.
 
 ## Die Großen Thermen
 
-Die beiden Karren standen im Wirtschaftshof hinter dem Seitentor. Auf jedem lagen noch drei der langen Eichenbalken. Die sechs übrigen waren bereits verbaut gewesen: Ein Rahmen stützte den freigelegten Zugang, die Balken des zweiten verschwanden einige Schritte weiter im Dunkel des gemauerten Gangs.
+Die beiden Karren standen im Wirtschaftshof hinter dem Seitentor. Auf jedem lagen noch drei der langen Eichenbalken. Die sechs übrigen waren vermutlich bereits verbaut worden: (ich glaube es muss eher einen zugnqag zum alten Entwässerungskanal geben, der muss hier aber eigentluich noch intakt sein - die arbeiten fanden dann erst tiefer drin statt) Ein Rahmen stützte einen freigelegten Zugang, die Balken des zweiten verschwanden einige Schritte weiter im Dunkel des gemauerten Gangs.
 
 Dort endeten die Spuren.
 
-An dieser Stelle führte die beschädigte Wasserleitung über einen älteren Entwässerungskanal. Ihr gemauerter Boden war abgesackt und hatte das Gewölbe des älteren Gangs beschädigt. Um die Leitung von unten abzustützen, hatten Secundus und seine Leute die Erde abgetragen und einen Zugang zu dem Gang geöffnet. Grobe Stufen führten zwischen den neuen Stützen hinab. An der Mauer standen Schaufeln, Körbe und zwei erloschene Lampen.
+An dieser Stelle führte die beschädigte Wasserleitung über einen älteren Entwässerungskanal. Ihr gemauerter Boden war abgesackt und hatte das Gewölbe des älteren Gangs beschädigt. Um die Leitung von unten abzustützen, hatten Secundus und seine Leute die Erde abgetragen und einen Zugang zu dem Gang geöffnet. Grobe Stufen führten zwischen den neuen Stützen hinab (in der zeit haben sie sicher kiene stufen genauert wenn dann muss es eine leiter nach unten geben oder nur ein seil oder sowas ). An der Mauer standen Schaufeln, Körbe und zwei erloschene Lampen.
 
 Von den Arbeitern war niemand zu sehen.
 
@@ -228,7 +222,7 @@ Crispus nahm eine der Lampen, ließ sie neu entzünden und stieg hinab. Mummrich
 
 Nach einigen Schritten endete der Lichtschein an Erde, Ziegeln und gebrochenen Steinen.
 
-Der Gang war vollständig verschüttet.
+Der Gang war vollständig verschüttet. (das ist unplusibel wenn die wasserleitung eingebrochen ist kann in dem gang kein rinnsaal fliesen. da er ja jetzt das wasser führt)
 
 Crispus trat näher. Mummrich hielt ihn mit einer Pfote zurück.
 
