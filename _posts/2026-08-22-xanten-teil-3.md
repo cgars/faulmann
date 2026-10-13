@@ -180,49 +180,55 @@ Einige Schritte weiter blieb Crispus stehen und zeigte auf dasselbe Muster.
 
 Mummrich nickte. "Und noch immer schwerer."
 
-Eine breite Deckplatte war aus dem Boden gehoben und an die Thermenmauer gelehnt worden. Jemand hatte die Leitung hier bereits geöffnet.
+Eine breite Deckplatte war aus ihrer Fassung gehoben und an die Thermenmauer gelehnt worden. Jemand hatte den Kanal hier kontrolliert, ohne ihn aufzubrechen.
 
-Crispus sah hinein. Unter ihnen lief Wasser durch eine schmale Rinne. Es war im Schatten fast schwarz, bewegte sich aber schnell genug, dass kleine Lichtpunkte an der Mauer entlangwanderten.
+Crispus sah hinein. Unter ihnen lief das Wasser noch kräftig durch die gemauerte Leitung. Es war im Schatten fast schwarz, bewegte sich aber schnell genug, dass kleine Lichtpunkte an der Mauer entlangwanderten.
 
-"Dann ist das Wasser durch den Speicher und den Verteiler gekommen", sagte Dachsbert.
+"Dann ist es durch den Speicher und den Verteiler gekommen", sagte Dachsbert.
 
 "Bis hierher", sagte Mummrich.
 
-Er kniete neben der Öffnung und legte zwei Finger an den feuchten Rand. Der Kanal führte unter einer Reihe weiterer Steinplatten von den Thermen fort. Auf der ersten lag trockener Staub. Neben der zweiten war der Boden dunkel. Bei der dritten stand Wasser im Radabdruck.
+Er kniete neben der Kontrollöffnung und prüfte den Mörtel am Rand. Das Mauerwerk war unbeschädigt. Unter den nächsten Steinplatten führte die geschlossene Leitung weiter an der Thermenmauer entlang.
 
-Crispus folgte seinem Blick. "Weiter vorn tritt es aus." (ich glaube das wasser  kann nihct austrfeten, es muss wenn das in den tiefer gelgen gang austreten)
+"Der Bruch liegt weiter vorn", sagte Crispus. "Dort verliert die Leitung ihr Wasser."
 
-"Deshalb sind sie von der Straße herunter", sagte Mummrich.
+Marcellus betrachtete die Strecke bis zum Seitentor. "Unter dem Wirtschaftshof kreuzt ein alter Entwässerungsgang. Wenn der Boden der Leitung dort abgesackt ist, läuft das Wasser nach unten ab."
 
-Für einen Augenblick hörte man nur das Rauschen unter der Platte.
-
-Marcellus betrachtete die kurze Strecke bis zur Ecke der Thermenmauer. "Dann liegt der Schaden nur wenige Schritte hinter dem Verteiler."
-
-Crispus sah auf das Wasser im Radabdruck. "Deshalb blieb in den kleinen Thermen nur das Rinnsal."
+"Und in den kleinen Thermen bleibt nur das Rinnsal", sagte Crispus.
 
 "Secundus hatte den Abschnitt bereits eingegrenzt", sagte Mummrich.
 
-Mummrich stand auf und ging weiter. Hinter der offenen Leitung (es gibt gar keine offene leitubng) wurden die Spuren deutlicher. Zwischen den Rillen der Wagen lagen die Abdrücke mehrerer Männer. An einer Stelle hatten sie alle geschoben; der Lehm war hinter ihren Sohlen aufgeworfen.
+Mummrich stand auf und ging weiter. Jenseits der angehobenen Deckplatte wurden die Karrenspuren deutlicher. Zwischen den Rillen lagen die Abdrücke mehrerer Männer. An einer Stelle hatten sie alle geschoben; der Lehm war hinter ihren Sohlen aufgeworfen.
 
 Keine der Fußspuren führte zurück.
 
-Am Ende der Gasse stand ein Seitentor der Thermen offen.  Crispus beschleunigte seinen Schritt. Mummrich blieb bei den Spuren. Sie führten durch das Tor.
+Am Ende der Gasse stand ein Seitentor der Thermen offen. Aus dem Hof kam kein Hämmern, kein Rufen und kein Schaben von Schaufeln.
+
+Crispus beschleunigte seinen Schritt.
+
+Mummrich blieb bei den Spuren.
+
+Sie führten durch das Tor.
 
 ## Die Großen Thermen
 
-Die beiden Karren standen im Wirtschaftshof hinter dem Seitentor. Auf jedem lagen noch drei der langen Eichenbalken. Die sechs übrigen waren vermutlich bereits verbaut worden: (ich glaube es muss eher einen zugnqag zum alten Entwässerungskanal geben, der muss hier aber eigentluich noch intakt sein - die arbeiten fanden dann erst tiefer drin statt) Ein Rahmen stützte einen freigelegten Zugang, die Balken des zweiten verschwanden einige Schritte weiter im Dunkel des gemauerten Gangs.
+Die beiden Karren standen im Wirtschaftshof hinter dem Seitentor. Auf jedem lagen noch drei der langen Eichenbalken. Die sechs übrigen waren nicht zu sehen.
 
 Dort endeten die Spuren.
 
-An dieser Stelle führte die beschädigte Wasserleitung über einen älteren Entwässerungskanal. Ihr gemauerter Boden war abgesackt und hatte das Gewölbe des älteren Gangs beschädigt. Um die Leitung von unten abzustützen, hatten Secundus und seine Leute die Erde abgetragen und einen Zugang zu dem Gang geöffnet. Grobe Stufen führten zwischen den neuen Stützen hinab (in der zeit haben sie sicher kiene stufen genauert wenn dann muss es eine leiter nach unten geben oder nur ein seil oder sowas ). An der Mauer standen Schaufeln, Körbe und zwei erloschene Lampen.
+An der Hofmauer stand der alte Wartungszugang zum Entwässerungsgang offen. Seine schwere Abdeckplatte war zur Seite geschoben worden. Eine schmale, ausgetretene Steintreppe führte hinab; das Mauerwerk des Zugangs war unbeschädigt. Daneben standen Schaufeln, Körbe und zwei erloschene Lampen.
+
+Secundus und seine Leute hatten den vorhandenen Zugang benutzt, um die abgesackte Wasserleitung an ihrer Kreuzung mit dem tiefer liegenden Gang von unten abzustützen.
 
 Von den Arbeitern war niemand zu sehen.
 
-Crispus nahm eine der Lampen, ließ sie neu entzünden und stieg hinab. Mummrich folgte ihm. Faulmann blieb dicht hinter ihnen. Der Gang war breit genug, um gebückt darin zu gehen. Wasser lief in einer flachen Rinne über den Boden.
+Crispus nahm eine der Lampen, ließ sie neu entzünden und stieg hinab. Mummrich folgte ihm. Faulmann blieb dicht hinter ihnen.
 
-Nach einigen Schritten endete der Lichtschein an Erde, Ziegeln und gebrochenen Steinen.
+Am Fuß der Treppe stand der erste Rahmen aus drei der verschwundenen Balken. Dahinter war der Gang breit genug, um gebückt darin zu gehen. Das Wasser aus der beschädigten Leitung lief breit über den Boden.
 
-Der Gang war vollständig verschüttet. (das ist unplusibel wenn die wasserleitung eingebrochen ist kann in dem gang kein rinnsaal fliesen. da er ja jetzt das wasser führt)
+Nach einigen Schritten endete der Lichtschein an Erde, Ziegeln und gebrochenen Steinen. Zwischen dem Schutt lagen die Balken des zweiten Rahmens. Über ihnen drang Wasser aus dem beschädigten Gewölbe und suchte sich zwischen den Steinen seinen Weg.
+
+Für Menschen war der Gang vollständig versperrt.
 
 Crispus trat näher. Mummrich hielt ihn mit einer Pfote zurück.
 
@@ -240,7 +246,7 @@ Die Antwort kam schneller.
 
 "Sie sind dahinter", sagte er. "Einige Meter."
 
-Crispus ging in die Hocke und betrachtete den Einsturz. Zwischen den Steinen drang Wasser hervor. Die Männer hatten den Gang abgestützt, doch der zweite Rahmen war mit der Seitenwand weggebrochen. Dahinter musste ein weiterer Abschnitt nachgegeben haben.
+Crispus ging in die Hocke und betrachtete den Einsturz. Der zweite Rahmen war seitlich weggeknickt. Mit ihm waren ein Teil des Gewölbes und der angrenzenden Wand eingebrochen. Das Wasser lief durch den Schutt weiter in den alten Entwässerungsgang.
 
 Crispus stand auf. "Zuerst sperren wir das Wasser. Dann holen wir sie heraus."
 
@@ -538,7 +544,7 @@ Nun erweiterten die Helfer die Öffnung. Zwei weitere Stützen kamen hinzu. Lose
 
 Faulmann hielt den Zugang frei und nahm den Männern Körbe und Werkzeug ab.
 
-Als die Öffnung breit genug war, kamen zuerst die fünf Arbeiter heraus, die selbst gehen konnten. Einer nach dem anderen kroch durch den gesicherten Gang und stieg über die groben Stufen in den Hof. Liora zählte sie leise und führte sie zu den Tüchern und Wasserkrügen an der Mauer.
+Als die Öffnung breit genug war, kamen zuerst die fünf Arbeiter heraus, die selbst gehen konnten. Einer nach dem anderen kroch durch den gesicherten Gang und stieg über die alten Stufen in den Hof. Liora zählte sie leise und führte sie zu den Tüchern und Wasserkrügen an der Mauer.
 
 Der sechste Arbeiter konnte nicht auftreten.
 
@@ -560,7 +566,7 @@ Crispus kniete am Zugang. "Secundus. Jetzt Ihr."
 
 "Das war keine Beurteilung Eurer Fähigkeiten."
 
-Mummrich arbeitete sich durch die Öffnung und den gesicherten Gang zurück. Am Zugang stieg er über die groben Stufen in den Hof.
+Mummrich arbeitete sich durch die Öffnung und den gesicherten Gang zurück. Am Zugang stieg er über die alten Stufen in den Hof.
 
 Secundus folgte als Letzter.
 
