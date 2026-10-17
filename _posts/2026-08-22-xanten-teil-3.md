@@ -384,6 +384,8 @@ Der Gehilfe rollte den nächsten Boden aus. Bald wanderten die knusprigen Streif
 
 Der Händler nickte langsam. "Das schreibe ich mir auf."
 
+![Liora kostet im Hof der Großen Thermen den ersten improvisierten Flammkuchen, während die Oberaufseherin Versorgung und Helfer zum Tunnelzugang lenkt.](/assets/img/posts/2026-08-22-xanten/08-gastfreundschaft-reichweite.webp)
+
 Im Zugang arbeiteten Crispus und Cassianus von Rahmen zu Rahmen. Sie ließen nur so viel Schutt lösen, wie die nächste Stütze sichern konnte. Der Schmied trieb die Keile, bis das Holz das Gewicht des Gewölbes übernahm.
 
 Mummrich bewegte sich vor ihnen. Wo der Gang niedriger wurde, ging er auf allen vieren weiter. Er prüfte die Fugen, lauschte in den Schutt und zeigte, an welcher Stelle die Klopfzeichen am deutlichsten waren.
@@ -511,6 +513,8 @@ Die vier Männer hielten gleichzeitig inne.
 Crispus sah ihn an.
 
 "Der Ton", sagte der Mann.
+
+![Crispus und Secundus teilen beim Bergen des Felsblocks das Kommando über Legionäre und Bauleute im abgestützten Entwässerungsgang.](/assets/img/posts/2026-08-22-xanten/09-zug-und-halt.webp)
 
 Hinter dem Stein schabte Holz über Ziegel.
 
