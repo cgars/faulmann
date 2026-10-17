@@ -58,63 +58,47 @@ Marcellus blickte von seiner Tafel auf. "Am Nachmittag beginnen die Gladiatorenk
 
 Vor ihnen erschienen die Außenmauern des Amphitheaters. Menschen strömten zu den Eingängen. Händler trugen Körbe mit Brot, Nüssen und kleinen Tonbechern heran. Ein Mann hatte ein Gestell mit Sitzpolstern auf dem Rücken. Zwei Jungen liefen mit bemalten Tafeln zwischen den Wartenden hindurch und nannten Namen, von denen mindestens einer auf der Tafel anders geschrieben stand.
 
-An einem Seitentor winkte ein Aufseher.
-
-"Der Wagen steht hier", rief er.(woher soll der denn wissen das ein wagen gescuht wird)
+An einem Seitentor stand ein Wagen mit Brennholz und einer großen gewölbten Haube aus gebranntem Ton.
 
 Crispus beschleunigte seinen Schritt. Mummrich blieb kurz stehen, sah auf den harten Boden unter seinen Füßen und folgte dann.
 
 ## Das Amphitheater
 
-![Mummrich prüft im Seitengang des Amphitheaters die Spur des falschen Wagens.](/assets/img/posts/2026-08-22-xanten/07-amphitheater.webp)
+![Mummrich und die anderen stehen am Seitentor des Amphitheaters vor dem falschen Ofenwagen.](/assets/img/posts/2026-08-22-xanten/07-amphitheater.webp)
 
-Vor dem Tor stand tatsächlich ein Wagen. Auf ihm lagen mehrere Bündel Brennholz, zwei Säcke, ein flaches Kohlenbecken und eine große gewölbte Haube aus gebranntem Ton. Daneben stritt ein Händler mit einem Gehilfen darüber, ob zuerst der Ofen oder zuerst die Kohle abgeladen werden müsse.
+Der Wagen stand quer vor dem Tor. Unter der Tonhaube lag eine Platte aus hellem Stein; daneben waren ein Kohlenbecken, zwei Säcke und mehrere Töpfe festgebunden. Ein Händler und sein Gehilfe versuchten, die Räder mit Holzkeilen so zu unterlegen, dass der Aufbau waagerecht stand.
 
-"Zuerst der Ofen", sagte der Händler. "Sonst steht die Kohle dort, wo der Ofen stehen soll."
+Crispus trat zu ihnen. "Kam dieser Wagen von den Herbergshäusern?"
 
-Der Gehilfe sah auf den Wagen. "Die Kohle liegt oben."
+"Das Brennholz kam von dort", sagte der Händler. "Warum?"
 
-"Deshalb erkläre ich es dir."
+"Wir suchen zwei Karren mit zwölf Eichenbalken."
 
-Der Aufseher zeigte auf das Brennholz. "Das ist der Wagen, nach dem Ihr sucht. Er kam von den Herbergshäusern." (auch hier ist unklar wieso der aufseher was on der suche weis)
+Der Händler sah auf seine dünnen Scheite und dann auf die gewölbte Haube.
 
-Crispus ging einmal um ihn herum. Er betrachtete die schmalen Scheite, die Töpfe zwischen den Säcken und schließlich die Räder.
+"Nun", sagte Crispus. "Einen Wagen haben wir gefunden. Nur einen ganz anderen."
 
-"Nun", sagte er. "Einen Wagen haben wir gefunden. Nur einen ganz anderen. "
+"Der Ofen ist schwerer, als er aussieht", sagte der Händler.
 
-Mummrich kniete sich neben die Radspur. Im Schatten des Durchgangs war sie noch zu erkennen. Die Räder standen enger zusammen als die beiden Spuren vor der Herberge. Der Wagen hatte das trockene Erdreich kaum eingedrückt.
+"Das bezweifle ich nicht."
 
-"Und nicht schwer genug." (ich glaube nicht das mummrich unterscuen muss ob es der richtige wagen ist, es ist offensichtlich der falsche)
+Liora deutete auf die Tonhaube. "Ihr backt auf einem Wagen?"
 
-Der Händler sah von Crispus zu Mummrich. "Der Ofen ist schwerer, als er aussieht."
+"Wir heizen den Stein unter der Haube, ziehen die Glut zur Seite und schieben dünne Teigfladen hinein", sagte der Händler. "Öl, Käse, Kräuter darauf. Was gerade da ist."
 
-"Wir suchen zwölf Eichenbalken", sagte Crispus.
+Faulmann betrachtete den Aufbau. "Ein Ofen, der zu den Hungrigen fährt."
 
-Der Händler betrachtete seine Backhaube. "Das wäre ein sehr großer Ofen."
+"Wenn die Hungrigen nicht vorher in der Arena verschwinden", sagte der Händler.
 
-Crispus wandte sich an den Aufseher. "Habt Ihr zwei Karren mit langen Eichenbalken gesehen?"
+Hinter ihm schwoll das Rufen an. Jemand schlug dreimal gegen eine Metallplatte. Die ersten Besucher drängten durch das Tor, ohne den Ofen eines Blickes zu würdigen.
 
-"Ich habe diesen Wagen gesehen. Man sagte, Ihr sucht einen Wagen mit Holz."
-
-"Wir suchen zwei."
-
-"Dann fehlt noch einer."
-
-"Beide", sagte Crispus.
-
-Der Aufseher dachte darüber nach und zog sich einen Schritt aus der Unterhaltung zurück.
-
-Hinter ihm öffnete sich der Gang zur Arena. Das Rufen schwoll an und brach wieder ab. Jemand schlug dreimal gegen eine Metallplatte. Der Händler und sein Gehilfe hoben inzwischen gemeinsam das Kohlenbecken herunter. Die Backhaube blieb auf dem Wagen. Ihre Reihenfolge hatte sich damit praktisch gegen beide durchgesetzt.
-(hier sind einfach noch viel logikfehler drin, aber wirkönnten eine schöneszene erklären wie der ofen benutzt wird um so eine art römische pizza zhu backen - schön wäre es wenn der mann mit dem fahrbrem ofen später auch zur rettung kommt und die helfer cersorgt, dort erfindet er weil er nur noch speck schmand und speck und zwieblen hat nebenbei den flammkuchen)
 Crispus sah die Straße zurück. "Dann sind unsere beiden vorher abgebogen."
 
-Mummrich stand auf. "Wir müssen zur letzten weichen Stelle zurück."
+Mummrich sah zurück zur Straße. "Wir müssen zur letzten weichen Stelle zurück."
 
 Crispus wandte sich bereits um. "Geht voraus, Meister."
 
-Sie ließen das Amphitheater hinter sich. Der Aufseher rief ihnen noch nach, ob er den einen Wagen festhalten solle.
-
-"Nur, wenn der Ofen fliehen will", sagte Liora.
+Sie ließen das Amphitheater hinter sich. Der Händler rief ihnen nach, dass die ersten Fladen bald fertig seien. Faulmann sah noch einmal zurück, ging aber weiter.
 
 Auf dem Rückweg wirkten die Aussagen weniger eindeutig. Der Lastträger hatte Balken gesehen, aber nicht, wohin sie gefahren waren. Der Mann am Getränkestand hatte Holz auf einem Wagen gesehen. Es war Brennholz gewesen. Der Junge hatte zwei schwere Karren gesehen, bevor die Straße zum Amphitheater abzweigte.
 
@@ -216,23 +200,23 @@ Von den Arbeitern war niemand zu sehen.
 
 Crispus nahm eine der Lampen, ließ sie neu entzünden und stieg hinab. Mummrich folgte ihm. Faulmann blieb dicht hinter ihnen.
 
-Am Fuß der Treppe stand der erste Rahmen aus drei der nun nicht mehr verschwundenen Balken. Dahinter war der Gang breit genug, um gebückt darin zu gehen. Das Wasser aus der beschädigten Leitung lief breit über den Boden.
+Am Fuß der Treppe stand der erste Rahmen aus drei der abgeladenen Balken. Dahinter war der Gang breit genug, um gebückt darin zu gehen. Das Wasser aus der beschädigten Leitung lief breit über den Boden.
 
-Nach einigen hundert Fuss  endete der Lichtschein an Erde, Ziegeln und gebrochenen Steinen. Zwischen dem Schutt lagen die Balken des zweiten Rahmens. Über ihnen drang Wasser aus dem beschädigten Gewölbe und suchte sich zwischen den Steinen seinen Weg.
+Nach beinahe hundert Fuß endete der Lichtschein an Erde, Ziegeln und gebrochenen Steinen. Zwischen dem Schutt lagen die Balken des zweiten Rahmens. Über ihnen drang Wasser aus dem beschädigten Gewölbe und suchte sich zwischen den Steinen seinen Weg.
 
 Für Menschen war der Gang vollständig versperrt.
 
 Crispus trat näher. Mummrich hielt ihn mit einer Pfote zurück.
 
-"Vorsicht und sorgt für Ruhe."
+"Vorsicht. Und Ruhe im Gang!", rief Mummrich.
 
-"Ruhe", erschalte ein ruf den man obwohl im Gang gerufen auch oben gut hören konnte."
+Seine Stimme lief zwischen den gemauerten Wänden bis zur Treppe. Oben wiederholte jemand: "Ruhe im Hof!"
 
-Hinter ihnen verstummten die Stimmen im Hof. Crispus hob die Lampe. Faulmann atmete so leise, wie ein Bär in einem engen gemauerten Gang atmen konnte.
+Hinter ihnen verstummten die Stimmen. Crispus hob die Lampe. Faulmann atmete so leise, wie ein Bär in einem engen gemauerten Gang atmen konnte.
 
-Mummrich legte den Kopf schief und verlies sich ganz auf seine  Maulwurf sinne .
+Mummrich schloss die Augen. Eine Pfote legte er an die Wand, die andere auf den Boden.
 
-Zunächst war nur das Wasser zu hören. Dann kam aus dem Schutt ein dumpfer Schlag. Nach einer Pause folgte ein zweiter. Dann ein dritter. Und was war ihm fast als höre er auch stimmen
+Zunächst war nur das Wasser zu hören. Dann kam aus dem Schutt ein dumpfer Schlag. Nach einer Pause folgte ein zweiter. Dann ein dritter. Darunter, kaum mehr als Atem zwischen den Steinen, glaubte Mummrich Stimmen zu hören.
 
 Mummrich nahm einen losen Stein und klopfte dreimal gegen die Wand.
 
@@ -250,7 +234,7 @@ Im Hof zeigte ein dazugeeilter Thermenarbeiter zum Gebäude. "Der Schieber am Ve
 
 Der Mann lief mit zwei anderen davon. Crispus wandte sich an Marcellus.
 
-"Holt meine Leute vom Hafen. Auserdem Seile, Rollenblöcke, Hebelstangen und Schaufeln."
+"Holt meine Leute vom Hafen. Außerdem Seile, Rollenblöcke, Hebelstangen und Schaufeln."
 
 Dachsbert ergänzte: "Und Cassianus mit seinen Gesellen. Den Schmied ebenfalls."
 
@@ -266,9 +250,9 @@ Im Gang wurde das Rauschen schwächer. Der Schieber war geschlossen.
 
 ### Gastfreundschaft mit Reichweite
 
-Während Crispus die Rettung vorbereitete, verbreitete sich die Nachricht von den verschütteten Arbeitern in der Colonia. Noch bevor die Legionäre vom Hafen eintrafen, standen Körbe mit Brot und Obst, Krüge mit Wasser und zusammengerollte Tücher bereit und mehr und mehr handlanger kahmen um ihre Arbeitskraft einzubringen.
+Während Crispus die Rettung vorbereitete, verbreitete sich die Nachricht von den verschütteten Arbeitern in der Colonia. Noch bevor die Legionäre vom Hafen eintrafen, standen Körbe mit Brot und Obst, Krüge mit Wasser und zusammengerollte Tücher bereit. Immer mehr Handlanger kamen, um ihre Arbeitskraft anzubieten.
 
-Die Händlerin aus der Portikus (kann man das so sagen?) kam mit zwei Laufburschen in den Hof. Sie stellte ihren Korb an die Mauer, sah einmal zum geöffneten Zugang und einmal zum Tor.
+Die Händlerin, die unter der Portikus ihren Stand hatte, kam mit zwei Laufburschen in den Hof. Sie stellte ihren Korb an die Mauer, sah einmal zum geöffneten Zugang und einmal zum Tor.
 
 "Brot und Obst dorthin. Die Tücher daneben, aber nicht auf den nassen Boden", sagte sie. "Du läufst zur Brotfrau. Du zur Garküche. Sagt ihnen, sie sollen schicken, was sich aus der Hand essen lässt. Und bringt auf dem Rückweg jeden mit, der einen Korb tragen kann."
 
@@ -290,7 +274,7 @@ Liora ging zu Dachsbert.
 
 "Nur, soweit sie benötigt werden."
 
-Liora deutete mit dem Kinn zur Händlerin und flüsterte DAchsbert etwas ins Ohr.
+Liora deutete mit dem Kinn zur Händlerin und flüsterte Dachsbert etwas ins Ohr.
 
 Dachsbert beobachtete, wie ein weiterer Helfer mit einem Krug durch das Tor kam, von der Händlerin zur richtigen Mauer geschickt wurde und im Vorbeigehen einen leeren Korb mitnahm.
 
@@ -306,7 +290,7 @@ Die Händlerin richtete sich auf. "Die Krüge standen im Weg, die Tücher lagen 
 
 Er wartete, bis auch der Thermenbedienstete nicht mehr grinste.
 
-"Im Namen der Colonia und unter dem Schutz des Geschlechts der Melesbertier und als Inspektor der Provinz ernenne ich Euch hiermit zur städtischen Oberaufseherin für Nothilfe und Gastfreundschaft."
+"Kraft meines Amtes als Inspektor der Provinz, im Namen der Colonia und unter dem Schutz des Geschlechts der Melesbertier ernenne ich Euch hiermit zur städtischen Oberaufseherin für Nothilfe und Gastfreundschaft."
 
 Marcellus war inzwischen von der Straße zurückgekehrt. Als er gerade einen weiteren Laufburschen losschicken wollte, zog er die Wachstafel wieder aus dem Gürtel und schrieb es auf.
 
@@ -318,13 +302,13 @@ Er trug ihn zur Mauer.
 
 Dachsbert sah zu Marcellus.
 
-Der nickte und schrieb
+Der nickte und schrieb weiter.
 
 "Gilt das Amt nur für heute?", fragte die Händlerin.
 
 "Ich habe keine Befristung genannt", sagte Dachsbert.
 
-Die Händlerin nickte ebensfalls.
+Die Händlerin nickte ebenfalls.
 
 "Und die Stadt ersetzt mir die Auslagen."
 
@@ -333,6 +317,18 @@ Marcellus sah wieder zu Dachsbert.
 "Schreibt auch das auf", sagte Dachsbert.
 
 Die neue Oberaufseherin der Colonia stellte sich neben Liora an das Tor und nahm die nächsten Lieferungen entgegen.
+
+Schließlich rumpelte auch der Ofenwagen vom Amphitheater durch das große Tor. Der Händler führte das Zugtier, sein Gehilfe hielt beide Hände auf die Tonhaube.
+
+"Die Zuschauer sind hinter den Toren verschwunden", sagte der Händler. "Aber hier werden die Leute noch eine Weile Hunger haben."
+
+Die Oberaufseherin wies ihm einen Platz an der Hofmauer zu, weit genug vom Zugang und von den Tüchern entfernt. "Dort. Und jeder, der arbeitet, bekommt etwas."
+
+Der Händler sah sie an. Dann sah er zu Dachsbert.
+
+"Sie hat das Amt", sagte Dachsbert.
+
+Der Händler stellte den Wagen ab.
 
 Crispus und Faulmann kamen in den Hof zurück. Mummrich blieb mit der Lampe vor dem Schutt sitzen und lauschte weiter. Die Klopfzeichen kamen unregelmäßig, aber sie kamen.
 
@@ -350,7 +346,7 @@ Crispus nickte. "Und danach keiner weiter, bevor der Schutt dort weg ist."
 
 "Jetzt haben wir es beide gesagt."
 
-Schon setzte Crispus den Fuß des ersten Pfostens um zwei Fingerbreit zur Seite.
+Crispus führte Cassianus in den Gang hinunter. Vor dem Schutt setzte er den Fuß des ersten Pfostens um zwei Fingerbreit zur Seite.
 
 "Nicht auf die Fuge", sagte Cassianus.
 
@@ -365,6 +361,16 @@ Einer der Gesellen reichte Crispus den nächsten Keil, ohne noch einmal zu Cassi
 Die Legionäre lösten die größeren Steine mit den Hebelstangen. Thermenarbeiter reichten sie in einer Kette nach draußen. Andere füllten nasse Erde in Körbe. Im Hof nahmen Menschen die Körbe entgegen, die vor wenigen Augenblicken noch nicht dort gewesen waren.
 
 Dachsbert hielt das Seitentor frei und schickte die Neugierigen zum großen Tor. Die Oberaufseherin stellte Wasser, Tücher und Lampen an getrennte Plätze und sorgte dafür, dass leere Körbe zurück in den Gang gelangten. Liora wies neue Helfer der Kette zu. Marcellus trug Keile und Werkzeuge; seine Wachstafel blieb im Gürtel.
+
+An der Hofmauer glühte inzwischen der fahrbare Ofen. Als Öl und Käse aufgebraucht waren, blieben dem Händler für die nächsten hauchdünnen Fladen nur gesäuerter Rahm, Zwiebeln und Speck. Die ersten kamen mit dunklen Blasen und knusprigem Rand wieder aus der Hitze. Sein Gehilfe schnitt sie in Streifen, die von Hand zu Hand bis zu den Arbeitern im Gang wanderten.
+
+"Wie nennt Ihr das?", fragte Liora.
+
+Der Händler sah in den Ofen, wo die Flammen noch über den Stein liefen. "Noch gar nicht."
+
+"Flammkuchen", sagte Liora und nahm sich einen zweiten Streifen.
+
+Der Händler nickte langsam. "Das schreibe ich mir auf."
 
 Im Zugang arbeiteten Crispus und Cassianus von Rahmen zu Rahmen. Sie ließen nur so viel Schutt lösen, wie die nächste Stütze sichern konnte. Der Schmied trieb die Keile, bis das Holz das Gewicht des Gewölbes übernahm.
 
@@ -522,7 +528,7 @@ Oben im Hof sägte Cassianus eines der Hölzer vom Schiff zu. Das Stück wandert
 
 Als die Stütze saß, hoben sie das abgerutschte Querholz an. Der verletzte Arbeiter unterdrückte sichtbar seinen Schmerz und zog das Bein frei.
 
-Nun erweiterten die Helfer die Öffnung. Zwei weitere Stützen kamen hinzu. Lose Ziegel und Erde wanderten nach draußen. Aus einzelnen Handgriffen war längst eine Ordnung geworden. Befehle gingen durch den Spalt in beide Richtungen. Wer die nächste Gefahr sehen konnte, führte den nächsten Handgriff. Die Legionäre hielten die Rahmen unter Spannung. Cassianus und seine Gesellen richteten das Holz aus. Der Schmied trieb die Keile. Thermenarbeiter und Freiwillige trugen den Schutt fort. Liora hielt den Weg frei. Dachsbert schickte jeden, der eine Hnd frei hatte, zu jemandem, der gerade eine Hand frei brauchte.
+Nun erweiterten die Helfer die Öffnung. Zwei weitere Stützen kamen hinzu. Lose Ziegel und Erde wanderten nach draußen. Aus einzelnen Handgriffen war längst eine Ordnung geworden. Befehle gingen durch den Spalt in beide Richtungen. Wer die nächste Gefahr sehen konnte, führte den nächsten Handgriff. Die Legionäre hielten die Rahmen unter Spannung. Cassianus und seine Gesellen richteten das Holz aus. Der Schmied trieb die Keile. Thermenarbeiter und Freiwillige trugen den Schutt fort. Liora hielt den Weg frei. Dachsbert schickte jeden, der eine Hand frei hatte, zu jemandem, der gerade eine Hand frei brauchte.
 
 Faulmann hielt den Zugang frei und nahm den Männern Körbe und Werkzeug ab.
 
@@ -542,7 +548,6 @@ Crispus kniete am Zugang. "Secundus. Jetzt Ihr."
 
 "Zuerst der Maulwurf."
 
-
 Mummrich arbeitete sich durch die Öffnung und den gesicherten Gang zurück. Am Zugang stieg er über die alten Stufen in den Hof.
 
 Secundus folgte als Letzter.
@@ -561,13 +566,13 @@ Die Oberaufseherin brachte einen Krug Posca, Wasser mit einem Schuss saurem Wein
 
 "Fast wie Bauleute."
 
-"Fast wie brauchbare Soldaten." sagte der Legionär
+"Fast wie brauchbare Soldaten", sagte Cassianus.
 
 Ein Geselle reichte seinen Becher dem Legionär. "Auf brauchbar."
 
 Der Legionär trank. "Auf fast."
 
-Der Becher wanderte weiter zu einem der geretteten Arbeiter und von dort zu Secundus. Er trank einen halben Becher, gab ihn dem Soldaten, der am Zugseil gestanden hatte, und ging, zum Zugang. Crispus stand dort.
+Der Becher wanderte weiter zu einem der geretteten Arbeiter und von dort zu Secundus. Er trank einen halben Becher, gab ihn dem Soldaten, der am Zugseil gestanden hatte, und ging zum Zugang. Crispus wartete dort.
 
 Eine Weile sahen sie schweigend in den Gang. Hinter den Stützen wurden Körbe weitergereicht. Der Schmied schlug einen Keil nach.
 
@@ -577,7 +582,7 @@ Eine Weile sahen sie schweigend in den Gang. Hinter den Stützen wurden Körbe w
 
 "Und Ihr seid als Letzter herausgekommen."
 
-"Ich bin mit sechs Männern hineingegangen. Ich kann nihct mit wenigern wieder heraus kommen"
+"Ich bin mit sechs Männern hineingegangen. Mit weniger komme ich nicht wieder heraus."
 
 Crispus betrachtete ihn von der Seite. "Legion?"
 
