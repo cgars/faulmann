@@ -84,7 +84,7 @@ Der Händler sah auf seine dünnen Scheite und dann auf die gewölbte Haube.
 
 Liora deutete auf die Tonhaube. "Ihr backt auf einem Wagen?"
 
-"Wir heizen den Stein unter der Haube, ziehen die Glut zur Seite und schieben dünne Teigfladen hinein", sagte der Händler. "Öl, Käse, Kräuter darauf. Was gerade da ist."
+"Wir heizen den Stein unter der Haube, ziehen die Glut zur Seite und schieben Teigfladen hinein", sagte der Händler. "Öl, Käse, Kräuter darauf. Was gerade da ist."
 
 Faulmann betrachtete den Aufbau. "Ein Ofen, der zu den Hungrigen fährt."
 
@@ -362,7 +362,7 @@ Die Legionäre lösten die größeren Steine mit den Hebelstangen. Thermenarbeit
 
 Dachsbert hielt das Seitentor frei und schickte die Neugierigen zum großen Tor. Die Oberaufseherin stellte Wasser, Tücher und Lampen an getrennte Plätze und sorgte dafür, dass leere Körbe zurück in den Gang gelangten. Liora wies neue Helfer der Kette zu. Marcellus trug Keile und Werkzeuge; seine Wachstafel blieb im Gürtel.
 
-An der Hofmauer war der fahrbare Ofen inzwischen aufgeheizt. Der Händler hatte die Glut zur Seite geschoben. Als Öl und Käse aufgebraucht waren, blieben ihm für die nächsten hauchdünnen Fladen nur gesäuerter Rahm, Zwiebeln und Speck. Die ersten kamen mit dunklen Blasen und knusprigem Rand vom heißen Stein. Sein Gehilfe schnitt sie in Streifen, die von Hand zu Hand bis zu den Arbeitern im Gang wanderten.
+An der Hofmauer war der fahrbare Ofen inzwischen aufgeheizt. Der Händler hatte die Glut zur Seite geschoben. Der Teig ging zur Neige. Damit er für mehr Helfer reichte, teilte der Gehilfe den Rest in kleine Portionen und rollte sie erheblich dünner aus als sonst. Öl und Käse waren ebenfalls aufgebraucht. Also bestrich der Händler die dünnen Böden mit gesäuertem Rahm und streute Zwiebeln und Speck darüber. Die ersten Fladen kamen mit dunklen Blasen und knusprigem Rand vom heißen Stein. Der Gehilfe schnitt sie in Streifen, die von Hand zu Hand bis zu den Arbeitern im Gang wanderten.
 
 "Wie nennt Ihr das?", fragte Liora.
 
