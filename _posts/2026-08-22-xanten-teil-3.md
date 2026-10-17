@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Die schönste Form von Reichweite"
+title: "Zwölf Balken. Sieben Männer. Ein Ofen."
 subtitle: "Teil 3: Eine Stadt hilft"
 date: 2026-08-22 10:02:00 +0200
 published: false
