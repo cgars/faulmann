@@ -362,7 +362,19 @@ Die Legionäre lösten die größeren Steine mit den Hebelstangen. Thermenarbeit
 
 Dachsbert hielt das Seitentor frei und schickte die Neugierigen zum großen Tor. Die Oberaufseherin stellte Wasser, Tücher und Lampen an getrennte Plätze und sorgte dafür, dass leere Körbe zurück in den Gang gelangten. Liora wies neue Helfer der Kette zu. Marcellus trug Keile und Werkzeuge; seine Wachstafel blieb im Gürtel.
 
-An der Hofmauer war der fahrbare Ofen inzwischen aufgeheizt. Der Händler hatte die Glut zur Seite geschoben. Der Teig ging zur Neige. Damit er für mehr Helfer reichte, teilte der Gehilfe den Rest in kleine Portionen und rollte sie erheblich dünner aus als sonst. Öl und Käse waren ebenfalls aufgebraucht. Also bestrich der Händler die dünnen Böden mit gesäuertem Rahm und streute Zwiebeln und Speck darüber. Die ersten Fladen kamen mit dunklen Blasen und knusprigem Rand vom heißen Stein. Der Gehilfe schnitt sie in Streifen, die von Hand zu Hand bis zu den Arbeitern im Gang wanderten.
+An der Hofmauer war der fahrbare Ofen inzwischen aufgeheizt. Der Händler hatte die Glut zur Seite geschoben. Der Teig ging zur Neige. Der Gehilfe teilte den Rest in immer kleinere Portionen und rollte die erste erheblich dünner aus als sonst.
+
+"So hält der doch nicht", sagte der Händler.
+
+"Dicker reicht er nicht", sagte der Gehilfe und rollte weiter.
+
+Öl und Käse waren ebenfalls aufgebraucht. Also bestrich der Händler den dünnen Boden mit gesäuertem Rahm und streute Zwiebeln und Speck darüber.
+
+Zu ihrer Überraschung hielt der Fladen zusammen. Er kam mit dunklen Blasen und knusprigem Rand vom heißen Stein. Der Händler brach ein Stück ab und probierte es.
+
+"Der ist besser."
+
+Der Gehilfe rollte den nächsten Boden aus. Bald wanderten die knusprigen Streifen von Hand zu Hand bis zu den Arbeitern im Gang.
 
 "Wie nennt Ihr das?", fragte Liora.
 
