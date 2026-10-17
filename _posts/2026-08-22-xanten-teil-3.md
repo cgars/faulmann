@@ -362,11 +362,11 @@ Die Legionäre lösten die größeren Steine mit den Hebelstangen. Thermenarbeit
 
 Dachsbert hielt das Seitentor frei und schickte die Neugierigen zum großen Tor. Die Oberaufseherin stellte Wasser, Tücher und Lampen an getrennte Plätze und sorgte dafür, dass leere Körbe zurück in den Gang gelangten. Liora wies neue Helfer der Kette zu. Marcellus trug Keile und Werkzeuge; seine Wachstafel blieb im Gürtel.
 
-An der Hofmauer glühte inzwischen der fahrbare Ofen. Als Öl und Käse aufgebraucht waren, blieben dem Händler für die nächsten hauchdünnen Fladen nur gesäuerter Rahm, Zwiebeln und Speck. Die ersten kamen mit dunklen Blasen und knusprigem Rand wieder aus der Hitze. Sein Gehilfe schnitt sie in Streifen, die von Hand zu Hand bis zu den Arbeitern im Gang wanderten.
+An der Hofmauer war der fahrbare Ofen inzwischen aufgeheizt. Der Händler hatte die Glut zur Seite geschoben. Als Öl und Käse aufgebraucht waren, blieben ihm für die nächsten hauchdünnen Fladen nur gesäuerter Rahm, Zwiebeln und Speck. Die ersten kamen mit dunklen Blasen und knusprigem Rand vom heißen Stein. Sein Gehilfe schnitt sie in Streifen, die von Hand zu Hand bis zu den Arbeitern im Gang wanderten.
 
 "Wie nennt Ihr das?", fragte Liora.
 
-Der Händler sah in den Ofen, wo die Flammen noch über den Stein liefen. "Noch gar nicht."
+"Noch gar nicht", sagte der Händler.
 
 "Flammkuchen", sagte Liora und nahm sich einen zweiten Streifen.
 
