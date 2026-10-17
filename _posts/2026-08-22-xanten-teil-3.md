@@ -368,7 +368,7 @@ An der Hofmauer war der fahrbare Ofen inzwischen aufgeheizt. Der Händler hatte 
 
 "Dicker reicht er nicht", sagte der Gehilfe und rollte weiter.
 
-Öl und Käse waren ebenfalls aufgebraucht. Also bestrich der Händler den dünnen Boden mit gesäuertem Rahm und streute Zwiebeln und Speck darüber.
+Öl und Käse waren ebenfalls aufgebraucht. In den Töpfen auf dem Wagen blieben nur noch gesäuerter Rahm, Zwiebeln und Speck. Also bestrich der Händler den dünnen Boden mit dem Rahm und streute den Rest darüber.
 
 Zu ihrer Überraschung hielt der Fladen zusammen. Er kam mit dunklen Blasen und knusprigem Rand vom heißen Stein. Der Händler brach ein Stück ab und probierte es.
 
