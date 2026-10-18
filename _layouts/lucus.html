@@ -17,7 +17,18 @@ layout: base
         {% if page.hero_caption %}<figcaption>{{ page.hero_caption | escape }}</figcaption>{% endif %}
       </figure>
       {% endif %}
-      <div class="lucus__body">{{ content }}</div>
+      <div class="lucus__reader" data-lucus-reader>
+        <div class="lucus__body lucus__source" data-lucus-source>{{ content }}</div>
+        <div class="lucus__pages" data-lucus-pages hidden></div>
+        <div class="lucus__reading-controls" data-lucus-controls hidden>
+          <nav class="lucus__pagination" aria-label="Leseseiten">
+            <button type="button" data-lucus-previous aria-label="Vorherige Seite">← Zurück</button>
+            <span aria-live="polite" aria-atomic="true" data-lucus-status></span>
+            <button type="button" data-lucus-next aria-label="Nächste Seite">Weiter →</button>
+          </nav>
+          <label class="lucus__continuous-choice"><input type="checkbox" data-lucus-continuous> Fortlaufend lesen</label>
+        </div>
+      </div>
     </div>
     {% if page.notices %}
     <aside class="lucus__sidebar" aria-label="Randnotizen">
@@ -30,3 +41,4 @@ layout: base
   </div>
   <footer class="lucus__footer"><a href="{{ '/lucus/' | relative_url }}">Weitere Ausgaben des LUCUS</a></footer>
 </article>
+<script defer src="{{ '/assets/js/lucus-reader.js' | relative_url }}"></script>
