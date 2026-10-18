@@ -1,12 +1,27 @@
 ---
-layout: page
+layout: base
 title: LUCUS
 permalink: /lucus/
+lang: de
 ---
-<h1>LUCUS - De Rebus Humanis</h1>
-<p>Eine Zeitung aus den Wäldern. Über die Welt.</p>
-<ul>
-{% for post in site.categories.lucus %}
-<li><a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a> <small>{{ post.date | date: "%d.%m.%Y" }}</small></li>
-{% endfor %}
-</ul>
+<section class="lucus lucus--index" lang="de" aria-label="LUCUS - Zeitung aus den Wäldern">
+  {% include lucus-masthead.html %}
+  <div class="lucus__archive-heading">
+    <p class="lucus__rubric">De Rebus Humanis</p>
+    <h1>Aus den Wäldern. Über die Welt.</h1>
+    <p>Ein Feuilleton aus dem Faulwald.</p>
+  </div>
+  {% assign issues = site.lucus | sort: 'date' | reverse %}
+  <div class="lucus__archive">
+    {% for issue in issues %}
+    <article class="lucus__archive-entry">
+      <p class="lucus__rubric">{{ issue.rubric | default: 'Feuilleton' | escape }}{% if issue.issue %} · Nr. {{ issue.issue }}{% endif %}</p>
+      <h2><a href="{{ issue.url | relative_url }}">{{ issue.title | escape }}</a></h2>
+      {% if issue.subtitle %}<p class="lucus__archive-subtitle">{{ issue.subtitle | escape }}</p>{% endif %}
+      <time datetime="{{ issue.date | date: '%Y-%m-%d' }}">{{ issue.date | date: '%d.%m.%Y' }}</time>
+    </article>
+    {% else %}
+    <p>Der Lesetisch ist noch leer.</p>
+    {% endfor %}
+  </div>
+</section>
