@@ -580,7 +580,7 @@ Er setzte sich auf. Die Mütze war ihm tief in die Stirn gerutscht. Mummrich sa�
 
 "Nicht lange", sagte Liora.
 
-Faulmann sah zur Tür. Im Hof stand keine Händlerin. Niemand trug Körbe. Es roch nach warmem Stein und nach dem Staub eines sehr heißen Tages.
+Faulmann sah zur Tür. Im Hof sprach eine Frau mit ihren Kindern. Es roch nach warmem Stein und nach dem Staub eines sehr heißen Tages.
 
 "Ich hätte jetzt gern Flammkuchen", sagte er.
 
