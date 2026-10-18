@@ -134,13 +134,7 @@ Umgekehrt können sich Menschen durch politische Bewegungen außerordentlich han
 
 Handlungsfähigkeit ist zunächst keine moralische Kategorie.
 
-Demokratische Gegnerschaft schließt die Absicht ein, einen politischen Gegner zu besiegen. Das ist weder überraschend noch bereits eine Absage an demokratische Teilhabe. Wer eine Abstimmung gewinnen, ein Gesetz verhindern oder eine Regierung ablösen möchte, muss dem Unterlegenen nicht das Recht bestreiten, morgen erneut zu widersprechen.
-
-Anders liegt der Fall, wenn die öffentliche Demütigung des Gegners selbst als politischer Erfolg gilt. Seine Niederlage wäre dann nicht mehr nur die Folge der Durchsetzung eigener Ziele, sondern eine symbolische Form der Machtausübung. Davon ist wiederum eine dritte Orientierung zu unterscheiden: eine exkludierende politische Handlungsfähigkeit, die darauf zielt, anderen nicht nur eine Niederlage beizubringen, sondern ihre künftigen Möglichkeiten politischer Beteiligung zu beschränken.
-
-Diese Orientierungen sind weder identisch noch notwendig aufeinanderfolgende Stufen. Die Demütigung eines Gegners kann innerhalb fortbestehender demokratischer Verfahren stattfinden. Umgekehrt lässt sich politische Exklusion ohne besondere Lust an der öffentlichen Erniedrigung betreiben, etwa durch institutionelle Entscheidungen. Und weder die Gewalt einer Demonstration noch die formal geregelte Stimmabgabe verrät für sich genommen bereits, welches Verhältnis die Handelnden zur politischen Teilhabe anderer haben.
-
-Entscheidend ist, welche Vorstellungen von gesellschaftlicher Ordnung durch politische Handlungsfähigkeit verwirklicht werden sollen.
+Entscheidend ist, welche Vorstellungen von gesellschaftlicher Ordnung durch sie verwirklicht werden sollen.
 
 ## IV. Die Polizei als Gegenstand des politischen Konflikts
 
@@ -260,11 +254,9 @@ Denn die Frage, ob eine politische Handlung erfolgreich war, ist nicht identisch
 
 Allerdings wäre es ebenso problematisch, diese Überlegung in eine allgemeine Aufwertung jeder Form politischen Widerspruchs zu verwandeln.
 
-Auch destruktives Handeln kann für seine Beteiligten bedeutungsvoll sein. Wo die öffentliche Demütigung eines politischen Gegners selbst als Erfolg gilt, kann Wirksamkeit bereits im Symbolischen erfahren werden, ohne dass sich an einem Gesetz oder der Zusammensetzung einer Regierung etwas ändert. Die Beschränkung fremder Beteiligungsrechte wäre demgegenüber eine andere, institutionell folgenreichere Form politischen Handelns: Hier ginge es nicht allein um den Sieg innerhalb eines Verfahrens, sondern um die Veränderung seiner Voraussetzungen.
+Auch destruktives Handeln kann für seine Beteiligten bedeutungsvoll sein. Die Erfahrung kollektiver Wirksamkeit ist weder an demokratische Zielsetzungen gebunden noch garantiert sie die Anerkennung anderer gesellschaftlicher Interessen. Dass Menschen ihr Handeln als sinnvoll erfahren, erlaubt für sich genommen noch keine Aussage über dessen gesellschaftliche Wünschbarkeit.
 
-Daraus lässt sich jedoch weder schließen, dass gewaltsame Ausschreitungen notwendig einer solchen Zielsetzung folgen, noch, dass rechtsradikales Wahlverhalten durchweg von ihr getragen wird. Eine Handlung und die Motive ihrer Beteiligten sind nicht identisch. Gerade wenn wir den politischen Sinn destruktiven Handelns untersuchen wollen, dürfen wir ihn nicht schon aus dessen äußerer Form ableiten.
-
-Die Erfahrung kollektiver Wirksamkeit ist weder an demokratische Zielsetzungen gebunden noch garantiert sie die Anerkennung anderer gesellschaftlicher Interessen. Dass Menschen ihr Handeln als sinnvoll erfahren, erlaubt für sich genommen noch keine Aussage über dessen gesellschaftliche Wünschbarkeit. Die Unterscheidung von Bedeutung und Erfolg ist deshalb keine moralische Entlastung. Sie ist zunächst eine analytische Notwendigkeit.
+Die Unterscheidung von Bedeutung und Erfolg ist deshalb keine moralische Entlastung. Sie ist zunächst eine analytische Notwendigkeit.
 
 Gerade hier liegt möglicherweise eine Eigentümlichkeit unseres gegenwärtigen politischen Diskurses. Wir sind vergleichsweise gut darin, politische Ereignisse zu zählen, zu klassifizieren und institutionellen Ergebnissen zuzuordnen. Schwieriger fällt es uns offenbar, jene Veränderungen zu beschreiben, die erst allmählich in den Beziehungen zwischen gesellschaftlichen Gruppen, ihren Erwartungen und ihren gemeinsamen Handlungsmöglichkeiten entstehen.
 
