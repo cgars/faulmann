@@ -496,7 +496,9 @@ Crispus kniete am Zugang. "Secundus. Jetzt Ihr."
 
 Mummrich arbeitete sich durch die Öffnung und den gesicherten Gang zurück. Am Zugang stieg er über die alten Stufen in den Hof. Secundus folgte als Letzter.
 
-Liora sah zu den Männern an der Mauer und dann zu Secundus. "Sieben."
+Liora sah zu den Männern an der Mauer und dann zu Secundus.
+
+"Sieben."
 
 Die Legionäre ließen die Seile sinken. Cassianus prüfte nochmals die Stützen. Der Schmied sammelte die noch unbenutzten Keile ein und legte sie ordentlich neben den Korb.
 
@@ -584,11 +586,15 @@ Faulmann sah zur Tür. Im Hof stand keine Händlerin. Niemand trug Körbe. Es ro
 
 Liora sah ihn an. "Warum?"
 
-Faulmann dachte darüber nach. "Unerklärlicherweise."
+Faulmann dachte darüber nach.
+
+"Unerklärlicherweise."
 
 Dachsbert stand auf. "Wir wollten noch zu den Großen Thermen."
 
-Faulmann nahm den Becher und trank ihn leer. Die Großen Thermen waren tatsächlich nicht fortgelaufen.
+Faulmann nahm den Becher und trank ihn leer.
+
+Die Großen Thermen waren tatsächlich nicht fortgelaufen.
 
 Der Weg zum Schutzbau war kürzer, als Faulmann erwartet hatte. Hinter den hohen modernen Wänden lagen die Mauern des römischen Bades offen unter dem Dach. Stege führten über Heizräume, Becken und die niedrigen Pfeiler, die einst den Fußboden getragen hatten. Wo früher Wasser, Feuer und Menschen durch das Gebäude geleitet worden waren, führten nun Geländer und Schilder durch das Museum.
 
@@ -604,7 +610,9 @@ Mummrich nickte. Er hatte mit einer anderen Art von Erkenntnis gerechnet.
 
 Sie gingen weiter. Das Museum zeigte Steine, Werkzeuge, Gefäße und Dinge, die lange genug im Boden gelegen hatten, um einen eigenen Platz hinter Glas zu erhalten. Faulmann blieb noch einmal über den Mauern stehen und suchte nach dem schmalen Gang. Von oben sah alles anders aus.
 
-Keine Tafel erwähnte sieben verschüttete Männer. Das war nicht ungewöhnlich. Tafeln hatten nur begrenzt Platz.
+Keine Tafel erwähnte sieben verschüttete Männer.
+
+Das war nicht ungewöhnlich. Tafeln hatten nur begrenzt Platz.
 
 ## Mit Klimaanlage
 
