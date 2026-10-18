@@ -17,7 +17,34 @@ layout: base
         {% if page.hero_caption %}<figcaption>{{ page.hero_caption | escape }}</figcaption>{% endif %}
       </figure>
       {% endif %}
-      <div class="lucus__body">{{ content }}</div>
+      {% assign lucus_sheets = content | split: '<!-- lucus-page -->' %}
+      <div class="lucus__reader{% if lucus_sheets.size > 1 %} lucus__reader--multipage{% endif %}" data-lucus-reader>
+        <div class="lucus__sheets" data-lucus-sheets>
+          {% for sheet in lucus_sheets %}
+            <section class="lucus__sheet" id="lucus-seite-{{ forloop.index }}" data-lucus-sheet aria-label="Leseseite {{ forloop.index }} von {{ lucus_sheets.size }}">
+              {% if lucus_sheets.size > 1 %}
+                <div class="lucus__sheet-heading" aria-hidden="true">
+                  <span>De Rebus Humanis</span><span>Seite {{ forloop.index }} / {{ lucus_sheets.size }}</span>
+                </div>
+              {% endif %}
+              <div class="lucus__body">{{ sheet }}</div>
+            </section>
+          {% endfor %}
+        </div>
+        {% if lucus_sheets.size > 1 %}
+        <div class="lucus__reading-controls" data-lucus-controls hidden>
+          <nav class="lucus__pagination" aria-label="Leseseiten" data-lucus-pagination>
+            <button type="button" data-lucus-previous aria-label="Vorherige Seite">← Zurück</button>
+            <span aria-live="polite" aria-atomic="true" data-lucus-status>Seite 1 von {{ lucus_sheets.size }}</span>
+            <button type="button" data-lucus-next aria-label="Nächste Seite">Weiter →</button>
+          </nav>
+          <label class="lucus__continuous-choice">
+            <input type="checkbox" data-lucus-continuous>
+            Fortlaufend lesen
+          </label>
+        </div>
+        {% endif %}
+      </div>
     </div>
     {% if page.notices %}
     <aside class="lucus__sidebar" aria-label="Randnotizen">
@@ -30,3 +57,4 @@ layout: base
   </div>
   <footer class="lucus__footer"><a href="{{ '/lucus/' | relative_url }}">Weitere Ausgaben des LUCUS</a></footer>
 </article>
+<script defer src="{{ '/assets/js/lucus-reader.js' | relative_url }}"></script>
