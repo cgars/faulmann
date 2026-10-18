@@ -74,6 +74,7 @@ body:has(.lucus) .page-content > .wrapper { width: 96%; max-width: 1180px; }
 .lucus__page-column h2{font-size:1.4rem;margin:1.6rem 0 .6rem;}
 .lucus__page:first-child .lucus__page-column:first-child > p:first-child::first-letter{float:left;font-size:3.5em;line-height:.8;padding:.07em .09em 0 0;}
 .lucus__reading-controls:not([hidden]){display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:.8rem;border-top:3px double var(--rule);padding:1rem 0;}
+.lucus__pagination[hidden]{display:none!important;}
 .lucus__pagination{display:flex;align-items:center;justify-content:space-between;gap:.8rem;flex:1;}
 .lucus__pagination button{font:inherit;font-size:.88rem;color:var(--ink);background:transparent;border:1px solid var(--rule);padding:.45rem .75rem;cursor:pointer;}
 .lucus__pagination button:disabled{opacity:.4;cursor:default;}
