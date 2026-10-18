@@ -178,7 +178,7 @@ An der Hofmauer stand der alte Wartungszugang zum Entwässerungsgang offen. Sein
 
 Secundus und seine Leute hatten den vorhandenen Zugang benutzt, um die abgesackte Wasserleitung an ihrer Kreuzung mit dem tiefer liegenden Gang von unten abzustützen.
 
- Crispus nahm eine der Lampen, ließ sie neu entzünden und stieg hinab. Mummrich folgte ihm. Faulmann blieb dicht hinter ihnen.
+Crispus nahm eine der Lampen, ließ sie neu entzünden und stieg hinab. Mummrich folgte ihm. Faulmann blieb dicht hinter ihnen.
 
 Am Fuß der Treppe stand der erste Rahmen aus drei der abgeladenen Balken. Dahinter war der Gang breit genug, um gebückt darin zu gehen. Das Wasser aus der beschädigten Leitung lief breit über den Boden.
 
