@@ -20,9 +20,9 @@ Auf der Mailänder Piazza Duomo wurden am vergangenen Samstag Café-Tische zu Ba
 
 Die Bilder fanden schnell zueinander. Auf den Bildschirmen lagen Mailand und Paris kaum weiter auseinander als zwei aufeinanderfolgende Nachrichten. Die Ähnlichkeit der Ereignisse legte nahe, dass hier auch ihre Ursachen, möglicherweise sogar ihre politische Bedeutung, miteinander verbunden sein könnten.
 
-Eine naheliegende Annahme. Allerdings ist die Gleichzeitigkeit zweier Ereignisse zunächst eine Eigenschaft des Kalenders und noch keine historische Erklärung.
+Eine naheliegende Annahme, und eine, aus der sich ein ausgesprochen bequemer Strohmann machen ließe. Wir müssten nur behaupten, die Ähnlichkeit und zeitliche Nähe der Bilder bewiesen bereits die Existenz einer europäischen Protestbewegung. Ihre Widerlegung wäre leicht: Die Gleichzeitigkeit zweier Ereignisse ist zunächst eine Eigenschaft des Kalenders und noch keine historische Erklärung. Ein besonderer Erkenntnisgewinn wäre das nicht. Schließlich hätten wir die These, die wir so mühelos widerlegen, gerade selbst erfunden.
 
-Dennoch wäre es ebenso voreilig, einen Zusammenhang allein deshalb auszuschließen, weil sich keine gemeinsame Organisation, kein grenzüberschreitendes Aktionsbündnis und kein verbindliches politisches Programm nachweisen lassen. Gesellschaftliche Entwicklungen benötigen selten eine koordinierende Instanz, um einander zu beeinflussen. Vielmehr dürfte ein erheblicher Teil ihrer Wirkung gerade darin bestehen, dass Menschen in voneinander unabhängigen Situationen ähnliche Erfahrungen machen, diese auf vergleichbare Weise interpretieren und dabei Handlungsmöglichkeiten entdecken, die ihnen zuvor nicht zur Verfügung zu stehen schienen.
+Damit wäre allerdings auch das Gegenteil nicht bewiesen. Zwischen einer bereits organisierten gemeinsamen Bewegung und völlig beziehungslosen Ereignissen liegt ein beträchtliches Feld möglicher gesellschaftlicher Zusammenhänge. Es wäre deshalb ebenso voreilig, einen solchen Zusammenhang allein deshalb auszuschließen, weil sich keine gemeinsame Organisation, kein grenzüberschreitendes Aktionsbündnis und kein verbindliches politisches Programm nachweisen lassen. Gesellschaftliche Entwicklungen benötigen selten eine koordinierende Instanz, um einander zu beeinflussen. Vielmehr dürfte ein erheblicher Teil ihrer Wirkung gerade darin bestehen, dass Menschen in voneinander unabhängigen Situationen ähnliche Erfahrungen machen, diese auf vergleichbare Weise interpretieren und dabei Handlungsmöglichkeiten entdecken, die ihnen zuvor nicht zur Verfügung zu stehen schienen.
 
 Die interessante Frage ist deshalb weniger, ob wir bereits von einer europäischen Protestbewegung sprechen dürfen, sondern was es eigentlich bedeuten würde, wenn eine solche gerade entstünde.
 
@@ -48,13 +48,13 @@ Die sozialpsychologische Forschung zu kollektivem Handeln unterscheidet entsprec
 
 Es handelt sich mithin nicht um eine einfache Kausalität, in der Unzufriedenheit zu Ohnmacht und diese schließlich zum Protest führt.
 
-Vielmehr könnte gerade die Demonstration ein Versuch sein, die individuell erfahrene Ohnmacht durch die Herstellung kollektiver Handlungsfähigkeit zu überwinden.
+Eine Demonstration könnte der Versuch sein, individuell erfahrene Ohnmacht durch kollektives Handeln zu überwinden. Ebenso könnte sie aber Ausdruck bereits vorhandener Handlungsfähigkeit sein. Gewerkschaftlich organisierter Protest setzt beispielsweise nicht voraus, dass die Beteiligten zuvor jede Erwartung politischer Wirksamkeit verloren haben.
+
+Hier droht unsere Argumentation sonst zirkulär zu werden. Aus der Teilnahme an einem Protest lässt sich nicht ohne Weiteres eine vorausgegangene Erfahrung von Ohnmacht erschließen, um diese Erfahrung anschließend zur Ursache eben jener Teilnahme zu erklären. Menschen können handeln, weil sie Veränderung für möglich halten, weil sie einer Institution widersprechen möchten oder weil ihnen bereits die öffentliche Artikulation ihrer Haltung wichtig ist.
+
+Nicht die Ohnmacht selbst geht auf die Straße. Es sind Menschen, deren Verhältnis zu den eigenen politischen Möglichkeiten wir erst untersuchen müssen. Ob sie im gemeinsamen Handeln eine zuvor erfahrene Ohnmacht überwinden oder bereits vorhandene Möglichkeiten nutzen, lässt sich nicht am bloßen Umstand ihrer Teilnahme entscheiden.
 
 Das klingt nach einer geringfügigen Verschiebung der Perspektive, verändert aber die Fragestellung beträchtlich.
-
-Nicht die Ohnmacht selbst ginge dann auf die Straße. Auf die Straße gingen Menschen, die zumindest vorübergehend nicht länger bereit wären, ihre Ohnmacht als unveränderliche Eigenschaft ihrer gesellschaftlichen Stellung hinzunehmen.
-
-Ob dieser Versuch erfolgreich ist, steht auf einem anderen Blatt.
 
 ## II. Die politische Deutung einer gemeinsamen Erfahrung
 
