@@ -34,15 +34,9 @@ body:has(.lucus) .page-content > .wrapper { width: 96%; max-width: 1180px; }
 .lucus__footer { margin-top:2rem;padding-top:.7rem;border-top:3px double var(--rule);font-size:.9rem; }
 .lucus__footer a { color:inherit; }
 @media (min-width:900px) {
-  /* Newspaper spreads are bounded; never split the whole long essay into giant columns. */
-  .lucus__reader--multipage .lucus__sheet .lucus__body {
-    column-count:2;
-    column-gap:28px;
-    column-rule:1px solid #d2c9b6;
-    text-align:justify;
-    hyphens:auto;
-  }
-  .lucus__body h2,.lucus__body blockquote,.lucus__body figure { break-inside:avoid; }
+  .lucus__page-columns { display:grid; grid-template-columns:minmax(0,1fr) minmax(0,1fr); gap:28px; position:relative; }
+  .lucus__page-columns::after {content:""; position:absolute; left:50%; top:0; bottom:0; width:1px; background:#d2c9b6;}
+  .lucus__page-column {min-width:0; text-align:justify; hyphens:auto; }
 }
 @media (max-width:730px) {
  .lucus__columns { grid-template-columns:1fr; }
@@ -68,47 +62,23 @@ body:has(.lucus) .page-content > .wrapper { width: 96%; max-width: 1180px; }
 .lucus__archive-subtitle { font-size:1.05rem; margin:0 0 .55rem; }
 .lucus__archive-entry time { font-size:.83rem; color:#605848; }
 
-/* Each editorial spread is kept short enough to read as two physical columns.
-   With no JavaScript, spreads remain visible in their natural document order. */
-.lucus__sheet { margin:0 0 1.4rem; }
-.lucus__sheet-heading {
-  display:flex; justify-content:space-between; align-items:center;
-  gap:1rem; border-top:1px solid #bdb19a; padding:.35rem 0 .9rem;
-  text-transform:uppercase; font: .68rem/1.4 Georgia,"Times New Roman",serif;
-  letter-spacing:.12em; color:#716859;
-}
-.lucus__sheet[hidden] { display:none !important; }
-.lucus__reader { scroll-margin-top:1rem; }
-.lucus__reader--enhanced .lucus__reading-controls {
-  display:flex; flex-wrap:wrap; gap:.75rem 1rem; align-items:center;
-  justify-content:space-between; border-top:3px double var(--rule);
-  padding:1rem 0 0; margin:.5rem 0 1rem;
-}
-.lucus__reading-controls[hidden] { display:none !important; }
-.lucus__pagination { display:flex; gap:1rem; align-items:center; justify-content:space-between; flex:1; }
-.lucus__pagination[hidden] { display:none !important; }
-.lucus__pagination button {
-  font:inherit; font-size:.88rem; color:var(--ink); background:transparent;
-  border:1px solid var(--rule); padding:.45rem .75rem; cursor:pointer;
-}
-.lucus__pagination button:hover:not(:disabled), .lucus__pagination button:focus-visible {
-  background:#ece4d1;
-}
-.lucus__pagination button:disabled { cursor:default; opacity:.38; }
-.lucus__pagination [data-lucus-status] { font-size:.85rem; white-space:nowrap; }
-.lucus__continuous-choice { white-space:nowrap; font-size:.83rem; cursor:pointer; }
-.lucus__continuous-choice input { accent-color:#5e644d; }
-@media (max-width:899px) {
-  /* Phone and narrow tablet: complete, uninterrupted one-column reading. */
-  .lucus__reader--multipage .lucus__body { column-count:1; }
-  .lucus__sheet-heading { display:none; }
-  .lucus__sheet { margin:0; }
-  .lucus__reading-controls { display:none !important; }
-}
-@media print {
-  /* Print always contains every spread even when the interactive page is hidden. */
-  .lucus__sheet[hidden] { display:block !important; }
-  .lucus__reader--multipage .lucus__sheet .lucus__body { column-count:2; column-gap:20px; }
-  .lucus__sheet { break-after:page; }
-  .lucus__reading-controls { display:none !important; }
-}
+
+/* Progressive pagination; without JS the complete text remains visible. */
+.lucus__source[hidden],.lucus__pages[hidden],.lucus__page[hidden],.lucus__reading-controls[hidden]{display:none!important;}
+.lucus__reader{scroll-margin-top:1rem;}
+.lucus__page{margin:0 0 1rem;}
+.lucus__page-heading{display:flex;justify-content:space-between;gap:1rem;border-top:1px solid #bdb19a;padding:.35rem 0 .9rem;letter-spacing:.12em;text-transform:uppercase;font-size:.7rem;color:#716859;}
+.lucus__page-column{font-size:1.055rem;line-height:1.57;}
+.lucus__page-column > *{margin-top:0;}
+.lucus__page-column p{margin-bottom:1em;}
+.lucus__page-column h2{font-size:1.4rem;margin:1.6rem 0 .6rem;}
+.lucus__page:first-child .lucus__page-column:first-child > p:first-child::first-letter{float:left;font-size:3.5em;line-height:.8;padding:.07em .09em 0 0;}
+.lucus__reading-controls:not([hidden]){display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:.8rem;border-top:3px double var(--rule);padding:1rem 0;}
+.lucus__pagination{display:flex;align-items:center;justify-content:space-between;gap:.8rem;flex:1;}
+.lucus__pagination button{font:inherit;font-size:.88rem;color:var(--ink);background:transparent;border:1px solid var(--rule);padding:.45rem .75rem;cursor:pointer;}
+.lucus__pagination button:disabled{opacity:.4;cursor:default;}
+.lucus__pagination button:hover:not(:disabled){background:#ece4d1;}
+.lucus__pagination [data-lucus-status]{white-space:nowrap;font-size:.85rem;}
+.lucus__continuous-choice{font-size:.85rem;white-space:nowrap;cursor:pointer;}
+@media(max-width:899px){.lucus__pages,.lucus__reading-controls{display:none!important;}.lucus__source[hidden]{display:block!important;}}
+@media print{.lucus__source[hidden]{display:block!important;}.lucus__pages,.lucus__reading-controls{display:none!important;}.lucus__body{column-count:2;}}
