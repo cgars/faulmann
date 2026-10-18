@@ -382,7 +382,7 @@ Der Gehilfe rollte den nächsten Boden aus. Bald wanderten die knusprigen Streif
 
 "Flammkuchen", sagte Liora und nahm sich einen zweiten Streifen.
 
-Der Händler nickte langsam. "Das schreibe ich mir auf."
+Der Händler nickte langsam. "Das schreibe ich mir auf."[^flammkuchen]
 
 ![Liora kostet im Hof der Großen Thermen den ersten improvisierten Flammkuchen, während die Oberaufseherin Versorgung und Helfer zum Tunnelzugang lenkt.](/assets/img/posts/2026-08-22-xanten/08-gastfreundschaft-reichweite.webp)
 
@@ -627,3 +627,5 @@ Dann machten sie weiter.
 ---
 
 [← Zu Teil 2: Zwölf verschwundene Eichenbalken]({{ '/xanten/teil-2/' | relative_url }})
+
+[^flammkuchen]: Dass Liora hier den Flammkuchen erfindet, ist selbstverständlich Faulmannsche und keine kulinarhistorische Überlieferung. Der bekannte Flammkuchen gehört in den alemannisch-elsässischen Raum; sein Name bezieht sich wohl darauf, dass der dünne Teig bei noch lodernden Flammen in den sehr heißen Brotofen kam. Der fahrbare Ofen ist dagegen keineswegs frei erfunden: Ulrich Richentals *Chronik des Konstanzer Konzils* (1414–1418) beschreibt kleine Öfen, die Bäcker auf Stoßkarren durch die Stadt fuhren. Darin buken sie Pasteten, Ringe, „brätschellen“ – Brezeln – und anderes Brot; eine Illustration zeigt einen solchen Wagen. Das ist rund zwölf Jahrhunderte zu spät für Xanten und keine Abstammungslinie des Flammkuchens. Aber mobile Öfen, viele hungrige Menschen und Gebäck direkt auf die Hand sind offenbar eine alte und ausgesprochen haltbare Kombination. [Richentals Chronik in der MGH-Edition, K-Version 57,3](https://edition.mgh.de/001/html/download/richental.pdf#page=516) · [Abbildung und Einordnung bei Museum Aargau](https://www.museumaargau.ch/blog/artikel/streetfood-aus-dem-spaetmittelalter-inklusive-rezept)
