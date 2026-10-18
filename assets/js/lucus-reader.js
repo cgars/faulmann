@@ -14,7 +14,7 @@
   const continuousInput = root.querySelector("[data-lucus-continuous]");
   const wideScreen = window.matchMedia("(min-width: 900px)");
   const reducedMotion = window.matchMedia("(prefers-reduced-motion: reduce)");
-  const deepLink = /^#lucus-seite-(\\d+)$/.exec(window.location.hash);
+  const deepLink = /^#lucus-seite-(\d+)$/.exec(window.location.hash);
   let current = deepLink ? Math.min(pages.length - 1, Math.max(0, Number(deepLink[1]) - 1)) : 0;
 
   function update() {
