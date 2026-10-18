@@ -1,46 +1,131 @@
-/* LUCUS editorial pagination: enhanced desktop reading, continuous mobile/print fallback. */
+/* LUCUS: automatic pagination by measured, rendered element heights. */
 (() => {
   "use strict";
   const root = document.querySelector("[data-lucus-reader]");
   if (!root) return;
-  const pages = Array.from(root.querySelectorAll("[data-lucus-sheet]"));
+  const source = root.querySelector("[data-lucus-source]");
+  const output = root.querySelector("[data-lucus-pages]");
   const controls = root.querySelector("[data-lucus-controls]");
-  if (!controls || pages.length <= 1) return;
-
-  const pagination = root.querySelector("[data-lucus-pagination]");
-  const previous = root.querySelector("[data-lucus-previous]");
+  const prev = root.querySelector("[data-lucus-previous]");
   const next = root.querySelector("[data-lucus-next]");
   const status = root.querySelector("[data-lucus-status]");
-  const continuousInput = root.querySelector("[data-lucus-continuous]");
-  const wideScreen = window.matchMedia("(min-width: 900px)");
-  const reducedMotion = window.matchMedia("(prefers-reduced-motion: reduce)");
-  const deepLink = /^#lucus-seite-(\d+)$/.exec(window.location.hash);
-  let current = deepLink ? Math.min(pages.length - 1, Math.max(0, Number(deepLink[1]) - 1)) : 0;
+  const continuous = root.querySelector("[data-lucus-continuous]");
+  if (!source || !output || !controls) return;
 
-  function update() {
-    const paged = wideScreen.matches && !continuousInput.checked;
-    root.classList.add("lucus__reader--enhanced");
-    controls.hidden = !wideScreen.matches;
-    pagination.hidden = !paged;
-    pages.forEach((page, index) => { page.hidden = paged && index !== current; });
-    previous.disabled = current === 0;
+  const desktop = window.matchMedia("(min-width: 900px)");
+  const reduceMotion = window.matchMedia("(prefers-reduced-motion: reduce)");
+  const originalBlocks = Array.from(source.children);
+  let pages = [];
+  let current = 0;
+  let resizeJob = 0;
+
+  function clearPages() {
+    output.hidden = true;
+    output.replaceChildren();
+    source.hidden = false;
+    controls.hidden = true;
+    pages = [];
+  }
+
+  function build() {
+    clearPages();
+    if (!desktop.matches || continuous.checked || originalBlocks.length < 2) return;
+    // Keep pages within a reasonable reading height while honoring browser zoom.
+    const target = Math.max(460, Math.min(790, Math.round(window.innerHeight * 0.72)));
+    const measure = document.createElement("div");
+    measure.className = "lucus__page-columns";
+    measure.style.position = "absolute";
+    measure.style.visibility = "hidden";
+    measure.style.width = source.getBoundingClientRect().width + "px";
+    measure.style.pointerEvents = "none";
+    root.appendChild(measure);
+
+    const columns = [];
+    function newColumn() {
+      const col = document.createElement("div");
+      col.className = "lucus__page-column";
+      measure.replaceChildren(col);
+      columns.push([]);
+      return col;
+    }
+    let col = newColumn();
+    try {
+      for (let i = 0; i < originalBlocks.length; i++) {
+        const node = originalBlocks[i];
+        const tag = node.tagName;
+        // Headings should not be orphaned: measure them with their first paragraph.
+        const group = [node];
+        if (/^H[2-6]$/.test(tag) && i + 1 < originalBlocks.length) {
+          group.push(originalBlocks[++i]);
+        }
+        const appendGroup = () => group.forEach(el => {
+          const clone = el.cloneNode(true);
+          // Avoid duplicate ID anchors in paginated content.
+          clone.removeAttribute("id");
+          clone.querySelectorAll("[id]").forEach(n => n.removeAttribute("id"));
+          col.appendChild(clone);
+        });
+        appendGroup();
+        if (col.getBoundingClientRect().height > target && columns[columns.length - 1].length) {
+          group.forEach(() => col.lastElementChild.remove());
+          col = newColumn();
+          appendGroup();
+        }
+        columns[columns.length - 1].push(...group);
+      }
+    } finally {
+      measure.remove();
+    }
+
+    for (let i = 0; i < columns.length; i += 2) {
+      const page = document.createElement("section");
+      page.className = "lucus__page";
+      page.id = "lucus-seite-" + (i / 2 + 1);
+      const heading = document.createElement("div");
+      heading.className = "lucus__page-heading";
+      heading.setAttribute("aria-hidden", "true");
+      heading.innerHTML = "<span>De Rebus Humanis</span><span>Seite " + (i / 2 + 1) + "</span>";
+      const spread = document.createElement("div");
+      spread.className = "lucus__page-columns";
+      for (const elements of columns.slice(i, i + 2)) {
+        const column = document.createElement("div");
+        column.className = "lucus__page-column";
+        for (const el of elements) column.appendChild(el.cloneNode(true));
+        spread.appendChild(column);
+      }
+      page.append(heading, spread);
+      output.appendChild(page);
+    }
+    pages = Array.from(output.children);
+    if (!pages.length) return;
+    current = Math.min(current, pages.length - 1);
+    source.hidden = true;
+    output.hidden = false;
+    controls.hidden = false;
+    display();
+  }
+
+  function display() {
+    pages.forEach((page, i) => { page.hidden = i !== current; });
+    prev.disabled = current === 0;
     next.disabled = current === pages.length - 1;
     status.textContent = "Seite " + (current + 1) + " von " + pages.length;
   }
 
-  function show(index) {
-    current = Math.min(pages.length - 1, Math.max(0, index));
-    update();
-    if (window.history && window.history.replaceState) {
-      window.history.replaceState(null, "", "#lucus-seite-" + (current + 1));
-    }
-    root.scrollIntoView({ block: "start", behavior: reducedMotion.matches ? "auto" : "smooth" });
+  function navigate(delta) {
+    current = Math.max(0, Math.min(pages.length - 1, current + delta));
+    display();
+    root.scrollIntoView({block:"start",behavior:reduceMotion.matches ? "instant" : "smooth"});
   }
 
-  previous.addEventListener("click", () => show(current - 1));
-  next.addEventListener("click", () => show(current + 1));
-  continuousInput.addEventListener("change", update);
-  if (wideScreen.addEventListener) wideScreen.addEventListener("change", update);
-  else wideScreen.addListener(update);
-  update();
+  prev.addEventListener("click", () => navigate(-1));
+  next.addEventListener("click", () => navigate(1));
+  continuous.addEventListener("change", build);
+  function schedule() {
+    window.clearTimeout(resizeJob);
+    resizeJob = window.setTimeout(build, 180);
+  }
+  window.addEventListener("resize", schedule);
+  if (document.fonts && document.fonts.ready) document.fonts.ready.then(schedule);
+  build();
 })();
