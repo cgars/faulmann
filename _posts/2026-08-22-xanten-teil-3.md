@@ -624,6 +624,96 @@ Der Zimmermann nahm bereits Maß.
 
 Dann machten sie weiter.
 
+## Die Großen Thermen liefen nicht fort
+
+Holz schlug gegen Holz.
+
+Einmal.
+
+Nach einer Pause noch einmal.
+
+Faulmann wartete darauf, dass der Schmied den nächsten Keil setzte.
+
+Stattdessen klapperte im Hof eine Tür.
+
+Räder rollten über festen Boden. Ihr Rumpeln wurde leiser, bis nur noch das Summen eines Elektromotors blieb. Stimmen verloren sich hinter einer Mauer. Irgendwo lachte ein Kind.
+
+Durch die offene Tür fiel ein schmales Rechteck aus Licht auf den Boden. Die Staubteilchen darin hatten sich nicht weit bewegt.
+
+Faulmann öffnete die Augen.
+
+Liora stand vor ihm und hielt seinen Becher.
+
+"Du schläfst doch jetzt nicht ein?"
+
+"Nein", sagte Faulmann. "Ich glaube, ich bin gerade damit fertig geworden."
+
+Er setzte sich auf. Die Mütze war ihm tief in die Stirn gerutscht. Mummrich saß noch immer im Schneidersitz auf dem Boden. Dachsbert strich seinen Purpurstreifen glatt.
+
+"Wie lange?", fragte Faulmann.
+
+"Nicht lange", sagte Liora.
+
+Faulmann sah zur Tür. Im Hof stand keine Händlerin. Niemand trug Körbe. Es roch nach warmem Stein und nach dem Staub eines sehr heißen Tages.
+
+"Ich hätte jetzt gern Flammkuchen", sagte er.
+
+Liora sah ihn an. "Warum?"
+
+Faulmann dachte darüber nach.
+
+"Unerklärlicherweise."
+
+Dachsbert stand auf. "Wir wollten noch zu den Großen Thermen."
+
+Faulmann nahm den Becher und trank ihn leer.
+
+Die Großen Thermen waren tatsächlich nicht fortgelaufen.
+
+Der Weg zum Schutzbau war kürzer, als Faulmann erwartet hatte. Hinter den hohen modernen Wänden lagen die Mauern des römischen Bades offen unter dem Dach. Stege führten über Heizräume, Becken und die niedrigen Pfeiler, die einst den Fußboden getragen hatten. Wo früher Wasser, Feuer und Menschen durch das Gebäude geleitet worden waren, führten nun Geländer und Schilder durch das Museum.
+
+Mummrich blieb an einem Modell der Anlage stehen. Er beugte sich so weit darüber, dass seine Nase beinahe das Glas berührte. Mit einer Kralle folgte er dem Weg des Wassers bis zu den Baderäumen und von dort weiter zu den Kanälen.
+
+Liora zeigte auf einen Hof hinter dem Hauptgebäude. "Dort muss der Wirtschaftsbereich gewesen sein."
+
+Mummrich sah sie an. "Woher weißt du das?"
+
+"Es steht auf der Tafel."
+
+Mummrich nickte. Er hatte mit einer anderen Art von Erkenntnis gerechnet.
+
+Sie gingen weiter. Das Museum zeigte Steine, Werkzeuge, Gefäße und Dinge, die lange genug im Boden gelegen hatten, um einen eigenen Platz hinter Glas zu erhalten. Faulmann blieb noch einmal über den Mauern stehen und suchte nach dem schmalen Gang. Von oben sah alles anders aus.
+
+Keine Tafel erwähnte sieben verschüttete Männer.
+
+Das war nicht ungewöhnlich. Tafeln hatten nur begrenzt Platz.
+
+## Mit Klimaanlage
+
+Als sie den Park verließen, lag die Hitze noch immer über dem Asphalt. Die Elektrokutsche zeigte weniger Reichweite als am Morgen. Dachsbert betrachtete die Anzeige eine Weile.
+
+Dann fuhren sie zum Lidl-Parkplatz in Xanten.
+
+Dachsbert trug noch immer seine Tunika mit dem schmalen Purpurstreifen, als er das Ladekabel aus der Säule zog. Zwischen Einkaufswagen, Familienpackungen und Menschen in kurzen Hosen erregte das inzwischen weniger Aufmerksamkeit, als zu erwarten gewesen wäre.
+
+Er steckte das Kabel ein. Die Elektrokutsche begann zu laden.
+
+Mummrich beobachtete die steigende Zahl auf der Anzeige. Faulmann saß auf dem Beifahrersitz und dachte an sehr dünnen Teig, gesäuerten Rahm, Zwiebeln und Speck. Der Gedanke wurde nicht vernünftiger, nur genauer.
+
+Schließlich zog Dachsbert den Stecker. Die Anzeige zeigte genug Reichweite für die Rückfahrt.
+
+Er prüfte es zweimal.
+
+"Mit Klimaanlage?", fragte Mummrich.
+
+"Mit Klimaanlage", sagte Dachsbert.
+
+Liora sagte nichts. Sie hatte das Nötige schon am Morgen gesagt.
+
+Dann fuhren sie los.
+
+Diesmal reichte es.
+
 ---
 
 [← Zu Teil 2: Zwölf verschwundene Eichenbalken]({{ '/xanten/teil-2/' | relative_url }})
