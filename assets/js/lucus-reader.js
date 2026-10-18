@@ -9,12 +9,24 @@
   const prev = root.querySelector("[data-lucus-previous]");
   const next = root.querySelector("[data-lucus-next]");
   const status = root.querySelector("[data-lucus-status]");
+  const pagination = root.querySelector(".lucus__pagination");
   const continuous = root.querySelector("[data-lucus-continuous]");
   if (!source || !output || !controls) return;
 
   const desktop = window.matchMedia("(min-width: 900px)");
   const reduceMotion = window.matchMedia("(prefers-reduced-motion: reduce)");
   const originalBlocks = Array.from(source.children);
+  // Only one copy of a fragment ID may exist in the active document.
+  // Original IDs belong to the source in continuous/mobile mode, to the
+  // rendered spread in paginated mode.
+  const sourceAnchors = Array.from(source.querySelectorAll("[id]"))
+    .map(element => ({ element, id: element.id }));
+  function restoreSourceAnchors() {
+    sourceAnchors.forEach(({ element, id }) => { element.id = id; });
+  }
+  function moveAnchorsToPages() {
+    sourceAnchors.forEach(({ element }) => { element.removeAttribute("id"); });
+  }
   let pages = [];
   let current = 0;
   let resizeJob = 0;
@@ -23,7 +35,10 @@
     output.hidden = true;
     output.replaceChildren();
     source.hidden = false;
-    controls.hidden = true;
+    restoreSourceAnchors();
+    // On wide screens this remains available even when reading continuously.
+    controls.hidden = !desktop.matches || originalBlocks.length < 2;
+    pagination.hidden = true;
     pages = [];
   }
 
@@ -99,10 +114,13 @@
     pages = Array.from(output.children);
     if (!pages.length) return;
     current = Math.min(current, pages.length - 1);
+    moveAnchorsToPages();
     source.hidden = true;
     output.hidden = false;
     controls.hidden = false;
+    pagination.hidden = pages.length <= 1;
     display();
+    followFragment(false);
   }
 
   function display() {
@@ -110,6 +128,32 @@
     prev.disabled = current === 0;
     next.disabled = current === pages.length - 1;
     status.textContent = "Seite " + (current + 1) + " von " + pages.length;
+  }
+
+  // Fragment links (including Kramdown heading IDs) should expose the
+  // appropriate page before scrolling to the target.
+  function followFragment(scroll) {
+    if (output.hidden || !pages.length || !window.location.hash) return;
+    let id;
+    try { id = decodeURIComponent(window.location.hash.slice(1)); }
+    catch (error) { return; }
+    for (let index = 0; index < pages.length; index++) {
+      const page = pages[index];
+      const target = page.id === id ? page :
+        Array.from(page.querySelectorAll("[id]")).find(el => el.id === id);
+      if (!target) continue;
+      if (current !== index) {
+        current = index;
+        display();
+      }
+      if (scroll) {
+        window.requestAnimationFrame(() => target.scrollIntoView({
+          block: "start",
+          behavior: "auto"
+        }));
+      }
+      return;
+    }
   }
 
   function navigate(delta) {
@@ -121,6 +165,7 @@
   prev.addEventListener("click", () => navigate(-1));
   next.addEventListener("click", () => navigate(1));
   continuous.addEventListener("change", build);
+  window.addEventListener("hashchange", () => followFragment(true));
   function schedule() {
     window.clearTimeout(resizeJob);
     resizeJob = window.setTimeout(build, 180);
@@ -128,4 +173,5 @@
   window.addEventListener("resize", schedule);
   if (document.fonts && document.fonts.ready) document.fonts.ready.then(schedule);
   build();
+  followFragment(true);
 })();
