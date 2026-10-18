@@ -1,5 +1,6 @@
 ---
 layout: lucus
+published: true
 title: "Wenn die Ohnmacht auf die Straße geht"
 subtitle: "Über die gesellschaftliche Herstellung politischer Handlungsfähigkeit und die Schwierigkeiten ihrer begrifflichen Einordnung"
 date: 2026-10-18
