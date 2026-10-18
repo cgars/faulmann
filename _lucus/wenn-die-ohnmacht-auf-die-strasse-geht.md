@@ -20,9 +20,9 @@ Auf der Mailänder Piazza Duomo wurden am vergangenen Samstag Café-Tische zu Ba
 
 Die Bilder fanden schnell zueinander. Auf den Bildschirmen lagen Mailand und Paris kaum weiter auseinander als zwei aufeinanderfolgende Nachrichten. Die Ähnlichkeit der Ereignisse legte nahe, dass hier auch ihre Ursachen, möglicherweise sogar ihre politische Bedeutung, miteinander verbunden sein könnten.
 
-Eine naheliegende Annahme. Allerdings ist die Gleichzeitigkeit zweier Ereignisse zunächst eine Eigenschaft des Kalenders und noch keine historische Erklärung.
+Eine naheliegende Annahme, und eine, aus der sich ein ausgesprochen bequemer Strohmann machen ließe. Wir müssten nur behaupten, die Ähnlichkeit und zeitliche Nähe der Bilder bewiesen bereits die Existenz einer europäischen Protestbewegung. Ihre Widerlegung wäre leicht: Die Gleichzeitigkeit zweier Ereignisse ist zunächst eine Eigenschaft des Kalenders und noch keine historische Erklärung. Ein besonderer Erkenntnisgewinn wäre das nicht. Schließlich hätten wir die These, die wir so mühelos widerlegen, gerade selbst erfunden.
 
-Dennoch wäre es ebenso voreilig, einen Zusammenhang allein deshalb auszuschließen, weil sich keine gemeinsame Organisation, kein grenzüberschreitendes Aktionsbündnis und kein verbindliches politisches Programm nachweisen lassen. Gesellschaftliche Entwicklungen benötigen selten eine koordinierende Instanz, um einander zu beeinflussen. Vielmehr dürfte ein erheblicher Teil ihrer Wirkung gerade darin bestehen, dass Menschen in voneinander unabhängigen Situationen ähnliche Erfahrungen machen, diese auf vergleichbare Weise interpretieren und dabei Handlungsmöglichkeiten entdecken, die ihnen zuvor nicht zur Verfügung zu stehen schienen.
+Damit wäre allerdings auch das Gegenteil nicht bewiesen. Zwischen einer bereits organisierten gemeinsamen Bewegung und völlig beziehungslosen Ereignissen liegt ein beträchtliches Feld möglicher gesellschaftlicher Zusammenhänge. Es wäre deshalb ebenso voreilig, einen solchen Zusammenhang allein deshalb auszuschließen, weil sich keine gemeinsame Organisation, kein grenzüberschreitendes Aktionsbündnis und kein verbindliches politisches Programm nachweisen lassen. Gesellschaftliche Entwicklungen benötigen selten eine koordinierende Instanz, um einander zu beeinflussen. Vielmehr dürfte ein erheblicher Teil ihrer Wirkung gerade darin bestehen, dass Menschen in voneinander unabhängigen Situationen ähnliche Erfahrungen machen, diese auf vergleichbare Weise interpretieren und dabei Handlungsmöglichkeiten entdecken, die ihnen zuvor nicht zur Verfügung zu stehen schienen.
 
 Die interessante Frage ist deshalb weniger, ob wir bereits von einer europäischen Protestbewegung sprechen dürfen, sondern was es eigentlich bedeuten würde, wenn eine solche gerade entstünde.
 
@@ -48,13 +48,13 @@ Die sozialpsychologische Forschung zu kollektivem Handeln unterscheidet entsprec
 
 Es handelt sich mithin nicht um eine einfache Kausalität, in der Unzufriedenheit zu Ohnmacht und diese schließlich zum Protest führt.
 
-Vielmehr könnte gerade die Demonstration ein Versuch sein, die individuell erfahrene Ohnmacht durch die Herstellung kollektiver Handlungsfähigkeit zu überwinden.
+Eine Demonstration könnte der Versuch sein, individuell erfahrene Ohnmacht durch kollektives Handeln zu überwinden. Ebenso könnte sie aber Ausdruck bereits vorhandener Handlungsfähigkeit sein. Gewerkschaftlich organisierter Protest setzt beispielsweise nicht voraus, dass die Beteiligten zuvor jede Erwartung politischer Wirksamkeit verloren haben.
+
+Hier droht unsere Argumentation sonst zirkulär zu werden. Aus der Teilnahme an einem Protest lässt sich nicht ohne Weiteres eine vorausgegangene Erfahrung von Ohnmacht erschließen, um diese Erfahrung anschließend zur Ursache eben jener Teilnahme zu erklären. Menschen können handeln, weil sie Veränderung für möglich halten, weil sie einer Institution widersprechen möchten oder weil ihnen bereits die öffentliche Artikulation ihrer Haltung wichtig ist.
+
+Nicht die Ohnmacht selbst geht auf die Straße. Es sind Menschen, deren Verhältnis zu den eigenen politischen Möglichkeiten wir erst untersuchen müssen. Ob sie im gemeinsamen Handeln eine zuvor erfahrene Ohnmacht überwinden oder bereits vorhandene Möglichkeiten nutzen, lässt sich nicht am bloßen Umstand ihrer Teilnahme entscheiden.
 
 Das klingt nach einer geringfügigen Verschiebung der Perspektive, verändert aber die Fragestellung beträchtlich.
-
-Nicht die Ohnmacht selbst ginge dann auf die Straße. Auf die Straße gingen Menschen, die zumindest vorübergehend nicht länger bereit wären, ihre Ohnmacht als unveränderliche Eigenschaft ihrer gesellschaftlichen Stellung hinzunehmen.
-
-Ob dieser Versuch erfolgreich ist, steht auf einem anderen Blatt.
 
 ## II. Die politische Deutung einer gemeinsamen Erfahrung
 
@@ -134,7 +134,13 @@ Umgekehrt können sich Menschen durch politische Bewegungen außerordentlich han
 
 Handlungsfähigkeit ist zunächst keine moralische Kategorie.
 
-Entscheidend ist, welche Vorstellungen von gesellschaftlicher Ordnung durch sie verwirklicht werden sollen.
+Demokratische Gegnerschaft schließt die Absicht ein, einen politischen Gegner zu besiegen. Das ist weder überraschend noch bereits eine Absage an demokratische Teilhabe. Wer eine Abstimmung gewinnen, ein Gesetz verhindern oder eine Regierung ablösen möchte, muss dem Unterlegenen nicht das Recht bestreiten, morgen erneut zu widersprechen.
+
+Anders liegt der Fall, wenn die öffentliche Demütigung des Gegners selbst als politischer Erfolg gilt. Seine Niederlage wäre dann nicht mehr nur die Folge der Durchsetzung eigener Ziele, sondern eine symbolische Form der Machtausübung. Davon ist wiederum eine dritte Orientierung zu unterscheiden: eine exkludierende politische Handlungsfähigkeit, die darauf zielt, anderen nicht nur eine Niederlage beizubringen, sondern ihre künftigen Möglichkeiten politischer Beteiligung zu beschränken.
+
+Diese Orientierungen sind weder identisch noch notwendig aufeinanderfolgende Stufen. Die Demütigung eines Gegners kann innerhalb fortbestehender demokratischer Verfahren stattfinden. Umgekehrt lässt sich politische Exklusion ohne besondere Lust an der öffentlichen Erniedrigung betreiben, etwa durch institutionelle Entscheidungen. Und weder die Gewalt einer Demonstration noch die formal geregelte Stimmabgabe verrät für sich genommen bereits, welches Verhältnis die Handelnden zur politischen Teilhabe anderer haben.
+
+Entscheidend ist, welche Vorstellungen von gesellschaftlicher Ordnung durch politische Handlungsfähigkeit verwirklicht werden sollen.
 
 ## IV. Die Polizei als Gegenstand des politischen Konflikts
 
@@ -254,9 +260,11 @@ Denn die Frage, ob eine politische Handlung erfolgreich war, ist nicht identisch
 
 Allerdings wäre es ebenso problematisch, diese Überlegung in eine allgemeine Aufwertung jeder Form politischen Widerspruchs zu verwandeln.
 
-Auch destruktives Handeln kann für seine Beteiligten bedeutungsvoll sein. Die Erfahrung kollektiver Wirksamkeit ist weder an demokratische Zielsetzungen gebunden noch garantiert sie die Anerkennung anderer gesellschaftlicher Interessen. Dass Menschen ihr Handeln als sinnvoll erfahren, erlaubt für sich genommen noch keine Aussage über dessen gesellschaftliche Wünschbarkeit.
+Auch destruktives Handeln kann für seine Beteiligten bedeutungsvoll sein. Wo die öffentliche Demütigung eines politischen Gegners selbst als Erfolg gilt, kann Wirksamkeit bereits im Symbolischen erfahren werden, ohne dass sich an einem Gesetz oder der Zusammensetzung einer Regierung etwas ändert. Die Beschränkung fremder Beteiligungsrechte wäre demgegenüber eine andere, institutionell folgenreichere Form politischen Handelns: Hier ginge es nicht allein um den Sieg innerhalb eines Verfahrens, sondern um die Veränderung seiner Voraussetzungen.
 
-Die Unterscheidung von Bedeutung und Erfolg ist deshalb keine moralische Entlastung. Sie ist zunächst eine analytische Notwendigkeit.
+Daraus lässt sich jedoch weder schließen, dass gewaltsame Ausschreitungen notwendig einer solchen Zielsetzung folgen, noch, dass rechtsradikales Wahlverhalten durchweg von ihr getragen wird. Eine Handlung und die Motive ihrer Beteiligten sind nicht identisch. Gerade wenn wir den politischen Sinn destruktiven Handelns untersuchen wollen, dürfen wir ihn nicht schon aus dessen äußerer Form ableiten.
+
+Die Erfahrung kollektiver Wirksamkeit ist weder an demokratische Zielsetzungen gebunden noch garantiert sie die Anerkennung anderer gesellschaftlicher Interessen. Dass Menschen ihr Handeln als sinnvoll erfahren, erlaubt für sich genommen noch keine Aussage über dessen gesellschaftliche Wünschbarkeit. Die Unterscheidung von Bedeutung und Erfolg ist deshalb keine moralische Entlastung. Sie ist zunächst eine analytische Notwendigkeit.
 
 Gerade hier liegt möglicherweise eine Eigentümlichkeit unseres gegenwärtigen politischen Diskurses. Wir sind vergleichsweise gut darin, politische Ereignisse zu zählen, zu klassifizieren und institutionellen Ergebnissen zuzuordnen. Schwieriger fällt es uns offenbar, jene Veränderungen zu beschreiben, die erst allmählich in den Beziehungen zwischen gesellschaftlichen Gruppen, ihren Erwartungen und ihren gemeinsamen Handlungsmöglichkeiten entstehen.
 
