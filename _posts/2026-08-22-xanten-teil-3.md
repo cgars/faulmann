@@ -98,7 +98,7 @@ Sie ließen das Amphitheater hinter sich. Der Händler rief ihnen nach, dass die
 
 Auf dem Rückweg wirkten die Aussagen weniger eindeutig. Der Lastträger hatte Balken gesehen, aber nicht, wohin sie gefahren waren. Der Mann am Getränkestand hatte Holz auf einem Wagen gesehen. Es war Brennholz gewesen. Der Junge hatte zwei schwere Karren gesehen, bevor die Straße zum Amphitheater abzweigte.
 
-Sie waren in Richtung Amphitheater gefahren. Das war sicher. Dass sie zum Amphitheater gefahren waren, hatte dagegen niemand gesehen.
+Sicher war nur ihre Richtung bis zur Abzweigung. Dahinter hatte sich Beobachtung in Vermutung verwandelt.
 
 An der letzten Kreuzung kniete Mummrich wieder am Rand der Rinne. Das Wasser war inzwischen weitergelaufen und hatte den Lehm geglättet. Crispus stellte sich so, dass sein Schatten auf die Stelle fiel.
 
@@ -122,7 +122,7 @@ Der Weg führte vom Amphitheater fort. Zwischen den Häusern wurde das Rufen der
 
 Auf dem breiten Platz vor der Anlage hielten die Wagen sich nicht zum Haupteingang. Ihre Spuren führten an der langen Front der Thermen vorbei und verschwanden hinter dem Gebäudekomplex.
 
-Mummrich folgte ihnen. Diesmal fragte niemand nach der Richtung.
+Mummrich folgte ihnen. Crispus ging an seiner Seite und ließ ihn führen.
 
 ## Die Wasserleitung
 
@@ -166,7 +166,7 @@ Marcellus betrachtete die Strecke bis zum Seitentor. "Unter dem Wirtschaftshof k
 
 Mummrich stand auf und ging weiter. Jenseits der angehobenen Deckplatte wurden die Karrenspuren deutlicher. Zwischen den Rillen lagen die Abdrücke mehrerer Männer. An einer Stelle hatten sie alle geschoben; der Lehm war hinter ihren Sohlen aufgeworfen.
 
-Am Ende der Gasse stand ein Seitentor der Thermen offen. Aus dem Hof kam kein Hämmern, kein Rufen und kein Schaben von Schaufeln.
+Am Ende der Gasse stand ein Seitentor der Thermen offen. Dahinter lag der Wirtschaftshof ungewöhnlich still.
 
 Crispus beschleunigte seinen Schritt. Mummrich blieb bei den Spuren. Sie führten durch das Tor.
 
@@ -178,9 +178,7 @@ An der Hofmauer stand der alte Wartungszugang zum Entwässerungsgang offen. Sein
 
 Secundus und seine Leute hatten den vorhandenen Zugang benutzt, um die abgesackte Wasserleitung an ihrer Kreuzung mit dem tiefer liegenden Gang von unten abzustützen.
 
-Von den Arbeitern war niemand zu sehen.
-
-Crispus nahm eine der Lampen, ließ sie neu entzünden und stieg hinab. Mummrich folgte ihm. Faulmann blieb dicht hinter ihnen.
+ Crispus nahm eine der Lampen, ließ sie neu entzünden und stieg hinab. Mummrich folgte ihm. Faulmann blieb dicht hinter ihnen.
 
 Am Fuß der Treppe stand der erste Rahmen aus drei der abgeladenen Balken. Dahinter war der Gang breit genug, um gebückt darin zu gehen. Das Wasser aus der beschädigten Leitung lief breit über den Boden.
 
@@ -220,7 +218,7 @@ Marcellus steckte die Wachstafel in den Gürtel. "Wen zuerst?"
 
 Marcellus schickte zwei Laufburschen los und lief mit einem dritten selbst zur Straße.
 
-Liora hielt einen Badediener zurück. "Lampen, Tücher und Wasser zum Trinken. Dann öffnet das große Tor. Wenn Hilfe kommt, soll niemand erklären müssen, wo sie hineinmuss."
+Liora hielt einen Badediener zurück. "Lampen, Tücher und Wasser zum Trinken. Dann öffnet das große Tor, damit die Hilfe den Weg sofort findet."
 
 Im Gang wurde das Rauschen schwächer. Der Schieber war geschlossen.
 
@@ -242,7 +240,7 @@ Liora beobachtete die Händlerin.
 
 Ein Thermenbediensteter blieb mit einem Korb vor ihr stehen. "Wer hat Euch eigentlich zur Oberaufseherin gemacht, dass Ihr hier alle herumkommandiert?"
 
-"Niemand", sagte die Händlerin. "Aber bislang hat sich auch niemand beschwert."
+"Das Amt?", fragte die Händlerin. "Offenbar war es unbesetzt."
 
 Liora ging zu Dachsbert. "Du erfindest doch Ämter", sagte sie.
 
@@ -256,7 +254,7 @@ Dann trat er zu ihr. "Ich höre, Ihr kommandiert hier herum."
 
 Der Thermenbedienstete grinste breit.
 
-Die Händlerin richtete sich auf. "Die Krüge standen im Weg, die Tücher lagen im Nassen, und niemand wusste, wohin mit den Körben. Ich wollte nur—"
+Die Händlerin richtete sich auf. "Die Krüge standen im Weg, die Tücher lagen im Nassen, und die Körbe kamen überall und nirgends an. Ich wollte nur—"
 
 "Ihr missversteht mich", sagte Dachsbert. Er wartete, bis auch der Thermenbedienstete nicht mehr grinste.
 
@@ -298,13 +296,13 @@ Crispus und Faulmann kamen in den Hof zurück. Mummrich blieb mit der Lampe vor 
 
 Die ersten Thermenarbeiter begannen, Wasser und Schlamm aus dem Zugang zu schöpfen. Andere trugen die sechs verbliebenen Balken von den Wagen. Crispus ließ vor dem eingestürzten Abschnitt einen neuen Rahmen setzen. Noch bevor er fertig war, trafen die ersten Legionäre vom Hafen ein.
 
-Sie brachten Ausrüstung mit: Seile, eiserne Klammern, Hebelstangen und zwei Rollenblöcke. Niemand fragte mehr, wem die Balken gehörten.
+Sie brachten Ausrüstung mit: Seile, eiserne Klammern, Hebelstangen und zwei Rollenblöcke. Von diesem Augenblick an waren die Balken Baumaterial.
 
 Cassianus kam mit zwei Gesellen. Der Schmied folgte mit einem Korb voller Keile. Beide sahen in den Gang, sahen die vorhandenen Stützen und begannen zu arbeiten, ohne eine Erklärung abzuwarten.
 
 "Der nächste Rahmen eine Handbreit davor", sagte Cassianus.
 
-Crispus nickte. "Und danach keiner weiter, bevor der Schutt dort weg ist."
+Crispus nickte. "Und den nächsten erst, wenn der Schutt dort weg ist."
 
 "Das wollte ich gerade sagen."
 
@@ -434,7 +432,7 @@ Zwei Schläge aus der Tiefe. Eine Pause. Zwei weitere. Das Gewölbe knirschte. E
 
 "Nicht weiter", sagte Mummrich.
 
-Alle hielten still. Erst als kein weiterer Stein nachkam, gab Mummrich ein Zeichen.
+Alle hielten still. Mummrich wartete, bis sich das Gewölbe beruhigt hatte, und gab erst dann ein Zeichen.
 
 Die neue Stütze nahm das Gewicht auf. Danach ließ sich der größte Stein bewegen. Crispus beugte sich zum Spalt. "Könnt Ihr ihn sehen?"
 
@@ -502,7 +500,7 @@ Liora sah zu den Männern an der Mauer und dann zu Secundus.
 
 Die Legionäre ließen die Seile sinken. Cassianus prüfte nochmals die Stützen. Der Schmied sammelte die noch unbenutzten Keile ein und legte sie ordentlich neben den Korb.
 
-Die Oberaufseherin brachte einen Krug Posca, Wasser mit einem Schuss saurem Wein. Einige Legionäre, Zimmerleute und Thermenarbeiter setzten sich auf Balkenstücke und an die Mauer. Es gab weniger Becher als Hände. Bald wusste niemand mehr, wem welcher gehört hatte.
+Die Oberaufseherin brachte einen Krug Posca, Wasser mit einem Schuss saurem Wein. Einige Legionäre, Zimmerleute und Thermenarbeiter setzten sich auf Balkenstücke und an die Mauer. Es gab weniger Becher als Hände. Die Becher wechselten so oft die Hand, dass sie bald allen gemeinsam gehörten.
 
 "Eure Gesellen setzen brauchbare Keile", sagte einer der Legionäre.
 
@@ -608,11 +606,7 @@ Mummrich sah sie an. "Woher weißt du das?"
 
 Mummrich nickte. Er hatte mit einer anderen Art von Erkenntnis gerechnet.
 
-Sie gingen weiter. Das Museum zeigte Steine, Werkzeuge, Gefäße und Dinge, die lange genug im Boden gelegen hatten, um einen eigenen Platz hinter Glas zu erhalten. Faulmann blieb noch einmal über den Mauern stehen und suchte nach dem schmalen Gang. Von oben sah alles anders aus.
-
-Keine Tafel erwähnte sieben verschüttete Männer.
-
-Das war nicht ungewöhnlich. Tafeln hatten nur begrenzt Platz.
+Sie gingen weiter. Das Museum zeigte Steine, Werkzeuge, Gefäße und Dinge, die lange genug im Boden gelegen hatten, um einen eigenen Platz hinter Glas zu erhalten. Faulmann blieb noch einmal über den Mauern stehen und suchte nach dem schmalen Gang. Die Tafeln erklärten Heizräume, Wasserleitungen und die Wege der Badenden. Er las sie bis zum Ende. Von oben sah alles anders aus.
 
 ## Mit Klimaanlage
 
@@ -628,7 +622,7 @@ Schließlich zog Dachsbert den Stecker. Die Anzeige zeigte genug Reichweite für
 
 "Mit Klimaanlage", sagte Dachsbert.
 
-Liora sagte nichts. Sie hatte das Nötige schon am Morgen gesagt. Dann fuhren sie los.
+Liora lehnte sich zurück. Sie hatte das Nötige schon am Morgen gesagt. Dann fuhren sie los.
 
 Diesmal reichte es.
 
