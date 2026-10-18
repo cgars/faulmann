@@ -17,33 +17,17 @@ layout: base
         {% if page.hero_caption %}<figcaption>{{ page.hero_caption | escape }}</figcaption>{% endif %}
       </figure>
       {% endif %}
-      {% assign lucus_sheets = content | split: '<!-- lucus-page -->' %}
-      <div class="lucus__reader{% if lucus_sheets.size > 1 %} lucus__reader--multipage{% endif %}" data-lucus-reader>
-        <div class="lucus__sheets" data-lucus-sheets>
-          {% for sheet in lucus_sheets %}
-            <section class="lucus__sheet" id="lucus-seite-{{ forloop.index }}" data-lucus-sheet aria-label="Leseseite {{ forloop.index }} von {{ lucus_sheets.size }}">
-              {% if lucus_sheets.size > 1 %}
-                <div class="lucus__sheet-heading" aria-hidden="true">
-                  <span>De Rebus Humanis</span><span>Seite {{ forloop.index }} / {{ lucus_sheets.size }}</span>
-                </div>
-              {% endif %}
-              <div class="lucus__body">{{ sheet }}</div>
-            </section>
-          {% endfor %}
-        </div>
-        {% if lucus_sheets.size > 1 %}
+      <div class="lucus__reader" data-lucus-reader>
+        <div class="lucus__body lucus__source" data-lucus-source>{{ content }}</div>
+        <div class="lucus__pages" data-lucus-pages hidden></div>
         <div class="lucus__reading-controls" data-lucus-controls hidden>
-          <nav class="lucus__pagination" aria-label="Leseseiten" data-lucus-pagination>
+          <nav class="lucus__pagination" aria-label="Leseseiten">
             <button type="button" data-lucus-previous aria-label="Vorherige Seite">← Zurück</button>
-            <span aria-live="polite" aria-atomic="true" data-lucus-status>Seite 1 von {{ lucus_sheets.size }}</span>
+            <span aria-live="polite" aria-atomic="true" data-lucus-status></span>
             <button type="button" data-lucus-next aria-label="Nächste Seite">Weiter →</button>
           </nav>
-          <label class="lucus__continuous-choice">
-            <input type="checkbox" data-lucus-continuous>
-            Fortlaufend lesen
-          </label>
+          <label class="lucus__continuous-choice"><input type="checkbox" data-lucus-continuous> Fortlaufend lesen</label>
         </div>
-        {% endif %}
       </div>
     </div>
     {% if page.notices %}
