@@ -30,9 +30,7 @@ Die Frau stellte den Eimer ab und zeigte nach Süden. "Vor einer Weile. Man hör
 
 "Sie fuhren in Richtung Amphitheater."
 
-Marcellus ritzte es in das Wachs.
-
-Mummrich sah der Rinne nach. Wo das Wasser die nächste Straße erreichte, hatte es sich um zwei flache Vertiefungen geteilt.
+Marcellus ritzte es in das Wachs. Mummrich sah der Rinne nach. Wo das Wasser die nächste Straße erreichte, hatte es sich um zwei flache Vertiefungen geteilt.
 
 "Dort", sagte er.
 
@@ -48,9 +46,7 @@ Mummrich strich mit einem Finger über die Schramme. "Aber sie sind hindurchgeko
 
 Die Straße wurde breiter. Aus den Werkstätten kamen Hammerschläge, das Schaben einer Säge und der Geruch nach erhitztem Metall. An einer großen gepflasterten Kreuzung verlor sich die Spur vollständig.
 
-Ein Lastträger erinnerte sich an die Balken, weil er mit seinem Korb hatte warten müssen. Ein Junge hatte zwei Karren gesehen. Der Mann an einem Getränkestand hatte nur einen gesehen, dafür aber einen mit Holz.
-
-Alle zeigten zum Amphitheater.
+Ein Lastträger erinnerte sich an die Balken, weil er mit seinem Korb hatte warten müssen. Ein Junge hatte zwei Karren gesehen. Der Mann an einem Getränkestand hatte nur einen gesehen, dafür aber einen mit Holz. Alle zeigten zum Amphitheater.
 
 Von weiter südlich trug der Wind ein vielstimmiges Rufen herüber. Es kam nicht von einer Gefahr. Es klang eher nach Menschen, die erwarteten, dass jemand anderes für sie etwas Gefährliches tat.
 
@@ -108,9 +104,7 @@ An der letzten Kreuzung kniete Mummrich wieder am Rand der Rinne. Das Wasser war
 
 "Hier kamen drei Wagen vorbei", sagte Mummrich.
 
-Er zeigte auf die beiden flacheren Rillen, die geradeaus verliefen.
-
-"Der Ofenwagen."
+Er zeigte auf die beiden flacheren Rillen, die geradeaus verliefen. "Der Ofenwagen."
 
 Dann folgte er mit dem Finger einer breiteren Vertiefung. Sie setzte etwas weiter außen an und bog in eine schmalere Querstraße ein. Daneben lag eine zweite, weniger tiefe Spur. In der Kurve hatte sich ein Rad bis an den steinernen Rand der Rinne geschoben. Ein heller Span klebte im feuchten Schmutz.
 
@@ -122,17 +116,13 @@ Mummrich nickte.
 
 "Beide", sagten Crispus und Mummrich gleichzeitig.
 
-Sie sahen einander kurz an. Mummrich deutete in die Querstraße.
-
-"Dort entlang."
+Sie sahen einander kurz an. Mummrich deutete in die Querstraße. "Dort entlang."
 
 Der Weg führte vom Amphitheater fort. Zwischen den Häusern wurde das Rufen der Zuschauer leiser. Die Spuren kreuzten zwei weitere Straßen und verliefen dann auf die Großen Thermen zu. Über den Dächern erschien der obere Rand ihrer Umfassungsmauer.
 
 Auf dem breiten Platz vor der Anlage hielten die Wagen sich nicht zum Haupteingang. Ihre Spuren führten an der langen Front der Thermen vorbei und verschwanden hinter dem Gebäudekomplex.
 
-Mummrich folgte ihnen.
-
-Diesmal fragte niemand nach der Richtung.
+Mummrich folgte ihnen. Diesmal fragte niemand nach der Richtung.
 
 ## Die Wasserleitung
 
@@ -152,9 +142,7 @@ Mummrich ging langsamer als zuvor. Der Boden war hier fester, doch die schweren 
 
 "Das linke Rad des hinteren Wagens", sagte er. "Die Felge ist dort ausgebessert. Der Abdruck begleitet uns seit der Herberge."
 
-Einige Schritte weiter blieb Crispus stehen und zeigte auf dasselbe Muster.
-
-"Wieder der hintere."
+Einige Schritte weiter blieb Crispus stehen und zeigte auf dasselbe Muster. "Wieder der hintere."
 
 Mummrich nickte. "Und noch immer schwerer."
 
@@ -180,17 +168,11 @@ Mummrich stand auf und ging weiter. Jenseits der angehobenen Deckplatte wurden d
 
 Am Ende der Gasse stand ein Seitentor der Thermen offen. Aus dem Hof kam kein Hämmern, kein Rufen und kein Schaben von Schaufeln.
 
-Crispus beschleunigte seinen Schritt.
-
-Mummrich blieb bei den Spuren.
-
-Sie führten durch das Tor.
+Crispus beschleunigte seinen Schritt. Mummrich blieb bei den Spuren. Sie führten durch das Tor.
 
 ## Die Großen Thermen
 
-Die beiden Karren standen im Wirtschaftshof hinter dem Seitentor. Auf jedem lagen noch drei der langen Eichenbalken. Die sechs übrigen waren nicht zu sehen.
-
-Dort endeten die Spuren.
+Die beiden Karren standen im Wirtschaftshof hinter dem Seitentor. Auf jedem lagen noch drei der langen Eichenbalken. Die sechs übrigen waren nicht zu sehen. Dort endeten die Spuren.
 
 An der Hofmauer stand der alte Wartungszugang zum Entwässerungsgang offen. Seine schwere Abdeckplatte war zur Seite geschoben worden. Eine schmale, ausgetretene Steintreppe führte hinab; das Mauerwerk des Zugangs war unbeschädigt. Daneben standen Schaufeln, Körbe und zwei erloschene Lampen.
 
@@ -202,13 +184,9 @@ Crispus nahm eine der Lampen, ließ sie neu entzünden und stieg hinab. Mummrich
 
 Am Fuß der Treppe stand der erste Rahmen aus drei der abgeladenen Balken. Dahinter war der Gang breit genug, um gebückt darin zu gehen. Das Wasser aus der beschädigten Leitung lief breit über den Boden.
 
-Nach beinahe hundert Fuß endete der Lichtschein an Erde, Ziegeln und gebrochenen Steinen. Zwischen dem Schutt lagen die Balken des zweiten Rahmens. Über ihnen drang Wasser aus dem beschädigten Gewölbe und suchte sich zwischen den Steinen seinen Weg.
+Nach beinahe hundert Fuß endete der Lichtschein an Erde, Ziegeln und gebrochenen Steinen. Zwischen dem Schutt lagen die Balken des zweiten Rahmens. Über ihnen drang Wasser aus dem beschädigten Gewölbe und suchte sich zwischen den Steinen seinen Weg. Für Menschen war der Gang vollständig versperrt.
 
-Für Menschen war der Gang vollständig versperrt.
-
-Crispus trat näher. Mummrich hielt ihn mit einer Pfote zurück.
-
-"Vorsicht. Und Ruhe im Gang!", rief Mummrich.
+Crispus trat näher. Mummrich hielt ihn mit einer Pfote zurück. "Vorsicht. Und Ruhe im Gang!", rief Mummrich.
 
 Seine Stimme lief zwischen den gemauerten Wänden bis zur Treppe. Oben wiederholte jemand: "Ruhe im Hof!"
 
@@ -218,9 +196,7 @@ Mummrich schloss die Augen. Eine Pfote legte er an die Wand, die andere auf den 
 
 Zunächst war nur das Wasser zu hören. Dann kam aus dem Schutt ein dumpfer Schlag. Nach einer Pause folgte ein zweiter. Dann ein dritter. Darunter, kaum mehr als Atem zwischen den Steinen, glaubte Mummrich Stimmen zu hören.
 
-Mummrich nahm einen losen Stein und klopfte dreimal gegen die Wand.
-
-Die Antwort kam schneller.
+Mummrich nahm einen losen Stein und klopfte dreimal gegen die Wand. Die Antwort kam schneller.
 
 "Sie sind dahinter", sagte er. "Einige Meter."
 
@@ -268,9 +244,7 @@ Ein Thermenbediensteter blieb mit einem Korb vor ihr stehen. "Wer hat Euch eigen
 
 "Niemand", sagte die Händlerin. "Aber bislang hat sich auch niemand beschwert."
 
-Liora ging zu Dachsbert.
-
-"Du erfindest doch Ämter", sagte sie.
+Liora ging zu Dachsbert. "Du erfindest doch Ämter", sagte sie.
 
 "Nur, soweit sie benötigt werden."
 
@@ -278,17 +252,13 @@ Liora deutete mit dem Kinn zur Händlerin und flüsterte Dachsbert etwas ins Ohr
 
 Dachsbert beobachtete, wie ein weiterer Helfer mit einem Krug durch das Tor kam, von der Händlerin zur richtigen Mauer geschickt wurde und im Vorbeigehen einen leeren Korb mitnahm.
 
-Dann trat er zu ihr.
-
-"Ich höre, Ihr kommandiert hier herum."
+Dann trat er zu ihr. "Ich höre, Ihr kommandiert hier herum."
 
 Der Thermenbedienstete grinste breit.
 
 Die Händlerin richtete sich auf. "Die Krüge standen im Weg, die Tücher lagen im Nassen, und niemand wusste, wohin mit den Körben. Ich wollte nur—"
 
-"Ihr missversteht mich", sagte Dachsbert.
-
-Er wartete, bis auch der Thermenbedienstete nicht mehr grinste.
+"Ihr missversteht mich", sagte Dachsbert. Er wartete, bis auch der Thermenbedienstete nicht mehr grinste.
 
 "Kraft meines Amtes als Inspektor der Provinz, im Namen der Colonia und unter dem Schutz des Geschlechts der Melesbertier ernenne ich Euch hiermit zur städtischen Oberaufseherin für Nothilfe und Gastfreundschaft."
 
@@ -300,17 +270,13 @@ Er trug ihn zur Mauer.
 
 "Du hast sie gerade in die Klientel deines Hauses aufgenommen", sagte Liora.
 
-Dachsbert sah zu Marcellus.
-
-Der nickte und schrieb weiter.
+Dachsbert sah zu Marcellus. Der nickte und schrieb weiter.
 
 "Gilt das Amt nur für heute?", fragte die Händlerin.
 
 "Ich habe keine Befristung genannt", sagte Dachsbert.
 
-Die Händlerin nickte ebenfalls.
-
-"Und die Stadt ersetzt mir die Auslagen."
+Die Händlerin nickte ebenfalls. "Und die Stadt ersetzt mir die Auslagen."
 
 Marcellus sah wieder zu Dachsbert.
 
@@ -326,9 +292,7 @@ Die Oberaufseherin wies ihm einen Platz an der Hofmauer zu, weit genug vom Zugan
 
 Der Händler sah sie an. Dann sah er zu Dachsbert.
 
-"Sie hat das Amt", sagte Dachsbert.
-
-Der Händler stellte den Wagen ab.
+"Sie hat das Amt", sagte Dachsbert. Der Händler stellte den Wagen ab.
 
 Crispus und Faulmann kamen in den Hof zurück. Mummrich blieb mit der Lampe vor dem Schutt sitzen und lauschte weiter. Die Klopfzeichen kamen unregelmäßig, aber sie kamen.
 
@@ -370,9 +334,7 @@ An der Hofmauer war der fahrbare Ofen inzwischen aufgeheizt. Der Händler hatte 
 
 Öl und Käse waren ebenfalls aufgebraucht. In den Töpfen auf dem Wagen blieben nur noch gesäuerter Rahm, Zwiebeln und Speck. Also bestrich der Händler den dünnen Boden mit dem Rahm und streute den Rest darüber.
 
-Zu ihrer Überraschung hielt der Fladen zusammen. Er kam mit dunklen Blasen und knusprigem Rand vom heißen Stein. Der Händler brach ein Stück ab und probierte es.
-
-"Der ist besser."
+Zu ihrer Überraschung hielt der Fladen zusammen. Er kam mit dunklen Blasen und knusprigem Rand vom heißen Stein. Der Händler brach ein Stück ab und probierte es. "Der ist besser."
 
 Der Gehilfe rollte den nächsten Boden aus. Bald wanderten die knusprigen Streifen von Hand zu Hand bis zu den Arbeitern im Gang.
 
@@ -394,9 +356,7 @@ Faulmann blieb am Zugang. Er nahm die gefüllten Körbe aus dem Gang entgegen un
 
 Die Arbeit kam voran. Langsam wurde aus dem verschütteten Ende wieder ein Gang.
 
-Dann zählte Cassianus die verbliebenen Balken.
-
-"Der Rahmen hier braucht noch zwei", sagte er. "Danach bleibt uns ein einziger Balken. Das reicht nicht bis zu ihnen."
+Dann zählte Cassianus die verbliebenen Balken. "Der Rahmen hier braucht noch zwei", sagte er. "Danach bleibt uns ein einziger Balken. Das reicht nicht bis zu ihnen."
 
 Crispus sah zur Öffnung. Die Klopfzeichen waren nun auch für ihn zu hören.
 
@@ -416,25 +376,17 @@ Dachsbert trat neben ihn. "Der Schiffseigner wird eine Erklärung verlangen."
 
 "Von mir. Später."
 
-Die beiden Legionäre kehrten nicht allein zurück. Hafenarbeiter kamen mit ihnen. Auf ihren Schultern trugen sie Balken, flache Hölzer und zwei kurze Ersatzspieren, die das Lastschiff entbehren konnte. Hinter ihnen rollte der leere Wagen vom Hafen durch das große Tor.
-
-Das neue Holz wanderte von Hand zu Hand in den Gang.
+Die beiden Legionäre kehrten nicht allein zurück. Hafenarbeiter kamen mit ihnen. Auf ihren Schultern trugen sie Balken, flache Hölzer und zwei kurze Ersatzspieren, die das Lastschiff entbehren konnte. Hinter ihnen rollte der leere Wagen vom Hafen durch das große Tor. Das neue Holz wanderte von Hand zu Hand in den Gang.
 
 Cassianus prüfte jedes Stück. Was stark genug war, wurde zur Stütze. Was zu kurz war, wurde untergelegt. Was sich nicht eignete, blieb an der Mauer und störte niemanden.
 
-Als der nächste Rahmen stand, löste Mummrich mit den Pfoten Erde zwischen zwei Ziegeln. Ein dünner Luftzug strich über seine Schnurrhaare.
-
-Er hob die Pfote.
-
-Die Schaufeln schwiegen.
+Als der nächste Rahmen stand, löste Mummrich mit den Pfoten Erde zwischen zwei Ziegeln. Ein dünner Luftzug strich über seine Schnurrhaare. Er hob die Pfote. Die Schaufeln schwiegen.
 
 Crispus kniete sich neben ihn. Gemeinsam zogen sie einen lockeren Ziegel aus dem Schutt. Dahinter blieb ein schwarzer Spalt, kaum zwei Finger breit.
 
 "Secundus!", rief Crispus.
 
-Zunächst kam nur ein Husten. Dann eine Stimme.
-
-"Hier."
+Zunächst kam nur ein Husten. Dann eine Stimme: "Hier."
 
 Crispus legte das Ohr an die Öffnung. "Wie viele?"
 
@@ -478,19 +430,13 @@ Mummrich erweiterte den Spalt mit den Pfoten. Cassianus ließ die kurze Stütze 
 
 Crispus beugte sich zum Spalt. "Dann setzt sie."
 
-Zwei Schläge aus der Tiefe. Eine Pause. Zwei weitere.
-
-Das Gewölbe knirschte. Erde rieselte aus den Fugen.
+Zwei Schläge aus der Tiefe. Eine Pause. Zwei weitere. Das Gewölbe knirschte. Erde rieselte aus den Fugen.
 
 "Nicht weiter", sagte Mummrich.
 
 Alle hielten still. Erst als kein weiterer Stein nachkam, gab Mummrich ein Zeichen.
 
-Die neue Stütze nahm das Gewicht auf.
-
-Danach ließ sich der größte Stein bewegen.
-
-Crispus beugte sich zum Spalt. "Könnt Ihr ihn sehen?"
+Die neue Stütze nahm das Gewicht auf. Danach ließ sich der größte Stein bewegen. Crispus beugte sich zum Spalt. "Könnt Ihr ihn sehen?"
 
 "Seine Rückseite", sagte Secundus. "Und das Querholz darunter."
 
@@ -500,33 +446,21 @@ Crispus beugte sich zum Spalt. "Könnt Ihr ihn sehen?"
 
 Die Legionäre legten eine Schlinge um den Stein und führten das Zugseil zum Rollenblock am äußeren Stützrahmen. Zwei Männer hoben ihn mit den Hebelstangen gerade so weit an, dass zwei Bohlen daruntergeschoben werden konnten.
 
-"Zug", sagte Crispus.
+"Zug", sagte Crispus. Vier Legionäre spannten das Seil. Der Stein glitt eine Handbreit zurück.
 
-Vier Legionäre spannten das Seil. Der Stein glitt eine Handbreit zurück.
+"Halt", rief Secundus. Die vier Männer hielten gleichzeitig inne.
 
-"Halt", rief Secundus.
-
-Die vier Männer hielten gleichzeitig inne.
-
-"Legion", murmelte einer der Legionäre.
-
-Crispus sah ihn an.
-
-"Der Ton", sagte der Mann.
+"Legion", murmelte einer der Legionäre. Crispus sah ihn an. "Der Ton", sagte der Mann.
 
 ![Crispus und Secundus teilen beim Bergen des Felsblocks das Kommando über Legionäre und Bauleute im abgestützten Entwässerungsgang.](/assets/img/posts/2026-08-22-xanten/09-zug-und-halt.webp)
 
-Hinter dem Stein schabte Holz über Ziegel.
-
-"Das Querholz ist frei", sagte Secundus nach einem Augenblick. "Weiter."
+Hinter dem Stein schabte Holz über Ziegel. "Das Querholz ist frei", sagte Secundus nach einem Augenblick. "Weiter."
 
 Crispus hob die Hand. "Zug."
 
 Der Stein glitt waagerecht durch den Gang zurück. Faulmann hielt die Leine vom Mauerwerk fern, damit er sich nicht drehte und gegen die neuen Stützen schlug.
 
-Hinter ihm wurde die Öffnung breit genug für Mummrich.
-
-Mummrich schob sich durch den Spalt.
+Hinter ihm wurde die Öffnung breit genug für Mummrich. Mummrich schob sich durch den Spalt.
 
 Nasse Erde strich über seinen Rücken. Dann stand er im Gang hinter dem Einsturz. Eine Öllampe brannte zwischen den sieben Männern. Ihr Licht reichte gerade aus, um Gesichter, Schlamm und die Unterseite des Gewölbes voneinander zu unterscheiden.
 
@@ -534,9 +468,7 @@ Secundus lehnte an der Mauer. Er war älter, als Mummrich erwartet hatte. Graue 
 
 Mummrich kroch zu ihm. Das Holz ließ sich anheben, aber erst musste eine zweite Stütze neben den weggerutschten Rahmen.
 
-Er wandte sich zum Spalt.
-
-"Wir brauchen noch eine Stütze", rief Mummrich. "Links neben dem Verletzten. Danach kann das Querholz hoch."
+Er wandte sich zum Spalt. "Wir brauchen noch eine Stütze", rief Mummrich. "Links neben dem Verletzten. Danach kann das Querholz hoch."
 
 Crispus fragte nach der Länge. Mummrich maß am Mauerwerk und rief sie durch die Öffnung.
 
@@ -550,9 +482,7 @@ Faulmann hielt den Zugang frei und nahm den Männern Körbe und Werkzeug ab.
 
 Als die Öffnung breit genug und stabil war, kamen zuerst die fünf Arbeiter heraus, die selbst gehen konnten. Einer nach dem anderen kroch durch den gesicherten Gang und stieg über die alten Stufen in den Hof. Liora führte sie zu den Tüchern und Wasserkrügen an der Mauer.
 
-Der sechste Arbeiter konnte nicht auftreten.
-
-Cassianus ließ aus zwei Bohlen eine flache Trage binden und befestigte das Zugseil daran. Mummrich und Secundus hoben den Verletzten darauf. Als alles saß, hob Crispus die Hand.
+Der sechste Arbeiter konnte nicht auftreten. Cassianus ließ aus zwei Bohlen eine flache Trage binden und befestigte das Zugseil daran. Mummrich und Secundus hoben den Verletzten darauf. Als alles saß, hob Crispus die Hand.
 
 Vier Legionäre zogen. Zwei Thermenarbeiter krochen neben der Trage und hielten sie gerade. Der Rollenblock knarrte, und der verletzte Mann glitt langsam waagerecht durch den Gang. An der engsten Stelle berührte seine Schulter den Stein. Alle hielten inne. Cassianus ließ die Trage um eine Handbreit versetzen.
 
@@ -564,13 +494,9 @@ Crispus kniete am Zugang. "Secundus. Jetzt Ihr."
 
 "Zuerst der Maulwurf."
 
-Mummrich arbeitete sich durch die Öffnung und den gesicherten Gang zurück. Am Zugang stieg er über die alten Stufen in den Hof.
+Mummrich arbeitete sich durch die Öffnung und den gesicherten Gang zurück. Am Zugang stieg er über die alten Stufen in den Hof. Secundus folgte als Letzter.
 
-Secundus folgte als Letzter.
-
-Liora sah zu den Männern an der Mauer und dann zu Secundus.
-
-"Sieben."
+Liora sah zu den Männern an der Mauer und dann zu Secundus. "Sieben."
 
 Die Legionäre ließen die Seile sinken. Cassianus prüfte nochmals die Stützen. Der Schmied sammelte die noch unbenutzten Keile ein und legte sie ordentlich neben den Korb.
 
@@ -632,9 +558,7 @@ Einmal.
 
 Nach einer Pause noch einmal.
 
-Faulmann wartete darauf, dass der Schmied den nächsten Keil setzte.
-
-Stattdessen klapperte im Hof eine Tür.
+Faulmann wartete darauf, dass der Schmied den nächsten Keil setzte. Stattdessen klapperte im Hof eine Tür.
 
 Räder rollten über festen Boden. Ihr Rumpeln wurde leiser, bis nur noch das Summen eines Elektromotors blieb. Stimmen verloren sich hinter einer Mauer. Irgendwo lachte ein Kind.
 
@@ -660,15 +584,11 @@ Faulmann sah zur Tür. Im Hof stand keine Händlerin. Niemand trug Körbe. Es ro
 
 Liora sah ihn an. "Warum?"
 
-Faulmann dachte darüber nach.
-
-"Unerklärlicherweise."
+Faulmann dachte darüber nach. "Unerklärlicherweise."
 
 Dachsbert stand auf. "Wir wollten noch zu den Großen Thermen."
 
-Faulmann nahm den Becher und trank ihn leer.
-
-Die Großen Thermen waren tatsächlich nicht fortgelaufen.
+Faulmann nahm den Becher und trank ihn leer. Die Großen Thermen waren tatsächlich nicht fortgelaufen.
 
 Der Weg zum Schutzbau war kürzer, als Faulmann erwartet hatte. Hinter den hohen modernen Wänden lagen die Mauern des römischen Bades offen unter dem Dach. Stege führten über Heizräume, Becken und die niedrigen Pfeiler, die einst den Fußboden getragen hatten. Wo früher Wasser, Feuer und Menschen durch das Gebäude geleitet worden waren, führten nun Geländer und Schilder durch das Museum.
 
@@ -684,33 +604,23 @@ Mummrich nickte. Er hatte mit einer anderen Art von Erkenntnis gerechnet.
 
 Sie gingen weiter. Das Museum zeigte Steine, Werkzeuge, Gefäße und Dinge, die lange genug im Boden gelegen hatten, um einen eigenen Platz hinter Glas zu erhalten. Faulmann blieb noch einmal über den Mauern stehen und suchte nach dem schmalen Gang. Von oben sah alles anders aus.
 
-Keine Tafel erwähnte sieben verschüttete Männer.
-
-Das war nicht ungewöhnlich. Tafeln hatten nur begrenzt Platz.
+Keine Tafel erwähnte sieben verschüttete Männer. Das war nicht ungewöhnlich. Tafeln hatten nur begrenzt Platz.
 
 ## Mit Klimaanlage
 
-Als sie den Park verließen, lag die Hitze noch immer über dem Asphalt. Die Elektrokutsche zeigte weniger Reichweite als am Morgen. Dachsbert betrachtete die Anzeige eine Weile.
+Als sie den Park verließen, lag die Hitze noch immer über dem Asphalt. Die Elektrokutsche zeigte weniger Reichweite als am Morgen. Dachsbert betrachtete die Anzeige eine Weile. Dann fuhren sie zum Lidl-Parkplatz in Xanten.
 
-Dann fuhren sie zum Lidl-Parkplatz in Xanten.
-
-Dachsbert trug noch immer seine Tunika mit dem schmalen Purpurstreifen, als er das Ladekabel aus der Säule zog. Zwischen Einkaufswagen, Familienpackungen und Menschen in kurzen Hosen erregte das inzwischen weniger Aufmerksamkeit, als zu erwarten gewesen wäre.
-
-Er steckte das Kabel ein. Die Elektrokutsche begann zu laden.
+Dachsbert trug noch immer seine Tunika mit dem schmalen Purpurstreifen, als er das Ladekabel aus der Säule zog. Zwischen Einkaufswagen, Familienpackungen und Menschen in kurzen Hosen erregte das inzwischen weniger Aufmerksamkeit, als zu erwarten gewesen wäre. Er steckte das Kabel ein. Die Elektrokutsche begann zu laden.
 
 Mummrich beobachtete die steigende Zahl auf der Anzeige. Faulmann saß auf dem Beifahrersitz und dachte an sehr dünnen Teig, gesäuerten Rahm, Zwiebeln und Speck. Der Gedanke wurde nicht vernünftiger, nur genauer.
 
-Schließlich zog Dachsbert den Stecker. Die Anzeige zeigte genug Reichweite für die Rückfahrt.
-
-Er prüfte es zweimal.
+Schließlich zog Dachsbert den Stecker. Die Anzeige zeigte genug Reichweite für die Rückfahrt. Er prüfte es zweimal.
 
 "Mit Klimaanlage?", fragte Mummrich.
 
 "Mit Klimaanlage", sagte Dachsbert.
 
-Liora sagte nichts. Sie hatte das Nötige schon am Morgen gesagt.
-
-Dann fuhren sie los.
+Liora sagte nichts. Sie hatte das Nötige schon am Morgen gesagt. Dann fuhren sie los.
 
 Diesmal reichte es.
 
