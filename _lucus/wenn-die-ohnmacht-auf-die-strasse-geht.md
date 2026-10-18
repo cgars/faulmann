@@ -56,6 +56,8 @@ Nicht die Ohnmacht selbst ginge dann auf die Straße. Auf die Straße gingen Men
 
 Ob dieser Versuch erfolgreich ist, steht auf einem anderen Blatt.
 
+<!-- lucus-page -->
+
 ## II. Die politische Deutung einer gemeinsamen Erfahrung
 
 In den vergangenen Jahren wurde die Erfahrung gesellschaftlicher Unsicherheit vornehmlich im Zusammenhang mit dem Aufstieg rechtspopulistischer und autoritärer Bewegungen diskutiert.
@@ -100,6 +102,8 @@ Dann wäre die entscheidende Frage nicht, ob die Protestierenden links sind.
 
 Sondern ob und wie aus ihren unterschiedlichen Erfahrungen eine gemeinsame politische Sprache entsteht.
 
+<!-- lucus-page -->
+
 ## III. Von der Repräsentation zum Widerspruch
 
 Albert O. Hirschmans Unterscheidung zwischen *Exit*, *Voice* und *Loyalty* bietet hierfür einen hilfreichen Ausgangspunkt.
@@ -136,6 +140,8 @@ Handlungsfähigkeit ist zunächst keine moralische Kategorie.
 
 Entscheidend ist, welche Vorstellungen von gesellschaftlicher Ordnung durch sie verwirklicht werden sollen.
 
+<!-- lucus-page -->
+
 ## IV. Die Polizei als Gegenstand des politischen Konflikts
 
 Besonders deutlich tritt diese Schwierigkeit im Umgang des französischen Staates mit den gegenwärtigen Demonstrationen hervor.
@@ -167,6 +173,8 @@ Auch die deutsche Praxis kennt unverhältnismäßige Polizeigewalt. Und auch fra
 Die Unterschiede ihrer institutionellen Traditionen sind deshalb nicht bedeutungslos, müssen aber genauer untersucht werden, als es die nationale Zuordnung zunächst vermuten lässt.
 
 Die Ereignisse dieses Oktobers verleihen dieser Frage eine besondere Dringlichkeit.
+
+<!-- lucus-page -->
 
 Bereits am 7. Oktober kündigte der französische Innenminister nach der schweren Verletzung eines Jugendlichen an, bestimmte Polizeigranaten bei den Schülerprotesten vorläufig nicht mehr einzusetzen. Amnesty International begrüßte diesen Schritt, verlangte jedoch ein grundsätzliches Verbot der entsprechenden Einsatzmittel.
 
@@ -220,6 +228,8 @@ Es wäre immerhin denkbar, dass wir gerade dort eine besonders interessante poli
 
 Vielleicht verrät die Schwierigkeit ihrer Klassifikation weniger über die Unbestimmtheit ihrer Anliegen als über die Grenzen der Begriffe, mit denen wir politische Wirklichkeit gewöhnlich ordnen.
 
+<!-- lucus-page -->
+
 ## VI. Von der Wirksamkeit und der Bedeutung des Handelns
 
 Es bleibt eine Schwierigkeit, die in der bisherigen Betrachtung weitgehend unberücksichtigt geblieben ist.
@@ -250,6 +260,8 @@ Vielleicht werden die Demonstrationen in Frankreich keine wesentliche Veränderu
 
 Das wäre ein mögliches Ergebnis, aber noch keine vollständige Beschreibung dessen, was stattgefunden hat.
 
+<!-- lucus-page -->
+
 Denn die Frage, ob eine politische Handlung erfolgreich war, ist nicht identisch mit der Frage, was sie für die Beteiligten und für die Gesellschaft, in der sie stattfindet, bedeutet.
 
 Allerdings wäre es ebenso problematisch, diese Überlegung in eine allgemeine Aufwertung jeder Form politischen Widerspruchs zu verwandeln.
@@ -273,6 +285,8 @@ Sie kann diese Bedeutung auch erst im gemeinsamen Handeln hervorbringen, veränd
 Das macht ihre Untersuchung nicht einfacher.
 
 Aber vielleicht etwas weniger abhängig von der Erwartung, die gesellschaftliche Wirklichkeit müsse sich rechtzeitig für unsere begrifflichen Ordnungssysteme entscheiden.
+
+<!-- lucus-page -->
 
 ## VII. Eine Gegenbewegung?
 
