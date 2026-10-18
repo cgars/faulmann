@@ -47,3 +47,16 @@ body:has(.lucus) .page-content > .wrapper { width: min(96%, 1180px); max-width: 
  .lucus { box-shadow:none;border:0;padding:0; }
  .lucus__body { column-count:2; }
 }
+
+/* Issue index at /lucus/ */
+.lucus__archive-heading { text-align:center; margin:2.4rem auto 2rem; max-width:48rem; }
+.lucus__archive-heading h1 { font:normal clamp(1.8rem,3.2vw,3rem)/1.17 Georgia,"Times New Roman",serif; margin:.25rem 0; }
+.lucus__archive-heading > p:last-child { font-style:italic; font-size:1.1rem; margin:.5rem 0 0; }
+.lucus__archive { max-width:52rem; margin:0 auto; border-top:3px double var(--rule); }
+.lucus__archive-entry { padding:1.5rem 0; border-bottom:1px solid var(--rule); }
+.lucus__archive-entry .lucus__rubric { margin-bottom:.4rem; }
+.lucus__archive-entry h2 { font:normal clamp(1.5rem,2.5vw,2.1rem)/1.2 Georgia,"Times New Roman",serif; margin:0 0 .35rem; }
+.lucus__archive-entry h2 a { color:var(--ink); text-decoration:none; }
+.lucus__archive-entry h2 a:hover { text-decoration:underline; text-underline-offset:.14em; }
+.lucus__archive-subtitle { font-size:1.05rem; margin:0 0 .55rem; }
+.lucus__archive-entry time { font-size:.83rem; color:#605848; }
