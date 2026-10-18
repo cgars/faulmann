@@ -1,5 +1,5 @@
 /* LUCUS: newspaper design isolated from ordinary Faulmann posts. */
-body:has(.lucus) .page-content > .wrapper { width: min(96%, 1180px); max-width: none; }
+body:has(.lucus) .page-content > .wrapper { width: 96%; max-width: 1180px; }
 .lucus {
   --paper:#f8f3e8; --ink:#29271f; --rule:#756d5d;
   box-sizing:border-box; background:var(--paper);color:var(--ink);
