@@ -1,0 +1,12 @@
+---
+layout: page
+title: LUCUS
+permalink: /lucus/
+---
+<h1>LUCUS - De Rebus Humanis</h1>
+<p>Eine Zeitung aus den Wäldern. Über die Welt.</p>
+<ul>
+{% for post in site.categories.lucus %}
+<li><a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a> <small>{{ post.date | date: "%d.%m.%Y" }}</small></li>
+{% endfor %}
+</ul>
