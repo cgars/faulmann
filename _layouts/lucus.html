@@ -8,7 +8,7 @@ layout: base
       <header class="lucus__article-header">
         <p class="lucus__rubric">{{ page.rubric | default: 'Feuilleton' | escape }}</p>
         <h1>{{ page.title | escape }}</h1>
-        {% if page.subtitle %}<p class="lucus__subtitle">{{ page.subtitle | escape }}</p>{% endif %}
+        {% if page.standfirst %}<p class="lucus__standfirst">{{ page.standfirst | escape }}</p>{% elsif page.subtitle %}<p class="lucus__subtitle">{{ page.subtitle | escape }}</p>{% endif %}
         {% if page.author %}<p class="lucus__byline">Von {{ page.author | escape }}</p>{% endif %}
       </header>
       {% if page.hero %}
