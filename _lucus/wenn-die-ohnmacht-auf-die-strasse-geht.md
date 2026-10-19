@@ -22,7 +22,7 @@ Die Bilder fanden schnell zueinander. Auf den Bildschirmen lagen Mailand und Par
 
 Eine naheliegende Annahme, und eine, aus der sich ein ausgesprochen bequemer Strohmann machen ließe. Wir müssten nur behaupten, die Ähnlichkeit und zeitliche Nähe der Bilder bewiesen bereits die Existenz einer europäischen Protestbewegung. Ihre Widerlegung wäre leicht: Die Gleichzeitigkeit zweier Ereignisse ist zunächst eine Eigenschaft des Kalenders und noch keine historische Erklärung. Ein besonderer Erkenntnisgewinn wäre das nicht. Schließlich hätten wir die These, die wir so mühelos widerlegen, gerade selbst erfunden.
 
-Damit wäre allerdings auch das Gegenteil nicht bewiesen. Zwischen einer bereits organisierten gemeinsamen Bewegung und völlig beziehungslosen Ereignissen liegt ein beträchtliches Feld möglicher gesellschaftlicher Zusammenhänge. Es wäre deshalb ebenso voreilig, einen solchen Zusammenhang allein deshalb auszuschließen, weil sich keine gemeinsame Organisation, kein grenzüberschreitendes Aktionsbündnis und kein verbindliches politisches Programm nachweisen lassen. Gesellschaftliche Entwicklungen benötigen selten eine koordinierende Instanz, um einander zu beeinflussen. Vielmehr dürfte ein erheblicher Teil ihrer Wirkung gerade darin bestehen, dass Menschen in voneinander unabhängigen Situationen ähnliche Erfahrungen machen, diese auf vergleichbare Weise interpretieren und dabei Handlungsmöglichkeiten entdecken, die ihnen zuvor nicht zur Verfügung zu stehen schienen.
+Damit wäre freilich auch das Gegenteil nicht bewiesen. Gemeinsame politische Entwicklungen brauchen keine koordinierende Instanz. Menschen können unter vergleichbaren Bedingungen unabhängig voneinander handeln; und die Bilder fremder Proteste können ihnen zeigen, dass Widerspruch möglich ist. Ob die Proteste dieses Oktobers einander tatsächlich angeregt haben oder nur ähnliche Lebensverhältnisse sichtbar machen, ist noch offen.
 
 Die interessante Frage ist deshalb weniger, ob wir bereits von einer europäischen Protestbewegung sprechen dürfen, sondern was es eigentlich bedeuten würde, wenn eine solche gerade entstünde.
 
@@ -48,7 +48,7 @@ Die sozialpsychologische Forschung zu kollektivem Handeln unterscheidet entsprec
 
 Es handelt sich mithin nicht um eine einfache Kausalität, in der Unzufriedenheit zu Ohnmacht und diese schließlich zum Protest führt.
 
-Eine Demonstration könnte der Versuch sein, individuell erfahrene Ohnmacht durch kollektives Handeln zu überwinden. Ebenso könnte sie aber Ausdruck bereits vorhandener Handlungsfähigkeit sein. Gewerkschaftlich organisierter Protest setzt beispielsweise nicht voraus, dass die Beteiligten zuvor jede Erwartung politischer Wirksamkeit verloren haben.
+Eine Demonstration könnte individuell erfahrene Ohnmacht überwinden oder Ausdruck bereits vorhandener Handlungsfähigkeit sein. Der sichtbare Protest anderer kann dabei neue Handlungsmöglichkeiten vorstellbar machen. Gewerkschaftlich organisierter Protest setzt jedenfalls nicht voraus, dass Beteiligte zuvor jede Erwartung politischer Wirksamkeit verloren haben.
 
 Hier droht unsere Argumentation sonst zirkulär zu werden. Aus der Teilnahme an einem Protest lässt sich nicht ohne Weiteres eine vorausgegangene Erfahrung von Ohnmacht erschließen, um diese Erfahrung anschließend zur Ursache eben jener Teilnahme zu erklären. Menschen können handeln, weil sie Veränderung für möglich halten, weil sie einer Institution widersprechen möchten oder weil ihnen bereits die öffentliche Artikulation ihrer Haltung wichtig ist.
 
@@ -138,23 +138,21 @@ Diese Überlegungen bleiben dennoch notwendig. Staatliche Gewalt muss sich daran
 
 Wir können also eine mögliche Rückkopplung zwischen staatlichem Eingreifen, wechselseitigem Misstrauen und erneuter Mobilisierung untersuchen, ohne sie für diesen Protesttag als Ursache zu behaupten. Gewalt ist nicht die notwendige Sprache der Ohnmacht. Sie kann kalkuliert, situativ hervorgebracht, provoziert, verhindert oder begrenzt werden. Für jede dieser Möglichkeiten benötigen wir mehr als die Ähnlichkeit der Bilder.
 
-## V. Die Wirklichkeit und ihre nachträgliche Vereinheitlichung
+## V. Bilder, Signale und ihre möglichen Verbindungen
 
-Während auf den Straßen gestritten wird, findet eine zweite Auseinandersetzung um die Bedeutung dieser Ereignisse statt. Sie vollzieht sich in politischen Stellungnahmen, journalistischen Berichten und sozialen Medien.
+Während auf den Straßen gestritten wird, findet eine weitere Auseinandersetzung um die Bedeutung dieser Ereignisse statt. Bilder aus verschiedenen Städten liegen auf Bildschirmen nur einen Schnitt voneinander entfernt. Sie können eine Einheit suggerieren, wo sich die Beteiligten weder kennen noch dieselben Ziele verfolgen.
 
-Dort erscheinen Demonstrationen häufig als Abfolge verdichteter Bilder. Unterschiedliche Städte liegen nur einen Schnitt voneinander entfernt, friedliche Kundgebungen und gewaltsame Auseinandersetzungen können in derselben Bildstrecke aufeinanderfolgen. Der Zusammenhang entsteht dann nicht notwendig zwischen den Beteiligten, sondern zunächst in der Darstellung ihrer Handlungen.
+Mitunter wird dieser Eindruck gezielt erzeugt. Anfang Oktober berichtete eine NewsGuard-Analyse über ältere Aufnahmen französischer Proteste, die als aktuelle Belege für ein größeres Ausmaß an Chaos und Gewalt verbreitet worden seien. Aber die mediale Nähe der Ereignisse besitzt noch eine andere mögliche Wirkung.
 
-Mitunter geschieht dies gezielt. Anfang Oktober berichtete eine NewsGuard-Analyse über ältere Aufnahmen französischer Proteste, die als aktuelle Belege für ein größeres Ausmaß an Chaos und Gewalt verbreitet worden seien. Doch das Problem reicht über irreführende Videos hinaus.
+Die Bilder werden nicht nur von Beobachtern gesehen. Sie erreichen auch Menschen, die selbst über ihre Lebensverhältnisse und politischen Möglichkeiten nachdenken. Wer andernorts Widerspruch sieht, kann beginnen, die eigene Lage nicht länger für unveränderlich zu halten. Der Protest anderer wäre dann nicht bloß Gegenstand einer Nachricht, sondern ein Anstoß eigenen Handelns.
 
-Auch eine sorgfältige journalistische Zusammenfassung muss auswählen, ordnen und gewichten. Das ist kein Argument gegen die Einordnung von Ereignissen. Es ist ein Argument dafür, sichtbar zu halten, welche Gemeinsamkeiten beobachtet wurden und welche erst aus unserer Darstellung hervorgehen.
+Die Bewegungsforschung bezeichnet die grenzüberschreitende Übertragung von Protestideen und Handlungsformen als *Diffusion*. Doug McAdam und Dieter Rucht haben gezeigt, dass dabei neben unmittelbaren Beziehungen auch nichtrelationale Informationswege eine Rolle spielen. Eine gemeinsame Organisation ist dafür keine notwendige Bedingung. Eine theoretisch mögliche Übertragung ist allerdings noch kein Nachweis, dass sie zwischen Mailand und Frankreich in diesem Oktober stattgefunden hat.
 
-Wir haben uns diese Schwierigkeit schon zu Beginn des Essays vorgeführt. Mailand, Paris und Limoges lassen sich in wenigen Sätzen zu einem europäischen Protesttag verbinden. Das ergibt eine eindrucksvolle Erzählung. Ob es darüber hinaus auch eine zusammengehörige gesellschaftliche Entwicklung ergibt, ist eine andere Frage.
+Auch die gemeinsame soziale Lage allein bewiese einen solchen Austausch nicht. Vergleichbare Verhältnisse können unabhängig voneinander ähnliche Proteste hervorbringen. Es ist deshalb sinnvoll, zwischen einer europäischen Protestwelle aus ähnlichen Bedingungen und einer Bewegung zu unterscheiden, die ihre Gemeinsamkeit im gegenseitigen Wahrnehmen und Handeln entwickelt. Keine von beiden muss ein gemeinsames Hauptquartier besitzen.
 
-Mit der Zuschreibung "links" verhält es sich ähnlich. Gewerkschaftliche Organisation und sozialpolitische Forderungen liefern gute Gründe, Teile der Mobilisierung in einer linken politischen Tradition zu verorten. Sie sagen aber noch nichts Abschließendes über die politische Selbstbeschreibung aller Beteiligten, über gegenseitige Beziehungen zwischen den Protesten oder über die Entstehung einer gemeinsamen Bewegung.
+Mit der Zuschreibung "links" verhält es sich ähnlich. Gewerkschaftliche Organisation und sozialpolitische Forderungen verorten Teile der Mobilisierung in einer linken Tradition. Sie entscheiden aber nicht darüber, wie alle Beteiligten sich verstehen oder ob aus verschiedenen Protesten eine gemeinsame politische Praxis entsteht.
 
-Die entscheidende empirische Frage wäre deshalb, ob sich mehr beobachten lässt als ein Gleichklang der Themen: Greifen Demonstrierende und Organisationen die Forderungen anderer Länder auf? Werden Erfahrungen über Grenzen hinweg ausgetauscht? Entstehen gemeinsame Deutungen, Netzwerke, Formen der Mobilisierung oder wechselseitige Erwartungen? Eine europäische Bewegung müsste keine zentral geleitete Organisation besitzen. Aber irgendeine Form des Zusammenhangs müsste sich zeigen lassen.
-
-Wenn wir eine solche Bewegung lediglich wegen ähnlicher prekärer Verhältnisse vermuten, hätten wir ihre mögliche gemeinsame Ursache mit ihrer tatsächlichen politischen Verbindung verwechselt. Und wenn wir ihre Existenz allein deshalb verneinen, weil noch kein gemeinsames Manifest vorliegt, hätten wir möglicherweise gerade den Prozess übersehen, den wir untersuchen wollten.
+Schließlich wäre auch mediale Inspiration nicht schon Solidarität. Wer eine Protestform übernimmt, kann dies aus rein praktischen Gründen tun. Solidarität begänne dort, wo Menschen im Kampf anderer eine Angelegenheit erkennen, die auch sie selbst betrifft. Ob wir davon gegenwärtig Zeugen werden, ist offen. Doch eine solche Anerkennung müsste nicht erst von einer gemeinsamen Organisation beschlossen werden.
 
 ## VI. Von der Wirksamkeit und der Bedeutung des Handelns
 
@@ -202,37 +200,23 @@ Was sich nicht unmittelbar als Wahlergebnis, Organisationsmitgliedschaft oder po
 
 Dabei wäre ebenso denkbar, dass gerade diese vermeintliche Unvollständigkeit den eigentlichen Gegenstand unserer Untersuchung bildet.
 
-Eine politische Bewegung muss ihre Bedeutung nicht notwendig bereits kennen, bevor sie zu handeln beginnt.
-
-Sie kann diese Bedeutung auch erst im gemeinsamen Handeln hervorbringen, verändern und gelegentlich wieder verlieren.
-
-Das macht ihre Untersuchung nicht einfacher.
-
-Aber vielleicht etwas weniger abhängig von der Erwartung, die gesellschaftliche Wirklichkeit müsse sich rechtzeitig für unsere begrifflichen Ordnungssysteme entscheiden.
+Eine politische Bewegung muss ihre Bedeutung nicht notwendig bereits kennen, bevor sie zu handeln beginnt. Sie kann sie im gemeinsamen Handeln hervorbringen, verändern und wieder verlieren. Und das Handeln anderer kann dafür bedeutsam werden, selbst wenn zwischen den Beteiligten noch keine gemeinsame Organisation besteht.
 
 ## VII. Eine europäische Bewegung?
 
-Bleibt die Frage, von der wir ausgegangen sind: Beobachten wir in den Demonstrationen dieses Oktobers den Anfang einer europäischen Protestbewegung, die auf Erfahrungen gesellschaftlicher Unsicherheit und politischer Wirkungslosigkeit reagiert?
+Bleibt die Frage, ob in den Protesten dieses Oktobers der Anfang einer europäischen Bewegung sichtbar wird. Wir haben gute Gründe, vergleichbare gesellschaftliche Unsicherheiten und Erfahrungen mangelnder politischer Einflussmöglichkeiten zu untersuchen. Wir haben keinen Grund, aus diesen Erfahrungen schon eine einheitliche politische Identität abzuleiten.
 
-Zunächst müssen wir uns eingestehen, wie viel an dieser Frage noch Hypothese ist. Wir wissen aus den Forderungen und der sozialen Zusammensetzung einzelner Mobilisierungen nicht ohne Weiteres, welche subjektiven Erfahrungen die Teilnehmer verbinden. Wir wissen ebenso wenig allein aus gewerkschaftlicher Beteiligung, ob alle Protestierenden dieselbe politische Richtung vertreten.
+Auch der Aufstieg der politischen Rechten, zu dessen Erklärung häufig Prekarität und Statusangst herangezogen werden, liefert keine einfache Schablone. Weder leben alle ihre Anhänger unter materiell prekären Bedingungen, noch richten sich ihre politischen Angebote notwendig gegen solche Verhältnisse. Die neue Mobilisierung auf den Straßen lässt sich deshalb nicht schon als spiegelbildliche Bewegung von rechts nach links beschreiben.
 
-Dass soziale Proteste häufig als links gelten, ist historisch verständlich. Gewerkschaften und sozialpolitische Organisationen prägen ihre Sprache und schaffen Möglichkeiten gemeinsamen Handelns. Diese Prägung ist ein Befund über Teile der Bewegung. Sie ersetzt nicht die Untersuchung dessen, was außerhalb der bestehenden Organisationen möglicherweise neu entsteht.
+Gewerkschaften und sozialpolitische Organisationen prägen manche der Proteste ausdrücklich links. Andere Akteure bringen eigene Forderungen und Erfahrungen mit. Und die Gewalt einzelner Gruppen wie auch die Verletzungen durch staatliche Einsatzmittel verlangen eine eigenständige Untersuchung. Nichts davon beweist oder widerlegt eine gesamteuropäische Bewegung.
 
-Der Aufstieg rechter und autoritärer Kräfte in den vergangenen Jahren kann dabei als Vergleichsfolie dienen. Auch zu seiner Erklärung wurden Unsicherheit, Statusangst und politische Ohnmacht herangezogen. Aber seine Träger und seine politischen Angebote lassen sich nicht insgesamt auf materielle Prekarität reduzieren. Die vermeintlich gemeinsame Ursache unterschiedlicher politischer Mobilisierungen bleibt selbst erklärungsbedürftig.
+Vielleicht liegt ihre mögliche Gemeinsamkeit weniger in einer gemeinsamen Organisation als in einer geteilten gesellschaftlichen Lage und dem, was Menschen voneinander wahrnehmen. Die Bilder eines Protests können andernorts die Vorstellung eröffnen, selbst handeln zu können. Dafür braucht es keine Absprachen. Ob eine solche gegenseitige Inspiration tatsächlich stattfindet, dürfen wir aus der Gleichzeitigkeit der Ereignisse freilich nicht erschließen.
 
-Ebenso wenig dürfen wir aus den Ausschreitungen eine einheitliche politische Haltung der Demonstrierenden ableiten. Die Gewalt einiger Beteiligter und die schweren Verletzungen durch staatliche Einsatzmittel sind Vorgänge, die ihre eigene Untersuchung und Verantwortung verlangen. Sie sind nicht der Beweis, dass eine europäische Bewegung geboren wird, und ebenso wenig ihr Gegenbeweis.
+Und vielleicht beginnt Solidarität genau dort, wo der fremde Protest nicht nur als Vorbild, sondern als Ausdruck einer eigenen Angelegenheit verstanden wird. Was daraus politisch entsteht, steht noch nicht fest. Dass eine Demonstration nicht unmittelbar ihre Forderungen durchsetzt, entscheidet weder über ihre Bedeutung für die Beteiligten noch über die Beziehungen, die aus ihr erwachsen können.
 
-Was sich gegenwärtig erkennen lässt, ist die Möglichkeit, dass Menschen unter verschiedenen gesellschaftlichen Bedingungen neue Formen gemeinsamer Handlungsfähigkeit suchen oder bereits vorhandene nutzen. Ob diese Formen einander über Grenzen hinweg beeinflussen und eine dauerhafte gemeinsame politische Sprache ausbilden, muss sich erst zeigen.
+"Völker, hört die Signale!", heißt es in der *Internationale*. Das Lied stammt aus einer organisierten politischen Tradition; es beweist nichts über die Ereignisse unseres Oktobers. Aber sein Aufruf erinnert an eine Möglichkeit, die unsere Suche nach gemeinsamen Institutionen leicht übersieht:
 
-Vielleicht entsteht daraus eine linke Gegenbewegung zu autoritären Entwicklungen. Vielleicht bleiben es überwiegend nationale Mobilisierungen, die ähnliche Forderungen formulieren, ohne einen gemeinsamen politischen Zusammenhang zu entwickeln. Und möglicherweise liegen die wichtigsten Folgen zunächst nicht in Wahlergebnissen oder neuen Organisationen, sondern in veränderten Erwartungen an die eigene Wirksamkeit.
-
-Hier berühren wir den Unterschied zwischen Erfolg und Bedeutung, den unsere Untersuchung nicht preisgeben sollte. Eine Demonstration muss ihre Forderungen nicht sofort durchsetzen, um für die Beteiligten politisch bedeutsam zu sein. Aber diese mögliche Bedeutung dürfen wir nicht an ihrer Stelle behaupten. Auch sie verlangt Aufmerksamkeit für das, was die Menschen selbst über ihr Handeln sagen und später daraus machen.
-
-Die Bilder vom Oktober werden uns erhalten bleiben. Ob die Beziehungen zwischen den Menschen, die darin erscheinen, ebenso dauerhaft sind, wissen wir nicht.
-
-Es könnte sich herausstellen, dass wir eine Bewegung zu früh benannt haben. Es könnte auch sein, dass wir ihre Anfänge übersehen, weil wir auf vertraute Organisationsformen und politische Etiketten warten.
-
-Die Geschichte ist nicht verpflichtet, unseren Begriffen rechtzeitig entgegenzukommen.
+Die Signale müssen nicht aus einer gemeinsamen Zentrale kommen, um gemeinsam gehört zu werden.
 
 
 ---
@@ -254,6 +238,8 @@ Die Geschichte ist nicht verpflichtet, unseren Begriffen rechtzeitig entgegenzuk
 * [Clifford Stott und Stephen Reicher: "How Conflict Escalates", *Sociology* (1998)](https://doi.org/10.1177/0038038598032002007)
 * [Clifford Stott und Stephen Reicher: "Crowd action as intergroup process", *European Journal of Social Psychology* (1998)](https://research-portal.st-andrews.ac.uk/en/publications/crowd-action-as-intergroup-process-introducing-the-police-perspec/)
 
+* [Doug McAdam und Dieter Rucht: „The Cross-National Diffusion of Movement Ideas“ (*The Annals*, 1993)](https://doi.org/10.1177/0002716293528001005)
+* [Emil Luckhardt: Deutsche Fassung der *Internationale* (1910)](https://de.wikipedia.org/wiki/Die_Internationale)
 * Albert O. Hirschman: *Exit, Voice, and Loyalty* (1970).
 * Hannah Arendt: *Vita activa oder Vom tätigen Leben* (dt. Ausgabe 1960).
 * Pierre Rosanvallon: *La Contre-démocratie* (2006).
