@@ -112,89 +112,49 @@ Die Erfahrung kollektiver Handlungsfähigkeit ist ohnehin nicht notwendig ein Zu
 
 Aber ehe wir über diese Vorstellungen urteilen, sollten wir uns einer Frage zuwenden, die sich im Schatten der Demonstrationen beinahe unwiderstehlich aufdrängt: Woher kommt die Gewalt?
 
-## IV. Die Polizei als Gegenstand des politischen Konflikts
+## IV. Der Protest und die Gewalt
 
-Besonders deutlich tritt diese Schwierigkeit im Umgang des französischen Staates mit den gegenwärtigen Demonstrationen hervor.
+Die Bilder zeigen brennende Gegenstände, Barrikaden und Auseinandersetzungen mit Polizeikräften. Es wäre verführerisch, darin die unmittelbare Folge einer gesellschaftlichen Ohnmacht zu erkennen, die sich keine andere Sprache mehr zu geben weiß. Doch eine solche Erklärung müsste zunächst nachweisen, dass die Gewalttätigen sich überhaupt in diesem Sinne ohnmächtig fühlen. Aus der Gewalt selbst lässt sich das nicht ablesen.
 
-Die Diskussion über französische Polizeigewalt besitzt eine längere Geschichte, die jedenfalls nicht erst mit den Ereignissen dieses Oktobers beginnt. Während der Gelbwestenproteste wurden schwere Verletzungen durch Hartgummigeschosse und Polizeigranaten dokumentiert. Die dabei angewandten Einsatzmittel und die Organisation polizeilicher Interventionen stehen seither in einer anhaltenden öffentlichen und juristischen Auseinandersetzung.
+Wir haben hier mindestens drei Sachverhalte vor uns: Menschen demonstrieren und formulieren politische Forderungen; einzelne Beteiligte oder hinzutretende Gruppen wenden Gewalt an; Polizeikräfte setzen staatliche Zwangsmittel ein. Diese Vorgänge können aufeinander einwirken. Sie sind aber weder personell noch hinsichtlich ihrer Motive und Verantwortlichkeiten notwendigerweise identisch.
 
-Frankreich verfügt mit dem *Schéma national du maintien de l'ordre* über eine ausdrücklich formulierte Einsatzdoktrin, die zuletzt 2021 überarbeitet wurde. Sie sieht unter anderem beweglichere Polizeieinheiten, schnellere Interventionen und eine stärkere Kommunikation mit Demonstrierenden vor.
+Das lässt sich bereits an den italienischen Ereignissen beobachten. Die von der CGIL organisierte Kundgebung in Rom und die Auseinandersetzungen auf der Mailänder Piazza Duomo waren nicht einfach zwei Schauplätze derselben Demonstration. Auch innerhalb einer Versammlung muss unterschieden werden zwischen den Forderungen ihrer Organisatoren, den Absichten einzelner Gruppen und Handlungen, die erst in einer konkreten Konfrontation entstehen. Wer all das als Gewalt *des Protests* bezeichnet, hat den Zusammenhang bereits behauptet, den er erklären müsste.
 
-Die offiziellen Ziele sind dabei keineswegs ausschließlich repressiv. Der Schutz friedlicher Versammlungen gehört ebenso zum formulierten Auftrag wie die Verhinderung gewaltsamer Übergriffe.
+Gewalt kann eine bewusste politische Strategie sein. Sie kann auf Aufmerksamkeit, Einschüchterung, die Herausforderung staatlicher Autorität oder die Demonstration eigener Durchsetzungsfähigkeit gerichtet sein. Sie kann ebenso in einer Eskalation entstehen, deren Beteiligte zu Beginn andere Absichten hatten. Und die Gelegenheit einer unübersichtlichen Demonstration kann Menschen anziehen, deren Ziele weder mit denen ihrer Organisatoren noch mit denen anderer Teilnehmer übereinstimmen.
 
-Gerade daraus ergibt sich jedoch ein interessanter institutioneller Widerspruch.
+Keine dieser Möglichkeiten ergibt sich zwingend aus materieller Prekarität. Der Gedanke, dass Menschen aus erlebter politischer Wirkungslosigkeit irgendwann zur Gewalt greifen, besitzt zwar eine intuitive Dramaturgie. Aber er erklärt zu viel auf einmal und am Ende womöglich gar nichts. Dass jemand den Eindruck hat, nicht gehört zu werden, macht ihn nicht zum Gewalttäter. Ebenso können Menschen Gewalt einsetzen, gerade weil sie sie für ein wirksames Mittel halten.
 
-Die Polizei soll einerseits die Ausübung politischer Freiheitsrechte ermöglichen und andererseits jene Situationen kontrollieren, in denen deren Ausübung zu einer Gefährdung der öffentlichen Sicherheit führt.
+Die Dynamik einer Konfrontation verdient dabei eigene Aufmerksamkeit. Die sozialpsychologische Forschung über Menschenmengen und Polizeieinsätze untersucht, wie wechselseitige Wahrnehmungen, Gruppenzuschreibungen und Formen staatlichen Eingreifens Konflikte verändern können. Eine ursprünglich heterogene Menschenmenge kann sich unter Umständen erst in der Konfrontation als gemeinsame Gruppe verstehen. Das ist ein möglicher Mechanismus, keine nachträgliche Erklärung der Ereignisse in Mailand oder Frankreich, deren konkreter Verlauf gesondert untersucht werden müsste.
 
-Beide Aufgaben sind rechtlich miteinander vereinbar, operativ aber keineswegs immer konfliktfrei.
+Damit kommen wir zur Rolle des Staates. Die Polizei ist nicht einfach ein weiterer politischer Akteur unter anderen. Sie besitzt rechtlich begründete Zwangsbefugnisse und die Pflicht, ihre Anwendung zu rechtfertigen. Sie soll friedliche Versammlungen schützen und zugleich Gefahren abwehren. Beide Aufgaben lassen sich rechtlich vereinbaren, operativ aber keineswegs immer konfliktfrei erfüllen.
 
-Insbesondere bewegliche, auf rasche Intervention ausgerichtete Einheiten können in unübersichtlichen Situationen ihre Aufgabe der Gefahrenabwehr erfüllen und zugleich durch ihre Anwesenheit, ihr Vorgehen oder die von ihnen erzeugten Bewegungen innerhalb einer Menschenmenge neue Konflikte hervorrufen.
+In Frankreich ist die Diskussion über entsprechende Polizeieinsätze älter als dieser Oktober. Während der Gelbwestenproteste wurden schwere Verletzungen durch polizeiliche Einsatzmittel dokumentiert. Das 2021 überarbeitete *Schéma national du maintien de l'ordre* beschreibt eine Einsatzdoktrin, die unter anderem bewegliche Interventionen und Kommunikation mit Demonstrierenden vorsieht. Aus ihren offiziellen Zielen lässt sich allerdings ebenso wenig auf die Wirkung eines konkreten Einsatzes schließen wie aus dessen gewaltsamem Verlauf allein auf die Absicht der beteiligten Polizeikräfte.
 
-Daraus folgt nicht, dass solche Einsätze zwangsläufig eskalierend wirken.
+Besonders schwer wiegt deshalb die Nachricht aus Saint-Étienne. Bei einer Demonstration am 17. Oktober verlor ein 17-Jähriger durch die Explosion einer Polizeigranate eine Hand. Die genauen Umstände des Vorfalls und die Verantwortlichkeit waren Gegenstand einer Untersuchung. Das verlangt eine gewissenhafte Klärung; ihrem Ergebnis dürfen wir nicht vorgreifen.
 
-Es folgt lediglich, dass ihre Wirkung nicht allein aus ihrer institutionellen Zweckbestimmung verstanden werden kann.
+Aber wir sollten einen Augenblick bei dem Verletzten bleiben. Für einen jungen Menschen, der am Morgen dieses Tages noch zwei Hände hatte, ist nichts daran eine Metapher. Unabhängig von den noch offenen Fragen des Einsatzes bleibt die Tatsache einer schweren, dauerhaften Verletzung. Was er selbst erlebt hat und wie er damit umgehen wird, wissen wir nicht. Wir sollten ihm weder eine politische Rolle noch eine erfundene Stimme zuschreiben. Schon gar nicht sollte sein Schicksal lediglich die besonders eindringliche Illustration unserer Überlegungen zur demokratischen Legitimität staatlicher Gewalt werden.
 
-Die empirische Frage müsste lauten, unter welchen Bedingungen welche Maßnahmen tatsächlich zur Verringerung von Gewalt beitragen und wann sie selbst neue Gewaltverhältnisse erzeugen.
+Diese Überlegungen bleiben dennoch notwendig. Staatliche Gewalt muss sich daran messen lassen, ob ihr Einsatz rechtmäßig, erforderlich und verhältnismäßig war. Zugleich hat sie eine gesellschaftliche Wirkung, die sich in dieser juristischen Frage nicht erschöpft. Wer staatliche Institutionen bereits als unzugänglich erlebt, kann eine polizeiliche Intervention als Bestätigung dieser Erfahrung deuten. Andere können denselben Einsatz als Schutz ihrer eigenen Versammlungsfreiheit verstehen. Keine dieser Deutungen entscheidet für sich über die Rechtmäßigkeit der Maßnahme.
 
-Das wäre eine erheblich anspruchsvollere Untersuchung als die gelegentlich anzutreffende Gegenüberstellung einer grundsätzlich deeskalierenden deutschen und einer grundsätzlich konfrontativen französischen Polizei.
-
-Auch die deutsche Praxis kennt unverhältnismäßige Polizeigewalt. Und auch französische Einsatzkräfte schützen täglich friedliche Versammlungen.
-
-Die Unterschiede ihrer institutionellen Traditionen sind deshalb nicht bedeutungslos, müssen aber genauer untersucht werden, als es die nationale Zuordnung zunächst vermuten lässt.
-
-Die Ereignisse dieses Oktobers verleihen dieser Frage eine besondere Dringlichkeit.
-
-Bereits am 7. Oktober kündigte der französische Innenminister nach der schweren Verletzung eines Jugendlichen an, bestimmte Polizeigranaten bei den Schülerprotesten vorläufig nicht mehr einzusetzen. Amnesty International begrüßte diesen Schritt, verlangte jedoch ein grundsätzliches Verbot der entsprechenden Einsatzmittel.
-
-Nur zehn Tage später verlor ein Demonstrant in Saint-Étienne bei der Explosion einer Polizeigranate eine Hand. Eine Untersuchung des Vorfalls wurde eingeleitet.
-
-Welche konkreten Umstände zu dieser Verletzung führten und ob dabei gegen geltende Vorschriften verstoßen wurde, ist Gegenstand dieser Untersuchung. Es wäre unangemessen, ihrem Ergebnis vorzugreifen.
-
-Die Verletzung selbst ist davon nicht abhängig.
-
-Sie sollte auch nicht vorschnell zur Metapher eines verletzten politischen Gemeinwesens gemacht werden. Eine abgetrennte Hand ist zunächst die sehr konkrete und irreversible Verletzung eines Menschen, dessen individuelle Lebensgeschichte sich durch die Ereignisse dieses Tages vermutlich grundlegender verändert hat als die politischen Verhältnisse seines Landes.
-
-Gerade darin liegt jedoch ein Problem für die demokratische Legitimation staatlicher Gewalt.
-
-Das staatliche Gewaltmonopol legitimiert sich nicht allein durch die rechtliche Zuweisung seiner Ausübung. Seine konkrete Anwendung muss sich vielmehr stets daran messen lassen, ob sie erforderlich, angemessen und gegenüber den betroffenen Menschen zu rechtfertigen war.
-
-Für die politische Wahrnehmung dieser Vorgänge ist zudem nicht unerheblich, dass der Staat hier in einer doppelten Rolle erscheint: als Adressat gesellschaftlicher Forderungen und als jene Instanz, die über die Bedingungen ihrer öffentlichen Artikulation wacht.
-
-Wer bereits den Eindruck hat, von staatlichen Institutionen nicht gehört zu werden, kann deren polizeiliches Eingreifen deshalb als Bestätigung seiner ursprünglichen Erfahrung verstehen.
-
-Damit entsteht eine mögliche Rückkopplung zwischen wahrgenommener Ohnmacht, staatlicher Intervention und erneuter politischer Mobilisierung.
-
-Sie ist nicht zwangsläufig. Aber sie lässt sich auch nicht allein dadurch widerlegen, dass die Polizei auf tatsächlich stattgefundene Gewalt verweisen kann.
-
-Die Rechtmäßigkeit eines einzelnen Einsatzes und seine gesellschaftliche Wirkung sind unterschiedliche Fragen.
-
-Beide verdienen eine eigenständige Antwort.
+Wir können also eine mögliche Rückkopplung zwischen staatlichem Eingreifen, wechselseitigem Misstrauen und erneuter Mobilisierung untersuchen, ohne sie für diesen Protesttag als Ursache zu behaupten. Gewalt ist nicht die notwendige Sprache der Ohnmacht. Sie kann kalkuliert, situativ hervorgebracht, provoziert, verhindert oder begrenzt werden. Für jede dieser Möglichkeiten benötigen wir mehr als die Ähnlichkeit der Bilder.
 
 ## V. Die Wirklichkeit und ihre nachträgliche Vereinheitlichung
 
-Während auf den Straßen gestritten wird, findet eine zweite, weniger körperliche Auseinandersetzung um ihre Bedeutung statt.
+Während auf den Straßen gestritten wird, findet eine zweite Auseinandersetzung um die Bedeutung dieser Ereignisse statt. Sie vollzieht sich in politischen Stellungnahmen, journalistischen Berichten und sozialen Medien.
 
-Die sozialen Medien präsentieren Demonstrationen als Abfolge verdichteter Ereignisse. Bilder aus unterschiedlichen Städten werden nebeneinandergestellt, oft ohne ihren jeweiligen Entstehungszusammenhang ausreichend kenntlich zu machen.
+Dort erscheinen Demonstrationen häufig als Abfolge verdichteter Bilder. Unterschiedliche Städte liegen nur einen Schnitt voneinander entfernt, friedliche Kundgebungen und gewaltsame Auseinandersetzungen können in derselben Bildstrecke aufeinanderfolgen. Der Zusammenhang entsteht dann nicht notwendig zwischen den Beteiligten, sondern zunächst in der Darstellung ihrer Handlungen.
 
-Mitunter erfolgt dies sogar absichtlich.
+Mitunter geschieht dies gezielt. Anfang Oktober berichtete eine NewsGuard-Analyse über ältere Aufnahmen französischer Proteste, die als aktuelle Belege für ein größeres Ausmaß an Chaos und Gewalt verbreitet worden seien. Doch das Problem reicht über irreführende Videos hinaus.
 
-Die von NewsGuard untersuchten Desinformationskampagnen Anfang Oktober verwendeten ältere Aufnahmen französischer Proteste, um den Eindruck einer erheblich größeren und gewaltsameren Bewegung zu erzeugen. Offenbar genügt bereits die visuelle Ähnlichkeit verschiedener Konflikte, um daraus ein scheinbar geschlossenes politisches Ereignis zu konstruieren.
+Auch eine sorgfältige journalistische Zusammenfassung muss auswählen, ordnen und gewichten. Das ist kein Argument gegen die Einordnung von Ereignissen. Es ist ein Argument dafür, sichtbar zu halten, welche Gemeinsamkeiten beobachtet wurden und welche erst aus unserer Darstellung hervorgehen.
 
-Das Problem geht allerdings über gezielte Fälschungen hinaus.
+Wir haben uns diese Schwierigkeit schon zu Beginn des Essays vorgeführt. Mailand, Paris und Limoges lassen sich in wenigen Sätzen zu einem europäischen Protesttag verbinden. Das ergibt eine eindrucksvolle Erzählung. Ob es darüber hinaus auch eine zusammengehörige gesellschaftliche Entwicklung ergibt, ist eine andere Frage.
 
-Auch die gewöhnliche journalistische Zusammenfassung ist notwendigerweise eine Form der Auswahl und Ordnung. Aus vielen gleichzeitig stattfindenden, jeweils unterschiedlich motivierten Ereignissen entsteht eine Erzählung, deren innere Kohärenz sich nicht ohne Weiteres auf die Handlungen ihrer Beteiligten zurückführen lässt.
+Mit der Zuschreibung "links" verhält es sich ähnlich. Gewerkschaftliche Organisation und sozialpolitische Forderungen liefern gute Gründe, Teile der Mobilisierung in einer linken politischen Tradition zu verorten. Sie sagen aber noch nichts Abschließendes über die politische Selbstbeschreibung aller Beteiligten, über gegenseitige Beziehungen zwischen den Protesten oder über die Entstehung einer gemeinsamen Bewegung.
 
-Das ist kein Argument gegen journalistische Einordnung.
+Die entscheidende empirische Frage wäre deshalb, ob sich mehr beobachten lässt als ein Gleichklang der Themen: Greifen Demonstrierende und Organisationen die Forderungen anderer Länder auf? Werden Erfahrungen über Grenzen hinweg ausgetauscht? Entstehen gemeinsame Deutungen, Netzwerke, Formen der Mobilisierung oder wechselseitige Erwartungen? Eine europäische Bewegung müsste keine zentral geleitete Organisation besitzen. Aber irgendeine Form des Zusammenhangs müsste sich zeigen lassen.
 
-Es ist ein Argument dafür, ihre begrifflichen Voraussetzungen sichtbar zu halten.
-
-Wenn wir von einer europäischen Protestbewegung sprechen, beschreiben wir damit zunächst eine mögliche Gemeinsamkeit. Wir haben sie noch nicht erklärt.
-
-Und wenn wir diese Bewegung anschließend als links bezeichnen, gewinnen wir eine weitere Klassifikation, nicht notwendig eine zusätzliche Erkenntnis.
-
-Es wäre immerhin denkbar, dass wir gerade dort eine besonders interessante politische Entwicklung beobachten, wo sich die Beteiligten eben nicht zuverlässig in unsere etablierten Kategorien einordnen lassen.
-
-Vielleicht verrät die Schwierigkeit ihrer Klassifikation weniger über die Unbestimmtheit ihrer Anliegen als über die Grenzen der Begriffe, mit denen wir politische Wirklichkeit gewöhnlich ordnen.
+Wenn wir eine solche Bewegung lediglich wegen ähnlicher prekärer Verhältnisse vermuten, hätten wir ihre mögliche gemeinsame Ursache mit ihrer tatsächlichen politischen Verbindung verwechselt. Und wenn wir ihre Existenz allein deshalb verneinen, weil noch kein gemeinsames Manifest vorliegt, hätten wir möglicherweise gerade den Prozess übersehen, den wir untersuchen wollten.
 
 ## VI. Von der Wirksamkeit und der Bedeutung des Handelns
 
@@ -250,49 +210,30 @@ Das macht ihre Untersuchung nicht einfacher.
 
 Aber vielleicht etwas weniger abhängig von der Erwartung, die gesellschaftliche Wirklichkeit müsse sich rechtzeitig für unsere begrifflichen Ordnungssysteme entscheiden.
 
-## VII. Eine Gegenbewegung?
+## VII. Eine europäische Bewegung?
 
-Bleibt die ursprüngliche Vermutung, Europa erlebe gegenwärtig die Anfänge einer neuen linken Gegenbewegung zu den autoritären Entwicklungen der vergangenen Jahre.
+Bleibt die Frage, von der wir ausgegangen sind: Beobachten wir in den Demonstrationen dieses Oktobers den Anfang einer europäischen Protestbewegung, die auf Erfahrungen gesellschaftlicher Unsicherheit und politischer Wirkungslosigkeit reagiert?
 
-Sie lässt sich bislang weder überzeugend bestätigen noch widerlegen.
+Zunächst müssen wir uns eingestehen, wie viel an dieser Frage noch Hypothese ist. Wir wissen aus den Forderungen und der sozialen Zusammensetzung einzelner Mobilisierungen nicht ohne Weiteres, welche subjektiven Erfahrungen die Teilnehmer verbinden. Wir wissen ebenso wenig allein aus gewerkschaftlicher Beteiligung, ob alle Protestierenden dieselbe politische Richtung vertreten.
 
-Für sie spricht, dass soziale Fragen, institutionelles Misstrauen und die Kritik an der Verteilung gesellschaftlicher Ressourcen erneut erhebliche politische Mobilisierungskraft entfalten. Hinzu kommt, dass die Proteste in Italien und Frankreich nicht unabhängig von den dortigen politischen Machtverhältnissen verstanden werden können.
+Dass soziale Proteste häufig als links gelten, ist historisch verständlich. Gewerkschaften und sozialpolitische Organisationen prägen ihre Sprache und schaffen Möglichkeiten gemeinsamen Handelns. Diese Prägung ist ein Befund über Teile der Bewegung. Sie ersetzt nicht die Untersuchung dessen, was außerhalb der bestehenden Organisationen möglicherweise neu entsteht.
 
-Gegen eine vorschnelle Bestätigung spricht allerdings die beträchtliche Heterogenität der Beteiligten und ihrer Forderungen.
+Der Aufstieg rechter und autoritärer Kräfte in den vergangenen Jahren kann dabei als Vergleichsfolie dienen. Auch zu seiner Erklärung wurden Unsicherheit, Statusangst und politische Ohnmacht herangezogen. Aber seine Träger und seine politischen Angebote lassen sich nicht insgesamt auf materielle Prekarität reduzieren. Die vermeintlich gemeinsame Ursache unterschiedlicher politischer Mobilisierungen bleibt selbst erklärungsbedürftig.
 
-Vor allem aber scheint mir bereits die Vorstellung einer symmetrischen Gegenbewegung fragwürdig.
+Ebenso wenig dürfen wir aus den Ausschreitungen eine einheitliche politische Haltung der Demonstrierenden ableiten. Die Gewalt einiger Beteiligter und die schweren Verletzungen durch staatliche Einsatzmittel sind Vorgänge, die ihre eigene Untersuchung und Verantwortung verlangen. Sie sind nicht der Beweis, dass eine europäische Bewegung geboren wird, und ebenso wenig ihr Gegenbeweis.
 
-Der politische Aufstieg der autoritären Rechten erfolgte in weiten Teilen Europas über parlamentarische Institutionen. Die gegenwärtigen Proteste dagegen werden zunächst als außerparlamentarisches Handeln sichtbar. Ihre möglichen politischen Auswirkungen müssen daher keineswegs unter denselben Bedingungen entstehen und lassen sich entsprechend schlecht an denselben Kriterien messen.
+Was sich gegenwärtig erkennen lässt, ist die Möglichkeit, dass Menschen unter verschiedenen gesellschaftlichen Bedingungen neue Formen gemeinsamer Handlungsfähigkeit suchen oder bereits vorhandene nutzen. Ob diese Formen einander über Grenzen hinweg beeinflussen und eine dauerhafte gemeinsame politische Sprache ausbilden, muss sich erst zeigen.
 
-Eine Demonstration ist keine Wahl. Und aus der Größe einer Menschenmenge lässt sich noch kein Mandat ableiten.
+Vielleicht entsteht daraus eine linke Gegenbewegung zu autoritären Entwicklungen. Vielleicht bleiben es überwiegend nationale Mobilisierungen, die ähnliche Forderungen formulieren, ohne einen gemeinsamen politischen Zusammenhang zu entwickeln. Und möglicherweise liegen die wichtigsten Folgen zunächst nicht in Wahlergebnissen oder neuen Organisationen, sondern in veränderten Erwartungen an die eigene Wirksamkeit.
 
-Dennoch könnte gerade hier eine gesellschaftliche Veränderung beginnen.
+Hier berühren wir den Unterschied zwischen Erfolg und Bedeutung, den unsere Untersuchung nicht preisgeben sollte. Eine Demonstration muss ihre Forderungen nicht sofort durchsetzen, um für die Beteiligten politisch bedeutsam zu sein. Aber diese mögliche Bedeutung dürfen wir nicht an ihrer Stelle behaupten. Auch sie verlangt Aufmerksamkeit für das, was die Menschen selbst über ihr Handeln sagen und später daraus machen.
 
-Wenn Menschen, die sich bislang kaum als politisch wirksam erfahren haben, neue Formen gemeinsamer Handlungsfähigkeit entdecken, verändert dies zunächst ihr Verhältnis zu den eigenen Möglichkeiten.
+Die Bilder vom Oktober werden uns erhalten bleiben. Ob die Beziehungen zwischen den Menschen, die darin erscheinen, ebenso dauerhaft sind, wissen wir nicht.
 
-Daraus muss noch keine kohärente politische Bewegung entstehen.
+Es könnte sich herausstellen, dass wir eine Bewegung zu früh benannt haben. Es könnte auch sein, dass wir ihre Anfänge übersehen, weil wir auf vertraute Organisationsformen und politische Etiketten warten.
 
-Es könnte allerdings die Voraussetzung dafür sein, dass gesellschaftliche Verhältnisse, die zuvor als kaum veränderbar galten, überhaupt wieder zum Gegenstand gemeinsamer politischer Auseinandersetzung werden.
+Die Geschichte ist nicht verpflichtet, unseren Begriffen rechtzeitig entgegenzukommen.
 
-Ob zwischen den gegenwärtigen Protesten ein dauerhafter gesellschaftlicher Zusammenhang entsteht, dürfte sich jedenfalls nicht allein an den Ereignissen dieses einen Oktobers entscheiden.
-
-Vielleicht werden ihre unmittelbaren politischen Folgen gering bleiben. Vielleicht werden sich aus ihnen neue Organisationen entwickeln, vielleicht auch nur veränderte Erwartungen an bereits bestehende. Und möglicherweise wird man in einigen Jahren feststellen, dass die heute nebeneinanderliegenden Ereignisse weniger miteinander zu tun hatten, als ihre zeitgenössische Darstellung vermuten ließ.
-
-Das wäre keine besonders aufregende historische Erzählung. Allerdings ist die Geschichte auch nicht verpflichtet, ihren Beobachtern eine solche zu liefern.
-
-Die ursprüngliche Frage nach einer linken Gegenbewegung bleibt damit offen. Nicht weil es an möglichen Erklärungen mangelte, sondern weil wir bislang noch nicht hinreichend wissen, welche gesellschaftlichen Beziehungen aus den beobachteten Ereignissen hervorgehen werden.
-
-Es könnte sich zeigen, dass gemeinsame Erfahrungen der Ohnmacht sehr unterschiedliche Formen politischer Handlungsfähigkeit hervorbringen. Ebenso könnte sich herausstellen, dass die bestehenden politischen Kategorien diese Entwicklungen nur unzureichend beschreiben.
-
-Auf der Piazza Duomo werden die Café-Tische inzwischen wieder dort stehen, wo man sie gewöhnlich erwartet.
-
-In Frankreich werden Gewerkschaften, Regierung und Demonstrierende weiter darüber streiten, was der vergangene Samstag bewirkt hat.
-
-Vermutlich werden sie schon bei der Frage, was überhaupt als Wirkung gelten soll, unterschiedlicher Auffassung sein.
-
-Die Bilder sind sich jedenfalls erstaunlich ähnlich.
-
-Über ihre Bedeutung wird noch verhandelt.
 
 ---
 
