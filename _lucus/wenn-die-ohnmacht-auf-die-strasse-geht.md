@@ -2,7 +2,7 @@
 layout: lucus
 published: true
 title: "Wenn die Ohnmacht auf die Straße geht"
-subtitle: "Über die gesellschaftliche Herstellung politischer Handlungsfähigkeit und die Schwierigkeiten ihrer begrifflichen Einordnung"
+standfirst: "Die Proteste in Frankreich und Italien werfen Fragen auf, die über die Ereignisse dieses Oktobers hinausreichen: Was macht aus gesellschaftlicher Unzufriedenheit politisches Handeln? Wann werden ähnliche Erfahrungen zu einer gemeinsamen Bewegung? Und woran bemisst sich die Bedeutung eines Protests, wenn sein unmittelbarer Erfolg ausbleibt? Ein Essay über Ohnmacht, Handlungsfähigkeit und die Schwierigkeiten ihrer politischen Deutung."
 date: 2026-10-18
 lang: de
 issue: 1

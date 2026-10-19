@@ -17,6 +17,8 @@ body:has(.lucus) .page-content > .wrapper { width: 96%; max-width: 1180px; }
 .lucus__rubric { text-transform:uppercase;letter-spacing:.17em;font-size:.72rem;margin:0 0 .8rem; }
 .lucus__article-header h1 { font-size:clamp(2.4rem,5vw,4.6rem);letter-spacing:-.035em;line-height:1.04;margin:0 0 .55rem;font-weight:normal; }
 .lucus__subtitle { font-size:clamp(1.2rem,2.2vw,1.65rem);line-height:1.28;margin:0 0 .8rem; }
+/* Editorial orientation for longer essays, outside the paginated article body. */
+.lucus__standfirst { max-width:68ch; margin:.8rem 0 1rem; padding:.8rem 0 0; border-top:1px solid var(--rule); font-size:clamp(1.05rem,1.7vw,1.22rem); line-height:1.48; }
 .lucus__byline { font-size:.83rem;letter-spacing:.03em;border-bottom:1px solid var(--rule);padding-bottom:.8rem; }
 .lucus__hero { margin:1rem 0 1.4rem; }
 .lucus__hero img { display:block;width:100%;height:auto;filter:grayscale(100%) sepia(25%); }
