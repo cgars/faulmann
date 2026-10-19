@@ -1,0 +1,85 @@
+/* LUCUS: newspaper design isolated from ordinary Faulmann posts. */
+body:has(.lucus) .page-content > .wrapper { width: 96%; max-width: 1180px; }
+.lucus {
+  --paper:#f8f3e8; --ink:#29271f; --rule:#756d5d;
+  box-sizing:border-box; background:var(--paper);color:var(--ink);
+  padding:clamp(14px,3vw,34px);border:1px solid #bdb19a;
+  box-shadow:0 8px 28px rgba(26,20,12,.12);
+  font-family:Georgia,"Times New Roman",serif;
+}
+.lucus * { box-sizing:border-box; }
+.lucus__masthead { margin-bottom:1.3rem; }
+.lucus__masthead-art { display:block;border-bottom:1px solid var(--ink); }
+.lucus__masthead-art img { display:block;width:100%;height:auto; }
+.lucus__edition { display:flex;justify-content:space-between;align-items:baseline;gap:.5rem;padding:.46rem .1rem;border-block:1px solid var(--rule);margin-top:9px;font-size:.87rem; }
+.lucus__columns { display:grid;grid-template-columns:minmax(0,3fr) minmax(185px,1fr);gap:28px; }
+.lucus__main { min-width:0; }
+.lucus__rubric { text-transform:uppercase;letter-spacing:.17em;font-size:.72rem;margin:0 0 .8rem; }
+.lucus__article-header h1 { font-size:clamp(2.4rem,5vw,4.6rem);letter-spacing:-.035em;line-height:1.04;margin:0 0 .55rem;font-weight:normal; }
+.lucus__subtitle { font-size:clamp(1.2rem,2.2vw,1.65rem);line-height:1.28;margin:0 0 .8rem; }
+.lucus__byline { font-size:.83rem;letter-spacing:.03em;border-bottom:1px solid var(--rule);padding-bottom:.8rem; }
+.lucus__hero { margin:1rem 0 1.4rem; }
+.lucus__hero img { display:block;width:100%;height:auto;filter:grayscale(100%) sepia(25%); }
+.lucus__hero figcaption { margin-top:.3rem;color:#5b5549;font-size:.75rem; }
+.lucus__body { font-size:1.055rem;line-height:1.57; }
+.lucus__body p { margin:0 0 1em; }
+.lucus__body > p:first-of-type::first-letter { float:left;font-size:3.5em;line-height:.8;padding:.07em .09em 0 0; }
+.lucus__body h2 { font-size:1.4rem;margin:1.6rem 0 .6rem; }
+.lucus__body a { color:#4c523d;text-underline-offset:2px; }
+.lucus__sidebar { border-left:1px solid var(--rule);padding-left:22px; }
+.lucus__sidebar > h2 { text-transform:uppercase;letter-spacing:.13em;font-weight:normal;text-align:center;font-size:1.05rem;border-bottom:3px double var(--rule);padding-bottom:.7rem; }
+.lucus__notice { border-bottom:1px solid var(--rule);padding:.7rem 0; }
+.lucus__notice h3 { font-size:1.04rem;margin:0 0 .3rem; }
+.lucus__notice p { font-size:.9rem;line-height:1.4;margin:0; }
+.lucus__footer { margin-top:2rem;padding-top:.7rem;border-top:3px double var(--rule);font-size:.9rem; }
+.lucus__footer a { color:inherit; }
+@media (min-width:900px) {
+  .lucus__page-columns { display:grid; grid-template-columns:minmax(0,1fr) minmax(0,1fr); gap:28px; position:relative; }
+  .lucus__page-columns::after {content:""; position:absolute; left:50%; top:0; bottom:0; width:1px; background:#d2c9b6;}
+  .lucus__page-column {min-width:0; text-align:justify; hyphens:auto; }
+}
+@media (max-width:730px) {
+ .lucus__columns { grid-template-columns:1fr; }
+ .lucus__sidebar { border-left:0;padding-left:0;border-top:3px double var(--rule);padding-top:.7rem; }
+ .lucus__edition { font-size:.73rem; }
+}
+@media print {
+ .site-header,.site-footer,.lucus__footer { display:none!important; }
+ .lucus { box-shadow:none;border:0;padding:0; }
+ .lucus__body { column-count:2; }
+}
+
+/* Issue index at /lucus/ */
+.lucus__archive-heading { text-align:center; margin:2.4rem auto 2rem; max-width:48rem; }
+.lucus__archive-heading h1 { font:normal clamp(1.8rem,3.2vw,3rem)/1.17 Georgia,"Times New Roman",serif; margin:.25rem 0; }
+.lucus__archive-heading > p:last-child { font-style:italic; font-size:1.1rem; margin:.5rem 0 0; }
+.lucus__archive { max-width:52rem; margin:0 auto; border-top:3px double var(--rule); }
+.lucus__archive-entry { padding:1.5rem 0; border-bottom:1px solid var(--rule); }
+.lucus__archive-entry .lucus__rubric { margin-bottom:.4rem; }
+.lucus__archive-entry h2 { font:normal clamp(1.5rem,2.5vw,2.1rem)/1.2 Georgia,"Times New Roman",serif; margin:0 0 .35rem; }
+.lucus__archive-entry h2 a { color:var(--ink); text-decoration:none; }
+.lucus__archive-entry h2 a:hover { text-decoration:underline; text-underline-offset:.14em; }
+.lucus__archive-subtitle { font-size:1.05rem; margin:0 0 .55rem; }
+.lucus__archive-entry time { font-size:.83rem; color:#605848; }
+
+
+/* Progressive pagination; without JS the complete text remains visible. */
+.lucus__source[hidden],.lucus__pages[hidden],.lucus__page[hidden],.lucus__reading-controls[hidden]{display:none!important;}
+.lucus__reader{scroll-margin-top:1rem;}
+.lucus__page{margin:0 0 1rem;}
+.lucus__page-heading{display:flex;justify-content:space-between;gap:1rem;border-top:1px solid #bdb19a;padding:.35rem 0 .9rem;letter-spacing:.12em;text-transform:uppercase;font-size:.7rem;color:#716859;}
+.lucus__page-column{font-size:1.055rem;line-height:1.57;}
+.lucus__page-column > *{margin-top:0;}
+.lucus__page-column p{margin-bottom:1em;}
+.lucus__page-column h2{font-size:1.4rem;margin:1.6rem 0 .6rem;}
+.lucus__page:first-child .lucus__page-column:first-child > p:first-child::first-letter{float:left;font-size:3.5em;line-height:.8;padding:.07em .09em 0 0;}
+.lucus__reading-controls:not([hidden]){display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:.8rem;border-top:3px double var(--rule);padding:1rem 0;}
+.lucus__pagination[hidden]{display:none!important;}
+.lucus__pagination{display:flex;align-items:center;justify-content:space-between;gap:.8rem;flex:1;}
+.lucus__pagination button{font:inherit;font-size:.88rem;color:var(--ink);background:transparent;border:1px solid var(--rule);padding:.45rem .75rem;cursor:pointer;}
+.lucus__pagination button:disabled{opacity:.4;cursor:default;}
+.lucus__pagination button:hover:not(:disabled){background:#ece4d1;}
+.lucus__pagination [data-lucus-status]{white-space:nowrap;font-size:.85rem;}
+.lucus__continuous-choice{font-size:.85rem;white-space:nowrap;cursor:pointer;}
+@media(max-width:899px){.lucus__pages,.lucus__reading-controls{display:none!important;}.lucus__source[hidden]{display:block!important;}}
+@media print{.lucus__source[hidden]{display:block!important;}.lucus__pages,.lucus__reading-controls{display:none!important;}.lucus__body{column-count:2;}}

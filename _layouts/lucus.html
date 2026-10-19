@@ -1,0 +1,44 @@
+---
+layout: base
+---
+<article class="lucus" lang="de">
+  {% include lucus-masthead.html issue=page.issue date=page.date volume=page.volume %}
+  <div class="lucus__columns">
+    <div class="lucus__main">
+      <header class="lucus__article-header">
+        <p class="lucus__rubric">{{ page.rubric | default: 'Feuilleton' | escape }}</p>
+        <h1>{{ page.title | escape }}</h1>
+        {% if page.subtitle %}<p class="lucus__subtitle">{{ page.subtitle | escape }}</p>{% endif %}
+        {% if page.author %}<p class="lucus__byline">Von {{ page.author | escape }}</p>{% endif %}
+      </header>
+      {% if page.hero %}
+      <figure class="lucus__hero">
+        <img src="{{ page.hero | relative_url }}" alt="{{ page.hero_alt | default: '' | escape }}">
+        {% if page.hero_caption %}<figcaption>{{ page.hero_caption | escape }}</figcaption>{% endif %}
+      </figure>
+      {% endif %}
+      <div class="lucus__reader" data-lucus-reader>
+        <div class="lucus__body lucus__source" data-lucus-source>{{ content }}</div>
+        <div class="lucus__pages" data-lucus-pages hidden></div>
+        <div class="lucus__reading-controls" data-lucus-controls hidden>
+          <nav class="lucus__pagination" aria-label="Leseseiten">
+            <button type="button" data-lucus-previous aria-label="Vorherige Seite">← Zurück</button>
+            <span aria-live="polite" aria-atomic="true" data-lucus-status></span>
+            <button type="button" data-lucus-next aria-label="Nächste Seite">Weiter →</button>
+          </nav>
+          <label class="lucus__continuous-choice"><input type="checkbox" data-lucus-continuous> Fortlaufend lesen</label>
+        </div>
+      </div>
+    </div>
+    {% if page.notices %}
+    <aside class="lucus__sidebar" aria-label="Randnotizen">
+      <h2>Randnotizen</h2>
+      {% for notice in page.notices %}
+      <section class="lucus__notice"><h3>{{ notice.title | escape }}</h3><p>{{ notice.text | escape }}</p></section>
+      {% endfor %}
+    </aside>
+    {% endif %}
+  </div>
+  <footer class="lucus__footer"><a href="{{ '/lucus/' | relative_url }}">Weitere Ausgaben des LUCUS</a></footer>
+</article>
+<script defer src="{{ '/assets/js/lucus-reader.js' | relative_url }}"></script>

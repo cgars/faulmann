@@ -1,0 +1,18 @@
+<header class="lucus__masthead">
+  <a class="lucus__masthead-art" href="{{ '/lucus/' | relative_url }}" aria-label="Zur LUCUS-Übersicht">
+    <img src="{{ '/assets/images/lucus/lucus-masthead.webp' | relative_url }}" alt="LUCUS - De Rebus Humanis. Eine Zeitung aus den Wäldern. Über die Welt. Eisenbahnviadukt im Faulwald." width="1063" height="250">
+  </a>
+  {% if include.issue %}
+  <div class="lucus__edition">
+    <span>Nr. {{ include.issue | default: '1' }}</span>
+    <time datetime="{{ include.date | date: '%Y-%m-%d' }}">{{ include.date | date: '%d.%m.%Y' }}</time>
+    <span>{{ include.volume | default: 'I. Jahrgang' }}</span>
+  </div>
+  {% else %}
+  <div class="lucus__edition">
+    <span>De Rebus Humanis</span>
+    <span>Feuilleton aus den Wäldern</span>
+    <span>Seit 2026</span>
+  </div>
+  {% endif %}
+</header>

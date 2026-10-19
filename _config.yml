@@ -108,3 +108,9 @@ plugins:
 show_excerpts: true
 excerpt_separator: <!--more-->
 paginate: 3
+
+# Dedicated LUCUS newspaper; not included in regular posts or pagination.
+collections:
+  lucus:
+    output: true
+    permalink: /lucus/:name/
