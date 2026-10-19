@@ -74,10 +74,6 @@ Der Händler sah auf seine dünnen Scheite und dann auf die gewölbte Haube.
 
 "Nun", sagte Crispus. "Einen Wagen haben wir gefunden. Nur einen ganz anderen."
 
-"Der Ofen ist schwerer, als er aussieht", sagte der Händler.
-
-"Das bezweifle ich nicht."
-
 Liora deutete auf die Tonhaube. "Ihr backt auf einem Wagen?"
 
 "Wir heizen den Stein unter der Haube, ziehen die Glut zur Seite und schieben Teigfladen hinein", sagte der Händler. "Öl, Käse, Kräuter darauf. Was gerade da ist."
@@ -174,7 +170,7 @@ Crispus beschleunigte seinen Schritt. Mummrich blieb bei den Spuren. Sie führte
 
 Die beiden Karren standen im Wirtschaftshof hinter dem Seitentor. Auf jedem lagen noch drei der langen Eichenbalken. Die sechs übrigen waren nicht zu sehen. Dort endeten die Spuren.
 
-An der Hofmauer stand der alte Wartungszugang zum Entwässerungsgang offen. Seine schwere Abdeckplatte war zur Seite geschoben worden. Eine schmale, ausgetretene Steintreppe führte hinab; das Mauerwerk des Zugangs war unbeschädigt. Daneben standen Schaufeln, Körbe und zwei erloschene Lampen.
+Nahe der Mitte des Hofes stand der alte Wartungszugang zum Entwässerungsgang offen. Seine schwere Abdeckplatte war zur Seite geschoben worden. Eine schmale, ausgetretene Steintreppe führte hinab; das Mauerwerk des Zugangs war unbeschädigt. Daneben standen Schaufeln, Körbe und zwei erloschene Lampen.
 
 Secundus und seine Leute hatten den vorhandenen Zugang benutzt, um die abgesackte Wasserleitung an ihrer Kreuzung mit dem tiefer liegenden Gang von unten abzustützen.
 
@@ -240,7 +236,7 @@ Liora beobachtete die Händlerin.
 
 Ein Thermenbediensteter blieb mit einem Korb vor ihr stehen. "Wer hat Euch eigentlich zur Oberaufseherin gemacht, dass Ihr hier alle herumkommandiert?"
 
-"Das Amt?", fragte die Händlerin. "Offenbar war es unbesetzt."
+"Fragt mich später", sagte die Händlerin. "Jetzt gehört der Korb zu den Tüchern."
 
 Liora ging zu Dachsbert. "Du erfindest doch Ämter", sagte sie.
 
@@ -308,7 +304,7 @@ Crispus nickte. "Und den nächsten erst, wenn der Schutt dort weg ist."
 
 "Jetzt haben wir es beide gesagt."
 
-Crispus führte Cassianus in den Gang hinunter. Vor dem Schutt setzte er den Fuß des ersten Pfostens um zwei Fingerbreit zur Seite.
+Vor dem Schutt setzte Crispus den Fuß des ersten Pfostens um zwei Fingerbreit zur Seite.
 
 "Nicht auf die Fuge", sagte Cassianus.
 
@@ -502,13 +498,13 @@ Die Legionäre ließen die Seile sinken. Cassianus prüfte nochmals die Stützen
 
 Die Oberaufseherin brachte einen Krug Posca, Wasser mit einem Schuss saurem Wein. Einige Legionäre, Zimmerleute und Thermenarbeiter setzten sich auf Balkenstücke und an die Mauer. Es gab weniger Becher als Hände. Die Becher wechselten so oft die Hand, dass sie bald allen gemeinsam gehörten.
 
-"Eure Gesellen setzen brauchbare Keile", sagte einer der Legionäre.
-
 "Eure Leute schaffen was weg", sagte Cassianus.
 
-"Fast wie Bauleute."
+"Eure Gesellen setzen brauchbare Keile", sagte einer der Legionäre.
 
-"Fast wie brauchbare Soldaten", sagte Cassianus.
+"Fast wie Bauleute", sagte Cassianus.
+
+"Fast wie brauchbare Soldaten", sagte der Legionär.
 
 Ein Geselle reichte seinen Becher dem Legionär. "Auf brauchbar."
 
@@ -562,9 +558,9 @@ Faulmann wartete darauf, dass der Schmied den nächsten Keil setzte. Stattdessen
 
 Räder rollten über festen Boden. Ihr Rumpeln wurde leiser, bis nur noch das Summen eines Elektromotors blieb. Stimmen verloren sich hinter einer Mauer. Irgendwo lachte ein Kind.
 
-Durch die offene Tür fiel ein schmales Rechteck aus Licht auf den Boden. Die Staubteilchen darin hatten sich nicht weit bewegt.
-
 Faulmann öffnete die Augen.
+
+Durch die offene Tür fiel noch immer das schmale Rechteck aus Licht auf den Boden. Staubteilchen bewegten sich darin.
 
 Liora stand vor ihm und hielt seinen Becher.
 
@@ -600,11 +596,11 @@ Mummrich blieb an einem Modell der Anlage stehen. Er beugte sich so weit darübe
 
 Liora zeigte auf einen Hof hinter dem Hauptgebäude. "Dort muss der Wirtschaftsbereich gewesen sein."
 
-Mummrich sah sie an. "Woher weißt du das?"
+Faulmann sah sie an. "Woher weißt du das?"
 
 "Es steht auf der Tafel."
 
-Mummrich nickte. Er hatte mit einer anderen Art von Erkenntnis gerechnet.
+Faulmann nickte. Er hatte mit einer anderen Art von Erkenntnis gerechnet.
 
 Sie gingen weiter. Das Museum zeigte Steine, Werkzeuge, Gefäße und Dinge, die lange genug im Boden gelegen hatten, um einen eigenen Platz hinter Glas zu erhalten. Faulmann blieb noch einmal über den Mauern stehen und suchte nach dem schmalen Gang. Die Tafeln erklärten Heizräume, Wasserleitungen und die Wege der Badenden. Er las sie bis zum Ende. Von oben sah alles anders aus.
 
