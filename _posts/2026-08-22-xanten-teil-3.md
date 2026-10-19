@@ -2,7 +2,7 @@
 layout: post
 title: "Zwölf Balken. Sieben Männer. Ein Ofen."
 subtitle: "Teil 3: Eine Stadt hilft"
-date: 2026-08-22 10:02:00 +0200
+date: 2026-10-19 11:30:00 +0200
 published: true
 series: "Ein Tag in Colonia Ulpia Traiana"
 series_part: 3
