@@ -3,7 +3,7 @@ layout: post
 title: "Zwölf Balken. Sieben Männer. Ein Ofen."
 subtitle: "Teil 3: Eine Stadt hilft"
 date: 2026-08-22 10:02:00 +0200
-published: false
+published: true
 series: "Ein Tag in Colonia Ulpia Traiana"
 series_part: 3
 permalink: /xanten/teil-3/
