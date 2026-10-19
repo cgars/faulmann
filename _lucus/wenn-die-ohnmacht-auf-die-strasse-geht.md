@@ -56,85 +56,61 @@ Nicht die Ohnmacht selbst geht auf die Straße. Es sind Menschen, deren Verhält
 
 Das klingt nach einer geringfügigen Verschiebung der Perspektive, verändert aber die Fragestellung beträchtlich.
 
-## II. Die politische Deutung einer gemeinsamen Erfahrung
+## II. Die politische Deutung prekärer Verhältnisse
 
-In den vergangenen Jahren wurde die Erfahrung gesellschaftlicher Unsicherheit vornehmlich im Zusammenhang mit dem Aufstieg rechtspopulistischer und autoritärer Bewegungen diskutiert.
+Die gegenwärtigen Proteste richten sich, soweit sich ihre Forderungen rekonstruieren lassen, unter anderem gegen gestiegene Lebenshaltungskosten, unzureichende öffentliche Dienstleistungen und unsichere Zukunftsaussichten. Es liegt nahe, darin eine Reaktion auf prekäre Lebensverhältnisse zu erkennen. Aber bereits diese scheinbar nüchterne Beschreibung bedarf der Differenzierung.
 
-Dafür gibt es gute Gründe. Untersuchungen zu politischem Vertrauen, Statusängsten, ökonomischer Prekarität und kultureller Entfremdung zeigen, dass solche Erfahrungen die Offenheit für autoritäre politische Angebote begünstigen können. Sie tun dies allerdings weder ausschließlich noch unter allen gesellschaftlichen Bedingungen.
+Prekarität ist nicht einfach ein anderes Wort für Unzufriedenheit. Man kann unter Bedingungen materieller Unsicherheit leben, ohne die eigene Situation als politisches Unrecht zu begreifen. Umgekehrt kann ein wirtschaftlich abgesicherter Mensch den Verlust gesellschaftlicher Anerkennung oder künftigen Wohlstands befürchten, ohne selbst schon in materiell prekären Verhältnissen zu leben. Hinzu tritt die Frage, ob jemand seine Einflussmöglichkeiten auf politische Entscheidungen für ausreichend hält. Keine dieser Erfahrungen lässt sich ohne Weiteres aus einer der anderen ableiten.
 
-Die rechtspopulistische Antwort ist keine zwangsläufige Folge wirtschaftlicher Unsicherheit.
+Das ist gerade deshalb wichtig, weil die Erfahrung gesellschaftlicher Unsicherheit in den vergangenen Jahren häufig zur Erklärung des Aufstiegs rechtspopulistischer und autoritärer politischer Angebote herangezogen wurde. Dafür gibt es empirische Anhaltspunkte. Untersuchungen zu wirtschaftlichen Unsicherheitsschocks und zum Risiko sozialen Abstiegs finden Zusammenhänge mit der Unterstützung populistischer beziehungsweise radikal rechter Parteien. Aber diese Befunde erlauben nicht die wesentlich stärkere Behauptung, deren Wählerschaft bestehe überwiegend aus materiell prekär lebenden Menschen oder entscheide sich ausschließlich wegen ihrer wirtschaftlichen Lage.
 
-Sie ist selbst ein politisches Deutungsangebot.
+Die Furcht vor einem möglichen Abstieg ist nicht der Abstieg selbst. Und das politische Angebot, mit dem eine solche Furcht beantwortet wird, muss keineswegs eine Verbesserung der materiellen Lage seiner Anhänger zum Ziel haben.
 
-Das erscheint mir entscheidend.
+Es lohnt sich sogar, die beiden Fragen getrennt zu untersuchen: *Wer* wird von einer Partei mobilisiert, und *welche* gesellschaftlichen Verhältnisse würden durch ihre Politik begünstigt? Ein Blick auf die steuerpolitischen Programme der deutschen Bundestagswahl 2025 zeigt beispielsweise, dass die vom DIW untersuchten Entlastungsvorschläge der AfD in absoluten Beträgen erheblich zugunsten hoher Einkommen ausfallen würden, während einzelne Entlastungen bei Energieabgaben auch niedrigeren Einkommen zugutekämen. Eine solche Modellrechnung beschreibt mögliche Verteilungswirkungen eines Programms, nicht die Motive sämtlicher Wähler und erst recht nicht das Programm aller europäischen Rechtsparteien.
 
-Wenn Menschen ihre Lebensumstände als zunehmend unkontrollierbar erfahren, folgt daraus noch keine bestimmte Vorstellung darüber, wer für diese Entwicklung verantwortlich ist. Die wirtschaftliche Lage kann als Ergebnis politischer Fehlentscheidungen, als Ausdruck struktureller Ungleichheit, als Folge kulturellen Wandels oder als Bedrohung durch vermeintlich konkurrierende gesellschaftliche Gruppen interpretiert werden.
+Die gelegentlich anzutreffende Erzählung, ökonomisch Abgehängte suchten zwangsläufig Zuflucht bei autoritären politischen Kräften, ist deshalb gleichermaßen soziologisch bequem wie politisch unzureichend. Wirtschaftliche Unsicherheit kann für bestimmte politische Angebote empfänglich machen. Welche Angebote Menschen darin erkennen, welche Bedrohungen sie für ursächlich halten und welche gesellschaftlichen Gruppen sie für schutzwürdig erachten, ist damit noch nicht entschieden.
 
-Diese Interpretationen sind nicht einfach unterschiedliche Beschreibungen eines bereits eindeutig bestimmten Sachverhalts.
+Denn die rechtspopulistische Antwort ist selbst ein politisches Deutungsangebot.
 
-Sie konstituieren vielmehr unterschiedliche politische Gegenstände und eröffnen entsprechend unterschiedliche Möglichkeiten des Handelns.
+Das ist keine bloß sprachphilosophische Spitzfindigkeit. Wer eine Krise als Problem ungerechter Ressourcenverteilung begreift, wird andere Lösungen erwägen als jemand, der ihren Ursprung vornehmlich in einem Verlust nationaler Souveränität oder in vermeintlich konkurrierenden Bevölkerungsgruppen sieht. Selbst vergleichbare materielle Entwicklungen müssen deshalb weder dieselben politischen Forderungen noch dieselben Formen des Handelns hervorbringen.
 
-Wer das Problem in einer ungerechten Verteilung wirtschaftlicher Ressourcen erkennt, wird andere politische Veränderungen für sinnvoll halten als jemand, der darin vornehmlich einen Verlust nationaler Souveränität sieht. Auch dort, wo beide dieselben materiellen Entwicklungen beobachten, müssen ihre politischen Schlussfolgerungen keineswegs miteinander vereinbar sein.
+Damit sind wir wieder bei den Demonstrationen dieses Oktobers. Sie werden im öffentlichen Sprachgebrauch häufig als "linke" Proteste beschrieben, und das geschieht nicht ohne Grund. Gewerkschaften besitzen eine lange Geschichte sozialpolitischer Mobilisierung. Ihre Forderungen nach höheren Löhnen, öffentlicher Daseinsvorsorge und gerechterer Verteilung stehen in erkennbaren politischen Traditionen.
 
-Das ist keine bloß sprachphilosophische Spitzfindigkeit.
+Nur ist der organisatorische Ursprung einer Demonstration nicht identisch mit der politischen Identität aller Beteiligten. Und die sozialpolitische Forderung ist noch kein vollständiges Bekenntnis zu einer politischen Richtung.
 
-Die Bedeutung einer gesellschaftlichen Krise liegt nicht fertig in den statistischen Daten bereit, um anschließend von einer geeigneten politischen Organisation abgeholt zu werden. Sie entsteht auch in der Auseinandersetzung darüber, wie diese Daten zu verstehen sind und welche Konsequenzen aus ihnen folgen sollen.
+In Frankreich unterstützten Gewerkschaften und politische Organisationen die Proteste, die auch von Schülern und Studierenden sowie durch Aufrufe in sozialen Netzwerken getragen wurden. In Italien organisierte die CGIL gemeinsam mit zahlreichen Verbänden in Rom eine ausdrücklich sozialpolitisch geprägte Demonstration. Die Auseinandersetzungen in Mailand ereigneten sich dagegen im Umfeld einer anderen Mobilisierung unter dem Namen "Italia in piazza". Dass diese Ereignisse am selben Tag stattfanden, macht sie nicht zu Teilen eines einzigen gewerkschaftlichen Zuges.
 
-Vor diesem Hintergrund erscheint mir die verbreitete Vorstellung einer politischen Verschiebung von rechts nach links einigermaßen problematisch.
+Gerade diese Unterschiede sind erkenntnisreich. Eine etablierte Organisation kann einer Mobilisierung Sprache, Forderungen und Infrastruktur bereitstellen, ohne damit bereits festzulegen, wie sich alle Beteiligten selbst verstehen. Umgekehrt kann die Übernahme einer gemeinsamen politischen Sprache ein erster Schritt zur Herausbildung einer neuen kollektiven Identität sein. Nur müssen wir diesen Schritt beobachten, statt ihn in der Beschreibung schon vorwegzunehmen.
 
-In Frankreich und Italien haben sich rechtsgerichtete politische Bewegungen in den vergangenen Jahren fest etabliert. Gleichzeitig beobachten wir dort nun soziale Proteste, deren Akteure teilweise ausdrücklich gegen die Politik dieser Kräfte auftreten.
+Aus den Demonstrationen eine Verschiebung "von rechts nach links" abzuleiten, wäre daher ebenso voreilig wie die Annahme, soziale Unsicherheit müsse entweder rechts oder links beantwortet werden. Die rechte Mobilisierung dient uns als historische Vergleichsfolie dafür, wie Erfahrungen politisch gedeutet werden. Sie ist nicht die alternative politische Zuordnung jener Menschen, die nun demonstrieren.
 
-Daraus bereits eine linke Gegenbewegung abzuleiten, würde allerdings voraussetzen, dass die politische Bedeutung dieser Proteste im Wesentlichen schon feststeht.
-
-Genau das scheint bislang nicht der Fall zu sein.
-
-Die gewerkschaftlich organisierten Demonstrationen in Frankreich besitzen erkennbare sozialpolitische Forderungen und entsprechende institutionelle Strukturen. Die studentischen Proteste in Italien artikulieren wiederum eigene Konflikte um Bildung, Wohnen und gesellschaftliche Teilhabe. Die Jugendlichen, die sich in Mailand gewaltsame Auseinandersetzungen mit der Polizei lieferten, führten nach Berichten nicht durchgängig politische Symbole mit sich.
-
-Es dürfte schwierig sein, aus diesen unterschiedlichen Erscheinungen eine einheitliche politische Identität abzuleiten.
-
-Wobei diese Schwierigkeit selbst aufschlussreich ist.
-
-Vielleicht besteht der gemeinsame Nenner gerade nicht in einer bereits ausgebildeten politischen Überzeugung, sondern in der noch offenen Auseinandersetzung darüber, welche Bedeutung den gegenwärtigen gesellschaftlichen Verhältnissen überhaupt zukommen soll.
-
-Dann wäre die entscheidende Frage nicht, ob die Protestierenden links sind.
-
-Sondern ob und wie aus ihren unterschiedlichen Erfahrungen eine gemeinsame politische Sprache entsteht.
+Die Frage lautet zunächst, ob Menschen in verschiedenen Ländern ihre Lebensverhältnisse unter ähnlichen Begriffen zu verstehen beginnen und daraus gemeinsame Handlungsmöglichkeiten ableiten. Ob daraus eine europäische, womöglich links geprägte Gegenbewegung erwächst, ist eine andere, noch offene Frage.
 
 ## III. Von der Repräsentation zum Widerspruch
 
-Albert O. Hirschmans Unterscheidung zwischen *Exit*, *Voice* und *Loyalty* bietet hierfür einen hilfreichen Ausgangspunkt.
+Neben der materiellen Unsicherheit begegnet uns eine zweite, keineswegs mit ihr identische Erfahrung: die Überzeugung, über demokratische Verfahren auf die eigenen Lebensverhältnisse kaum noch Einfluss nehmen zu können.
 
-In seiner ursprünglichen Untersuchung beschreibt Hirschman unterschiedliche Möglichkeiten, auf die Verschlechterung der Leistungen von Unternehmen, Organisationen und Staaten zu reagieren. Menschen können eine Organisation verlassen, ihre Unzufriedenheit artikulieren oder ihr trotz der wahrgenommenen Defizite verbunden bleiben.
+Eine Gesellschaft kann Menschen hervorbringen, die sich wirtschaftlich gesichert wissen und ihre politischen Interessen dennoch für unzureichend vertreten halten. Andere können in materieller Not leben, ohne das Vertrauen in die demokratische Repräsentation verloren zu haben. Wer eine politische Erklärung sucht, darf die eine Erfahrung nicht kurzerhand zur Ursache der anderen erklären.
 
-Die Übertragung auf demokratische Gesellschaften ist reizvoll, gerade weil sie nicht vollständig gelingt.
+Immerhin ist die Beziehung zwischen wahrgenommener politischer Einflussmöglichkeit und Vertrauen empirisch relevant. In der OECD-Vertrauensbefragung von 2023, veröffentlicht 2024, bekundeten unter den Befragten, die sich von der Politik gehört fühlten, im Länderdurchschnitt 69 Prozent Vertrauen in die nationale Regierung; unter denjenigen, die sich ohne politische Stimme sahen, waren es 22 Prozent. Diese Differenz beweist weder eine Kausalrichtung noch erklärt sie die Proteste vom Oktober 2026. Sie unterstreicht aber, weshalb wir politische Wirksamkeitserwartung als eigenständiges Problem behandeln sollten.
 
-Einen Staat kann man nicht unter denselben Bedingungen verlassen wie einen unzuverlässigen Telefonanbieter. Und selbst dieser Vergleich setzt heutzutage einige Beharrlichkeit voraus.
+Albert O. Hirschmans Unterscheidung zwischen *Exit*, *Voice* und *Loyalty* bietet hierfür einen hilfreichen Ausgangspunkt. In seiner Untersuchung beschreibt er verschiedene Möglichkeiten, auf die Verschlechterung der Leistungen von Unternehmen und Organisationen zu reagieren: Man kann sie verlassen, widersprechen oder ihnen verbunden bleiben.
 
-Interessanter erscheint mir jedoch eine andere Besonderheit.
+Die Übertragung auf demokratische Gesellschaften ist reizvoll, gerade weil sie nicht vollständig gelingt. Einen Staat kann man nicht unter denselben Bedingungen verlassen wie einen unzuverlässigen Telefonanbieter. Und selbst dieser Vergleich setzt heutzutage einige Beharrlichkeit voraus.
 
-Demokratische Institutionen versprechen nicht nur die Möglichkeit politischer Einflussnahme. Sie stellen zugleich Verfahren bereit, durch die deren Wirksamkeit gesellschaftlich anerkannt werden soll. Eine Wahl ist deshalb nicht bloß eine Methode der personellen Auswahl. Sie ist auch eine institutionalisierte Behauptung darüber, wie individuelle politische Präferenzen in kollektive Entscheidungen übersetzt werden können.
+Interessanter erscheint mir eine andere Besonderheit. Demokratische Institutionen stellen Verfahren bereit, durch die individuelle politische Präferenzen in kollektive Entscheidungen übersetzt werden sollen. Eine Wahl ist deshalb nicht nur eine Methode personeller Auswahl. Sie enthält zugleich das Versprechen, dass politische Mitwirkung wirksam werden kann, auch wenn das Ergebnis den eigenen Wünschen widerspricht.
 
-Wenn Menschen diese Übersetzung zunehmend als unzureichend erleben, gerät nicht notwendig die Demokratie als solche in die Krise.
+Wenn Menschen diese Übersetzung als unzureichend erfahren, ist damit noch nicht gesagt, dass sie die Demokratie als solche ablehnen. Vielleicht fordern sie vielmehr, dass deren Institutionen endlich auf Forderungen reagieren, denen sie bislang keine angemessene Beachtung schenken. Die Unzufriedenheit könnte sich dann gerade aus demokratischen Erwartungen speisen.
 
-Wohl aber die Überzeugungskraft ihrer gegenwärtigen Vermittlungsformen.
+Hier setzt Pierre Rosanvallons Begriff der *Gegen-Demokratie* an. Demokratische Gesellschaften erschöpfen sich demnach nicht in Wahlen und parlamentarischer Repräsentation. Sie entwickeln auch Praktiken öffentlicher Kontrolle, des Misstrauens und des Widerspruchs, durch die Bürger Einfluss außerhalb regulärer repräsentativer Verfahren ausüben.
 
-Hier setzt Pierre Rosanvallons Begriff der *Gegen-Demokratie* an. Demokratische Gesellschaften erschöpfen sich demnach nicht in Wahlakten und parlamentarischer Repräsentation. Sie entwickeln ebenso Formen des Misstrauens, der Kontrolle und der öffentlichen Intervention, durch die Bürger politischen Einfluss außerhalb der regulären repräsentativen Verfahren ausüben.
+Ein solcher Protest muss folglich weder ein Zeichen institutionellen Scheiterns noch dessen Widerlegung sein. Er kann demokratische Repräsentation ergänzen, sie korrigieren wollen oder ihr grundsätzlich misstrauen. Welche dieser Haltungen tatsächlich vorliegt, lässt sich nicht schon aus einer erhobenen Faust, einer Gewerkschaftsfahne oder der Größe eines Demonstrationszuges ablesen. Dafür müssten wir die Forderungen und Selbstbeschreibungen der Beteiligten kennen.
 
-Misstrauen wäre in diesem Sinne nicht ausschließlich ein Defizit demokratischer Legitimation, sondern könnte zugleich eine ihrer gesellschaftlichen Voraussetzungen darstellen.
+Gewerkschaften besitzen in diesem Zusammenhang eine besondere Stellung. Sie stellen organisierte Handlungsmöglichkeiten bereit, wo Einzelne sich politisch wenig wirksam erleben mögen. Zugleich können sie selbst zu Gegenständen des Misstrauens werden, wenn Menschen ihre institutionellen Vermittlungsformen nicht mehr als ausreichend empfinden.
 
-Allerdings sollte man auch diese Überlegung nicht allzu schnell in eine versöhnliche Interpretation gegenwärtiger Proteste überführen.
+Die Erfahrung kollektiver Handlungsfähigkeit ist ohnehin nicht notwendig ein Zugewinn für die Demokratie. Menschen können sich auch durch Bewegungen politisch wirksam erleben, deren Zielsetzungen die Teilhabemöglichkeiten anderer einschränken. Handlungsfähigkeit ist zunächst keine moralische Kategorie. Entscheidend ist, welche Vorstellungen von gesellschaftlicher Ordnung durch sie verwirklicht werden sollen.
 
-Nicht jeder Widerspruch stärkt die Demokratie. Nicht jedes Misstrauen führt zu einer wirksameren Kontrolle politischer Macht. Und die bloße Möglichkeit kollektiven Handelns garantiert keineswegs, dass seine Ergebnisse demokratischen Ansprüchen entsprechen.
-
-Aber gerade deshalb scheint mir die Frage der politischen Wirksamkeit interessanter als die vorschnelle Einordnung der Proteste in ein bestehendes ideologisches Schema.
-
-Eine Gesellschaft kann über funktionierende demokratische Institutionen verfügen und dennoch in erheblichem Umfang Menschen hervorbringen, die sich durch diese Institutionen nicht mehr angemessen vertreten fühlen.
-
-Umgekehrt können sich Menschen durch politische Bewegungen außerordentlich handlungsfähig erleben, deren gesellschaftliche Zielsetzungen selbst auf eine Einschränkung demokratischer Teilhabe hinauslaufen.
-
-Handlungsfähigkeit ist zunächst keine moralische Kategorie.
-
-Entscheidend ist, welche Vorstellungen von gesellschaftlicher Ordnung durch sie verwirklicht werden sollen.
+Aber ehe wir über diese Vorstellungen urteilen, sollten wir uns einer Frage zuwenden, die sich im Schatten der Demonstrationen beinahe unwiderstehlich aufdrängt: Woher kommt die Gewalt?
 
 ## IV. Die Polizei als Gegenstand des politischen Konflikts
 
