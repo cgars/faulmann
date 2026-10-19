@@ -245,9 +245,18 @@ Die Geschichte ist nicht verpflichtet, unseren Begriffen rechtzeitig entgegenzuk
 * [Amnesty International, 7. Oktober 2026: Forderung nach einem Verbot von Polizeigranaten](https://www.amnesty.org/fr/latest/news/2026/10/france-permanently-ban-the-use-of-all-stun-grenades-in-policing-of-protests/)
 * [Französisches Innenministerium: Überarbeitung des Schéma national du maintien de l'ordre 2021](https://www.interieur.gouv.fr/documentation/ressources/actualisation-du-schema-national-du-maintien-de-lordre.html)
 * [Eunews, 7. Oktober 2026: NewsGuard-Analyse irreführender Protestvideos](https://www.eunews.it/2026/10/07/proteste-studentesche-in-francia-newsguard-individua-falsi-video-diffusi-per-gonfiare-caos-e-violenze/)
+* [ANSA, 17. Oktober 2026: CGIL und "La Via Maestra" demonstrieren in Rom](https://www.ansa.it/sito/notizie/cronaca/2026/10/17/la-via-maestra-in-piazza-a-roma-lavoro-pace-costituzione-_a783ef65-c2c2-4fb9-8d99-7c64d791f43c.html)
+* [CGIL Roma e Lazio, 15. Oktober 2026: Forderungen und Aufruf zur Demonstration](https://lazio.cgil.it/2026/10/17-ottobre-cgil-da-tutto-lazio-per-alzare-salari-e-pensioni-stop-carovita/)
+* [Associated Press, 18. Oktober 2026: Auseinandersetzungen in Mailand während eines Protests gegen hohe Lebenshaltungskosten](https://apnews.com/article/aada57790a8d2d3c02ab55911b9ecead)
+* [TF1/AFP, 17. Oktober 2026: Handverletzung eines 17-Jährigen in Saint-Étienne und eingeleitete Untersuchung](https://www.tf1info.fr/justice-faits-divers/17-octobre-la-main-d-un-manifestant-arrachee-par-une-grenade-a-saint-etienne-une-enquete-ouverte-et-confiee-a-l-igpn-2470539.html)
+* [OECD: *Survey on Drivers of Trust in Public Institutions*, 2024; Daten der Befragung 2023](https://www.oecd.org/en/publications/oecd-survey-on-drivers-of-trust-in-public-institutions-2024-results_9a20554b-en.html)
+* [DIW Berlin, Stefan Bach: Steuerreformvorschläge der Parteien, Februar 2025](https://www.diw.de/de/diw_01.c.936228.de/publikationen/diw_aktuell/2025_0106/steuerreformvorschlaege_der_parteien__ambitionierte_entlastungen_fuer_arbeitende_mitte_und_unternehmen_treiben_defizite.html)
+* [Clifford Stott und Stephen Reicher: "How Conflict Escalates", *Sociology* (1998)](https://doi.org/10.1177/0038038598032002007)
+* [Clifford Stott und Stephen Reicher: "Crowd action as intergroup process", *European Journal of Social Psychology* (1998)](https://research-portal.st-andrews.ac.uk/en/publications/crowd-action-as-intergroup-process-introducing-the-police-perspec/)
+
 * Albert O. Hirschman: *Exit, Voice, and Loyalty* (1970).
 * Hannah Arendt: *Vita activa oder Vom tätigen Leben* (dt. Ausgabe 1960).
 * Pierre Rosanvallon: *La Contre-démocratie* (2006).
 * Martijn van Zomeren, Tom Postmes und Russell Spears: „Toward an integrative social identity model of collective action“ (*Psychological Bulletin*, 2008).
 
-Die verwendeten theoretischen Ansätze dienen der Interpretation; sie begründen keine gesicherte Kausalität zwischen den beschriebenen Ereignissen.
+Die genannten Quellen erfüllen unterschiedliche Funktionen: zeitnahe Berichte dokumentieren einzelne Ereignisse, Stellungnahmen die Position ihrer Herausgeber, empirische Studien allgemeine Zusammenhänge und theoretische Arbeiten mögliche Deutungen. Keine dieser Gattungen allein belegt eine gemeinsame Ursache oder politische Identität der hier beschriebenen Proteste.
