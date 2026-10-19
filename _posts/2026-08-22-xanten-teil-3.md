@@ -498,15 +498,11 @@ Die Legionäre ließen die Seile sinken. Cassianus prüfte nochmals die Stützen
 
 Die Oberaufseherin brachte einen Krug Posca, Wasser mit einem Schuss saurem Wein. Einige Legionäre, Zimmerleute und Thermenarbeiter setzten sich auf Balkenstücke und an die Mauer. Es gab weniger Becher als Hände. Die Becher wechselten so oft die Hand, dass sie bald allen gemeinsam gehörten.
 
-"Eure Leute schaffen was weg", sagte Cassianus.
+"Ihr schafft was weg, fast wie Bauleute", sagte Cassianus anerkennend zu einem der Legionäre.
 
-"Eure Gesellen setzen brauchbare Keile", sagte einer der Legionäre.
+"Eure Gesellen setzen brauchbare Keile fast wie Legionäre", sagte einer der Legionäre zurück.
 
-"Fast wie Bauleute", sagte Cassianus.
-
-"Fast wie brauchbare Soldaten", sagte der Legionär.
-
-Ein Geselle reichte seinen Becher dem Legionär. "Auf brauchbar."
+Ein Geselle reichte seinen Becher dem Legionär. "Auf fast."
 
 Der Legionär trank. "Auf fast."
 
