@@ -73,109 +73,61 @@ Diese Gegenüberstellung ist keine Behauptung, beide Bewegungen hätten dieselbe
 
 Gerade deshalb wäre es voreilig, in den Protesten bereits eine historische Verschiebung "von rechts nach links" zu erkennen. Sichtbare linke Forderungen machen noch keine europaweit verbundene Gegenbewegung; eine gemeinsame politische Richtung stellt keine gemeinsame Organisationsgeschichte her. Aber die Unterscheidung zwischen dem autoritären Versprechen schneller Wirksamkeit und demokratischem Widerspruch schärft unsere Frage nach der politischen Bedeutung des Protests.
 
-## IV. Der Protest und die Gewalt
+## IV. Woher kommt die Gewalt?
 
-Die Bilder zeigen brennende Gegenstände, Barrikaden und Auseinandersetzungen mit Polizeikräften. Es wäre verführerisch, darin die unmittelbare Folge einer gesellschaftlichen Ohnmacht zu erkennen, die sich keine andere Sprache mehr zu geben weiß. Doch eine solche Erklärung müsste zunächst nachweisen, dass die Gewalttätigen sich überhaupt in diesem Sinne ohnmächtig fühlen. Aus der Gewalt selbst lässt sich das nicht ablesen.
+Die Bilder des Protesttages zeigen auch Barrikaden, brennende Gegenstände und Zusammenstöße mit der Polizei. Wer aus ihnen auf die Gewaltbereitschaft der Demonstrierenden schließt, verbindet unterschiedliche Ereignisse bereits durch eine Erklärung, die erst zu prüfen wäre. Die gewerkschaftliche Kundgebung in Rom und die Auseinandersetzungen in Mailand waren nicht dieselbe Veranstaltung. Auch innerhalb einer Demonstration können die Absichten der Organisatoren und einzelner Beteiligter auseinanderfallen.
 
-Wir haben hier mindestens drei Sachverhalte vor uns: Menschen demonstrieren und formulieren politische Forderungen; einzelne Beteiligte oder hinzutretende Gruppen wenden Gewalt an; Polizeikräfte setzen staatliche Zwangsmittel ein. Diese Vorgänge können aufeinander einwirken. Sie sind aber weder personell noch hinsichtlich ihrer Motive und Verantwortlichkeiten notwendigerweise identisch.
+Aus politischer Ohnmacht folgt nicht notwendig Gewalt. Gewalt kann als bewusstes Mittel gewählt werden, sie kann sich im Verlauf einer Konfrontation entwickeln oder von Gruppen ausgehen, deren Anliegen mit denen der Demonstration wenig gemeinsam haben. Ob die Beteiligten auf diese Weise politische Wirksamkeit suchen, eine Eskalation erleben oder eine Gelegenheit nutzen, lässt sich nicht allein anhand der Bilder entscheiden.
 
-Das lässt sich bereits an den italienischen Ereignissen beobachten. Die von der CGIL organisierte Kundgebung in Rom und die Auseinandersetzungen auf der Mailänder Piazza Duomo waren nicht einfach zwei Schauplätze derselben Demonstration. Auch innerhalb einer Versammlung muss unterschieden werden zwischen den Forderungen ihrer Organisatoren, den Absichten einzelner Gruppen und Handlungen, die erst in einer konkreten Konfrontation entstehen. Wer all das als Gewalt *des Protests* bezeichnet, hat den Zusammenhang bereits behauptet, den er erklären müsste.
+Die Dynamik solcher Konfrontationen ist selbst ein Forschungsgegenstand. Die Sozialpsychologie von Menschenmengen untersucht etwa, wie sich die Wahrnehmung polizeilichen Handelns auf Gruppenidentitäten und Konfliktverläufe auswirken kann. Das ist eine mögliche Erklärung bestimmter Eskalationen, kein Nachweis für den Ablauf dieses Protesttages.
 
-Gewalt kann eine bewusste politische Strategie sein. Sie kann auf Aufmerksamkeit, Einschüchterung, die Herausforderung staatlicher Autorität oder die Demonstration eigener Durchsetzungsfähigkeit gerichtet sein. Sie kann ebenso in einer Eskalation entstehen, deren Beteiligte zu Beginn andere Absichten hatten. Und die Gelegenheit einer unübersichtlichen Demonstration kann Menschen anziehen, deren Ziele weder mit denen ihrer Organisatoren noch mit denen anderer Teilnehmer übereinstimmen.
+Polizeiliche Zwangsmittel verlangen eine andere Form der Rechtfertigung als Gewalthandlungen von Demonstrierenden. Der Staat ist zum Schutz der Versammlungsfreiheit verpflichtet; zugleich darf er unter gesetzlichen Voraussetzungen Gefahren abwehren. Gerade weil ihm besondere Befugnisse zukommen, sind Rechtmäßigkeit und Verhältnismäßigkeit ihres Einsatzes einzeln zu prüfen. Diese Debatte wird in vielen Demokratien geführt. Frankreichs Erfahrungen mit schweren Verletzungen während der Gelbwestenproteste und die dortige Einsatzdoktrin bilden für die Ereignisse dieses Oktobers einen konkreten Hintergrund, keine französische Ausnahme vom allgemeinen Problem.
 
-Keine dieser Möglichkeiten ergibt sich zwingend aus materieller Prekarität. Der Gedanke, dass Menschen aus erlebter politischer Wirkungslosigkeit irgendwann zur Gewalt greifen, besitzt zwar eine intuitive Dramaturgie. Aber er erklärt zu viel auf einmal und am Ende womöglich gar nichts. Dass jemand den Eindruck hat, nicht gehört zu werden, macht ihn nicht zum Gewalttäter. Ebenso können Menschen Gewalt einsetzen, gerade weil sie sie für ein wirksames Mittel halten.
+In Saint-Étienne verlor am 17. Oktober ein 17-Jähriger durch die Explosion einer Polizeigranate eine Hand. Die Umstände wurden untersucht; ihrem Ergebnis dürfen wir nicht vorgreifen. Doch die Verletzung selbst ist kein offener Forschungsgegenstand. Für den Jugendlichen bedeutet sie einen körperlichen Verlust, dessen Folgen weit über diesen Protesttag hinausreichen werden. Wie er das Geschehen erlebt hat, wissen wir nicht. Es wäre vermessen, ihm eine politische Deutung in den Mund zu legen.
 
-Die Dynamik einer Konfrontation verdient dabei eigene Aufmerksamkeit. Die sozialpsychologische Forschung über Menschenmengen und Polizeieinsätze untersucht, wie wechselseitige Wahrnehmungen, Gruppenzuschreibungen und Formen staatlichen Eingreifens Konflikte verändern können. Eine ursprünglich heterogene Menschenmenge kann sich unter Umständen erst in der Konfrontation als gemeinsame Gruppe verstehen. Das ist ein möglicher Mechanismus, keine nachträgliche Erklärung der Ereignisse in Mailand oder Frankreich, deren konkreter Verlauf gesondert untersucht werden müsste.
+Gerade diese Zurückhaltung entbindet uns nicht von der Frage, wie eine Demokratie die Anwendung staatlicher Gewalt gegenüber Menschen rechtfertigt, die ihre Beteiligungsrechte wahrnehmen. Zwischen der rechtlichen Bewertung eines konkreten Einsatzes und seiner gesellschaftlichen Wirkung besteht ein Unterschied. Wer sich politisch übergangen fühlt, könnte staatlichen Zwang als erneute Zurückweisung erleben; wer sich bedroht fühlt, könnte ihn als notwendigen Schutz ansehen. Weder die eine noch die andere Wahrnehmung ersetzt die Prüfung dessen, was tatsächlich geschah.
 
-Damit kommen wir zur Rolle des Staates. Die Polizei ist nicht einfach ein weiterer politischer Akteur unter anderen. Sie besitzt rechtlich begründete Zwangsbefugnisse und die Pflicht, ihre Anwendung zu rechtfertigen. Sie soll friedliche Versammlungen schützen und zugleich Gefahren abwehren. Beide Aufgaben lassen sich rechtlich vereinbaren, operativ aber keineswegs immer konfliktfrei erfüllen.
+Die Gewalt lässt sich damit nicht als notwendiger Ausbruch politischer Ohnmacht behandeln. Sie verlangt ihre eigene Erklärung, gerade damit wir die demokratische Bedeutung des Protests nicht an den Gewalthandlungen einzelner oder an staatlichen Reaktionen auf ihn festmachen.
 
-In Frankreich ist die Diskussion über entsprechende Polizeieinsätze älter als dieser Oktober. Während der Gelbwestenproteste wurden schwere Verletzungen durch polizeiliche Einsatzmittel dokumentiert. Das 2021 überarbeitete *Schéma national du maintien de l'ordre* beschreibt eine Einsatzdoktrin, die unter anderem bewegliche Interventionen und Kommunikation mit Demonstrierenden vorsieht. Aus ihren offiziellen Zielen lässt sich allerdings ebenso wenig auf die Wirkung eines konkreten Einsatzes schließen wie aus dessen gewaltsamem Verlauf allein auf die Absicht der beteiligten Polizeikräfte.
+## V. Wie weit die Signale reichen
 
-Besonders schwer wiegt deshalb die Nachricht aus Saint-Étienne. Bei einer Demonstration am 17. Oktober verlor ein 17-Jähriger durch die Explosion einer Polizeigranate eine Hand. Die genauen Umstände des Vorfalls und die Verantwortlichkeit waren Gegenstand einer Untersuchung. Das verlangt eine gewissenhafte Klärung; ihrem Ergebnis dürfen wir nicht vorgreifen.
+Die Bilder der Demonstrationen erzeugen eine merkwürdige Nähe: Frankreich, Italien und andere Länder liegen auf einem Bildschirm oft nur einen Augenblick auseinander. Eine solche Montage kann einen Zusammenhang suggerieren, den die Beteiligten nicht teilen. Die im Oktober verbreiteten irreführenden Aufnahmen älterer französischer Proteste zeigen, wie leicht diese Wirkung gezielt ausgenutzt werden kann.
 
-Aber wir sollten einen Augenblick bei dem Verletzten bleiben. Für einen jungen Menschen, der am Morgen dieses Tages noch zwei Hände hatte, ist nichts daran eine Metapher. Unabhängig von den noch offenen Fragen des Einsatzes bleibt die Tatsache einer schweren, dauerhaften Verletzung. Was er selbst erlebt hat und wie er damit umgehen wird, wissen wir nicht. Wir sollten ihm weder eine politische Rolle noch eine erfundene Stimme zuschreiben. Schon gar nicht sollte sein Schicksal lediglich die besonders eindringliche Illustration unserer Überlegungen zur demokratischen Legitimität staatlicher Gewalt werden.
+Doch dieselben Medien, die Ereignisse irreführend vereinheitlichen können, ermöglichen auch etwas anderes: Die Bilder werden von Menschen gesehen, die selbst über ihre politischen Möglichkeiten nachdenken. Ein Protest kann anderswo den Gedanken auslösen, dass Widerspruch möglich ist. Wer Menschen auf der Straße sieht, beobachtet nicht nur eine fremde Nachricht, sondern vielleicht eine Handlung, die er selbst wagen könnte.
 
-Diese Überlegungen bleiben dennoch notwendig. Staatliche Gewalt muss sich daran messen lassen, ob ihr Einsatz rechtmäßig, erforderlich und verhältnismäßig war. Zugleich hat sie eine gesellschaftliche Wirkung, die sich in dieser juristischen Frage nicht erschöpft. Wer staatliche Institutionen bereits als unzugänglich erlebt, kann eine polizeiliche Intervention als Bestätigung dieser Erfahrung deuten. Andere können denselben Einsatz als Schutz ihrer eigenen Versammlungsfreiheit verstehen. Keine dieser Deutungen entscheidet für sich über die Rechtmäßigkeit der Maßnahme.
+Die Bewegungsforschung spricht bei der Übertragung von Protestideen und Handlungsformen von *Diffusion*. Dafür bedarf es nicht zwangsläufig persönlicher Kontakte oder einer koordinierenden Organisation. Das begründet eine Möglichkeit, nicht schon den konkreten Befund für Frankreich und Italien. Ob sich die Mobilisierungen dieses Oktobers tatsächlich gegenseitig anregten, müssten wir durch zeitliche Abläufe, Aussagen der Beteiligten und erkennbare Übernahmen von Forderungen oder Protestformen untersuchen.
 
-Wir können also eine mögliche Rückkopplung zwischen staatlichem Eingreifen, wechselseitigem Misstrauen und erneuter Mobilisierung untersuchen, ohne sie für diesen Protesttag als Ursache zu behaupten. Gewalt ist nicht die notwendige Sprache der Ohnmacht. Sie kann kalkuliert, situativ hervorgebracht, provoziert, verhindert oder begrenzt werden. Für jede dieser Möglichkeiten benötigen wir mehr als die Ähnlichkeit der Bilder.
+Es sind mindestens zwei Formen europäischer Gemeinsamkeit denkbar. Vergleichbare gesellschaftliche Bedingungen könnten unabhängig voneinander ähnliche Proteste hervorbringen. Darüber hinaus könnten Protestierende die Kämpfe in anderen Ländern wahrnehmen und darin die eigenen Konflikte erkennen. Eine gemeinsame Zentrale wäre für keine dieser Entwicklungen notwendig. Die zweite könnte aber etwas entstehen lassen, das über bloße Gleichzeitigkeit hinausgeht.
 
-## V. Bilder, Signale und ihre möglichen Verbindungen
+Auch Nachahmung ist noch nicht Solidarität. Solidarität beginnt dort, wo Menschen die Auseinandersetzung anderer als Angelegenheit verstehen, die auch sie selbst betrifft, und daraus eine Beziehung oder Verpflichtung erwachsen lassen. Ob das hier geschieht, wissen wir noch nicht. Wir müssten es aber auch nicht erst an der Existenz eines gemeinsamen europäischen Verbandes ablesen.
 
-Während auf den Straßen gestritten wird, findet eine weitere Auseinandersetzung um die Bedeutung dieser Ereignisse statt. Bilder aus verschiedenen Städten liegen auf Bildschirmen nur einen Schnitt voneinander entfernt. Sie können eine Einheit suggerieren, wo sich die Beteiligten weder kennen noch dieselben Ziele verfolgen.
+## VI. Was eine Demonstration bewirkt - und was sie bedeutet
 
-Mitunter wird dieser Eindruck gezielt erzeugt. Anfang Oktober berichtete eine NewsGuard-Analyse über ältere Aufnahmen französischer Proteste, die als aktuelle Belege für ein größeres Ausmaß an Chaos und Gewalt verbreitet worden seien. Aber die mediale Nähe der Ereignisse besitzt noch eine andere mögliche Wirkung.
+Eine politische Bewegung kann ihre Bedeutung erst im Handeln hervorbringen. Sie muss ihre Gestalt und ihre späteren Folgen nicht bereits kennen, wenn die ersten Menschen auf die Straße gehen. Das ist kein Freibrief für jede Protestform, sondern ein Hinweis auf die Grenzen unserer Maßstäbe.
 
-Die Bilder werden nicht nur von Beobachtern gesehen. Sie erreichen auch Menschen, die selbst über ihre Lebensverhältnisse und politischen Möglichkeiten nachdenken. Wer andernorts Widerspruch sieht, kann beginnen, die eigene Lage nicht länger für unveränderlich zu halten. Der Protest anderer wäre dann nicht bloß Gegenstand einer Nachricht, sondern ein Anstoß eigenen Handelns.
+Gewöhnlich fragen wir nach Ergebnissen: Hat eine Regierung nachgegeben? Wurden Haushaltsmittel bewilligt, Gesetze geändert, Organisationen gegründet? Diese Fragen sind berechtigt. Menschen demonstrieren oft gerade, weil sie etwas Konkretes erreichen wollen. Wer ihre Forderungen ernst nimmt, darf ihre Erfüllung nicht für nebensächlich erklären.
 
-Die Bewegungsforschung bezeichnet die grenzüberschreitende Übertragung von Protestideen und Handlungsformen als *Diffusion*. Doug McAdam und Dieter Rucht haben gezeigt, dass dabei neben unmittelbaren Beziehungen auch nichtrelationale Informationswege eine Rolle spielen. Eine gemeinsame Organisation ist dafür keine notwendige Bedingung. Eine theoretisch mögliche Übertragung ist allerdings noch kein Nachweis, dass sie zwischen Mailand und Frankreich in diesem Oktober stattgefunden hat.
+Aber wir sollten zwischen Wirksamkeit, Erfolg und Bedeutung unterscheiden. Eine Handlung ist wirksam, wenn sie etwas verändert; erfolgreich ist sie im Verhältnis zu einem Ziel. Ihre Bedeutung für Menschen und gesellschaftliche Beziehungen lässt sich dadurch nicht vollständig bestimmen. Selbst eine Demonstration, die keine unmittelbare politische Entscheidung verändert, kann neue Bündnisse, öffentliche Begriffe und Erwartungen an das eigene Handeln hervorbringen.
 
-Auch die gemeinsame soziale Lage allein bewiese einen solchen Austausch nicht. Vergleichbare Verhältnisse können unabhängig voneinander ähnliche Proteste hervorbringen. Es ist deshalb sinnvoll, zwischen einer europäischen Protestwelle aus ähnlichen Bedingungen und einer Bewegung zu unterscheiden, die ihre Gemeinsamkeit im gegenseitigen Wahrnehmen und Handeln entwickelt. Keine von beiden muss ein gemeinsames Hauptquartier besitzen.
+Hier hilft Hannah Arendts Unterscheidung zwischen Herstellen und Handeln. Politisches Handeln vollzieht sich zwischen Menschen, deren Reaktionen nicht vollständig geplant werden können. Es bringt nicht einfach ein Produkt hervor, das anschließend anhand seiner Eigenschaften bewertet wird. Seine Folgen können sich auch in Beziehungen zeigen, die erst während des Handelns entstehen.
 
-Mit der Zuschreibung "links" verhält es sich ähnlich. Gewerkschaftliche Organisation und sozialpolitische Forderungen verorten Teile der Mobilisierung in einer linken Tradition. Sie entscheiden aber nicht darüber, wie alle Beteiligten sich verstehen oder ob aus verschiedenen Protesten eine gemeinsame politische Praxis entsteht.
+Gerade bei den jungen Demonstrierenden in Frankreich wäre es eigentümlich, die politische Bedeutung ihres Widerspruchs ausschließlich danach zu beurteilen, ob bereits zusätzliche Lehrkräfte eingestellt wurden. Das ist eine wichtige Forderung, und ihre Erfüllung bleibt wichtig. Aber wer gemeinsam erlebt, dass eine öffentliche Angelegenheit nicht bloß die Zuständigkeit anderer ist, könnte auch sein Verhältnis zur eigenen politischen Handlungsfähigkeit verändern. Ob die Beteiligten diese Erfahrung tatsächlich machen, sollten sie selbst erzählen dürfen.
 
-Schließlich wäre auch mediale Inspiration nicht schon Solidarität. Wer eine Protestform übernimmt, kann dies aus rein praktischen Gründen tun. Solidarität begänne dort, wo Menschen im Kampf anderer eine Angelegenheit erkennen, die auch sie selbst betrifft. Ob wir davon gegenwärtig Zeugen werden, ist offen. Doch eine solche Anerkennung müsste nicht erst von einer gemeinsamen Organisation beschlossen werden.
+Man könnte in der ausschließlichen Bewertung von Protesten nach einem messbaren Ertrag eine Ökonomisierung politischen Handelns erkennen: eine Vorstellung, in der jede Mobilisierung ihre Rendite vorweisen muss. Als Kritik einer solchen Bewertungslogik ist das plausibel. Es wäre dagegen falsch, politische Ergebnisse überhaupt geringzuschätzen. Menschen brauchen nicht bloß das Erlebnis des Protestierens, sondern auch Schulen, Wohnungen, Löhne und öffentliche Dienstleistungen, die ihren Ansprüchen gerecht werden.
 
-## VI. Von der Wirksamkeit und der Bedeutung des Handelns
+Die Schwierigkeit liegt darin, beides zu sehen: gesellschaftliche Veränderung als politisches Ziel und demokratisches Handeln als einen Vorgang, dessen Bedeutung nicht erst am Ende einer Bilanz entsteht. Ein Protest kann scheitern und dennoch Folgen haben. Er kann Bedeutung besitzen, ohne gerechtfertigt zu sein. Und er kann Forderungen durchsetzen, ohne dadurch schon alle seine gesellschaftlichen Wirkungen beschrieben zu haben.
 
-Es bleibt eine Schwierigkeit, die in der bisherigen Betrachtung weitgehend unberücksichtigt geblieben ist.
+## VII. Völker, hört die Signale
 
-Wenn wir danach fragen, ob die gegenwärtigen Proteste eine neue politische Bewegung hervorbringen, setzen wir gewöhnlich voraus, dass sich die Antwort an ihren beobachtbaren Ergebnissen erkennen lassen müsste. Wir suchen nach veränderten Wahlergebnissen, politischen Zugeständnissen, neuen Organisationen oder wenigstens einer dauerhaften Mobilisierung, deren Umfang sich einigermaßen zuverlässig bestimmen lässt.
+Bleibt die Frage, ob diese Proteste den Anfang einer europäischen Bewegung bilden. Die Ähnlichkeit ihrer gesellschaftlichen Voraussetzungen genügt nicht, um eine solche Bewegung zu beweisen. Dass sie keine gemeinsame Organisation besitzen, genügt allerdings ebenso wenig, um sie auszuschließen. Eine Bewegung könnte gerade dort entstehen, wo Menschen ohne Absprache in den Auseinandersetzungen anderer einen Anlass zum eigenen Handeln erkennen.
 
-Das ist zunächst vernünftig. Schließlich dürfte eine politische Bewegung, die keinerlei Veränderungen hervorbringt, erhebliche Schwierigkeiten haben, ihre eigene Wirksamkeit zu behaupten.
+Darin liegt auch die demokratische Bedeutung unserer ursprünglichen Ohnmachtsthese. Wer den Eindruck hat, durch repräsentative Verfahren nicht gehört zu werden, muss daraus nicht den Wunsch nach einer stärkeren Führung entwickeln, die demokratische Aushandlung abkürzt. Er kann demokratische Beteiligung vielmehr ausweiten und im gemeinsamen Handeln neue Wirksamkeit erfahren. Diese unterschiedlichen Antworten sind eine politische Möglichkeit, noch kein empirischer Beweis gemeinsamer Ursachen.
 
-Allerdings enthält bereits diese scheinbar selbstverständliche Feststellung eine nicht ganz unproblematische Voraussetzung: dass die Bedeutung politischen Handelns wesentlich in seinen messbaren Ergebnissen liege.
+Die Proteste sind in wesentlichen Teilen sozialpolitisch und links geprägt. Ob sie eine gemeinsame europäische politische Praxis ausbilden, bleibt offen. Ebenso offen bleibt, welche Bedeutung sie für die Beteiligten im Rückblick gewinnen werden. Dass sie mehr sein könnten als die Summe unmittelbarer Forderungen, ist dagegen eine Frage, die wir ernst nehmen sollten.
 
-Man könnte auch fragen, ob wir hier nicht zwei unterschiedliche Sachverhalte miteinander verwechseln.
+Für diese Redaktion folgt daraus auch eine Forderung, die über die Grenzen der beteiligten Länder hinausreicht. Solidarität muss ebenso zwischen Generationen möglich sein. Wer junge Menschen zur demokratischen Verantwortung erziehen will, darf ihren politischen Widerspruch nicht als Übung für ein späteres, vermeintlich eigentliches Bürgersein abtun. Ihre Forderungen verlangen keine automatische Zustimmung. Aber sie verdienen ernsthafte Antworten, gerade von denjenigen, deren heutige Entscheidungen die Lebensverhältnisse der Jüngeren mitbestimmen.
 
-Die Wirksamkeit einer Handlung bezeichnet zunächst ihre Fähigkeit, Veränderungen hervorzubringen. Ihr Erfolg setzt darüber hinaus einen Maßstab voraus, an dem diese Veränderungen beurteilt werden können. Ihre Bedeutung hingegen erschöpft sich weder in der einen noch in der anderen Eigenschaft.
-
-Eine Demonstration kann politische Entscheidungen unverändert lassen und dennoch das Verhältnis ihrer Teilnehmer zueinander verändern. Sie kann gesellschaftliche Erfahrungen sichtbar machen, für die bislang keine gemeinsame Sprache zur Verfügung stand. Sie kann Menschen ermöglichen, ihre individuelle Situation erstmals als Teil eines übergreifenden gesellschaftlichen Zusammenhangs zu verstehen.
-
-Nichts davon garantiert einen politischen Erfolg.
-
-Aber es wäre einigermaßen eigentümlich, darin allein deshalb keine politische Bedeutung erkennen zu wollen.
-
-Hannah Arendts Unterscheidung zwischen Herstellen und Handeln ist hier hilfreich. Während das Herstellen auf ein bestimmbares Ergebnis gerichtet ist, vollzieht sich politisches Handeln zwischen Menschen, deren Reaktionen und weitere Beziehungen sich nicht vollständig vorausberechnen lassen. Sein Verlauf entzieht sich damit zumindest teilweise jener instrumentellen Logik, nach der sich eine Tätigkeit anhand ihres vorgesehenen Produkts beurteilen lässt.
-
-Diese Unterscheidung befreit politisches Handeln keineswegs von der Verantwortung für seine Folgen. Sie macht lediglich darauf aufmerksam, dass seine gesellschaftliche Bedeutung nicht notwendig dort endet, wo unsere Möglichkeiten ihrer Messung an Grenzen stoßen.
-
-Gerade die gegenwärtigen Proteste könnten ein Beispiel dafür sein.
-
-Vielleicht werden die Demonstrationen in Frankreich keine wesentliche Veränderung der Haushaltspolitik erzwingen. Vielleicht bleiben die italienischen Mobilisierungen episodisch. Vielleicht entsteht weder eine gemeinsame politische Organisation noch eine dauerhafte europäische Bewegung.
-
-Das wäre ein mögliches Ergebnis, aber noch keine vollständige Beschreibung dessen, was stattgefunden hat.
-
-Denn die Frage, ob eine politische Handlung erfolgreich war, ist nicht identisch mit der Frage, was sie für die Beteiligten und für die Gesellschaft, in der sie stattfindet, bedeutet.
-
-Allerdings wäre es ebenso problematisch, diese Überlegung in eine allgemeine Aufwertung jeder Form politischen Widerspruchs zu verwandeln.
-
-Auch destruktives Handeln kann für seine Beteiligten bedeutungsvoll sein. Die Erfahrung kollektiver Wirksamkeit ist weder an demokratische Zielsetzungen gebunden noch garantiert sie die Anerkennung anderer gesellschaftlicher Interessen. Dass Menschen ihr Handeln als sinnvoll erfahren, erlaubt für sich genommen noch keine Aussage über dessen gesellschaftliche Wünschbarkeit.
-
-Die Unterscheidung von Bedeutung und Erfolg ist deshalb keine moralische Entlastung. Sie ist zunächst eine analytische Notwendigkeit.
-
-Gerade hier liegt möglicherweise eine Eigentümlichkeit unseres gegenwärtigen politischen Diskurses. Wir sind vergleichsweise gut darin, politische Ereignisse zu zählen, zu klassifizieren und institutionellen Ergebnissen zuzuordnen. Schwieriger fällt es uns offenbar, jene Veränderungen zu beschreiben, die erst allmählich in den Beziehungen zwischen gesellschaftlichen Gruppen, ihren Erwartungen und ihren gemeinsamen Handlungsmöglichkeiten entstehen.
-
-Vielleicht liegt das nicht zuletzt daran, dass wir gesellschaftliche Wirklichkeit bevorzugt durch jene Kategorien betrachten, für die unsere Institutionen bereits geeignete Verfahren der Beobachtung bereitstellen.
-
-Was sich nicht unmittelbar als Wahlergebnis, Organisationsmitgliedschaft oder politische Entscheidung ausdrückt, erscheint dann leicht als bloße Stimmung, als gesellschaftliches Rauschen oder als eine noch unvollständige Form politischer Artikulation.
-
-Dabei wäre ebenso denkbar, dass gerade diese vermeintliche Unvollständigkeit den eigentlichen Gegenstand unserer Untersuchung bildet.
-
-Eine politische Bewegung muss ihre Bedeutung nicht notwendig bereits kennen, bevor sie zu handeln beginnt. Sie kann sie im gemeinsamen Handeln hervorbringen, verändern und wieder verlieren. Und das Handeln anderer kann dafür bedeutsam werden, selbst wenn zwischen den Beteiligten noch keine gemeinsame Organisation besteht.
-
-## VII. Eine europäische Bewegung?
-
-Bleibt die Frage, ob in den Protesten dieses Oktobers der Anfang einer europäischen Bewegung sichtbar wird. Wir haben gute Gründe, vergleichbare gesellschaftliche Unsicherheiten und Erfahrungen mangelnder politischer Einflussmöglichkeiten zu untersuchen. Wir haben keinen Grund, aus diesen Erfahrungen schon eine einheitliche politische Identität abzuleiten.
-
-Auch der Aufstieg der politischen Rechten, zu dessen Erklärung häufig Prekarität und Statusangst herangezogen werden, liefert keine einfache Schablone. Weder leben alle ihre Anhänger unter materiell prekären Bedingungen, noch richten sich ihre politischen Angebote notwendig gegen solche Verhältnisse. Die neue Mobilisierung auf den Straßen lässt sich deshalb nicht schon als spiegelbildliche Bewegung von rechts nach links beschreiben.
-
-Gewerkschaften und sozialpolitische Organisationen prägen manche der Proteste ausdrücklich links. Andere Akteure bringen eigene Forderungen und Erfahrungen mit. Und die Gewalt einzelner Gruppen wie auch die Verletzungen durch staatliche Einsatzmittel verlangen eine eigenständige Untersuchung. Nichts davon beweist oder widerlegt eine gesamteuropäische Bewegung.
-
-Vielleicht liegt ihre mögliche Gemeinsamkeit weniger in einer gemeinsamen Organisation als in einer geteilten gesellschaftlichen Lage und dem, was Menschen voneinander wahrnehmen. Die Bilder eines Protests können andernorts die Vorstellung eröffnen, selbst handeln zu können. Dafür braucht es keine Absprachen. Ob eine solche gegenseitige Inspiration tatsächlich stattfindet, dürfen wir aus der Gleichzeitigkeit der Ereignisse freilich nicht erschließen.
-
-Und vielleicht beginnt Solidarität genau dort, wo der fremde Protest nicht nur als Vorbild, sondern als Ausdruck einer eigenen Angelegenheit verstanden wird. Was daraus politisch entsteht, steht noch nicht fest. Dass eine Demonstration nicht unmittelbar ihre Forderungen durchsetzt, entscheidet weder über ihre Bedeutung für die Beteiligten noch über die Beziehungen, die aus ihr erwachsen können.
-
-"Völker, hört die Signale!", heißt es in der *Internationale*. Das Lied stammt aus einer organisierten politischen Tradition; es beweist nichts über die Ereignisse unseres Oktobers. Aber sein Aufruf erinnert an eine Möglichkeit, die unsere Suche nach gemeinsamen Institutionen leicht übersieht:
+"Völker, hört die Signale!", heißt es in der *Internationale*. Ihre Geschichte gehört zur organisierten Arbeiterbewegung. Dass ihr Aufruf auch jenseits organisatorischer Grenzen Resonanz finden kann, ist keine Behauptung über die tatsächlichen Verbindungen zwischen den Protesten dieses Oktobers. Es ist die Möglichkeit, die wir nicht übersehen sollten.
 
 Die Signale müssen nicht aus einer gemeinsamen Zentrale kommen, um gemeinsam gehört zu werden.
 
@@ -201,6 +153,7 @@ Die Signale müssen nicht aus einer gemeinsamen Zentrale kommen, um gemeinsam ge
 
 * [Doug McAdam und Dieter Rucht: „The Cross-National Diffusion of Movement Ideas“ (*The Annals*, 1993)](https://doi.org/10.1177/0002716293528001005)
 * [Emil Luckhardt: Deutsche Fassung der *Internationale* (1910)](https://de.wikipedia.org/wiki/Die_Internationale)
+* [Le Monde, September 2026: Auftakt und Forderungen der französischen Schülerproteste](https://www.lemonde.fr/education/article/2026/09/22/la-colere-des-lyceens-face-au-manque-de-professeurs-se-propage-en-france_6790576_1473685.html)
 * Albert O. Hirschman: *Exit, Voice, and Loyalty* (1970).
 * Hannah Arendt: *Vita activa oder Vom tätigen Leben* (dt. Ausgabe 1960).
 * Pierre Rosanvallon: *La Contre-démocratie* (2006).
