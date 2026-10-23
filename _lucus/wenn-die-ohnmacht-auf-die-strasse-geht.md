@@ -19,7 +19,11 @@ Im September 2026 protestierten am Lycée Saint-Exupéry in Créteil zunächst L
 
 Man könnte darin zunächst eine erfreuliche Lektion demokratischer Bildung erkennen. Junge Menschen nehmen ihre öffentlichen Institutionen ernst genug, um ihnen zu widersprechen. Sie verlangen keine Erlaubnis, bevor sie die Zustände in ihren Schulen zum Gegenstand öffentlicher Auseinandersetzung machen. Ausgerechnet darin aber liegt ein Konflikt: Was geschieht, wenn eine Generation, die zur politischen Mündigkeit erzogen werden soll, ihre Mündigkeit früher in Anspruch nimmt, als die Institutionen es ihr zugedacht haben?
 
-Anfang Oktober reagierte das französische Bildungsministerium mit einer landesweiten Konsultation und Gesprächsangeboten. Alle Schülerinnen und Schüler sollten ihre Schwierigkeiten und Erwartungen vorbringen können. Ob sie sich dadurch tatsächlich gehört fühlten, ist damit noch nicht gesagt. Das sind zunächst Aussagen über einen politischen Konflikt, kein Beweis dafür, dass die Demokratie versagt. Doch sie machen eine Erfahrung sichtbar, die wir gewöhnlich mit einem großen und bemerkenswert ungenauen Wort bezeichnen: Ohnmacht.
+Anfang Oktober reagierte das französische Bildungsministerium mit einer landesweiten Konsultation und Gesprächsangeboten. Alle Schülerinnen und Schüler sollten ihre Schwierigkeiten und Erwartungen vorbringen können. Eine Konsultation ist zunächst ein demokratisches Angebot. Ob sie auch zu einer Antwort auf die vorgebrachten Forderungen führt, ist eine andere Frage.
+
+Damit berühren wir ein Problem, das weit über den französischen Schulkonflikt hinausreicht: Was geschieht, wenn Menschen zwar die Möglichkeit haben, sich politisch Gehör zu verschaffen, aber daran zweifeln, auf diesem Wege tatsächlich etwas verändern zu können?
+
+Hier beginnt das, was wir als Erfahrung politischer Ohnmacht untersuchen wollen.
 
 Am 17. Oktober trafen diese Proteste in Frankreich auf breitere gesellschaftliche Mobilisierungen. Am selben Tag demonstrierten in Rom Gewerkschaften und Verbände für Löhne, soziale Rechte und die Verfassung. In Mailand kam es zu gewaltsamen Auseinandersetzungen. Die Bilder lagen auf den Bildschirmen bald nebeneinander. Ihre Gleichzeitigkeit war unübersehbar, ihr Zusammenhang weit weniger.
 
