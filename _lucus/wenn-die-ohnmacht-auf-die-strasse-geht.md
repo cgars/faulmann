@@ -15,11 +15,11 @@ notices:
   - title: "Zur Quellenlage"
     text: "Ereignisse vom 17. Oktober 2026; die politischen Zusammenhänge bleiben ausdrücklich Gegenstand der Untersuchung. Quellenhinweise am Ende des Artikels."
 ---
-Am 21. September 2026 begannen Schülerinnen und Schüler eines Lycée in Créteil, gegen unbesetzte Lehrerstellen zu protestieren. Aus dem Konflikt um Unterricht, der nicht stattfinden konnte, wurde binnen Wochen eine französische Schülerbewegung. Sie sprach von fehlenden Lehrkräften, beschädigten Schulgebäuden, ungleichen Bildungschancen und einer Zukunft, über deren Bedingungen andere entscheiden. Nicht alle Beteiligten waren wahlberechtigt. Politische Erwartungen hatten sie trotzdem.
+Im September 2026 protestierten am Lycée Saint-Exupéry in Créteil zunächst Lehrkräfte und Eltern, dann auch Schülerinnen und Schüler gegen fehlendes Personal. Am 21. September wurde daraus ein sichtbarer Ausgangspunkt für eine sich ausbreitende französische Schülerbewegung. Sie sprach von fehlenden Lehrkräften, beschädigten Schulgebäuden, ungleichen Bildungschancen und einer Zukunft, über deren Bedingungen andere entscheiden. Nicht alle Beteiligten waren wahlberechtigt. Politische Erwartungen hatten sie trotzdem.
 
 Man könnte darin zunächst eine erfreuliche Lektion demokratischer Bildung erkennen. Junge Menschen nehmen ihre öffentlichen Institutionen ernst genug, um ihnen zu widersprechen. Sie verlangen keine Erlaubnis, bevor sie die Zustände in ihren Schulen zum Gegenstand öffentlicher Auseinandersetzung machen. Ausgerechnet darin aber liegt ein Konflikt: Was geschieht, wenn eine Generation, die zur politischen Mündigkeit erzogen werden soll, ihre Mündigkeit früher in Anspruch nimmt, als die Institutionen es ihr zugedacht haben?
 
-Anfang Oktober räumte der französische Bildungsminister selbst ein, Schüler würden häufig konsultiert, aber selten gehört. Die Jugendorganisationen berichteten nach Gesprächen mit der Regierung von ausbleibenden konkreten Antworten. Das sind zunächst Aussagen über einen politischen Konflikt, kein Beweis dafür, dass die Demokratie versagt. Doch sie machen eine Erfahrung sichtbar, die wir gewöhnlich mit einem großen und bemerkenswert ungenauen Wort bezeichnen: Ohnmacht.
+Anfang Oktober reagierte das französische Bildungsministerium mit einer landesweiten Konsultation und Gesprächsangeboten. Alle Schülerinnen und Schüler sollten ihre Schwierigkeiten und Erwartungen vorbringen können. Ob sie sich dadurch tatsächlich gehört fühlten, ist damit noch nicht gesagt. Das sind zunächst Aussagen über einen politischen Konflikt, kein Beweis dafür, dass die Demokratie versagt. Doch sie machen eine Erfahrung sichtbar, die wir gewöhnlich mit einem großen und bemerkenswert ungenauen Wort bezeichnen: Ohnmacht.
 
 Am 17. Oktober trafen diese Proteste in Frankreich auf breitere gesellschaftliche Mobilisierungen. Am selben Tag demonstrierten in Rom Gewerkschaften und Verbände für Löhne, soziale Rechte und die Verfassung. In Mailand kam es zu gewaltsamen Auseinandersetzungen. Die Bilder lagen auf den Bildschirmen bald nebeneinander. Ihre Gleichzeitigkeit war unübersehbar, ihr Zusammenhang weit weniger.
 
@@ -153,7 +153,8 @@ Die Signale müssen nicht aus einer gemeinsamen Zentrale kommen, um gemeinsam ge
 
 * [Doug McAdam und Dieter Rucht: „The Cross-National Diffusion of Movement Ideas“ (*The Annals*, 1993)](https://doi.org/10.1177/0002716293528001005)
 * [Emil Luckhardt: Deutsche Fassung der *Internationale* (1910)](https://de.wikipedia.org/wiki/Die_Internationale)
-* [Le Monde, September 2026: Auftakt und Forderungen der französischen Schülerproteste](https://www.lemonde.fr/education/article/2026/09/22/la-colere-des-lyceens-face-au-manque-de-professeurs-se-propage-en-france_6790576_1473685.html)
+* [Le Monde, 28. September 2026: Ausweitung der Schülerproteste, Beginn in Créteil](https://www.lemonde.fr/societe/article/2026/09/28/le-blocus-des-lycees-prend-de-l-ampleur-et-oppose-la-france-insoumise-et-le-gouvernement_6785108_3224.html)
+* [Französisches Bildungsministerium, 6. Oktober 2026: landesweite Schülerkonsultation](https://www.education.gouv.fr/ouverture-de-la-consultation-nationale-lyceenne-lyceennes-lyceens-vous-avez-la-parole-506152)
 * Albert O. Hirschman: *Exit, Voice, and Loyalty* (1970).
 * Hannah Arendt: *Vita activa oder Vom tätigen Leben* (dt. Ausgabe 1960).
 * Pierre Rosanvallon: *La Contre-démocratie* (2006).
