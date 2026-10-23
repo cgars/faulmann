@@ -214,6 +214,8 @@ Vielleicht liegt ihre mögliche Gemeinsamkeit weniger in einer gemeinsamen Organ
 
 Und vielleicht beginnt Solidarität genau dort, wo der fremde Protest nicht nur als Vorbild, sondern als Ausdruck einer eigenen Angelegenheit verstanden wird. Was daraus politisch entsteht, steht noch nicht fest. Dass eine Demonstration nicht unmittelbar ihre Forderungen durchsetzt, entscheidet weder über ihre Bedeutung für die Beteiligten noch über die Beziehungen, die aus ihr erwachsen können.
 
+Daraus folgt als Standpunkt dieser Redaktion eine Forderung: Solidarität muss nicht nur Landesgrenzen, sondern auch Generationen überschreiten. Wer junge Menschen zu demokratischer Verantwortung erziehen will, darf ihren Widerspruch nicht als bloße Vorstufe späterer Beteiligung behandeln. Dass manche von ihnen noch gar nicht wählen dürfen, mindert den Anspruch nicht, gehört zu werden. Ihre Forderungen verdienen keine automatische Zustimmung, wohl aber eine ernsthafte Auseinandersetzung - gerade von denen, deren politische Entscheidungen ihre Zukunft mitbestimmen.
+
 "Völker, hört die Signale!", heißt es in der *Internationale*. Das Lied stammt aus einer organisierten politischen Tradition; es beweist nichts über die Ereignisse unseres Oktobers. Aber sein Aufruf erinnert an eine Möglichkeit, die unsere Suche nach gemeinsamen Institutionen leicht übersieht:
 
 Die Signale müssen nicht aus einer gemeinsamen Zentrale kommen, um gemeinsam gehört zu werden.
