@@ -156,7 +156,6 @@ Die Signale müssen nicht aus einer gemeinsamen Zentrale kommen, um gemeinsam ge
 * [Deutschlandfunk, 29. Oktober 2026: weitere Distanzierungen deutscher Schülervertretungen](https://www.deutschlandfunk.de/naechste-schuelervertretung-distanziert-sich-von-protestaufruf-fuer-31-oktober-100.html)
 
 * [Polizeidirektion Leipzig, 28. Oktober 2026: angemeldete Kundgebung "Gen Z regelt! Solidarität mit den Protestierenden in Frankreich!"](https://www.polizei.sachsen.de/de/einsatz-zum-versammlungsgeschehen-am-31-oktober-in-leipzig-44215.html)
-* [tagesschau, 24. Oktober 2026: erneute Proteste in Frankreich und unterschiedliche Teilnehmerzahlen](https://www.tagesschau.de/ausland/europa/frankreich-vorbereitung-ausschreitungen-100.html)
 * [SRF, 27. Oktober 2026: Regierungszusagen an Schülerinnen und Schüler in Frankreich](https://www.srf.ch/news/international/weitreichende-zugestaendnisse-das-stellt-frankreichs-regierung-den-demonstrierenden-in-aussicht)
 * [ORF, 22. Oktober 2026: Universitätsdemonstration in Wien](https://wien.orf.at/stories/3376242/)
 * [TU Wien, 22. Oktober 2026: Position der Universität und Teilnehmerangabe der Organisatoren](https://www.tuwien.at/alle-news/news/alarmstufe-rot-tausende-demonstrieren-fuer-die-zukunft-der-universitaeten)
