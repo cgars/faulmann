@@ -2,8 +2,8 @@
 layout: lucus
 published: true
 title: "Wenn die Ohnmacht auf die Straße geht"
-standfirst: "Schülerproteste in Frankreich, gewerkschaftliche Mobilisierungen in Italien, Bildungsstreiks und Rentendemonstrationen in Spanien: Was verbindet diese europäische Protestkonjunktur? Ein Essay über politische Ohnmacht, demokratischen Widerspruch, die Bedeutung kollektiven Handelns und die Möglichkeit einer Solidarität, die Grenzen und Generationen überschreitet."
-date: 2026-10-25
+standfirst: "Von französischen Schülerprotesten über Mobilisierungen in Italien, Spanien und Österreich bis zu angekündigten Aktionen in Deutschland: Was verbindet diese europäische Protestkonjunktur? Ein Essay über politische Ohnmacht, demokratische Handlungsfähigkeit und Solidarität zwischen Ländern und Generationen."
+date: 2026-10-29
 lang: de
 issue: 1
 volume: "I. Jahrgang"
@@ -13,7 +13,7 @@ notices:
   - title: "Ausgabe Nr. 1"
     text: "Von politischer Ohnmacht, demokratischer Handlungsfähigkeit und den Grenzen ihrer Messbarkeit."
   - title: "Zur Quellenlage"
-    text: "Protestereignisse vom September und Oktober 2026; politische Zusammenhänge sind Gegenstand der Untersuchung. Quellenhinweise am Ende des Artikels."
+    text: "Redaktionsstand 29. Oktober 2026; angekündigte Aktionen sind keine bereits stattgefundenen Ereignisse. Quellenhinweise am Ende des Artikels."
 ---
 
 
@@ -21,13 +21,13 @@ Am Lycée Saint-Exupéry in Créteil fehlten zu Beginn des Schuljahres Lehrkräf
 
 Gerade deshalb lohnt es sich, bei diesen Jugendlichen zu beginnen. Sie leben unter Entscheidungen, auf die sie nur begrenzten unmittelbaren Einfluss haben; einige besitzen noch nicht einmal das Wahlrecht. Von ihnen wird verlangt, die demokratische Ordnung zu verstehen, sich in ihr zurechtzufinden und eines Tages Verantwortung für sie zu übernehmen. Nun nehmen sie ihre Ansprüche bereits geltend, während diese politische Mündigkeit andernorts noch als Lernziel behandelt wird. Eine Demokratie, die ihre zukünftigen Bürger zur Beteiligung erziehen will, begegnet Menschen, die sich nicht bis zur Abschlussprüfung damit gedulden möchten.
 
-Die französische Regierung reagierte mit Gesprächsangeboten und einer landesweiten Schülerkonsultation, die vom 5. bis zum 23. Oktober lief. Das war eine institutionelle Antwort und sollte nicht schon deshalb geringgeschätzt werden, weil sie auf Protest folgte. Aber zwischen der Möglichkeit, Forderungen vorzutragen, und der Aussicht, dass sie politische Entscheidungen verändern, liegt eine Distanz, die sich durch eine Einladung zum Gespräch allein nicht aufheben lässt.
+Die französische Regierung reagierte zunächst mit einer landesweiten Schülerkonsultation und Gesprächen. Am 26. Oktober kündigte sie zusätzliche Lehrkräfte, Investitionen in Schulgebäude und Reformen der Hochschulzulassung an; das Verfahren Parcoursup soll bis 2028 abgelöst werden. Diese Zugeständnisse sind eine beobachtbare politische Reaktion. Ob und in welchem Umfang sie umgesetzt werden, ist eine andere Frage. Zwischen Anhörung, Ankündigung und tatsächlicher Veränderung der Verhältnisse liegen gerade jene Unterschiede, an denen sich politische Wirksamkeit und Erfolg voneinander scheiden lassen.
 
 Hier liegt der Ausgangspunkt unserer Untersuchung. Politische Ohnmacht ist nicht notwendig das Fehlen demokratischer Rechte. Sie kann als Erfahrung gerade dort entstehen, wo die Verfahren vorhanden sind, ihre Wirksamkeit jedoch zweifelhaft erscheint. Aus dieser Erfahrung folgt weder zwangsläufig Resignation noch Protest. Sie eröffnet zunächst eine Frage: Auf welche Weise können Menschen politische Handlungsfähigkeit zurückgewinnen, wenn die gewöhnlichen Wege der Einflussnahme ihnen verschlossen oder wirkungsschwach vorkommen?
 
-Inzwischen reicht der Blick weit über Frankreich hinaus. In Rom demonstrierten am 17. Oktober die Gewerkschaft CGIL und ein Bündnis zivilgesellschaftlicher Organisationen für Arbeit, Löhne, soziale Rechte und die Verfassung; in Mailand kam es am selben Tag im Umfeld einer anderen Mobilisierung zu schweren Auseinandersetzungen. In Madrid streikten seit dem 14. Oktober Beschäftigte des öffentlichen Bildungswesens für bessere Arbeitsbedingungen und mehr Ressourcen. Am 24. Oktober gingen dort außerdem Menschen für die öffentliche Altersversorgung auf die Straße. Die spanischen Proteste setzen eigene Konflikte fort; sie sind kein verspäteter Ableger einer französischen Bewegung.
+Inzwischen reicht der Blick weit über Frankreich hinaus. In Rom demonstrierten am 17. Oktober die Gewerkschaft CGIL und ein Bündnis zivilgesellschaftlicher Organisationen für Arbeit, Löhne, soziale Rechte und die Verfassung; in Mailand kam es am selben Tag im Umfeld einer anderen Mobilisierung zu schweren Auseinandersetzungen. In Madrid streikten seit dem 14. Oktober Beschäftigte des öffentlichen Bildungswesens für bessere Arbeitsbedingungen und mehr Ressourcen. Am 24. Oktober gingen dort außerdem Menschen für die öffentliche Altersversorgung auf die Straße. Die spanischen Proteste setzen eigene Konflikte fort; sie sind kein verspäteter Ableger einer französischen Bewegung. In Wien demonstrierten am 22. Oktober Zehntausende Studierende und Hochschulbeschäftigte gegen geplante Einsparungen an den Universitäten; Angaben zur Beteiligung reichen von rund 30.000 bis 50.000. Auch in Deutschland werden unter dem Motto "Gen Z regelt" für den 31. Oktober Demonstrationen angekündigt. In Leipzig wurde eine Versammlung ausdrücklich unter dem Titel "Solidarität mit den Protestierenden in Frankreich!" angemeldet. Das ist ein dokumentierter Bezug auf eine andere Mobilisierung, noch kein Beleg für eine gemeinsame Bewegung. Die Bundesschüler*innenkonferenz hat sich zudem wegen unklarer Verantwortlichkeiten von den Aufrufen distanziert. Ankündigungen sind keine bereits stattgefundenen Ereignisse.
 
-Eine Auswertung von *El País* zählte für die Zeit vom 15. September bis zum 23. Oktober mindestens 177 Protestereignisse in zwölf europäischen Ländern. Das ist zunächst eine journalistische Bestandsaufnahme, kein statistischer Nachweis einer europaweit ungewöhnlichen Zunahme gegenüber früheren Monaten. Gleichwohl lässt sich die auffällige zeitliche Verdichtung und öffentliche Aufmerksamkeit als *europäische Protestkonjunktur* untersuchen. Der Begriff beschreibt ein Zusammentreffen politischer Mobilisierungen, nicht schon deren gemeinsame Ursache, geschweige denn eine einheitliche Bewegung.
+Eine Auswertung von *El País* zählte für die Zeit vom 15. September bis zum 23. Oktober mindestens 177 Protestereignisse in zwölf europäischen Ländern. Das ist zunächst eine journalistische Bestandsaufnahme, kein statistischer Nachweis einer europaweit ungewöhnlichen Zunahme gegenüber früheren Monaten. In Frankreich demonstrierten am 24. Oktober erneut Hunderttausende. Das Innenministerium sprach von rund 410.000, die Gewerkschaft CGT von nahezu 800.000 Beteiligten. Diese unterschiedlichen Schätzungen sind nicht zu einer scheinbar exakten Teilnehmerzahl zu verrechnen. Gleichwohl lässt sich die auffällige zeitliche Verdichtung und öffentliche Aufmerksamkeit als *europäische Protestkonjunktur* untersuchen. Der Begriff beschreibt ein Zusammentreffen politischer Mobilisierungen, nicht schon deren gemeinsame Ursache, geschweige denn eine einheitliche Bewegung.
 
 Es wäre bequem, aus dieser Konjunktur sogleich ein europäisches Erwachen auszurufen. Nicht weniger bequem wäre es, die Möglichkeit jeder Gemeinsamkeit mit dem Hinweis auf unterschiedliche Organisationen und Forderungen zurückzuweisen. Eine Bewegung muss weder zentral beschlossen werden noch notwendig aus einem einzigen Konflikt hervorgehen. Ob die gegenwärtigen Proteste über ihre zeitliche Nachbarschaft hinaus miteinander verbunden sind, ist offen. Und ob aus ihnen Solidarität entstehen kann, lässt sich nicht aus der Ähnlichkeit der Bilder ablesen.
 
@@ -47,6 +47,8 @@ Vor diesem Hintergrund ist der Gang auf die Straße keineswegs das logische Gege
 
 Die sozialpsychologische Forschung über kollektives Handeln unterscheidet entsprechend die Wahrnehmung von Ungerechtigkeit, die Identifikation mit anderen und die Erwartung gemeinsamer Wirksamkeit. Wer allein wenig Einfluss zu besitzen glaubt, kann gerade deshalb in einer gemeinsamen Handlung neue Möglichkeiten erkennen. Damit ist die Protestbereitschaft noch nicht vollständig erklärt. Aber der vermeintliche Widerspruch, den ein allzu absolut verstandener Ohnmachtsbegriff erzeugt, verschwindet: Das Misstrauen in eine Form politischer Vermittlung schließt die Hoffnung auf eine andere nicht aus.
 
+Was an ihre Stelle treten soll, ist damit keineswegs entschieden. Wer den Eindruck gewinnt, die repräsentativen Institutionen seien nicht mehr wirksam, kann nach zusätzlichen demokratischen Beteiligungsformen verlangen. Er kann aber auch die Verfahren demokratischer Aushandlung selbst für das Hindernis halten. Diese unterschiedliche Deutung einer möglicherweise verwandten Erfahrung begründet unseren späteren Vergleich mit autoritären politischen Angeboten. Sie beweist noch keinen gemeinsamen Ursprung.
+
 ## II. Demokratie und Widerspruch
 
 Es gehört zu den merkwürdig dauerhaften Gewohnheiten politischer Sprache, die Straße und die parlamentarischen Institutionen einander gegenüberzustellen, als beginne jenseits der Wahlkabine bereits der zweifelhafte Bereich der Demokratie. Dabei ist die öffentliche Versammlung kein Fremdkörper repräsentativer Ordnungen. Sie gehört zu ihren rechtlich gesicherten und politisch notwendigen Ausdrucksformen. Demonstrationen ersetzen keine Parlamente, entscheiden keine Haushalte und verleihen einer Forderung nicht allein durch ihre Lautstärke allgemeine Geltung. Gerade deshalb können sie eine eigenständige Funktion besitzen: Sie machen sichtbar, was innerhalb der geregelten Entscheidungsabläufe unberücksichtigt bleibt oder als unzureichend berücksichtigt erfahren wird.
@@ -63,7 +65,7 @@ Gerade wer die demokratische Bedeutung solcher Proteste ernst nimmt, sollte sie 
 
 ## III. Das Versprechen der Abkürzung
 
-An diesem Punkt lässt sich erklären, weshalb die autoritäre Rechte in einer Untersuchung sozialer Proteste überhaupt vorkommt. Nicht weil sich zwischen den französischen Schülerprotesten und autoritärer Mobilisierung eine politische Verwandtschaft behaupten ließe. Sondern weil Erklärungen für den Zuspruch zu autoritären Angeboten ebenfalls häufig bei Erfahrungen mangelnder Repräsentation und politischer Wirkungslosigkeit ansetzen. Wenn darin ein gemeinsamer Ausgangspunkt vermutet wird, ist zunächst zu prüfen, wie belastbar diese Vermutung ist.
+Die zweite dieser möglichen politischen Deutungen führt zu einer begrenzten Gegenfolie. Erklärungen für den Zuspruch zu autoritären Angeboten setzen häufig bei Erfahrungen mangelnder Repräsentation und politischer Wirkungslosigkeit an. Eine politische Verwandtschaft mit den französischen Schülerprotesten folgt daraus nicht. Zu untersuchen ist vielmehr, weshalb eine ähnlich beschriebene Erfahrung zu gegensätzlichen Vorstellungen von demokratischer Handlungsfähigkeit führen könnte - und wie belastbar die vermutete Ähnlichkeit empirisch ist.
 
 Besonders verbreitet ist die Erzählung, materielle Prekarität und die Furcht vor sozialem Abstieg führten Menschen nahezu zwangsläufig zu rechtspopulistischen Parteien. So einfach ist es nicht. Zwischen objektiver wirtschaftlicher Lage, der Sorge um den eigenen Status, politischem Misstrauen und der Unterstützung einer bestimmten Partei bestehen Zusammenhänge, aber keine begriffliche Identität. Wer Angst vor dem Abstieg hat, muss nicht schon abgestiegen sein. Wer sich politisch nicht repräsentiert fühlt, muss sich nicht in materieller Not befinden. Und wer unter schlechten Bedingungen lebt, muss daraus keineswegs eine autoritäre politische Folgerung ziehen.
 
@@ -148,6 +150,12 @@ Die Signale müssen nicht aus einer gemeinsamen Zentrale kommen, um gemeinsam ge
 ---
 
 ### Quellen und begriffliche Bezugspunkte
+
+* [Polizeidirektion Leipzig, 28. Oktober 2026: angemeldete Kundgebung "Gen Z regelt! Solidarität mit den Protestierenden in Frankreich!"](https://www.polizei.sachsen.de/de/einsatz-zum-versammlungsgeschehen-am-31-oktober-in-leipzig-44215.html)
+* [tagesschau, 24. Oktober 2026: erneute Proteste in Frankreich und unterschiedliche Teilnehmerzahlen](https://www.tagesschau.de/ausland/europa/frankreich-vorbereitung-ausschreitungen-100.html)
+* [SRF, 27. Oktober 2026: Regierungszusagen an Schülerinnen und Schüler in Frankreich](https://www.srf.ch/news/international/weitreichende-zugestaendnisse-das-stellt-frankreichs-regierung-den-demonstrierenden-in-aussicht)
+* [ORF, 22. Oktober 2026: Universitätsdemonstration in Wien](https://wien.orf.at/stories/3376242/)
+* [TU Wien, 22. Oktober 2026: Position der Universität und Teilnehmerangabe der Organisatoren](https://www.tuwien.at/alle-news/news/alarmstufe-rot-tausende-demonstrieren-fuer-die-zukunft-der-universitaeten)
 
 * [El País, 24. Oktober 2026: Übersicht europäischer Proteste vom 15. September bis 23. Oktober](https://elpais.com/internacional/europa/informada/2026-10-24/donde-y-por-que-se-protesta-en-europa-las-reivindicaciones-de-los-jovenes-de-cada-pais.html)
 * [RTVE, 14. Oktober 2026: Beginn des Streiks im öffentlichen Bildungswesen Madrids](https://www.rtve.es/noticias/20261014/docentes-madrid-inician-huelga-indefinida-para-exigir-mejoras-laborales-educacion-publica-calidad/17264967.shtml)
