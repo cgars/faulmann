@@ -151,6 +151,9 @@ Die Signale müssen nicht aus einer gemeinsamen Zentrale kommen, um gemeinsam ge
 
 ### Quellen und begriffliche Bezugspunkte
 
+* [Französisches Innenministerium, 25. Oktober 2026: amtliche Bilanz der Demonstrationen vom 24. Oktober](https://www.interieur.gouv.fr/actualites/communiques-de-presse/bilan-de-journee-de-mobilisation-nationale-du-24-octobre-2026)
+* [Le Monde, 24./25. Oktober 2026: Protesttag und abweichende Schätzungen von Regierung und CGT](https://www.lemonde.fr/societe/live/2026/10/24/en-direct-manifestations-du-24-octobre-entre-410-000-et-800-000-manifestants-corteges-sous-haute-surveillance-tensions-en-fin-de-journee-revivez-la-journee-de-mobilisation_6799445_3224.html)
+
 * [Französisches Bildungsministerium, 26. Oktober 2026: offizielle Maßnahmen nach der Schülerkonsultation (einschließlich Kreditprogramm ÉduRénov)](https://www.education.gouv.fr/remplacement-de-la-plateforme-parcoursup-plafonnement-du-nombre-d-eleves-par-classe-etat-des-506367)
 * [Bundesschüler*innenkonferenz, 24. Oktober 2026: ausdrückliche Distanzierung vom Aktionstag am 31. Oktober bei Anerkennung friedlicher Bildungsproteste](https://bundesschuelerkonferenz.com/distanzierung-von-den-proteste-am-31-10-2026/)
 * [Deutschlandfunk, 29. Oktober 2026: weitere Distanzierungen deutscher Schülervertretungen](https://www.deutschlandfunk.de/naechste-schuelervertretung-distanziert-sich-von-protestaufruf-fuer-31-oktober-100.html)
