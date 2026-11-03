@@ -9,6 +9,8 @@ tags: [patrick-stewart, jean-luc-picard, star-trek, tng, dachsbert, liora, nachr
 teaser: "Ein Dachs widerspricht, ein Bär wird laut, und eine Füchsin setzt Tee auf. Am Waldtisch wird von einem anderen Captain erzählt."
 ---
 
+![Captain Faulmann erzählt Dachsbert und Liora am Waldtisch von Picard, während die Enterprise-D über den Sternenhimmel zieht.](/assets/img/posts/2026-11-01-der-captain-hat-die-bruecke-verlassen/cover.webp)
+
 Der Regen hatte am Nachmittag aufgehört. Auf dem Waldtisch lagen einige nasse Blätter, eine Eichel und Faulmanns Telefon.
 
 Dachsbert betrachtete das Telefon.
