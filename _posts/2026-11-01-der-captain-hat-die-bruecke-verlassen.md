@@ -11,7 +11,7 @@ teaser: "Ein Dachs widerspricht, ein Bär wird laut, und eine Füchsin setzt Tee
 
 ![Captain Faulmann erzählt Dachsbert und Liora am Waldtisch von Picard, während die Enterprise-D über den Sternenhimmel zieht.](/assets/img/posts/2026-11-01-der-captain-hat-die-bruecke-verlassen/cover.webp)
 
-Der Regen hatte am Nachmittag aufgehört. Auf dem Waldtisch lagen einige nasse Blätter, eine Eichel und Faulmanns Telefon.
+Der Regen hatte am Nachmittag aufgehört. Auf dem Waldtisch lagen einige nasse Blätter, eine Kastanie und Faulmanns Telefon.
 
 Dachsbert betrachtete das Telefon.
 
@@ -71,7 +71,7 @@ Dachsbert nahm das ohne Kommentar zur Kenntnis.
 
 "Ja. Aber die Waffen waren nicht der Grund für die Reise."
 
-Dachsbert schob die Eichel zur Seite.
+Dachsbert schob die Kastanie zur Seite.
 
 "Das ist ein Unterschied, den man heute vermutlich häufiger erklären müsste."
 
@@ -329,13 +329,13 @@ Faulmann sah Dachsbert an.
 
 "Ja. Lily betrachtet die Scherben und bemerkt nur, dass er seine kleinen Schiffe kaputtgemacht hat."
 
-Dachsbert schob die Eichel vorsichtshalber vom Tischrand weg.
+Dachsbert schob die Kastanie vorsichtshalber vom Tischrand weg.
 
 Faulmann sah es.
 
 "Sehr witzig."
 
-"Ich will nur deine kleinen Eicheln schützen."
+"Ich wollte nur die Kastanie in Sicherheit bringen."
 
 "Picard sieht schließlich ein, dass sie recht hat. Er ändert seine Entscheidung. Und später entschuldigt er sich auch bei Worf."
 
@@ -525,9 +525,9 @@ Faulmann musste lächeln.
 
 Eine Weile später sah Dachsbert über den Rand seiner Tasse in den Wald.
 
-"Sir Ian und Sir Patrick, als ihre Hände sich fanden", sagte er.
+"Sir Ian und Sir Patrick, als ihre Hände sich fanden", sagte er.[^ian-patrick]
 
-Faulmann drehte den Kopf, sichtlich ueberascht.
+Faulmann drehte den Kopf.
 
 "Was hast du gerade gesagt?"
 
@@ -537,7 +537,7 @@ Faulmann drehte den Kopf, sichtlich ueberascht.
 
 "Ich glaube, es war Deutsch."
 
-"Du weißt doch genau, was ich meine. Die Sprache aus *Darmok*. Die mit den Geschichten, die man kennen muss, um die Sätze zu verstehen."  (das hier muss entweder in eine fussnote werden denke ich oder andersateingebhaut werden "Sir Ian McKellen sprach in einem Interview über sein Coming-out. Patrick Stewart saß neben ihm. Die beiden berührten sich, lachten und hielten einander an den Händen. Eine recht schöne Geschichte.")
+"Du weißt doch genau, was ich meine. Die Sprache aus *Darmok*. Die mit den Geschichten, die man kennen muss, um die Sätze zu verstehen."
 
 Dachsbert zuckte mit den Schultern.
 
@@ -551,7 +551,7 @@ Faulmann schaute ihn an.
 
 "Ich fand, sie passte."
 
-"Du kennst *Star Trek*? wohl besser als ich dachte"
+"Du kennst *Star Trek* offenbar besser, als ich dachte."
 
 "Ich habe nie behauptet, es nicht zu kennen."
 
@@ -563,7 +563,7 @@ Faulmann schaute ihn an.
 
 Dachsbert rückte seine Brille zurecht.
 
-"Du hast nicht  gefragt."
+"Du hast nie gefragt."
 
 Faulmann starrte ihn an.
 
@@ -572,9 +572,11 @@ Faulmann starrte ihn an.
 
 "Was denn?"
 
-"Mich provoziert. Den ganzen Nachmittag. Bis ich beinahe die Eichel zerdrückt hätte."
+"Mich provoziert. Den ganzen Nachmittag. Bis ich beinahe die Kastanie zerdrückt hätte."
 
-"Das wäre bedauerlich gewesen. Sie war völlig unbeteiligt, Aber Ich hatte den Eindruck, du möchtest von deinem Captain erzählen."
+"Das wäre bedauerlich gewesen. Sie war völlig unbeteiligt."
+
+"Ich hatte den Eindruck, du möchtest von deinem Captain erzählen."
 
 "Und du kennst ihn die ganze Zeit?"
 
@@ -605,7 +607,7 @@ Sie tranken.
 
 Dachsbert nahm noch einen Schluck Tee.
 
-"Zurueck zu Picard und Dathon auf El-Adrel", sagte er.
+"Picard und Dathon auf El-Adrel", sagte er.
 
 Faulmann lächelte.
 
@@ -627,13 +629,13 @@ Liora lachte leise.
 
 Faulmann schüttelte den Kopf.
 
-Es wurde dunkel über dem Williamshügel. Auf dem Waldtisch standen drei Tassen. Die Eichel lag noch immer dort, wo Dachsbert sie vor Faulmanns Rede in Sicherheit gebracht hatte.
+Es wurde dunkel über dem Williamshügel. Auf dem Waldtisch standen drei Tassen. Die Kastanie lag noch immer dort, wo Dachsbert sie vor Faulmanns Rede in Sicherheit gebracht hatte.
 
 "Es gibt übrigens noch ziemlich viele Folgen, über die wir reden könnten", sagte Faulmann.
 
 "Das hatte ich befürchtet."
 
-"Zum Beispiel all die Q-Pesiodes."
+"Zum Beispiel die Folgen mit Q."
 
 "Der Prozess gegen die Menschheit?"
 
@@ -644,6 +646,8 @@ Dachsbert sah demonstrativ in die andere Richtung.
 Liora lächelte.
 
 Der Tee war noch warm.
+
+[^ian-patrick]: Sir Ian McKellen erzählte in einem gemeinsamen öffentlichen Gespräch von seinem Coming-out. Patrick Stewart saß neben ihm. Ihre vertrauten Berührungen und das anschließende Händchenhalten wurden zum liebevollen Bild einer langjährigen Freundschaft. Die tamarianische Wendung im Text ist frei erfunden.
 
 ---
 
