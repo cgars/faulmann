@@ -521,53 +521,13 @@ Dachsbert trank einen Schluck.
 
 Faulmann musste lächeln.
 
-"Danke, Dachsbert."
-
-"Gern geschehen."
-
-"Ich meine nicht den Tee."
-
-"Ich weiß."
-
-Faulmann sah ihn an.
-
-"Du hast das absichtlich gemacht."
-
-"Was denn?"
-
-"Mich provoziert. Den ganzen Nachmittag. Bis ich beinahe die Eichel zerdrückt hätte."
-
-"Das wäre bedauerlich gewesen. Sie war völlig unbeteiligt."
-
-Faulmann nahm die Tasse in beide Tatzen.
-
-"Danke, dass du gewusst hast, was ich brauche."
-
-"Du warst heute Morgen ungewöhnlich still", sagte Dachsbert. "Das musste ja nicht so bleiben."
-
-"Du hättest auch einfach sagen können, dass du mich verstehst."
-
-"Das hätte keine fünf Minuten gedauert."
-
-"Nein", sagte Faulmann. "Vermutlich nicht."
-
-Er betrachtete die beiden anderen, dann hob er seine Tasse.
-
-"Auf Captain Jean-Luc Picard."
-
-Liora hob ihre Tasse ebenfalls. Dachsbert tat es ihnen nach.
-
-"Und auf Sir Patrick Stewart", ergänzte Faulmann. "Der ihn uns geschenkt hat."
-
-Sie tranken.
-
 ## Darmok am Waldtisch
 
 Eine Weile später sah Dachsbert über den Rand seiner Tasse in den Wald.
 
 "Sir Ian und Sir Patrick, als ihre Hände sich fanden", sagte er.
 
-Faulmann drehte den Kopf.
+Faulmann drehte den Kopf, sichtlich ueberascht.
 
 "Was hast du gerade gesagt?"
 
@@ -577,11 +537,9 @@ Faulmann drehte den Kopf.
 
 "Ich glaube, es war Deutsch."
 
-"Du weißt genau, was ich meine. Die Sprache aus *Darmok*. Die mit den Geschichten, die man kennen muss, um die Sätze zu verstehen."
+"Du weißt doch genau, was ich meine. Die Sprache aus *Darmok*. Die mit den Geschichten, die man kennen muss, um die Sätze zu verstehen."  (das hier muss entweder in eine fussnote werden denke ich oder andersateingebhaut werden "Sir Ian McKellen sprach in einem Interview über sein Coming-out. Patrick Stewart saß neben ihm. Die beiden berührten sich, lachten und hielten einander an den Händen. Eine recht schöne Geschichte.")
 
 Dachsbert zuckte mit den Schultern.
-
-"Sir Ian McKellen sprach in einem Interview über sein Coming-out. Patrick Stewart saß neben ihm. Die beiden berührten sich, lachten und hielten einander an den Händen. Eine recht schöne Geschichte."
 
 Faulmann schaute ihn an.
 
@@ -593,7 +551,7 @@ Faulmann schaute ihn an.
 
 "Ich fand, sie passte."
 
-"Du kennst *Star Trek*?"
+"Du kennst *Star Trek*? wohl besser als ich dachte"
 
 "Ich habe nie behauptet, es nicht zu kennen."
 
@@ -605,27 +563,18 @@ Faulmann schaute ihn an.
 
 Dachsbert rückte seine Brille zurecht.
 
-"Du hast nie gefragt."
+"Du hast nicht  gefragt."
 
 Faulmann starrte ihn an.
 
-"Außerdem", sagte Liora, "freut er sich seit Stunden auf dieses Gespräch."
 
-Dachsbert sah sie über den Rand seiner Brille hinweg an.
-
-"Liora."
+"Du unmöglicher Dachs. Du hast das absichtlich gemacht."
 
 "Was denn?"
 
-"Das war nicht nötig."
+"Mich provoziert. Den ganzen Nachmittag. Bis ich beinahe die Eichel zerdrückt hätte."
 
-"Ich weiß", sagte Liora.
-
-Faulmann begann zu lachen.
-
-"Du unmöglicher Dachs."
-
-"Ich hatte den Eindruck, du möchtest von deinem Captain erzählen."
+"Das wäre bedauerlich gewesen. Sie war völlig unbeteiligt, Aber Ich hatte den Eindruck, du möchtest von deinem Captain erzählen."
 
 "Und du kennst ihn die ganze Zeit?"
 
@@ -633,13 +582,30 @@ Faulmann begann zu lachen.
 
 "Ein wenig!"
 
-"Die Folge mit der Flöte habe ich übrigens auch gesehen."
+"Danke, Dachsbert."
 
-"Natürlich hast du das."
+"Gern geschehen."
+
+"Außerdem", sagte Liora, "freut er sich seit Stunden auf dieses Gespräch."
+
+Dachsbert sah sie über den Rand seiner Brille hinweg an.
+
+Faulmann begann zu lachen.
+
+Er betrachtete die beiden anderen, dann hob er seine Tasse.
+
+"Auf Captain Jean-Luc Picard."
+
+Liora hob ihre Tasse ebenfalls. Dachsbert tat es ihnen nach.
+
+"Und auf Sir Patrick Stewart", ergänzte Faulmann. "Der ihn uns geschenkt hat."
+
+Sie tranken.
+
 
 Dachsbert nahm noch einen Schluck Tee.
 
-"Picard und Dathon auf El-Adrel", sagte er.
+"Zurueck zu Picard und Dathon auf El-Adrel", sagte er.
 
 Faulmann lächelte.
 
@@ -652,12 +618,6 @@ Faulmann lächelte.
 "Geschichten", sagte Dachsbert. "Man muss die Geschichten kennen."
 
 Liora schenkte nach. Dachsbert schob die Kanne zu Faulmann hinüber.
-
-"Temba, his arms wide."
-
-"Du bist wirklich unmöglich", sagte Faulmann.
-
-"Das wurde mehrfach festgestellt."
 
 "Und ich nehme an, du kennst auch die Sache mit Sir Patrick und Sir Ian und dem angeblichen Welpen?"
 
@@ -673,7 +633,7 @@ Es wurde dunkel über dem Williamshügel. Auf dem Waldtisch standen drei Tassen.
 
 "Das hatte ich befürchtet."
 
-"Zum Beispiel die mit Q."
+"Zum Beispiel all die Q-Pesiodes."
 
 "Der Prozess gegen die Menschheit?"
 
@@ -688,5 +648,3 @@ Der Tee war noch warm.
 ---
 
 *Quellennotiz für die Überarbeitung: Die kurzen englischen Originalzitate beziehen sich auf* Star Trek: The Next Generation *(*The Measure of a Man, The First Duty, Chain of Command II, The Drumhead, Skin of Evil, Peak Performance, Darmok*) sowie den Film* Star Trek: First Contact. *Die längeren Reden werden im Erzähltext sinngemäß wiedergegeben. Die tamarianischen Wendungen über Sir Patrick, Sir Ian und Judi Dench sind neue, frei erfundene Anspielungen - keine Dialoge aus der Serie.*
-
-<!-- Redaktionell offen: Titelbild, letzte Zitatprüfung, Feinschliff der Übergänge und Quellen-Fußnoten vor Veröffentlichung. -->
