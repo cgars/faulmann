@@ -65,11 +65,11 @@ Dachsbert nahm das ohne Kommentar zur Kenntnis.
 
 "Ein vernünftiger Mann."
 
-"Geschichte, Archäologie, Shakespeare. Auf dem Holodeck konnte er sogar in alte Kriminalgeschichten hineinspazieren."
+"Geschichte, Archäologie, Shakespeare. Auf dem Holodeck konnte er sogar in seine Kriminalgeschichten hineinspazieren."
 
 "Ein ungewöhnlich aufwendiger Lesezirkel."
 
-"Bis eine erfundene Figur dort ein eigenes Leben verlangte. Er war neugierig, Dachsbert. Auf andere Welten, aber vor allem darauf, wie andere Wesen denken und leben."
+"In einem anderen Programm verlangte eine erfundene Figur sogar ein eigenes Leben. Picard nahm das ernst. Ihn interessierte, wie andere Wesen denken und leben, selbst wenn man sie programmiert hatte."
 
 "Und falls diese Wesen nicht besonders friedlich waren, hatte man die Photonentorpedos."
 
@@ -81,15 +81,19 @@ Dachsbert schob die Kastanie zur Seite.
 
 "Allerdings."
 
-"Es gab sogar eine Oberste Direktive: nicht in die Entwicklung anderer Völker eingreifen, nur weil man es kann."
+"Die Oberste Direktive verbot ihnen sogar, sich in die Entwicklung anderer Völker einzumischen."
 
-"Und wenn jemand Hilfe brauchte?"
+"Auch wenn jemand Hilfe brauchte?"
 
-"Einmal bat ein Mädchen Data um Hilfe, während ihr Planet zu zerbrechen drohte. Picard musste sich fragen, ob Zurückhaltung noch Respekt war oder schon Wegsehen."
+"Ein Mädchen rief Data um Hilfe. Ihr Planet drohte zu zerbrechen."
 
-"Und?"
+"Und Picard?"
 
-"Er half ihr. Einfach war es nicht."
+"Er wollte sich zunächst an die Vorschrift halten. Dann hörte er ihre Stimme und ließ helfen."
+
+"Eine ziemlich unbequeme Vorschrift."
+
+"Manchmal war sie das."
 
 Faulmann betrachtete die dunkler werdenden Bäume.
 
@@ -127,15 +131,15 @@ Faulmann verzog das Gesicht.
 
 "Vielleicht ist er einfach eine Maschine."
 
-"Vielleicht! Auch Picard suchte zunächst nach einer Antwort. Bis Guinan, die auf der Enterprise eine Bar führte, ihn auf etwas brachte: Was wäre mit Tausenden Datas, die gefährliche Arbeiten verrichten müssten, ohne selbst Rechte zu haben?"
+"Vielleicht! Auch Picard war sich nicht sicher. Dann fragte Guinan, die auf der Enterprise eine Bar führte, was aus Tausenden Datas würde, die ohne Rechte für andere arbeiten müssten."
 
 "Eine preiswerte Belegschaft."
 
-"Picard begriff, dass er gerade über eine neue Form der Sklaverei nachdachte."
+"Picard fiel ein altes Wort dafür ein: Sklaverei."
 
-"Und damit war die Frage beantwortet?"
+"Und damit wusste er, dass Data eine Seele hatte?"
 
-"Nein. Er konnte nicht beweisen, dass Data eine Seele hatte. Aber er konnte fragen, was es für eine Gesellschaft bedeutet, einem möglicherweise bewussten Wesen die Freiheit zu verweigern."
+"Nein. Aber er musste sich fragen, was aus einer Gesellschaft wird, die einem möglicherweise bewussten Wesen die Freiheit verweigert."
 
 "Das ist keine besonders bequeme Frage."
 
@@ -285,11 +289,11 @@ Dachsbert dachte nach.
 
 Faulmann musste kurz lächeln.
 
-"Später nimmt Picard Worf zur Seite. Er war für ihn einmal vor den Hohen Rat der Klingonen getreten, als Sekundant in einem Streit um die Ehre seiner Familie."
+"Später sprach Picard mit Worf, seinem klingonischen Sicherheitsoffizier. Für ihn war er einst als Sekundant vor den Hohen Rat getreten, im Streit um die Ehre seiner Familie."
 
 "Also hielt er zu ihm?"
 
-"Gerade deshalb widersprach er ihm. Worf hatte Saties Ermittlungen zunächst unterstützt. Picard erinnerte ihn daran, dass die offenkundig Bösen leicht zu erkennen seien. Die gefährlicheren versteckten sich hinter dem Anschein guter Taten. Und eine freie Gesellschaft müsse wachsam bleiben."
+"Ja. Und gerade deshalb widersprach er ihm, als Worf Saties Ermittlungen unterstützte. Die offenkundig Bösen seien leicht zu erkennen, sagte Picard. Gefährlicher seien die, die sich hinter guten Taten versteckten."
 
 "Dein Captain hatte offenbar ein ziemlich pessimistisches Menschenbild."
 
@@ -333,15 +337,15 @@ Faulmann zögerte.
 
 "Die Borg", sagte Faulmann. "Sie raubten ihren Opfern die Individualität. Picard wurde selbst assimiliert. Sein Körper, sein Wissen, seine Stimme wurden gegen Menschen eingesetzt, die er beschützen wollte."
 
-"Später hätte er einen Borg namens Hugh als Waffe gegen das ganze Kollektiv einsetzen können. Aber er erkannte in ihm ein Individuum und verzichtete darauf."
+"Später begegnete er Hugh, einem Borg mit einem eigenen Ich. Picard hätte ihn als Waffe gegen das ganze Kollektiv benutzen können. Stattdessen ließ er ihn gehen."
 
 "Also hatte er seinen Hass überwunden?"
 
-"Das hätte man meinen können."
+"Einmal jedenfalls."
 
-"Und später begegnete er ihnen wieder?"
+"Und später?"
 
-"Ja. Im Film *First Contact*. Die Borg übernehmen Teile der Enterprise. Seine Leute wollen das Schiff verlassen, ehe alle assimiliert werden. Picard weigert sich."
+"Im Film *First Contact* übernehmen die Borg Teile der Enterprise. Seine Leute wollen das Schiff verlassen, ehe alle assimiliert werden. Picard weigert sich."
 
 "Weil er nicht aufgeben will?"
 
@@ -369,7 +373,7 @@ Faulmann sah es.
 
 "Ich wollte nur die Kastanie in Sicherheit bringen."
 
-"Picard sieht schließlich ein, dass sie recht hat. Er ändert seine Entscheidung. Und später entschuldigt er sich bei Worf, dessen Mut er zuvor angezweifelt hatte."
+"Picard sieht schließlich ein, dass Lily recht hat. Er ändert seine Entscheidung und entschuldigt sich später bei Worf, dessen Mut er zuvor angezweifelt hatte."
 
 "Also brauchte selbst dieser Captain jemanden, der ihm widersprach."
 
