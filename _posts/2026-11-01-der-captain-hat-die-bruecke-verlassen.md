@@ -45,7 +45,7 @@ Faulmann sah ihn an.
 
 Faulmann setzte sich aufrechter hin.
 
-"Als ich jung war, gab es da dieses Raumschiff. Die Enterprise. Ein gewaltiges Schiff, das mit unvorstellbarer Geschwindigkeit durch die Galaxis flog. Erstaunlich gut bewaffnet übrigens. Phaserbänke, Photonentorpedos, Schutzschilde."
+"Als ich jung war, gab es da dieses Raumschiff. Die Enterprise. Schneller als das Licht, gut bewaffnet: Phaser, Torpedos, Schutzschilde."
 
 "Ein Kriegsschiff also."
 
@@ -65,7 +65,11 @@ Dachsbert nahm das ohne Kommentar zur Kenntnis.
 
 "Ein vernünftiger Mann."
 
-"Geschichte, Archäologie, Shakespeare. Er war neugierig, Dachsbert. Auf andere Welten, aber vor allem darauf, wie andere Wesen denken und leben."
+"Geschichte, Archäologie, Shakespeare. Auf dem Holodeck konnte er sogar in alte Kriminalgeschichten hineinspazieren."
+
+"Ein ungewöhnlich aufwendiger Lesezirkel."
+
+"Bis eine erfundene Figur dort ein eigenes Leben verlangte. Er war neugierig, Dachsbert. Auf andere Welten, aber vor allem darauf, wie andere Wesen denken und leben."
 
 "Und falls diese Wesen nicht besonders friedlich waren, hatte man die Photonentorpedos."
 
@@ -76,6 +80,16 @@ Dachsbert schob die Kastanie zur Seite.
 "Das ist ein Unterschied, den man heute vermutlich häufiger erklären müsste."
 
 "Allerdings."
+
+"Es gab sogar eine Oberste Direktive: nicht in die Entwicklung anderer Völker eingreifen, nur weil man es kann."
+
+"Und wenn jemand Hilfe brauchte?"
+
+"Einmal bat ein Mädchen Data um Hilfe, während ihr Planet zu zerbrechen drohte. Picard musste sich fragen, ob Zurückhaltung noch Respekt war oder schon Wegsehen."
+
+"Und?"
+
+"Er half ihr. Einfach war es nicht."
 
 Faulmann betrachtete die dunkler werdenden Bäume.
 
@@ -113,7 +127,15 @@ Faulmann verzog das Gesicht.
 
 "Vielleicht ist er einfach eine Maschine."
 
-"Vielleicht! Picard versucht auch nicht zu beweisen, dass Data eine Seele hat. Er stellt die Frage, was es für eine Gesellschaft bedeutet, einem möglicherweise bewussten Wesen die Freiheit zu verweigern."
+"Vielleicht! Auch Picard suchte zunächst nach einer Antwort. Bis Guinan, die auf der Enterprise eine Bar führte, ihn auf etwas brachte: Was wäre mit Tausenden Datas, die gefährliche Arbeiten verrichten müssten, ohne selbst Rechte zu haben?"
+
+"Eine preiswerte Belegschaft."
+
+"Picard begriff, dass er gerade über eine neue Form der Sklaverei nachdachte."
+
+"Und damit war die Frage beantwortet?"
+
+"Nein. Er konnte nicht beweisen, dass Data eine Seele hatte. Aber er konnte fragen, was es für eine Gesellschaft bedeutet, einem möglicherweise bewussten Wesen die Freiheit zu verweigern."
 
 "Das ist keine besonders bequeme Frage."
 
@@ -131,7 +153,7 @@ Dachsbert folgte der ausgestreckten Tatze.
 
 "Ich wollte nur sicher sein."
 
-"Die Sternenflotte reist bis an den Rand des bekannten Universums, um neues Leben zu finden. Und dann sitzt eines davon mitten unter ihr, in Uniform, und sie erkennt es nicht. Weil sie es selbst gebaut hat."
+"Sie suchen neues Leben am Rand des Universums. Und eines sitzt längst unter ihnen, in Uniform. Nur dass sie es selbst gebaut haben."
 
 "Vielleicht sieht das Neue eben nicht so aus, wie man es erwartet."
 
@@ -225,7 +247,7 @@ Faulmann blickte zwischen den Bäumen hindurch.
 
 "Nein. Aber vielleicht das gleiche Verlangen nach Kontrolle."
 
-Faulmann erinnerte sich an eine weitere Folge. Auf der Enterprise sollte eine Sabotage untersucht werden. Eine angesehene Admiralitätsperson namens Norah Satie übernahm die Ermittlungen. Was als vernünftige Suche nach Verantwortlichen begann, wurde zur Jagd auf Verdächtige. Herkunft, Kontakte und Zweifel an den Ermittlungen reichten plötzlich aus.
+Auf der Enterprise untersuchte Admiral Norah Satie einen Sabotageverdacht. Aus der Suche nach Verantwortlichen wurde eine Jagd auf Verdächtige. Plötzlich genügten Herkunft, Kontakte, selbst Zweifel an den Ermittlungen.
 
 "Und Satie war überzeugt, dass sie die Föderation schützte", sagte Faulmann.
 
@@ -263,7 +285,11 @@ Dachsbert dachte nach.
 
 Faulmann musste kurz lächeln.
 
-"Später spricht Picard mit Worf, der die Ermittlungen anfangs unterstützt hatte. Er erklärt ihm, dass die offenkundig Bösen leicht zu erkennen sind. Die gefährlicheren verstecken sich hinter dem Anschein guter Taten. Und dass eine freie Gesellschaft deshalb wachsam bleiben muss."
+"Später nimmt Picard Worf zur Seite. Er war für ihn einmal vor den Hohen Rat der Klingonen getreten, als Sekundant in einem Streit um die Ehre seiner Familie."
+
+"Also hielt er zu ihm?"
+
+"Gerade deshalb widersprach er ihm. Worf hatte Saties Ermittlungen zunächst unterstützt. Picard erinnerte ihn daran, dass die offenkundig Bösen leicht zu erkennen seien. Die gefährlicheren versteckten sich hinter dem Anschein guter Taten. Und eine freie Gesellschaft müsse wachsam bleiben."
 
 "Dein Captain hatte offenbar ein ziemlich pessimistisches Menschenbild."
 
@@ -307,6 +333,12 @@ Faulmann zögerte.
 
 "Die Borg", sagte Faulmann. "Sie raubten ihren Opfern die Individualität. Picard wurde selbst assimiliert. Sein Körper, sein Wissen, seine Stimme wurden gegen Menschen eingesetzt, die er beschützen wollte."
 
+"Später hätte er einen Borg namens Hugh als Waffe gegen das ganze Kollektiv einsetzen können. Aber er erkannte in ihm ein Individuum und verzichtete darauf."
+
+"Also hatte er seinen Hass überwunden?"
+
+"Das hätte man meinen können."
+
 "Und später begegnete er ihnen wieder?"
 
 "Ja. Im Film *First Contact*. Die Borg übernehmen Teile der Enterprise. Seine Leute wollen das Schiff verlassen, ehe alle assimiliert werden. Picard weigert sich."
@@ -337,7 +369,7 @@ Faulmann sah es.
 
 "Ich wollte nur die Kastanie in Sicherheit bringen."
 
-"Picard sieht schließlich ein, dass sie recht hat. Er ändert seine Entscheidung. Und später entschuldigt er sich auch bei Worf."
+"Picard sieht schließlich ein, dass sie recht hat. Er ändert seine Entscheidung. Und später entschuldigt er sich bei Worf, dessen Mut er zuvor angezweifelt hatte."
 
 "Also brauchte selbst dieser Captain jemanden, der ihm widersprach."
 
