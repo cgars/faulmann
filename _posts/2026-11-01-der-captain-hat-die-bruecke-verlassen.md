@@ -45,7 +45,7 @@ Faulmann sah ihn an.
 
 Faulmann setzte sich aufrechter hin.
 
-"Also nochmal. Als ich jung war, gab es da dieses Raumschiff. Die Enterprise. NCC-1701-D. Schneller als das Licht, gut bewaffnet: Phaser, Torpedos, Schutzschilde." (wir dürfen nihct so sehr uf die Waffen eingehen. am besten erwähnen das es auch labore, sensoren, schuttle hangars, gärten, quartiere für etwa 1000 leiute etc gibt)
+"Also noch einmal. Als ich jung war, gab es da dieses Raumschiff. Die Enterprise. NCC-1701-D. Schneller als das Licht. An Bord lebten rund tausend Menschen und andere Wesen, manche mit ihren Familien. Es gab Labore, Sensoren, Shuttlehangars, sogar Gärten. Und ja, auch Schutzschilde und Photonentorpedos."
 
 "Ein Kriegsschiff also."
 
@@ -59,20 +59,7 @@ Dachsbert nahm das ohne Kommentar zur Kenntnis.
 
 "Aber das Entscheidende war sein Auftrag: 'To boldly go where no one has gone before.' Neues Leben zu suchen, andere Zivilisationen kennenzulernen, die eigenen Grenzen zu überwinden. Nicht, um sie zu beherrschen. Um sie zu verstehen."
 
-"Man hätte also auch einfach zu Hause bleiben und Bücher lesen können."
-
-"Picard hat sehr viele Bücher gelesen!"
-
-"Ein vernünftiger Mann."
-
-"Geschichte, Archäologie, Shakespeare. Auf dem Holodeck konnte er sogar in eine Kriminalgeschichten hineinspazieren."
-(müssen wir erklären was ein Holodeck ist und warum es das gibt?)
-"Ein ungewöhnlich aufwendiger Lesezirkel."
-
-"In einem dieser Holodeck Programme verlangte eine erfundene Figur sogar ein eigenes Leben. Picard nahm das ernst. Ihn interessierte, wie andere Wesen denken und leben, selbst wenn man sie programmiert hatte."
-
 "Und falls diese Wesen nicht besonders friedlich waren, hatte man die Photonentorpedos."
-(das liest sich als wäre die torpedos für das holodeck gedacht...)
 
 "Ja. Aber die Waffen waren nicht der Grund für die Reise."
 
@@ -80,26 +67,27 @@ Dachsbert schob die Kastanie zur Seite.
 
 "Das ist ein Unterschied, den man heute vermutlich häufiger erklären müsste."
 
-"Allerdings."
+"Allerdings. Es gab sogar die Oberste Direktive. Sie verbot der Sternenflotte, sich in die Entwicklung anderer Völker einzumischen, nur weil sie es konnte."
 
-(vielliehct eher sowas wie ein anderes wiederkehrendes motiv ...)
-"Die Oberste Direktive verbot ihnen sogar, sich in die Entwicklung anderer Völker einzumischen."
+"Eine Vorschrift zur Selbstbeschränkung?"
 
-"Auch wenn jemand Hilfe brauchte?"
+"Genau."
 
-"Ein Mädchen rief Data (klurz erklären wer data ist das pasiert erst unten. vielleicht müssen wir die Reihenfolge ändern und die oberste direktive später einfügen)  um Hilfe. Ihr Planet drohte zu zerbrechen."
+"Man hätte also auch einfach zu Hause bleiben und Bücher lesen können."
 
-"Und Picard?"
+"Picard hat sehr viele Bücher gelesen!"
 
-"Er wollte sich zunächst an die Vorschrift halten. Dann hörte er ihre Stimme und ließ helfen."
+"Ein vernünftiger Mann."
 
-"Eine ziemlich unbequeme Vorschrift."
+"Geschichte, Archäologie, Shakespeare. Auf dem Holodeck konnte er sogar in seine Kriminalgeschichten hineinspazieren. Ein Raum, in dem Projektionen und Kraftfelder ganze Welten entstehen ließen."
 
-"Manchmal war sie das."
+"Ein ungewöhnlich aufwendiger Lesezirkel."
+
+"Und in einem dieser Programme verlangte eine erfundene Figur plötzlich ein eigenes Leben. Picard nahm das ernst. Er wollte verstehen, wie andere Wesen denken und leben - selbst wenn sie programmiert waren."
 
 Faulmann betrachtete die dunkler werdenden Bäume.
 
-"Stell dir vor: eine Zukunft, in der die Menschheit über heute beinahe unvorstellbare Macht verfügt. Und ihr größtes Abenteuer besteht trotzdem darin, etwas zu lernen."
+"Stell dir vor: eine Zukunft, in der die Menschheit über aus heutiger Sicht beinahe unvorstellbare Macht verfügt. Und ihr größtes Abenteuer besteht trotzdem darin, etwas zu lernen."
 
 "Eine hübsche Vorstellung."
 
@@ -125,7 +113,23 @@ Faulmann verzog das Gesicht.
 
 "Eine Frage, mit der die Menschen selbst schon ausreichend beschäftigt sind."
 
-"Eben. Und dann will ihn ein Wissenschaftler auseinandernehmen, um herauszufinden, wie er funktioniert. Data sagt Nein. Plötzlich steht vor Gericht die Frage, ob er das überhaupt darf."
+"Eben. Und Data brachte Picard einmal dazu, seine eigenen Regeln infrage zu stellen."
+
+"Wie das?"
+
+"Er hatte den Hilferuf eines Mädchens namens Sarjenka beantwortet. Ihr Planet drohte auseinanderzubrechen. Picard verbot ihm zunächst, den Kontakt fortzusetzen."
+
+"Und dann?"
+
+"Dann hörte Picard selbst die Stimme des Mädchens. Und ließ helfen."
+
+"Die Oberste Direktive galt plötzlich nicht mehr?"
+
+"Sie galt noch. Aber Picard begriff, dass man sich hinter ihr nicht einfach verstecken konnte."
+
+Faulmann sah auf die Kastanie.
+
+"Später wollte ein Wissenschaftler Data auseinandernehmen, um herauszufinden, wie er funktioniert. Data sagte Nein. Plötzlich stand vor Gericht die Frage, ob er das überhaupt durfte."
 
 "Er wurde doch gebaut", sagte Dachsbert.
 
@@ -177,8 +181,7 @@ Dachsbert nickte.
 
 ## Die erste Pflicht
 
-"Und wer sagt dir, dass dein Captain damit recht hatte?", fragte Dachsbert.
-(unklarer bezug)
+"Und wer sagt dir, dass Picard bei solchen Entscheidungen immer recht hatte?", fragte Dachsbert.
 
 "Niemand. Er konnte irren. Das ist doch entscheidend."
 
@@ -511,9 +514,8 @@ Faulmann atmete aus.
 "Dort sind nur wenige Minuten vergangen."
 
 "Ein ganzes Leben, in ein paar Minuten?"
-(es muss klarer sein das er das ganze leben lebt und dann doch quasi erwacht)
 
-"Ja. Als Picard zurückkehrt, findet man in der Sonde seine Flöte. Er nimmt sie mit in sein Quartier. Und dann spielt er allein das Stück, das er in diesem anderen Leben gelernt hat."
+"Für Picard waren es Jahrzehnte. Er hatte dieses Leben nicht bloß gesehen, sondern gelebt. Erst als er als Kamin alt geworden war, erwachte er wieder auf der Enterprise. In der Sonde fand man seine Flöte. Er nahm sie mit in sein Quartier und spielte allein das Stück, das er in diesem anderen Leben gelernt hatte."
 
 Dachsbert schaute auf seine Pfoten.
 
@@ -557,7 +559,7 @@ Dann auf Dachsbert.
 
 Dachsbert trank einen Schluck.
 
-"Man sollte in schwierigen Zeiten nicht auch noch mit minderwertigem Tee experimentieren. Und dein Captain mochte Tee hab ich gelesen"
+"Man sollte in schwierigen Zeiten nicht auch noch mit minderwertigem Tee experimentieren. Und dein Captain soll Earl Grey gemocht haben. Habe ich gelesen."
 
 Faulmann musste lächeln.
 
