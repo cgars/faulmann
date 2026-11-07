@@ -45,7 +45,7 @@ Faulmann sah ihn an.
 
 Faulmann setzte sich aufrechter hin.
 
-"Als ich jung war, gab es da dieses Raumschiff. Die Enterprise. Schneller als das Licht, gut bewaffnet: Phaser, Torpedos, Schutzschilde."
+"Also nochmal. Als ich jung war, gab es da dieses Raumschiff. Die Enterprise. NCC-1701-D. Schneller als das Licht, gut bewaffnet: Phaser, Torpedos, Schutzschilde." (wir dürfen nihct so sehr uf die Waffen eingehen. am besten erwähnen das es auch labore, sensoren, schuttle hangars, gärten, quartiere für etwa 1000 leiute etc gibt)
 
 "Ein Kriegsschiff also."
 
@@ -65,13 +65,14 @@ Dachsbert nahm das ohne Kommentar zur Kenntnis.
 
 "Ein vernünftiger Mann."
 
-"Geschichte, Archäologie, Shakespeare. Auf dem Holodeck konnte er sogar in seine Kriminalgeschichten hineinspazieren."
-
+"Geschichte, Archäologie, Shakespeare. Auf dem Holodeck konnte er sogar in eine Kriminalgeschichten hineinspazieren."
+(müssen wir erklären was ein Holodeck ist und warum es das gibt?)
 "Ein ungewöhnlich aufwendiger Lesezirkel."
 
-"In einem anderen Programm verlangte eine erfundene Figur sogar ein eigenes Leben. Picard nahm das ernst. Ihn interessierte, wie andere Wesen denken und leben, selbst wenn man sie programmiert hatte."
+"In einem dieser Holodeck Programme verlangte eine erfundene Figur sogar ein eigenes Leben. Picard nahm das ernst. Ihn interessierte, wie andere Wesen denken und leben, selbst wenn man sie programmiert hatte."
 
 "Und falls diese Wesen nicht besonders friedlich waren, hatte man die Photonentorpedos."
+(das liest sich als wäre die torpedos für das holodeck gedacht...)
 
 "Ja. Aber die Waffen waren nicht der Grund für die Reise."
 
@@ -81,11 +82,12 @@ Dachsbert schob die Kastanie zur Seite.
 
 "Allerdings."
 
+(vielliehct eher sowas wie ein anderes wiederkehrendes motiv ...)
 "Die Oberste Direktive verbot ihnen sogar, sich in die Entwicklung anderer Völker einzumischen."
 
 "Auch wenn jemand Hilfe brauchte?"
 
-"Ein Mädchen rief Data um Hilfe. Ihr Planet drohte zu zerbrechen."
+"Ein Mädchen rief Data (klurz erklären wer data ist das pasiert erst unten. vielleicht müssen wir die Reihenfolge ändern und die oberste direktive später einfügen)  um Hilfe. Ihr Planet drohte zu zerbrechen."
 
 "Und Picard?"
 
@@ -97,7 +99,7 @@ Dachsbert schob die Kastanie zur Seite.
 
 Faulmann betrachtete die dunkler werdenden Bäume.
 
-"Stell dir vor: eine Zukunft, in der die Menschheit über beinahe unvorstellbare Macht verfügt. Und ihr größtes Abenteuer besteht trotzdem darin, etwas zu lernen."
+"Stell dir vor: eine Zukunft, in der die Menschheit über heute beinahe unvorstellbare Macht verfügt. Und ihr größtes Abenteuer besteht trotzdem darin, etwas zu lernen."
 
 "Eine hübsche Vorstellung."
 
@@ -165,7 +167,7 @@ Dachsbert folgte der ausgestreckten Tatze.
 
 "Das könnte kompliziert werden."
 
-"Natürlich. Freiheit ist keine Verwaltungsvereinfachung."
+> "Natürlich. Freiheit ist keine Verwaltungsvereinfachung."
 
 Dachsbert nickte.
 
@@ -176,6 +178,7 @@ Dachsbert nickte.
 ## Die erste Pflicht
 
 "Und wer sagt dir, dass dein Captain damit recht hatte?", fragte Dachsbert.
+(unklarer bezug)
 
 "Niemand. Er konnte irren. Das ist doch entscheidend."
 
@@ -211,7 +214,7 @@ Faulmann sah auf.
 
 "Warum?"
 
-"Nicht, weil es ihm um Beleuchtung geht. Er will, dass Picard seiner eigenen Wahrnehmung nicht mehr traut. Er will nicht bloß eine Lüge hören. Er will die Macht haben, Wirklichkeit festzulegen."
+"Nicht, weil es ihm um Beleuchtung geht. Er will, dass Picard seiner eigenen Wahrnehmung nicht mehr folgt. Er will nicht bloß eine Lüge hören. Er will die Macht haben, Wirklichkeit festzulegen."
 
 "Und Picard?"
 
@@ -305,7 +308,7 @@ Faulmann musste kurz lächeln.
 
 Faulmann wurde lauter.
 
-"Wenn Angst zur Begründung für alles wird, wenn man Menschen nach ihrer Herkunft beurteilt, wenn Zweifel als Verrat gelten und die Wirklichkeit nur noch dann zählt, wenn sie ins eigene Weltbild passt, dann brauchen wir nicht weniger von diesen Grundsätzen, sondern mehr!"
+> "Wenn Angst zur Begründung für alles wird, wenn man Menschen nach ihrer Herkunft beurteilt, wenn Zweifel als Verrat gelten und die Wirklichkeit nur noch dann zählt, wenn sie ins eigene Weltbild passt, dann brauchen wir nicht weniger von diesen Grundsätzen, sondern mehr!"
 
 "Du wiederholst dich."
 
@@ -455,7 +458,7 @@ Dachsbert sah ihn ruhig an.
 
 "Und trotzdem?"
 
-"Ja, verdammt, trotzdem! Was wäre denn die Alternative? Dass wir die Grausamkeit bewundern, weil sie erfolgreich ist? Dass wir uns selbst verleugnen, sobald jemand Stärkeres vor uns steht?"
+> "Ja, verdammt, trotzdem! Was wäre denn die Alternative? Dass wir die Grausamkeit bewundern, weil sie erfolgreich ist? Dass wir uns selbst verleugnen, sobald jemand Stärkeres vor uns steht?"
 
 Er hatte beide Tatzen auf den Waldtisch gelegt.
 
@@ -465,7 +468,7 @@ Dachsbert blickte nicht weg.
 
 "Und was hilft einem das, wenn man verloren hat?"
 
-Faulmann antwortete nicht sofort.
+Faulmann antwortete nicht. Nicht sofort.
 
 "Es erspart einem nicht den Verlust", sagte er schließlich. "Aber vielleicht erspart es einem, auch noch das aufzugeben, woran man glaubt."
 
@@ -508,6 +511,7 @@ Faulmann atmete aus.
 "Dort sind nur wenige Minuten vergangen."
 
 "Ein ganzes Leben, in ein paar Minuten?"
+(es muss klarer sein das er das ganze leben lebt und dann doch quasi erwacht)
 
 "Ja. Als Picard zurückkehrt, findet man in der Sonde seine Flöte. Er nimmt sie mit in sein Quartier. Und dann spielt er allein das Stück, das er in diesem anderen Leben gelernt hat."
 
@@ -553,7 +557,7 @@ Dann auf Dachsbert.
 
 Dachsbert trank einen Schluck.
 
-"Man sollte in schwierigen Zeiten nicht auch noch mit minderwertigem Tee experimentieren."
+"Man sollte in schwierigen Zeiten nicht auch noch mit minderwertigem Tee experimentieren. Und dein Captain mochte Tee hab ich gelesen"
 
 Faulmann musste lächeln.
 
@@ -643,7 +647,7 @@ Sie tranken.
 
 Dachsbert nahm noch einen Schluck Tee.
 
-"Picard und Dathon auf El-Adrel", sagte er.
+"Zurück zu Picard und Dathon auf El-Adrel", sagte er.
 
 Faulmann lächelte.
 
@@ -657,7 +661,7 @@ Faulmann lächelte.
 
 Liora schenkte nach. Dachsbert schob die Kanne zu Faulmann hinüber.
 
-"Und ich nehme an, du kennst auch die Sache mit Sir Patrick und Sir Ian und dem angeblichen Welpen?"
+"Und ich nehme an, du kennst auch die Sache mit Sir Patrick und Sir Ian und dem angeblichen Welpen?" frage Faulmann
 
 "Judi Dench", sagte Dachsbert. "Als sie einen ganzen Haushalt erfand."
 
