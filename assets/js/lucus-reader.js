@@ -16,6 +16,7 @@
   const desktop = window.matchMedia("(min-width: 900px)");
   const reduceMotion = window.matchMedia("(prefers-reduced-motion: reduce)");
   const originalBlocks = Array.from(source.children);
+  const shortFormat = root.hasAttribute("data-lucus-short");
   // Only one copy of a fragment ID may exist in the active document.
   // Original IDs belong to the source in continuous/mobile mode, to the
   // rendered spread in paginated mode.
@@ -37,14 +38,14 @@
     source.hidden = false;
     restoreSourceAnchors();
     // On wide screens this remains available even when reading continuously.
-    controls.hidden = !desktop.matches || originalBlocks.length < 2;
+    controls.hidden = shortFormat || !desktop.matches || originalBlocks.length < 2;
     pagination.hidden = true;
     pages = [];
   }
 
   function build() {
     clearPages();
-    if (!desktop.matches || continuous.checked || originalBlocks.length < 2) return;
+    if (shortFormat || !desktop.matches || continuous.checked || originalBlocks.length < 2) return;
     // Keep pages within a reasonable reading height while honoring browser zoom.
     const target = Math.max(460, Math.min(790, Math.round(window.innerHeight * 0.72)));
     const measure = document.createElement("div");
