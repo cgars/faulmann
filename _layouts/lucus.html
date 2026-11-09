@@ -1,7 +1,7 @@
 ---
 layout: base
 ---
-<article class="lucus" lang="de">
+<article class="lucus{% if page.format == 'short' %} lucus--short{% endif %}" lang="de">
   {% include lucus-masthead.html issue=page.issue date=page.date volume=page.volume %}
   <div class="lucus__columns">
     <div class="lucus__main">
@@ -17,7 +17,7 @@ layout: base
         {% if page.hero_caption %}<figcaption>{{ page.hero_caption | escape }}</figcaption>{% endif %}
       </figure>
       {% endif %}
-      <div class="lucus__reader" data-lucus-reader>
+      <div class="lucus__reader" data-lucus-reader{% if page.format == 'short' %} data-lucus-short{% endif %}>
         <div class="lucus__body lucus__source" data-lucus-source>{{ content }}</div>
         <div class="lucus__pages" data-lucus-pages hidden></div>
         <div class="lucus__reading-controls" data-lucus-controls hidden>
