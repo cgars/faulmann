@@ -9,6 +9,12 @@ issue: 2
 volume: "I. Jahrgang"
 rubric: "Randnotiz"
 author: "Vesper"
+format: short
+notices:
+  - title: "Zur Rechnung"
+    text: "Die geplanten 1,5 Millionen Euro Einsparung stehen im Raum. Eine vollständige Berechnung der Folgekosten lag laut Bericht bislang nicht vor."
+  - title: "Vom Viadukt"
+    text: "Vesper beobachtet die menschlichen Angelegenheiten meist aus dem alten Viadukt. Gelegentlich fallen ihr dabei auch Haushaltszahlen auf."
 ---
 
 Die Kölner Kulturpolitik hat gelegentlich einen gewissen Unterhaltungswert.
