@@ -77,17 +77,19 @@ Dachsbert schob die Kastanie zur Seite.
 
 "Geschichte, Archäologie, Shakespeare. Und die Krimis um Dixon Hill. Auf dem Holodeck konnte er sogar selbst den Detektiv spielen. Der Computer baute ihm ein ganzes San Francisco aus den vierziger Jahren. Picard konnte durch die Straßen gehen und die Leute befragen."
 
-"Ein ungewöhnlich aufwendiger Lesezirkel."
+"Ein ungewöhnlich aufwendiger Lesezirkel. Aber wenn Picard die Bücher schon kannte, wusste er doch, wer der Mörder war?"
 
-"Data mochte Sherlock Holmes. Er spielte ihn auf dem Holodeck, und Geordi war sein Watson. Die Fälle kannte Data allerdings schon alle. Also bat Geordi den Computer um einen Gegner, der es mit Data aufnehmen konnte. So entstand ein Moriarty, der irgendwann begriff, dass er in einer Geschichte steckte. Und der von Picard verlangte, ihn aus dem Holodeck hinauszulassen."
+"Genau das war Datas Problem, als er Sherlock Holmes spielte. Geordi war sein Watson. Kaum waren sie im Raum, wusste Data schon, aus welchem Buch der Fall stammte. Also bat Geordi den Computer um einen Gegner, der es mit Data aufnehmen konnte. So entstand ein Moriarty, der irgendwann begriff, dass er in einer Geschichte steckte. Und der von Picard verlangte, ihn aus dem Holodeck hinauszulassen."
 
 "Und Picard hat ihn einfach gehen lassen?"
 
-"Das ging nicht. Aber allein, dass Picard mit ihm darüber sprach! Für Moriarty war das ja kein Spiel."
+"Das ging nicht. Aber Picard hörte ihm zu. Für Moriarty war das ja kein Spiel."
+
+"Ein Programm behauptet, es sei jemand, und plötzlich muss man entscheiden, ob man ihm glaubt." Dachsbert rückte seine Brille zurecht. "Ziemlich aktuelles Problem eigentlich."
 
 Faulmann betrachtete die dunkler werdenden Bäume.
 
-"Stell dir vor: eine Zukunft, in der die Menschheit über aus heutiger Sicht beinahe unvorstellbare Macht verfügt. Und ihr größtes Abenteuer besteht trotzdem darin, etwas zu lernen."
+"Ja", sagte er. "Und solche Fragen haben sie damals in einer Geschichte über Sherlock Holmes gestellt. Das mochte ich an der Enterprise. Ihr größtes Abenteuer bestand darin, etwas zu lernen."
 
 "Eine hübsche Vorstellung."
 
