@@ -626,7 +626,7 @@ Faulmann starrte ihn an.
 
 "Ein wenig!"
 
-"Danke, Dachsbert."
+"Danke, Dachsbert. Das hat wirklich geholfen."
 
 "Gern geschehen."
 
@@ -636,7 +636,7 @@ Dachsbert sah sie über den Rand seiner Brille hinweg an.
 
 Faulmann begann zu lachen.
 
-Er betrachtete die beiden anderen, dann hob er seine Tasse.
+Faulmann sah die beiden an und hob seine Tasse.
 
 "Auf Captain Jean-Luc Picard."
 
