@@ -39,7 +39,7 @@ Faulmann sah ihn an.
 
 "Ich erwähne es nur, weil du seit einer Stunde von einem Captain sprichst."
 
-"Und ich seit einer Stunde versuche, dir zu erklären, weshalb."
+"Und ich versuche seit einer Stunde, dir zu erklären, weshalb."
 
 "Bislang mit mäßigem Erfolg."
 
@@ -67,11 +67,7 @@ Dachsbert schob die Kastanie zur Seite.
 
 "Das ist ein Unterschied, den man heute vermutlich häufiger erklären müsste."
 
-"Allerdings. Es gab sogar die Oberste Direktive. Sie verbot der Sternenflotte, sich in die Entwicklung anderer Völker einzumischen, nur weil sie es konnte."
-
-"Eine Vorschrift zur Selbstbeschränkung?"
-
-"Genau."
+"Allerdings. Am liebsten hätte Picard erst einmal herausgefunden, mit wem er es zu tun hatte."
 
 "Man hätte also auch einfach zu Hause bleiben und Bücher lesen können."
 
@@ -79,11 +75,15 @@ Dachsbert schob die Kastanie zur Seite.
 
 "Ein vernünftiger Mann."
 
-"Geschichte, Archäologie, Shakespeare. Auf dem Holodeck konnte er sogar in seine Kriminalgeschichten hineinspazieren. Ein Raum, in dem Projektionen und Kraftfelder ganze Welten entstehen ließen."
+"Geschichte, Archäologie, Shakespeare. Und die Krimis um Dixon Hill. Auf dem Holodeck konnte er sogar selbst den Detektiv spielen. Der Computer baute ihm ein ganzes San Francisco aus den vierziger Jahren. Picard konnte durch die Straßen gehen und die Leute befragen."
 
 "Ein ungewöhnlich aufwendiger Lesezirkel."
 
-"Und in einem dieser Programme verlangte eine erfundene Figur plötzlich ein eigenes Leben. Picard nahm das ernst. Er wollte verstehen, wie andere Wesen denken und leben - selbst wenn sie programmiert waren."
+"Data mochte Sherlock Holmes. Er spielte ihn auf dem Holodeck, und Geordi war sein Watson. Die Fälle kannte Data allerdings schon alle. Also bat Geordi den Computer um einen Gegner, der es mit Data aufnehmen konnte. So entstand ein Moriarty, der irgendwann begriff, dass er in einer Geschichte steckte. Und der von Picard verlangte, ihn aus dem Holodeck hinauszulassen."
+
+"Und Picard hat ihn einfach gehen lassen?"
+
+"Das ging nicht. Aber allein, dass Picard mit ihm darüber sprach! Für Moriarty war das ja kein Spiel."
 
 Faulmann betrachtete die dunkler werdenden Bäume.
 
@@ -105,7 +105,7 @@ Faulmann verzog das Gesicht.
 
 ## Neues Leben
 
-"Da war zum Beispiel Data", fuhr Faulmann fort. "Ein Android. Offizier der Sternenflotte. Neugierig, loyal und ziemlich bemüht, die Menschen zu verstehen."
+"Es gab so schöne Momente zwischen Picard und Data", fuhr Faulmann fort. "Data war ein Androide. Offizier der Sternenflotte. Neugierig, loyal und ziemlich bemüht, die Menschen zu verstehen."
 
 "Warum?"
 
@@ -113,7 +113,7 @@ Faulmann verzog das Gesicht.
 
 "Eine Frage, mit der die Menschen selbst schon ausreichend beschäftigt sind."
 
-"Eben. Und Data brachte Picard einmal dazu, seine eigenen Regeln infrage zu stellen."
+"Eben. Und manchmal brachte er Picard dazu, über seine eigenen Regeln nachzudenken. Einmal ging es um die Oberste Direktive. Sie sollte verhindern, dass sich die Sternenflotte in die Entwicklung anderer Völker einmischt."
 
 "Wie das?"
 
@@ -129,7 +129,7 @@ Faulmann verzog das Gesicht.
 
 Faulmann sah auf die Kastanie.
 
-"Später wollte ein Wissenschaftler Data auseinandernehmen, um herauszufinden, wie er funktioniert. Data sagte Nein. Plötzlich stand vor Gericht die Frage, ob er das überhaupt durfte."
+"Später wollte ein Wissenschaftler Data auseinandernehmen, um herauszufinden, wie er funktioniert. Data sagte Nein. Plötzlich stand vor Gericht die Frage, ob der Wissenschaftler ihn gegen seinen Willen auseinandernehmen dürfe."
 
 "Er wurde doch gebaut", sagte Dachsbert.
 
@@ -139,7 +139,7 @@ Faulmann sah auf die Kastanie.
 
 "Vielleicht! Auch Picard war sich nicht sicher. Dann fragte Guinan, die auf der Enterprise eine Bar führte, was aus Tausenden Datas würde, die ohne Rechte für andere arbeiten müssten."
 
-"Eine preiswerte Belegschaft."
+"Eine preiswerte Belegschaft, würde ein CEO vermutlich sagen."
 
 "Picard fiel ein altes Wort dafür ein: Sklaverei."
 
