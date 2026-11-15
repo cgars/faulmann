@@ -15,7 +15,7 @@ Der Regen hatte am Nachmittag aufgehört. Auf dem Waldtisch lagen einige nasse B
 
 Dachsbert betrachtete das Telefon.
 
-"Du hast die Nachricht jetzt oft genug gelesen", sagte er zu Faulmann gewannt.
+"Du hast die Nachricht jetzt oft genug gelesen", sagte er, Faulmann zugewandt.
 
 "Das ändert nichts daran, dass sie falsch sein sollte."
 
@@ -61,13 +61,13 @@ Dachsbert nahm das ohne Kommentar zur Kenntnis.
 
 "Und falls diese Wesen nicht besonders friedlich waren, hatte man die Photonentorpedos."
 
-"Ja. Aber die Waffeneinsatz war nicht der Grund für die Reise."
+"Ja. Aber der Waffeneinsatz war nicht der Grund für die Reise."
 
 Dachsbert schob die Kastanie zur Seite.
 
 "Das ist ein Unterschied, den man heute vermutlich häufiger erklären müsste."
 
-"Allerdings. Am liebsten hat Picard herausgefunden, mit wem er es zu tun hatte. Noch fremde Kulturen offen willkommen gehbeissen und ihre gebräuche zu verstehen versucht "
+"Allerdings. Picard wollte herausfinden, mit wem er es zu tun hatte. Er begegnete fremden Kulturen offen und versuchte, ihre Gebräuche zu verstehen."
 
 "Stell dir vor: eine Zukunft, in der die Menschheit über aus heutiger Sicht beinahe unvorstellbare Macht verfügt. Und ihr größtes Abenteuer besteht trotzdem darin, etwas zu lernen."
 
@@ -87,27 +87,27 @@ Faulmann verzog das Gesicht.
 
 ## Neues Leben
 
-"Man hätte aber auch einfach zu Hause bleiben können und warten bis intresierte Zivilisationen zu Besuch kommen und in der wartezeit zum Bespiel über schon bekannte Kulturen Bücher lesen können."
+"Man hätte aber auch einfach zu Hause bleiben und warten können, bis interessierte Zivilisationen zu Besuch kommen. In der Zwischenzeit hätte man Bücher über die schon bekannten Kulturen lesen können."
 
 "Picard hat sehr viele Bücher gelesen!"
 
 "Ein vernünftiger Mann."
 
-"Geschichte, Archäologie, Shakespeare (füge bitte einen klingonischen und vulkanischen Dichter hier ein) . Und natürlich die Krimis um Dixon Hill. Auf dem Holodeck konnte er sogar selbst den Detektiv spielen. Der Computer baute ihm ein ganzes San Francisco aus den vierziger Jahren. Eine Welet aus Licht Kraftfeldern und Energie. Picard konnte durch die Straßen gehen und die Leute befragen wie in einer art sehr glaubwürdigem Mittelaltermart."
+"Geschichte, Archäologie, Shakespeare. Und es gab ja auch klingonische Dichtung und vulkanische Philosophie zu entdecken. Und natürlich die Krimis um Dixon Hill. Auf dem Holodeck konnte er sogar selbst den Detektiv spielen. Der Computer baute ihm ein ganzes San Francisco aus den vierziger Jahren. Eine Welt aus Licht und Kraftfeldern. Picard konnte durch die Straßen gehen und die Leute befragen. Wie auf einem sehr überzeugenden Mittelaltermarkt, nur eben im San Francisco der vierziger Jahre."
 
-"Ein ungewöhnlich aufwendiger Lesezirkel. Aber gut irgend einen Voreteil muss es ja haben ein Captain zu sein"
+"Ein ungewöhnlich aufwendiger Lesezirkel. Aber gut, irgendeinen Vorteil muss es ja haben, ein Captain zu sein."
 
 Faulmann betrachtete die dunkler werdenden Bäume.
 
-"Das war kein vorrecht der Capitaisn, Dachsbert. Jeder konnte das Holodeck besuchen"
+"Das war kein Vorrecht der Captains, Dachsbert. Jeder an Bord konnte das Holodeck nutzen."
 
-"Data zum beispiel. Der zweite Offizier der Enterprise. Manchmal Steuermann, manchmal operativer Leiter und ein Androide. Neugierig, loyal und ziemlich bemüht, die Menschen zu verstehen."
+"Data zum Beispiel. Ein Androide, der auf der Enterprise als Zweiter Offizier diente und den Einsatzbetrieb koordinierte. Neugierig, loyal und ziemlich bemüht, die Menschen zu verstehen."
 
 "Der hatte auch so einen aufwendigen Lesezirkel?"
 
-"Ja. Data spielte gerne  Sherlock Holmes auf dem Holodeck. Sein Freund Geordi La Forge, der Chefingenieur der Enterprise, war sein Watson."
+"Ja. Data spielte gerne Sherlock Holmes auf dem Holodeck. Sein Freund Geordi La Forge, der Chefingenieur der Enterprise, war sein Watson."
 
-"Aber als quasi umher laufender computer kannte der die Bücher doch bestimmt und wusste, wer der Mörder war?"
+"Aber als umherlaufender Computer kannte der die Bücher doch bestimmt und wusste, wer der Mörder war?"
 
 "Eben. Kaum hatte der Fall angefangen, kannte Data schon die Lösung. Also bat Geordi den Computer um einen Gegner, der es mit Data aufnehmen konnte. So entstand ein Moriarty, der irgendwann begriff, dass er in einer Geschichte steckte. Und der von Picard verlangte, ihn aus dem Holodeck hinauszulassen."
 
@@ -117,7 +117,7 @@ Faulmann betrachtete die dunkler werdenden Bäume.
 
 "Ein Programm behauptet, es sei jemand, und plötzlich muss man entscheiden, ob man ihm glaubt." Dachsbert rückte seine Brille zurecht. "Ziemlich aktuelles Problem eigentlich."
 
-"Ja. Und besonders spannend denn gerade Data wollte seinerseits wissen, was Menschsein bedeutet."
+"Ja. Das Spannende war, dass gerade Data seinerseits wissen wollte, was Menschsein bedeutet."
 
 "Eine Frage, mit der die Menschen selbst schon ausreichend beschäftigt sind."
 
@@ -139,9 +139,9 @@ Faulmann sah auf die Kastanie.
 
 "Später wollte ein Wissenschaftler Data auseinandernehmen, um herauszufinden, wie er funktioniert. Data wollte das nicht und sagte Nein. Plötzlich stand vor Gericht die Frage, ob der Wissenschaftler ihn gegen seinen Willen auseinandernehmen dürfe."
 
-"Er war doch Androide hast Du gesagt, wurde gebaut", sagte Dachsbert.
+"Er war doch ein Androide, hast du gesagt. Er wurde gebaut", sagte Dachsbert.
 
-"Ja. Aber folgt daraus, dass er der Stwernenflotte gehört?"
+"Ja. Aber folgt daraus, dass er der Sternenflotte gehört?"
 
 "Als Androide ist er einfach eine Maschine."
 
@@ -237,7 +237,7 @@ Ein Eichelhäher hob über ihnen den Kopf.
 
 Faulmann schüttelte den Kopf.
 
-"Das ist das Erschütternde. Wieder auf der Enterprise gesteht er Deanna Troi einer Art Schiffstherapeutin, dass er beinahe alles gesagt hätte. Dass er bereit gewesen wäre, Madred zuzustimmen. Und dass er am Ende sogar selbst glaubte, fünf Lichter zu sehen."
+"Das ist das Erschütternde. Wieder auf der Enterprise gesteht er Deanna Troi, der psychologischen Beraterin an Bord, dass er beinahe alles gesagt hätte. Dass er bereit gewesen wäre, Madred zuzustimmen. Und dass er am Ende sogar selbst glaubte, fünf Lichter zu sehen."
 
 Dachsbert sagte lange nichts.
 
@@ -265,7 +265,7 @@ Faulmann blickte zwischen den Bäumen hindurch.
 
 "Nein. Aber vielleicht das gleiche Verlangen nach Kontrolle."
 
-Auf der Enterprise untersuchte Admiral Norah Satie in einer Folge einen Sabotageverdacht. Aus der Suche nach Verantwortlichen wurde eine Jagd auf Verdächtige. Plötzlich genügten Herkunft, Kontakte, selbst Zweifel an den Ermittlungen um verdächtig zu sein.
+Auf der Enterprise untersuchte Admiral Norah Satie in einer Folge einen Sabotageverdacht. Aus der Suche nach Verantwortlichen wurde eine Jagd auf Verdächtige. Plötzlich genügten Herkunft, Kontakte, selbst Zweifel an den Ermittlungen, um verdächtig zu sein.
 
 "Und Satie war überzeugt, dass sie die Föderation schützte", sagte Faulmann.
 
@@ -303,13 +303,11 @@ Dachsbert dachte nach.
 
 Faulmann musste kurz lächeln.
 
-"Später sprach Picard mit Worf, seinem klingonischen Sicherheitsoffizier. Für ihn war er einst als Sekundant vor den Hohen Rat getreten, im Streit um die Ehre seiner Familie."
+"Satie fand sogar bei Worf Unterstützung. Picards eigenem Sicherheitsoffizier. Für ihn war Picard einst vor den klingonischen Hohen Rat getreten, als es um die Ehre seiner Familie ging. Als sein Sekundant hatte er dabei auch sein eigenes Leben aufs Spiel gesetzt."
 
-"Also hielt er zu ihm?"
+"Und nun stand Worf auf der anderen Seite?"
 
-"Ja. Und gerade deshalb widersprach er ihm, als Worf Saties Ermittlungen unterstützte. Die offenkundig Bösen seien leicht zu erkennen, sagte Picard. Gefährlicher seien die, die sich hinter guten Taten versteckten."
-
-(das sollten wir anders bauen im sinne von in der folge wendeten sich sogar freunde gegen üpicard. worf zb sein eigener offizier für den er einst sogar den Anwalt gab und bereit war zu sterben)
+"Er glaubte zunächst, Satie schütze die Föderation. Picard musste ihm erklären, weshalb ihre Ermittlungen gefährlich wurden. Später sprach er noch einmal mit ihm darüber. Die offenkundig Bösen seien leicht zu erkennen. Gefährlicher seien die, die sich hinter guten Taten versteckten."
 
 "Dein Captain hatte offenbar ein ziemlich pessimistisches Menschenbild."
 
@@ -417,9 +415,9 @@ Faulmann schaute an sich herunter. Er war unbemerkt aufgestanden.
 
 "Indem du mich anschreist?"
 
-"ICH SCHREIE DICH NICHT AN!"
+"ICH SCHREIE DICH NICHT AN!", schrie Faulmann Dachsbert an.
 
-Schrieh FAulmann Dachsberft and. Liora wandte sich vom Waldtisch ab und ging zum Lehmofen.
+Liora wandte sich vom Waldtisch ab und ging zum Lehmofen.
 
 Es schien ihr ratsam, Wasser aufzusetzen.
 
@@ -539,7 +537,7 @@ Dachsbert schaute auf seine Pfoten.
 
 Der Wald war inzwischen still geworden. Über dem Williamshügel zeigte sich zwischen den Ästen ein schmaler Streifen Himmel.
 
-Seit einigen Monden  kannte Faulmann einige Arten von Stille besser, als ihm lieb war.
+Seit einigen Monden kannte Faulmann einige Arten von Stille besser, als ihm lieb war.
 
 "Vielleicht", sagte er, "ist das eine der schönsten Folgen. Es geht kaum um das Raumschiff. Sondern darum, dass ein Leben nicht bedeutungslos wird, weil es zu Ende geht. Und darum, was ein Mensch von einem anderen in sich trägt."
 
@@ -593,7 +591,7 @@ Faulmann drehte den Kopf.
 
 Dachsbert zuckte mit den Schultern.
 
-Faulmann schaute ihn an. Ihm war ein Licht aufgegangen
+Faulmann schaute ihn an. Ihm war ein Licht aufgegangen.
 
 "Du kennst dieses Interview?"
 
@@ -636,7 +634,7 @@ Faulmann starrte ihn an.
 
 "Ein wenig!"
 
-"Danke, Dachsbert. Das hat wirklich geholfen. Irgenwie habe ich das wohl gebraucht"
+"Danke, Dachsbert. Das hat wirklich geholfen. Irgendwie habe ich das wohl gebraucht."
 
 "Gern geschehen."
 
@@ -673,7 +671,7 @@ Faulmann lächelte.
 
 Liora schenkte nach. Dachsbert schob die Kanne zu Faulmann hinüber.
 
-"Und ich nehme an, du kennst auch die Sache mit Sir Patrick und Sir Ian und dem angeblichen Welpen?" frage Faulmann
+"Und ich nehme an, du kennst auch die Sache mit Sir Patrick und Sir Ian und dem angeblichen Welpen?", fragte Faulmann.
 
 "Judi Dench", sagte Dachsbert. "Als sie einen ganzen Haushalt erfand."
 
