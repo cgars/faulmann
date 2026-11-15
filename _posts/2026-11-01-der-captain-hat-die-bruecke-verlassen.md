@@ -421,7 +421,7 @@ Faulmann schaute an sich herunter. Er war unbemerkt aufgestanden.
 
 "Indem du mich anschreist?"
 
-"ICH SCHREIE DICH NICHT AN!", schrie Faulmann Dachsbert an.
+"ICH SCHREIE DICH NICHT AN!"
 
 Liora wandte sich wieder dem Lehmofen zu.
 
@@ -541,7 +541,7 @@ Dachsbert schaute auf seine Pfoten.
 
 Der Wald war inzwischen still geworden. Über dem Williamshügel zeigte sich zwischen den Ästen ein schmaler Streifen Himmel.
 
-Seit einigen Monden kannte Faulmann einige Arten von Stille besser, als ihm lieb war.
+Seit dem letzten Jahr kannte Faulmann einige Arten von Stille besser, als ihm lieb war.
 
 "Vielleicht", sagte er, "ist das eine der schönsten Folgen. Es geht kaum um das Raumschiff. Sondern darum, dass ein Leben nicht bedeutungslos wird, weil es zu Ende geht. Und darum, was ein Mensch von einem anderen in sich trägt."
 
@@ -632,7 +632,7 @@ Faulmann starrte ihn an.
 
 "Ich hatte den Eindruck, du möchtest von deinem Captain erzählen."
 
-"Danke, Dachsbert. Das hat wirklich geholfen. Irgendwie habe ich das wohl gebraucht."
+"Danke, Dachsbert."
 
 "Gern geschehen."
 
@@ -686,6 +686,10 @@ Es wurde dunkel über dem Williamshügel. Auf dem Waldtisch standen drei Tassen.
 "Zum Beispiel die Folgen mit Q."
 
 "Der Prozess gegen die Menschheit?"
+
+Faulmann drehte langsam den Kopf.
+
+Dachsbert sah demonstrativ in die andere Richtung.
 
 Liora lächelte.
 
