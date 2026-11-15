@@ -652,46 +652,7 @@ Liora hob ihre Tasse ebenfalls. Dachsbert tat es ihnen nach.
 
 Sie tranken.
 
-
-Dachsbert nahm noch einen Schluck Tee.
-
-"Zurück zu Picard und Dathon auf El-Adrel", sagte er.
-
-Faulmann lächelte.
-
-"Zwei Captains, die einander zunächst überhaupt nicht verstanden."
-
-"Bis sie etwas gemeinsam erlebten", sagte Dachsbert. "Und einer von ihnen dem anderen Feuer gab."
-
-"Und eine Sprache, die vorher niemand verstanden hatte."
-
-"Geschichten", sagte Dachsbert. "Man muss die Geschichten kennen."
-
-Liora schenkte nach. Dachsbert schob die Kanne zu Faulmann hinüber.
-
-"Und ich nehme an, du kennst auch die Sache mit Sir Patrick und Sir Ian und dem angeblichen Welpen?", fragte Faulmann.
-
-"Judi Dench", sagte Dachsbert. "Als sie einen ganzen Haushalt erfand."
-
-Liora lachte leise.
-
-Faulmann schüttelte den Kopf.
-
-Es wurde dunkel über dem Williamshügel. Auf dem Waldtisch standen drei Tassen. Die Kastanie lag noch immer dort, wo Dachsbert sie vor Faulmanns Rede in Sicherheit gebracht hatte.
-
-"Es gibt übrigens noch ziemlich viele Folgen, über die wir reden könnten", sagte Faulmann.
-
-"Das hatte ich befürchtet."
-
-"Zum Beispiel die Folgen mit Q."
-
-"Der Prozess gegen die Menschheit?"
-
-Faulmann drehte langsam den Kopf.
-
-Dachsbert sah demonstrativ in die andere Richtung.
-
-Liora lächelte.
+Es wurde dunkel über dem Williamshügel. Die Kastanie lag noch immer dort, wo Dachsbert sie in Sicherheit gebracht hatte.
 
 Der Tee war noch warm.
 
