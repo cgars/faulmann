@@ -93,7 +93,15 @@ Faulmann verzog das Gesicht.
 
 "Ein vernünftiger Mann."
 
-"Geschichte, Archäologie, Shakespeare. Und es gab ja auch klingonische Dichtung und vulkanische Philosophie zu entdecken. Und natürlich die Krimis um Dixon Hill. Auf dem Holodeck konnte er sogar selbst den Detektiv spielen. Der Computer baute ihm ein ganzes San Francisco aus den vierziger Jahren. Eine Welt aus Licht und Kraftfeldern. Picard konnte durch die Straßen gehen und die Leute befragen. Wie auf einem sehr überzeugenden Mittelaltermarkt, nur eben im San Francisco der vierziger Jahre."
+"Geschichte, Archäologie, Shakespeare. Und die Bibliotheken hörten ja an der Erde nicht auf. G'trok, ein klingonischer Dichter, gehörte sogar zur Pflichtlektüre an der Sternenflottenakademie."
+
+"Klingonische Gedichte?"
+
+"Natürlich. Und die Vulkanier hatten Dichter wie Ka'nina."
+
+"Dann hätte man im Raumschiff wenigstens genug zu lesen gehabt."
+
+"Allerdings. Picard mochte außerdem die Krimis um Dixon Hill. Auf dem Holodeck konnte er sogar selbst den Detektiv spielen. Der Computer baute ihm ein ganzes San Francisco aus den vierziger Jahren. Eine Welt aus Licht und Kraftfeldern. Picard konnte durch die Straßen gehen und die Leute befragen. Wie auf einem sehr überzeugenden Mittelaltermarkt, nur eben im San Francisco der vierziger Jahre."
 
 "Ein ungewöhnlich aufwendiger Lesezirkel. Aber gut, irgendeinen Vorteil muss es ja haben, ein Captain zu sein."
 
