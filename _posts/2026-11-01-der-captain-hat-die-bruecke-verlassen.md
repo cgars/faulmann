@@ -101,7 +101,7 @@ Faulmann verzog das Gesicht.
 
 "Dann hätte man im Raumschiff wenigstens genug zu lesen gehabt."
 
-"Allerdings. Picard mochte außerdem die Krimis um Dixon Hill. Auf dem Holodeck konnte er sogar selbst den Detektiv spielen. Der Computer baute ihm ein ganzes San Francisco aus den vierziger Jahren. Eine Welt aus Licht und Kraftfeldern. Picard konnte durch die Straßen gehen und die Leute befragen. Wie auf einem sehr überzeugenden Mittelaltermarkt, nur eben im San Francisco der vierziger Jahre."
+"Allerdings. Picard mochte außerdem die Krimis um Dixon Hill. Auf dem Holodeck konnte er sogar selbst den Detektiv spielen. Der Computer baute ihm ein ganzes San Francisco aus den vierziger Jahren. Eine Welt aus Licht und Kraftfeldern. Picard konnte durch die Straßen gehen und die Leute befragen. Wie auf einem sehr überzeugenden Mittelaltermarkt."
 
 "Ein ungewöhnlich aufwendiger Lesezirkel. Aber gut, irgendeinen Vorteil muss es ja haben, ein Captain zu sein."
 
@@ -109,7 +109,7 @@ Faulmann betrachtete die dunkler werdenden Bäume.
 
 "Das war kein Vorrecht der Captains, Dachsbert. Jeder an Bord konnte das Holodeck nutzen."
 
-"Data zum Beispiel. Ein Androide, der auf der Enterprise als Zweiter Offizier diente und den Einsatzbetrieb koordinierte. Neugierig, loyal und ziemlich bemüht, die Menschen zu verstehen."
+"Data zum Beispiel. Ein Androide auf der Enterprise. Neugierig, loyal und ziemlich bemüht, die Menschen zu verstehen."
 
 "Der hatte auch so einen aufwendigen Lesezirkel?"
 
@@ -226,8 +226,6 @@ Faulmann nahm das Telefon vom Tisch und legte es wieder hin.
 Faulmann sah auf.
 
 "Die vier Lichter."
-
-"Was?"
 
 "Ein Cardassianer namens Gul Madred hält Picard gefangen. Er foltert ihn. Vor ihm stehen vier Lichter. Vier. Aber Madred verlangt, Picard solle sagen, es seien fünf."
 
@@ -425,7 +423,7 @@ Faulmann schaute an sich herunter. Er war unbemerkt aufgestanden.
 
 "ICH SCHREIE DICH NICHT AN!", schrie Faulmann Dachsbert an.
 
-Liora wandte sich vom Waldtisch ab und ging zum Lehmofen.
+Liora wandte sich wieder dem Lehmofen zu.
 
 Es schien ihr ratsam, Wasser aufzusetzen.
 
@@ -440,8 +438,6 @@ Es schien ihr ratsam, Wasser aufzusetzen.
 Faulmann wurde ernst.
 
 "Armus."
-
-"Wer?"
 
 "Ein Wesen auf einem fremden Planeten. Eine schwarze, lebendige Masse. Es behauptete, das Böse selbst zu sein."
 
@@ -465,13 +461,13 @@ Faulmann hielt inne.
 
 "Die eigentliche Niederlage wäre, unsere Freiheit und Würde aufzugeben, statt uns seiner Grausamkeit zu widersetzen."
 
-"Und davon wurde Tasha Yar wieder lebendig?"
+"Aber Tasha Yar war trotzdem tot."
 
-"NEIN, DACHSBERT!"
+"JA, DACHSBERT!"
 
 Faulmanns Stimme hallte durch die Bäume.
 
-"Natürlich nicht! Das ist ja gerade der Punkt! Es gibt keine Garantie, dass Vernunft gewinnt. Keine Zusicherung, dass gute Menschen überleben. Keine Garantie, dass die Welt gerecht ist!"
+"Das ist ja gerade der Punkt! Es gibt keine Garantie, dass Vernunft gewinnt. Keine Zusicherung, dass gute Menschen überleben. Keine Garantie, dass die Welt gerecht ist!"
 
 Dachsbert sah ihn ruhig an.
 
@@ -599,7 +595,7 @@ Faulmann drehte den Kopf.
 
 Dachsbert zuckte mit den Schultern.
 
-Faulmann schaute ihn an. Ihm war ein Licht aufgegangen.
+Faulmann schaute ihn an.
 
 "Du kennst dieses Interview?"
 
@@ -635,12 +631,6 @@ Faulmann starrte ihn an.
 "Das wäre bedauerlich gewesen. Sie war völlig unbeteiligt."
 
 "Ich hatte den Eindruck, du möchtest von deinem Captain erzählen."
-
-"Und du kennst ihn die ganze Zeit?"
-
-"Ein wenig."
-
-"Ein wenig!"
 
 "Danke, Dachsbert. Das hat wirklich geholfen. Irgendwie habe ich das wohl gebraucht."
 
