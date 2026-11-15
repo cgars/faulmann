@@ -657,7 +657,3 @@ Es wurde dunkel über dem Williamshügel. Die Kastanie lag noch immer dort, wo D
 Der Tee war noch warm.
 
 [^ian-patrick]: Sir Ian McKellen erzählte in einem gemeinsamen öffentlichen Gespräch von seinem Coming-out. Patrick Stewart saß neben ihm. Ihre vertrauten Berührungen und das anschließende Händchenhalten wurden zum liebevollen Bild einer langjährigen Freundschaft. Die tamarianische Wendung im Text ist frei erfunden.
-
----
-
-*Quellennotiz für die Überarbeitung: Die kurzen englischen Originalzitate beziehen sich auf* Star Trek: The Next Generation *(*The Measure of a Man, The First Duty, Chain of Command II, The Drumhead, Skin of Evil, Peak Performance, Darmok*) sowie den Film* Star Trek: First Contact. *Die längeren Reden werden im Erzähltext sinngemäß wiedergegeben. Die tamarianischen Wendungen über Sir Patrick, Sir Ian und Judi Dench sind neue, frei erfundene Anspielungen - keine Dialoge aus der Serie.*
