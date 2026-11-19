@@ -13,6 +13,8 @@ teaser: "Ein Dachs widerspricht, ein Bär wird laut, und eine Füchsin setzt Tee
 
 Der Regen hatte am Nachmittag aufgehört. Auf dem Waldtisch lagen einige nasse Blätter, eine Kastanie und Faulmanns Telefon.
 
+Liora war am Lehmofen beschäftigt und hörte den beiden zu.
+
 Dachsbert betrachtete das Telefon.
 
 "Du hast die Nachricht jetzt oft genug gelesen", sagte er, Faulmann zugewandt.
