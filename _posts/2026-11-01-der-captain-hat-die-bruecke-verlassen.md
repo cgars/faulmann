@@ -13,7 +13,7 @@ teaser: "Ein Dachs widerspricht, ein Bär wird laut, und eine Füchsin setzt Tee
 
 Der Regen hatte am Nachmittag aufgehört. Auf dem Waldtisch lagen einige nasse Blätter, eine Kastanie und Faulmanns Telefon.
 
-Liora war am Lehmofen beschäftigt und hörte den beiden zu.
+Liora war ebenfalls da. Vom Lehmofen aus hörte sie den beiden zu.
 
 Dachsbert betrachtete das Telefon.
 
@@ -111,7 +111,7 @@ Faulmann betrachtete die dunkler werdenden Bäume.
 
 "Das war kein Vorrecht der Captains, Dachsbert. Jeder an Bord konnte das Holodeck nutzen."
 
-"Data zum Beispiel. Ein Androide auf der Enterprise. Neugierig, loyal und ziemlich bemüht, die Menschen zu verstehen."
+"Data zum Beispiel. Ein Androide auf der Enterprise. Neugierig und loyal."
 
 "Der hatte auch so einen aufwendigen Lesezirkel?"
 
@@ -653,6 +653,22 @@ Liora hob ihre Tasse ebenfalls. Dachsbert tat es ihnen nach.
 "Und auf Sir Patrick Stewart", ergänzte Faulmann. "Der ihn uns geschenkt hat."
 
 Sie tranken.
+
+Dachsbert nahm noch einen Schluck Tee.
+
+"Zurück zu Picard und Dathon auf El-Adrel", sagte er.
+
+Faulmann lächelte.
+
+"Zwei Captains, die einander zunächst überhaupt nicht verstanden."
+
+"Bis sie etwas gemeinsam erlebten", sagte Dachsbert. "Und einer von ihnen dem anderen Feuer gab."
+
+"Und eine Sprache, die vorher niemand verstanden hatte."
+
+"Geschichten", sagte Dachsbert. "Man muss die Geschichten kennen."
+
+Liora schenkte nach. Dachsbert schob die Kanne zu Faulmann hinüber.
 
 Es wurde dunkel über dem Williamshügel. Die Kastanie lag noch immer dort, wo Dachsbert sie in Sicherheit gebracht hatte.
 
