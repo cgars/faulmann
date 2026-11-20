@@ -55,7 +55,7 @@ Faulmann setzte sich aufrechter hin.
 
 "Mit Photonentorpedos?"
 
-"Ja, Dachsbert. Das Universum ist nicht überall so friedlich wie unser Wald. Und selbst hier begegnet man gelegentlich recht unangenehmen Zeitgenossen."
+"Das Universum ist nicht überall so friedlich wie unser Wald. Und selbst hier begegnet man gelegentlich recht unangenehmen Zeitgenossen."
 
 Dachsbert nahm das ohne Kommentar zur Kenntnis.
 
@@ -90,6 +90,14 @@ Faulmann verzog das Gesicht.
 ## Neues Leben
 
 "Man hätte aber auch einfach zu Hause bleiben und warten können, bis interessierte Zivilisationen zu Besuch kommen. In der Zwischenzeit hätte man Bücher über die schon bekannten Kulturen lesen können."
+
+"Und wenn die anderen auch zu Hause bleiben?", fragte Liora vom Lehmofen aus.
+
+Dachsbert sah zu ihr hinüber.
+
+"Dann hätten alle Zeit zum Lesen."
+
+"Ich würde trotzdem wissen wollen, wer da draußen ist", sagte Liora.
 
 "Picard hat sehr viele Bücher gelesen!"
 
@@ -283,7 +291,7 @@ Auf der Enterprise untersuchte Admiral Norah Satie in einer Folge einen Sabotage
 
 "Vielleicht gab es tatsächlich eine Gefahr."
 
-"Ja, Dachsbert! Es hatte einen wirklichen Vorfall gegeben. Darum ist die Geschichte ja so gut. Der Weg von berechtigtem Verdacht zur Paranoia ist verdammt kurz."
+"Es hatte einen wirklichen Vorfall gegeben! Darum ist die Geschichte ja so gut. Der Weg von berechtigtem Verdacht zur Paranoia ist verdammt kurz."
 
 "Und Picard redet wieder dagegen an."
 
