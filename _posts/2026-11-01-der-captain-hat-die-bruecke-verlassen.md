@@ -221,7 +221,11 @@ Faulmann nahm das Telefon vom Tisch und legte es wieder hin.
 
 "Strenge mit den eigenen Leuten. Das kann ich verstehen."
 
-"Picard sagt: 'The first duty of every Starfleet officer is to the truth.' Die wissenschaftliche Wahrheit, die historische, die persönliche. Nicht verschiedene Wahrheiten zum Aussuchen, sondern verschiedene Orte, an denen man sich vor der Wirklichkeit verantworten muss."
+"Picard sagt: 'The first duty of every Starfleet officer is to tell the truth.'"
+
+"'Is to the truth' fände ich fast noch schöner", sagte Liora.
+
+"Ja. Nicht bloß die Wahrheit sagen. Ihr verpflichtet sein. Die wissenschaftliche Wahrheit, die historische, die persönliche. Nicht verschiedene Wahrheiten zum Aussuchen, sondern verschiedene Orte, an denen man sich vor der Wirklichkeit verantworten muss."
 
 "Das klingt sehr anspruchsvoll."
 
