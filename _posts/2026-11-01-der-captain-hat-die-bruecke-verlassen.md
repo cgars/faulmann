@@ -89,7 +89,7 @@ Faulmann verzog das Gesicht.
 
 ## Neues Leben
 
-"Man hätte aber auch einfach zu Hause bleiben und warten können, bis interessierte Zivilisationen zu Besuch kommen. In der Zwischenzeit hätte man Bücher über die schon bekannten Kulturen lesen können."
+"Wenn es vor allem ums Lernen ging", sagte Dachsbert, "hätte man dafür unbedingt durchs Weltall fliegen müssen? Man hätte auch zu Hause bleiben und Bücher über die anderen Kulturen lesen können."
 
 "Picard hat sehr viele Bücher gelesen!"
 
@@ -423,7 +423,7 @@ Faulmann schaute an sich herunter. Er war unbemerkt aufgestanden.
 
 "Indem du mich anschreist?"
 
-"ICH SCHREIE DICH NICHT AN!"
+Faulmann brummte verlegen vor sich hin wie ein Bär, den man gerade beim illegalen Honigkuchenkonsum erwischt hatte.
 
 Liora wandte sich wieder dem Lehmofen zu.
 
@@ -668,7 +668,7 @@ Faulmann lächelte.
 
 "Geschichten", sagte Dachsbert. "Man muss die Geschichten kennen."
 
-Liora schenkte nach. Dachsbert schob die Kanne zu Faulmann hinüber.
+Liora schenkte nach.
 
 Es wurde dunkel über dem Williamshügel. Die Kastanie lag noch immer dort, wo Dachsbert sie in Sicherheit gebracht hatte.
 
