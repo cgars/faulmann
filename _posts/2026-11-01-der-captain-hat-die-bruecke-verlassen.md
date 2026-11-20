@@ -315,7 +315,7 @@ Faulmann musste kurz lächeln.
 
 "Und nun stand Worf auf der anderen Seite?"
 
-"Er glaubte zunächst, Satie schütze die Föderation. Picard musste ihm erklären, weshalb ihre Ermittlungen gefährlich wurden. Später sprach er noch einmal mit ihm darüber. Die offenkundig Bösen seien leicht zu erkennen. Gefährlicher seien die, die sich hinter guten Taten versteckten."
+"Er glaubte zunächst, Satie schütze die Föderation. Picard erklärte ihm, weshalb ihre Ermittlungen gefährlich wurden. Später sprach er noch einmal mit ihm darüber. Die offenkundig Bösen seien leicht zu erkennen. Gefährlicher seien die, die sich hinter guten Taten versteckten."
 
 "Dein Captain hatte offenbar ein ziemlich pessimistisches Menschenbild."
 
