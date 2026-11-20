@@ -11,7 +11,7 @@ teaser: "Ein Dachs widerspricht, ein Bär wird laut, und eine Füchsin setzt Tee
 
 ![Captain Faulmann erzählt Dachsbert und Liora am Waldtisch von Picard, während die Enterprise-D über den Sternenhimmel zieht.](/assets/img/posts/2026-11-01-der-captain-hat-die-bruecke-verlassen/cover.webp)
 
-Der Regen hatte am Nachmittag aufgehört. Auf dem Waldtisch lagen einige nasse Blätter, eine Kastanie und Faulmanns Telefon.
+Der Regen hatte am Nachmittag aufgehört. Auf dem Waldtisch lagen einige nasse Blätter, eine Kastanie und Faulmanns Telefon. Faulmann und Dachsbert saßen einander gegenüber.
 
 Liora war ebenfalls da. Vom Lehmofen aus hörte sie den beiden zu.
 
@@ -89,7 +89,7 @@ Faulmann verzog das Gesicht.
 
 ## Neues Leben
 
-"Wenn es vor allem ums Lernen ging", sagte Dachsbert, "hätte man dafür unbedingt durchs Weltall fliegen müssen? Man hätte auch zu Hause bleiben und Bücher über die anderen Kulturen lesen können."
+"Man hätte aber auch einfach zu Hause bleiben und warten können, bis interessierte Zivilisationen zu Besuch kommen. In der Zwischenzeit hätte man Bücher über die schon bekannten Kulturen lesen können."
 
 "Picard hat sehr viele Bücher gelesen!"
 
