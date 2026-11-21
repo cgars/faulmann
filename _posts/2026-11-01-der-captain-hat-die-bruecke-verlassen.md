@@ -13,8 +13,6 @@ teaser: "Ein Dachs widerspricht, ein Bär wird laut, und eine Füchsin setzt Tee
 
 Der Regen hatte am Nachmittag aufgehört. Auf dem Waldtisch lagen einige nasse Blätter, eine Kastanie und Faulmanns Telefon. Faulmann und Dachsbert saßen einander gegenüber.
 
-Liora war ebenfalls da. Vom Lehmofen aus hörte sie den beiden zu.
-
 Dachsbert betrachtete das Telefon.
 
 "Du hast die Nachricht jetzt oft genug gelesen", sagte er, Faulmann zugewandt.
@@ -91,13 +89,15 @@ Faulmann verzog das Gesicht.
 
 "Man hätte aber auch einfach zu Hause bleiben und warten können, bis interessierte Zivilisationen zu Besuch kommen. In der Zwischenzeit hätte man Bücher über die schon bekannten Kulturen lesen können."
 
-"Und wenn die anderen auch zu Hause bleiben?", fragte Liora vom Lehmofen aus.
+Liora hatte gerade ihr Fahrrad abgestellt. Mit einer kleinen, verbeulten Blechdose aus dem Korb kam sie am Tisch vorbei. Auf dem Deckel war noch eine gelbe Zitrusfrucht zwischen dunkelgrünen Blättern zu erkennen.
+
+"Und wenn die anderen auch zu Hause bleiben?", fragte Liora.
 
 Dachsbert sah zu ihr hinüber.
 
 "Dann hätten alle Zeit zum Lesen."
 
-"Ich würde trotzdem wissen wollen, wer da draußen ist", sagte Liora.
+"Ich würde trotzdem wissen wollen, wer da draußen ist", sagte Liora und ging weiter zum Lehmofen.
 
 "Picard hat sehr viele Bücher gelesen!"
 
@@ -223,9 +223,7 @@ Faulmann nahm das Telefon vom Tisch und legte es wieder hin.
 
 "Picard sagt: 'The first duty of every Starfleet officer is to tell the truth.'"
 
-Liora kam von ihrem Fahrrad zurück, eine kleine, verbeulte Blechdose in der Hand. Auf dem Deckel war noch eine gelbe Zitrusfrucht zwischen dunkelgrünen Blättern zu erkennen.
-
-"'Is to the truth' fände ich fast noch schöner", sagte sie im Vorbeigehen und ging weiter zum Lehmofen.
+"'Is to the truth' fände ich fast noch schöner", sagte Liora beiläufig vom Lehmofen aus.
 
 "Ja. Nicht bloß die Wahrheit sagen. Ihr verpflichtet sein. Die wissenschaftliche Wahrheit, die historische, die persönliche. Nicht verschiedene Wahrheiten zum Aussuchen, sondern verschiedene Orte, an denen man sich vor der Wirklichkeit verantworten muss."
 
