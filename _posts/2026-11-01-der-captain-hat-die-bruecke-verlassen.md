@@ -223,7 +223,9 @@ Faulmann nahm das Telefon vom Tisch und legte es wieder hin.
 
 "Picard sagt: 'The first duty of every Starfleet officer is to tell the truth.'"
 
-"'Is to the truth' fände ich fast noch schöner", sagte Liora.
+Liora kam von ihrem Fahrrad zurück, eine kleine, verbeulte Blechdose in der Hand. Auf dem Deckel war noch eine gelbe Zitrusfrucht zwischen dunkelgrünen Blättern zu erkennen.
+
+"'Is to the truth' fände ich fast noch schöner", sagte sie im Vorbeigehen und ging weiter zum Lehmofen.
 
 "Ja. Nicht bloß die Wahrheit sagen. Ihr verpflichtet sein. Die wissenschaftliche Wahrheit, die historische, die persönliche. Nicht verschiedene Wahrheiten zum Aussuchen, sondern verschiedene Orte, an denen man sich vor der Wirklichkeit verantworten muss."
 
