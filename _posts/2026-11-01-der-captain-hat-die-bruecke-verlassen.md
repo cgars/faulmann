@@ -223,7 +223,7 @@ Faulmann nahm das Telefon vom Tisch und legte es wieder hin.
 
 "Picard sagt: 'The first duty of every Starfleet officer is to tell the truth.'"
 
-"'Is to the truth' fände ich fast noch schöner", sagte Liora beiläufig vom Lehmofen aus.
+"'Is to the truth' fände ich fast noch schöner", sagte Liora beiläufig vom Lehmofen aus. Offenbar hatte sie genauer zugehört, als Faulmann angenommen hatte.
 
 "Ja. Nicht bloß die Wahrheit sagen. Ihr verpflichtet sein. Die wissenschaftliche Wahrheit, die historische, die persönliche. Nicht verschiedene Wahrheiten zum Aussuchen, sondern verschiedene Orte, an denen man sich vor der Wirklichkeit verantworten muss."
 
@@ -295,7 +295,7 @@ Auf der Enterprise untersuchte Admiral Norah Satie in einer Folge einen Sabotage
 
 "Vielleicht gab es tatsächlich eine Gefahr."
 
-"Es hatte einen wirklichen Vorfall gegeben! Darum ist die Geschichte ja so gut. Der Weg von berechtigtem Verdacht zur Paranoia ist verdammt kurz."
+"Eben. Es hatte einen wirklichen Vorfall gegeben. Darum ist die Geschichte ja so gut. Der Weg von berechtigtem Verdacht zur Paranoia ist verdammt kurz."
 
 "Und Picard redet wieder dagegen an."
 
