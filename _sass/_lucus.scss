@@ -24,6 +24,8 @@ body:has(.lucus) .page-content > .wrapper { width: 96%; max-width: 1180px; }
 .lucus__hero img { display:block;width:100%;height:auto;filter:grayscale(100%) sepia(25%); }
 .lucus__hero figcaption { margin-top:.3rem;color:#5b5549;font-size:.75rem; }
 .lucus__body { font-size:1.055rem;line-height:1.57; }
+/* Brief notes retain newspaper typography, without forcing an empty spread. */
+.lucus--short .lucus__body { max-width:60ch; }
 .lucus__body p { margin:0 0 1em; }
 .lucus__body > p:first-of-type::first-letter { float:left;font-size:3.5em;line-height:.8;padding:.07em .09em 0 0; }
 .lucus__body h2 { font-size:1.4rem;margin:1.6rem 0 .6rem; }
