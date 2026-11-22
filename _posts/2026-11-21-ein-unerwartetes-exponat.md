@@ -12,7 +12,7 @@ teaser: "Drei Samosas, ein sehr kleines Krabbenbrötchen und ein unerwarteter Fu
 
 Captain Faulmann hatte beschlossen, den Samstag mit Schreiben zu verbringen. Die Bahn brachte ihn zum Neumarkt, wo zunächst ein kurzer Zwischenstopp bei SinghsMart erforderlich war. Der indische Lebensmittelladen bot auch Streetfood an, zum Mitnehmen oder gleich dort Essen. Faulmann wollte ein oder zwei Samosas. Es wurden drei.
 
-Dann ließ die KVB mehrere Bahnen ausfallen. So blieb Zeit, kurz auf den Weihnachtsmarkt zu schauen, den er eigentlich nur hatte streifen wollen. Dort fand sich ein bemerkenswert kleines Krabbenbrötchen, das angesichts seiner überschaubaren Größe kaum als zusätzliche Mahlzeit gelten konnte. Dass es überhaupt dazu kam, lag streng genommen an der KVB.
+Dann ließ die KVB mehrere Bahnen ausfallen. So blieb Zeit, kurz auf den Weihnachtsmarkt zu schauen, den er eigentlich nur hatte streifen wollen. Dort fand sich ein bemerkenswert kleines Krabbenbrötchen, das angesichts seiner überschaubaren Größe kaum als zusätzliche Mahlzeit gelten konnte. Dass es überhaupt dazu kam, lag streng genommen an der KVB. Et kütt wie et kütt, dachte Faulmann. Nur die Bahn kam nicht.
 
 <!--more-->
 
@@ -39,7 +39,7 @@ Offenbar hat die Stadt Köln beschlossen, den Denkmalschutz auf eine bislang wen
 
 Faulmann betrachtete das Gebilde noch einmal. Drinnen sammelte man seit Jahrzehnten Kunstwerke aus Ostasien. Draußen hatten die Asiatischen Hornissen ihre eigene Vorstellung von Form und Funktion verwirklicht. Ohne Ausstellungskonzept, Katalog oder öffentliche Förderung hatten sie einen Beitrag zur Sammlung geleistet.
 
-Ein gelungener Neuerwerb, fand Faulmann. Das Kuratorenteam musste nur noch davon erfahren.
+Ein gelungener Neuerwerb, fand Faulmann. Das Kuratorenteam musste von seinem neuen Exponat nur noch hinreichend Kenntnis nehmen.
 
 Am Abend würde er mit Keira ins Kino gehen, zu einem Film über Wolf Biermann. Bis dahin wollte er eigentlich schreiben.
 
