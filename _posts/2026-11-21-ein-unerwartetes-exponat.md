@@ -35,7 +35,7 @@ Offenbar hatte sich dort eine kleine Gesellschaft niedergelassen, die wenig Inte
 
 Noch am selben Tag fand sich sogar ein Zeitungsartikel über genau dieses Nest. Die Stadt Köln war informiert und hatte entschieden, es vorerst hängen zu lassen.
 
-Und offenbar ist die Stadt Köln inzwischen auch für den Denkmalschutz zuständig. Zumindest lässt sie das Bauwerk stehen. Womöglich wollte man aber auch keinen diplomatischen Zwischenfall mit der örtlichen Monarchie riskieren.
+Offenbar hat die Stadt Köln beschlossen, den Denkmalschutz auf eine bislang wenig beachtete Form der Architektur auszuweiten. Zumindest lässt sie das Bauwerk einstweilen stehen. Vielleicht scheut man aber auch einen diplomatischen Zwischenfall mit der dort herrschenden Königin.
 
 Faulmann betrachtete das Gebilde noch einmal. Drinnen sammelte man seit Jahrzehnten Kunstwerke aus Ostasien. Draußen hatten die Asiatischen Hornissen ihre eigene Vorstellung von Form und Funktion verwirklicht. Ohne Ausstellungskonzept, Katalog oder öffentliche Förderung hatten sie einen Beitrag zur Sammlung geleistet.
 
