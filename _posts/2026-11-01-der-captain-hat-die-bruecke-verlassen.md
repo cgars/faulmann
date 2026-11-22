@@ -11,6 +11,10 @@ teaser: "Ein Dachs widerspricht, ein Bär wird laut, und eine Füchsin setzt Tee
 
 ![Captain Faulmann erzählt Dachsbert und Liora am Waldtisch von Picard, während die Enterprise-D über den Sternenhimmel zieht.](/assets/img/posts/2026-11-01-der-captain-hat-die-bruecke-verlassen/cover.webp)
 
+**Auch als Hörfassung:** [Auf Spotify anhören](https://open.spotify.com/episode/2rhckeJeD1seWqJHVJZgSX).
+
+<iframe data-testid="embed-iframe" title="Der Captain hat die Brücke verlassen - Hörfassung auf Spotify" style="border-radius:12px" src="https://open.spotify.com/embed/episode/2rhckeJeD1seWqJHVJZgSX" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
 Der Regen hatte am Nachmittag aufgehört. Auf dem Waldtisch lagen einige nasse Blätter, eine Kastanie und Faulmanns Telefon. Faulmann und Dachsbert saßen einander gegenüber.
 
 Dachsbert betrachtete das Telefon.
