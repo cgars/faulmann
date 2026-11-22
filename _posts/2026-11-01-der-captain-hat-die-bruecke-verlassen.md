@@ -2,8 +2,8 @@
 layout: post
 title: "Der Captain hat die Brücke verlassen"
 subtitle: "Ein Captain erzählt von einem anderen"
-date: 2026-11-01
-published: false
+date: 2026-11-22
+published: true
 categories: [faulmann, faulwald, fabel, erinnerung]
 tags: [patrick-stewart, jean-luc-picard, star-trek, tng, dachsbert, liora, nachruf]
 teaser: "Ein Dachs widerspricht, ein Bär wird laut, und eine Füchsin setzt Tee auf. Am Waldtisch wird von einem anderen Captain erzählt."
