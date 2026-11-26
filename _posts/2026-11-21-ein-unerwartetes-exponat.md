@@ -45,4 +45,4 @@ Am Abend würde er mit Keira ins Kino gehen, zu einem Film über Wolf Biermann. 
 
 Er öffnete sein Dokument, nahm einen Schluck Kaffee und schaute noch einmal durch die Scheibe.
 
-Die Hornissenstadt kollabierte jeden Herbst. Es blieb zu hoffen, dass sie kein Vorbild würde.
+Der Hornissenstaat kollabierte jeden Herbst. Es blieb zu hoffen, dass er kein Vorbild würde.
