@@ -20,7 +20,7 @@ Danach ging es weiter zum Museum für Ostasiatische Kunst, das Faulmann seit dem
 
 Faulmann blickte eine Weile müßig umher. Für ihn gehörte das zum Schreiben. Jedenfalls hatte er noch keinen Gegenbeweis gefunden.
 
-Dann fiel ihm etwas in einem Baum auf.
+Dann fiel ihm etwas in einem Baum auf. Der Herbst hatte die meisten Blätter aus den Zweigen geholt. Was im Sommer leicht zu übersehen gewesen wäre, lag nun offen.
 
 Jenseits des Gartens, nahe dem Museumsgebäude, hing eine gewaltige, graubraune Kugel. Vielleicht achtzig bis hundert Zentimeter groß, mit einer Oberfläche, die an getrockneten Lehm oder Löschpapier erinnerte. Faulmann betrachtete sie eine Weile, fotografierte sie und begann zu rätseln.
 
@@ -33,9 +33,9 @@ Das Biologisieren hatte man schließlich einmal gelernt. Eine kurze Recherche er
 
 Offenbar hatte sich dort eine kleine Gesellschaft niedergelassen, die wenig Interesse an musealer Vermittlung zeigte, dafür aber bemerkenswerte architektonische Fähigkeiten besaß.
 
-Noch am selben Tag fand sich sogar ein Zeitungsartikel über genau dieses Nest. Die Stadt Köln war informiert und hatte entschieden, es vorerst hängen zu lassen.
+Noch am selben Tag fand sich sogar ein Zeitungsartikel über genau dieses Nest. Die zuständigen Stellen wussten Bescheid. Das Nest sollte vorerst bleiben.
 
-Offenbar hat die Stadt Köln beschlossen, den Denkmalschutz auf eine bislang wenig beachtete Form der Architektur auszuweiten. Zumindest lässt sie das Bauwerk einstweilen stehen. Vielleicht scheut man aber auch einen diplomatischen Zwischenfall mit der dort herrschenden Königin.
+Offenbar hatte die Stadt Köln beschlossen, den Denkmalschutz auf eine bislang wenig beachtete Form der Architektur auszuweiten. Zumindest lässt sie das Bauwerk einstweilen stehen. Vielleicht scheut man aber auch einen diplomatischen Zwischenfall mit der dort herrschenden Königin.
 
 Faulmann betrachtete das Gebilde noch einmal. Drinnen sammelte man seit Jahrzehnten Kunstwerke aus Ostasien. Draußen hatten die Asiatischen Hornissen ihre eigene Vorstellung von Form und Funktion verwirklicht. Ohne Ausstellungskonzept, Katalog oder öffentliche Förderung hatten sie einen Beitrag zur Sammlung geleistet.
 
@@ -45,4 +45,4 @@ Am Abend würde er mit Keira ins Kino gehen, zu einem Film über Wolf Biermann. 
 
 Er öffnete sein Dokument, nahm einen Schluck Kaffee und schaute noch einmal durch die Scheibe.
 
-Die Hornissen hatten ihre Arbeit für dieses Jahr offenbar weitgehend erledigt.
+Die Hornissenstadt kollabierte jeden Herbst. Es blieb zu hoffen, dass sie kein Vorbild würde.
