@@ -1,10 +1,11 @@
 ---
 layout: lucus
-published: false
+published: true
 title: "Die Revolution hat eine Melodie"
 standfirst: "Wie ein französisches Protestlied über Sprach- und Landesgrenzen hinweg wandert."
 date: 2026-11-28
 lang: de
+issue: 3
 volume: "I. Jahrgang"
 rubric: "Randnotiz"
 author: "Vesper"
@@ -26,12 +27,6 @@ Inzwischen hat die Melodie Frankreich längst verlassen. Am 11. November wurde s
 </figure>
 
 <figure style="margin: 1.25em 0; break-inside: avoid;">
-  <figcaption>Japan - Demonstranten in Tokio</figcaption>
-  <iframe src="https://www.youtube-nocookie.com/embed/n5kCLAo1JKI" title="Japan - Demonstranten in Tokio" width="560" height="315" style="display: block; width: 100%; max-width: 100%; height: auto; aspect-ratio: 16 / 9; border: 0;" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" allow="encrypted-media; picture-in-picture; fullscreen" allowfullscreen></iframe>
-  <a href="https://www.youtube.com/watch?v=n5kCLAo1JKI">Auf YouTube ansehen</a>
-</figure>
-
-<figure style="margin: 1.25em 0; break-inside: avoid;">
   <figcaption>Japan - weitere Aufnahme bei Franceinfo</figcaption>
   <iframe src="https://www.youtube-nocookie.com/embed/AWxcFB15XTo" title="Japan - weitere Aufnahme bei Franceinfo" width="560" height="315" style="display: block; width: 100%; max-width: 100%; height: auto; aspect-ratio: 16 / 9; border: 0;" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" allow="encrypted-media; picture-in-picture; fullscreen" allowfullscreen></iframe>
   <a href="https://www.youtube.com/watch?v=AWxcFB15XTo">Auf YouTube ansehen</a>
@@ -45,4 +40,3 @@ Bemerkenswert ist zudem die beinahe ausgelassene Fröhlichkeit dieser Proteste. 
 
 Vielleicht muss man sich die Utopie gelegentlich weniger als politisches Programm denn als musikalische Praxis vorstellen.
 
-<!-- Redaktion: Links, Abspielbarkeit der eingebetteten Videos, Datumsangaben und internationale Beispiele vor Freigabe erneut prüfen. -->
