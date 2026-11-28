@@ -15,7 +15,7 @@ Während man sich andernorts noch fragt, wer die zunehmend grenzüberschreitende
 
 Das Orchestre du Nouveau Monde begleitet die französischen Proteste. Seine gegenwärtige Hymne: "J'ai deux passions, la fanfare et la révolution" - ich habe zwei Leidenschaften, die Blaskapelle und die Revolution. Die Melodie entstammt ausgerechnet dem Schlager "Speedy Gonzales", der Anfang der sechziger Jahre durch Pat Boone bekannt wurde.
 
-Der [Zündfunk auf Bayern 2](https://www.br.de/radio/bayern2/sendungen/zuendfunk/orchester-proteste-frankreich-musik-passion-revolution-100.html) widmete dem Phänomen einen ausgesprochen lesens- und hörenswerten Beitrag.
+Kim Fischer widmete dem Phänomen im [Zündfunk auf Bayern 2](https://www.br.de/radio/bayern2/sendungen/zuendfunk/orchester-proteste-frankreich-musik-passion-revolution-100.html) einen ausgesprochen lesens- und hörenswerten Beitrag.
 
 Inzwischen hat die Melodie Frankreich längst verlassen. Am 11. November wurde sie von Streikenden im spanischen Saragossa mit abgewandeltem Text gesungen. Auch in Genf und Berlin wurde sie aufgegriffen. Am 19. November erklang sie schließlich vor dem japanischen Parlament in Tokio - auf Japanisch, bei Protesten gegen die Aufrüstungspolitik der dortigen Regierung.
 
