@@ -10,6 +10,9 @@ volume: "I. Jahrgang"
 rubric: "Randnotiz"
 author: "Vesper"
 format: short
+notices:
+  - title: "Eine Melodie auf Wanderschaft"
+    text: "Aus einem amerikanischen Popsong der sechziger Jahre wird ein französisches Protestlied, aus einem französischen Protestlied ein japanisches. Melodien scheinen sich um nationale Grenzen noch weniger zu scheren als Zugvögel."
 ---
 
 Während man sich andernorts noch fragt, wer die zunehmend grenzüberschreitenden Protestbewegungen eigentlich organisiert, hat man in Frankreich offenbar schon damit begonnen, sie zu orchestrieren.
