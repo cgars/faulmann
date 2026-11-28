@@ -19,10 +19,25 @@ Der [Zündfunk auf Bayern 2](https://www.br.de/radio/bayern2/sendungen/zuendfunk
 
 Inzwischen hat die Melodie Frankreich längst verlassen. Am 11. November wurde sie von Streikenden im spanischen Saragossa mit abgewandeltem Text gesungen. Auch in Genf und Berlin wurde sie aufgegriffen. Am 19. November erklang sie schließlich vor dem japanischen Parlament in Tokio - auf Japanisch, bei Protesten gegen die Aufrüstungspolitik der dortigen Regierung.
 
-- [Frankreich - musikalische Aufnahme](https://www.youtube.com/watch?v=m39WDJJoEcQ)
-- [Japan - Demonstranten in Tokio](https://www.youtube.com/watch?v=n5kCLAo1JKI)
-- [Japan - weitere Aufnahme bei Franceinfo](https://www.youtube.com/watch?v=AWxcFB15XTo)
-- [Von Frankreich in die Welt - die internationale Verbreitung, TF1](https://www.tf1info.fr/international/colere-sociale-geneve-tokyo-berlin-l-hymne-militant-j-ai-deux-passions-la-fanfare-la-revolution-s-exporte-hors-de-france-2477338.html)
+<figure style="margin: 1.25em 0; break-inside: avoid;">
+  <figcaption>Frankreich - musikalische Aufnahme</figcaption>
+  <iframe src="https://www.youtube-nocookie.com/embed/m39WDJJoEcQ" title="Frankreich - musikalische Aufnahme" width="560" height="315" style="display: block; width: 100%; max-width: 100%; height: auto; aspect-ratio: 16 / 9; border: 0;" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" allow="encrypted-media; picture-in-picture; fullscreen" allowfullscreen></iframe>
+  <a href="https://www.youtube.com/watch?v=m39WDJJoEcQ">Auf YouTube ansehen</a>
+</figure>
+
+<figure style="margin: 1.25em 0; break-inside: avoid;">
+  <figcaption>Japan - Demonstranten in Tokio</figcaption>
+  <iframe src="https://www.youtube-nocookie.com/embed/n5kCLAo1JKI" title="Japan - Demonstranten in Tokio" width="560" height="315" style="display: block; width: 100%; max-width: 100%; height: auto; aspect-ratio: 16 / 9; border: 0;" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" allow="encrypted-media; picture-in-picture; fullscreen" allowfullscreen></iframe>
+  <a href="https://www.youtube.com/watch?v=n5kCLAo1JKI">Auf YouTube ansehen</a>
+</figure>
+
+<figure style="margin: 1.25em 0; break-inside: avoid;">
+  <figcaption>Japan - weitere Aufnahme bei Franceinfo</figcaption>
+  <iframe src="https://www.youtube-nocookie.com/embed/AWxcFB15XTo" title="Japan - weitere Aufnahme bei Franceinfo" width="560" height="315" style="display: block; width: 100%; max-width: 100%; height: auto; aspect-ratio: 16 / 9; border: 0;" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" allow="encrypted-media; picture-in-picture; fullscreen" allowfullscreen></iframe>
+  <a href="https://www.youtube.com/watch?v=AWxcFB15XTo">Auf YouTube ansehen</a>
+</figure>
+
+[Von Frankreich in die Welt - die internationale Verbreitung, TF1](https://www.tf1info.fr/international/colere-sociale-geneve-tokyo-berlin-l-hymne-militant-j-ai-deux-passions-la-fanfare-la-revolution-s-exporte-hors-de-france-2477338.html)
 
 Interessant ist dabei weniger die Musik als Ausdruck einer bereits bestehenden politischen Gemeinschaft, sondern vielmehr ihre Fähigkeit, eine solche überhaupt erst entstehen zu lassen. Die Melodie wandert, wird übersetzt, verändert und den jeweiligen lokalen Anliegen angepasst. Sie bleibt dabei wiedererkennbar. Einer zentralen Koordination scheint es dafür nicht zu bedürfen.
 
@@ -30,4 +45,4 @@ Bemerkenswert ist zudem die beinahe ausgelassene Fröhlichkeit dieser Proteste. 
 
 Vielleicht muss man sich die Utopie gelegentlich weniger als politisches Programm denn als musikalische Praxis vorstellen.
 
-<!-- Redaktion: Links, Datumsangaben und internationale Beispiele vor Freigabe erneut prüfen. -->
+<!-- Redaktion: Links, Abspielbarkeit der eingebetteten Videos, Datumsangaben und internationale Beispiele vor Freigabe erneut prüfen. -->
